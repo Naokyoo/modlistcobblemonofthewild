@@ -16,6 +16,12 @@
         "forceOverwrite": true
     },
     {
+        "name": "Configuration Iris (Shaders par défaut)",
+        "path": "config/iris.properties",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/config/iris.properties",
+        "forceOverwrite": true
+    },
+    {
         "name": "Shader Pack - Complementary Unbound",
         "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
         "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/shaderpacks/ComplementaryUnbound_r5.6.1.zip"
