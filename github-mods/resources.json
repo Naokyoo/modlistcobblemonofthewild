@@ -12,6 +12,7 @@
     {
         "name": "Configuration FancyMenu (cache popup bienvenue)",
         "path": "config/fancymenu/options.txt",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/config/fancymenu/options.txt"
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/config/fancymenu/options.txt",
+        "forceOverwrite": true
     }
 ]
