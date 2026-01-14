@@ -2,28 +2,28 @@
     {
         "name": "Splash texts personnalisés",
         "path": "resourcepacks/cobblemon_launcher/assets/minecraft/texts/splashes.txt",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/resourcepacks/cobblemon_launcher/assets/minecraft/texts/splashes.txt"
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/resourcepacks/cobblemon_launcher/assets/minecraft/texts/splashes.txt"
     },
     {
         "name": "Pack metadata",
         "path": "resourcepacks/cobblemon_launcher/pack.mcmeta",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/resourcepacks/cobblemon_launcher/pack.mcmeta"
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/resourcepacks/cobblemon_launcher/pack.mcmeta"
     },
     {
         "name": "Configuration FancyMenu (cache popup bienvenue)",
         "path": "config/fancymenu/options.txt",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/config/fancymenu/options.txt",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/config/fancymenu/options.txt",
         "forceOverwrite": true
     },
     {
         "name": "Configuration Iris (Shaders par défaut)",
         "path": "config/iris.properties",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/config/iris.properties",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/config/iris.properties",
         "forceOverwrite": true
     },
     {
         "name": "Shader Pack - Complementary Unbound",
         "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/shaderpacks/ComplementaryUnbound_r5.6.1.zip"
     }
 ]
