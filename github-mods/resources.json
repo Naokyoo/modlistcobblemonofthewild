@@ -1,7 +1,12 @@
 [
     {
         "name": "Splash texts personnalisés",
-        "path": "resourcepacks/temp_cobbleverse/assets/minecraft/texts/splashes.txt",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/resourcepacks/temp_cobbleverse/assets/minecraft/texts/splashes.txt"
+        "path": "resourcepacks/cobblemon_launcher/assets/minecraft/texts/splashes.txt",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/resourcepacks/cobblemon_launcher/assets/minecraft/texts/splashes.txt"
+    },
+    {
+        "name": "Pack metadata",
+        "path": "resourcepacks/cobblemon_launcher/pack.mcmeta",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/resourcepacks/cobblemon_launcher/pack.mcmeta"
     }
 ]
