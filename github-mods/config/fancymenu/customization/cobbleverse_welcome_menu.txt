@@ -1,0 +1,99 @@
+type = menu
+
+customization-meta-v2 {
+  uuid = cobbleverse-welcome-menu
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  customization-id = 1
+}
+
+customization {
+  keepaspectratio = false
+  action = addtext
+  actionid = 1
+  x = 0
+  y = 60
+  width = -1
+  height = -1
+  text = §6§lBIENVENUE SUR COBBLEMON OF THE WILD
+  orientation = original
+  alignment = centered
+  scale = 2.0
+  shadow = true
+  sourcex = 0
+  sourcey = 0
+  loopbackgroundanimations = false
+}
+
+customization {
+  keepaspectratio = false
+  action = addtext
+  actionid = 2
+  x = 0
+  y = 120
+  width = -1
+  height = -1
+  text = §cMerci d'utiliser notre launcher !
+  orientation = original
+  alignment = centered
+  scale = 1.0
+  shadow = true
+  sourcex = 0
+  sourcey = 0
+  loopbackgroundanimations = false
+}
+
+customization {
+  keepaspectratio = false
+  action = addtext
+  actionid = 3
+  x = 0
+  y = 150
+  width = -1
+  height = -1
+  text = §fAmusez-vous à explorer le monde Pokémon !
+  orientation = original
+  alignment = centered
+  scale = 1.0
+  shadow = true
+  sourcex = 0
+  sourcey = 0
+  loopbackgroundanimations = false
+}
+
+customization {
+  keepaspectratio = false
+  action = addtext
+  actionid = 4
+  x = 0
+  y = 270
+  width = -1
+  height = -1
+  text = §eConsultez les dernières mises à jour et modifications
+  orientation = original
+  alignment = centered
+  scale = 0.8
+  shadow = true
+  sourcex = 0
+  sourcey = 0
+  loopbackgroundanimations = false
+}
+
+customization {
+  keepaspectratio = false
+  action = addtext
+  actionid = 5
+  x = 0
+  y = 320
+  width = -1
+  height = -1
+  text = §aSignalez vos retours et bugs sur notre Discord
+  orientation = original
+  alignment = centered
+  scale = 0.8
+  shadow = true
+  sourcex = 0
+  sourcey = 0
+  loopbackgroundanimations = false
+}
