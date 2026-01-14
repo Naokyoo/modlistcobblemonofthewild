@@ -1,10 +1,5 @@
 [
     {
-        "name": "Menu de bienvenue FancyMenu",
-        "path": "config/fancymenu/customization/cobbleverse_welcome_menu.txt",
-        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/config/fancymenu/customization/cobbleverse_welcome_menu.txt"
-    },
-    {
         "name": "Splash texts personnalisés",
         "path": "resourcepacks/temp_cobbleverse/assets/minecraft/texts/splashes.txt",
         "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/resourcepacks/temp_cobbleverse/assets/minecraft/texts/splashes.txt"
