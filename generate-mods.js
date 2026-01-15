@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-const modsDir = 'C:/Users/benbe/AppData/Roaming/CobblemonOfTheWild/minecraft/mods';
+const modsDir = path.join(__dirname, 'mods-source');
 const githubDir = __dirname;
 const githubModsDir = path.join(githubDir, 'mods');
 const baseUrl = 'https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/';

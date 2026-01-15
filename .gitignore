@@ -90,3 +90,6 @@ typings/
 
 # Electron-Forge
 out/
+
+# Mod Source Folder (Full Jars)
+mods-source/
