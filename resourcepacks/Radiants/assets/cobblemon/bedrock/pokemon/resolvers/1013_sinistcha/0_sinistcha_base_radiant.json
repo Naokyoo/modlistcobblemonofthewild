@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sinistcha",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sinistcha",
+      "model": "cobblemon:sinistcha_unremarkable.geo",
+      "texture": "cobblemon:textures/pokemon/1013_sinistcha/sinistcha_radiant.png",
+      "layers": []
+    }
+  ]
+}

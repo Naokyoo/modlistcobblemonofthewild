@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:shiftry",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:shiftry",
+      "model": "cobblemon:shiftry_male.geo",
+      "texture": "cobblemon:textures/pokemon/0275_shiftry/shiftry_radiant.png",
+      "layers": []
+    }
+  ]
+}

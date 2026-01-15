@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:zubat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:zubat",
+      "model": "cobblemon:zubat_male.geo",
+      "texture": "cobblemon:textures/pokemon/0041_zubat/zubat_radiant.png",
+      "layers": []
+    }
+  ]
+}

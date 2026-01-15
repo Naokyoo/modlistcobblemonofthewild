@@ -1,0 +1,113 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t2",
+					"weight": 9
+        },
+				{
+          "type": "loot_table",
+          "value": "academy:basic/t3",
+					"weight": 3
+        },
+				{
+          "type": "loot_table",
+          "value": "academy:basic/t4",
+					"weight": 1
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:water"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:rabbit_foot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:fermented_spider_eye"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:glowstone_dust"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:sugar"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:redstone"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:spider_eye"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:glass_bottle"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:gunpowder"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:stick"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:brown_mushroom"
+        },
+		{
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:red_mushroom"
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:reference",
+      "name": "nova_structures:loot_modifier"
+    }
+  ]
+}

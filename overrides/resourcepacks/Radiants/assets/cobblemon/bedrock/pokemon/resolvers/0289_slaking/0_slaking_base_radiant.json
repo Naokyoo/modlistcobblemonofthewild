@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:slaking",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:slaking",
+      "model": "cobblemon:slaking.geo",
+      "texture": "cobblemon:textures/pokemon/0289_slaking/slaking_radiant.png",
+      "layers": []
+    }
+  ]
+}

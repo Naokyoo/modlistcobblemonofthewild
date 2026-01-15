@@ -1,0 +1,39 @@
+{
+  "equipment": {
+    "MAINHAND": {
+      "id": "academy:acceptance_letter",
+      "nbt": {},
+      "count": 1
+    },
+    "OFFHAND": {
+      "id": "air",
+      "nbt": {},
+      "count": 0
+    },
+    "FEET": {
+      "id": "air",
+      "nbt": {},
+      "count": 0
+    },
+    "LEGS": {
+      "id": "air",
+      "nbt": {},
+      "count": 0
+    },
+    "CHEST": {
+      "id": "air",
+      "nbt": {},
+      "count": 0
+    },
+    "HEAD": {
+      "id": "air",
+      "nbt": {},
+      "count": 0
+    },
+    "BODY": {
+      "id": "air",
+      "nbt": {},
+      "count": 0
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:floatzel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:floatzel",
+      "model": "cobblemon:floatzel_male.geo",
+      "texture": "cobblemon:textures/pokemon/0419_floatzel/floatzel_radiant.png",
+      "layers": []
+    }
+  ]
+}

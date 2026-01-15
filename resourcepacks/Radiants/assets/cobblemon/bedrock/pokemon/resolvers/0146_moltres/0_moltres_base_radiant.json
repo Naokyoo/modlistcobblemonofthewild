@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:moltres",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:moltres",
+      "model": "cobblemon:moltres.geo",
+      "texture": "cobblemon:textures/pokemon/0146_moltres/moltres_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0146_moltres/moltres_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

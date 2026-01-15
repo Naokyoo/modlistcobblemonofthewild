@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:abra",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:abra",
+      "model": "cobblemon:abra.geo",
+      "texture": "cobblemon:textures/pokemon/0063_abra/abra_radiant.png",
+      "layers": []
+    }
+  ]
+}

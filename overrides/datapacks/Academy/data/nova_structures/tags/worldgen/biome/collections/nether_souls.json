@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_sand_valley",
+	  {
+      "id": "regions_unexplored:blackstone_basin",
+      "required": false
+    }
+  ]
+}

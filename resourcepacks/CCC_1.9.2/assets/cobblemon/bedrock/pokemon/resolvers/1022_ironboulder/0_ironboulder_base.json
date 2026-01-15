@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:ironboulder",
+  "order": 0,
+  "variations": [
+    {
+      "poser": "cobblemon:ironboulder",
+      "model": "cobblemon:ironboulder.geo",
+      "texture": "cobblemon:textures/pokemon/1022_ironboulder/ironboulder.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1022_ironboulder/ironboulder_shiny.png"
+    }
+  ]
+}

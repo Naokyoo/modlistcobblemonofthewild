@@ -1,0 +1,146 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/candy_t3",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 3.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/pokeballsancient_t1",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 3.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/tumblestones",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 3.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evostones",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 10.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:academy/booster_pack",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 1023.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:gimmicks/mythicals_legendaries",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 10000.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:gimmicks/megastones",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 10000.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+      }
+    }
+  ],
+  "rolls": 1.0
+}

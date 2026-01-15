@@ -1,0 +1,141 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:exp_candy_s",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:exp_candy_s",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 2.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:rare_candy",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evostones",
+          "weight": 6.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evosweets",
+          "weight": 1.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evoitems",
+          "weight": 2.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evfeathers",
+          "weight": 2.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/vitamins",
+          "weight": 2.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/xitems",
+          "weight": 2.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/medicine",
+          "weight": 2.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/helditems",
+          "weight": 2.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/gems",
+          "weight": 4.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/fossils",
+          "weight": 1.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+      }
+    }
+  ],
+  "rolls": 1.0
+}

@@ -1,0 +1,49 @@
+{
+  "species": "cobblemon:ceruledge",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:ceruledge",
+      "model": "cobblemon:ceruledge.geo",
+      "texture": {
+        "frames": [
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_1_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_2_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_3_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_4_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_5_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_6_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_7_radiant.png",
+          "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_8_radiant.png"
+        ],
+        "fps": 8,
+        "loop": true
+      },
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_1_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_2_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_3_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_4_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_5_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_6_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_7_radiant.png",
+              "cobblemon:textures/pokemon/0937_ceruledge/ceruledge_emissive_8_radiant.png"
+            ],
+            "fps": 8,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

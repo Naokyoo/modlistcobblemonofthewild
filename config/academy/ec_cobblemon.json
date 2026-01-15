@@ -1,0 +1,12 @@
+{
+  "blueMoonShinyMultiplier": 10.0,
+  "bloodMoonIVsMultiplier": 2.0,
+  "harvestMoonExpShareMultiplier": 4.0,
+  "auroraMoonRarePokemonSpawnMultiplier": 4.0,
+  "superBlueMoonShinyMultiplier": 16.0,
+  "superBloodMoonIVsMultiplier": 3.0,
+  "superHarvestMoonExpShareMultiplier": 6.0,
+  "superAuroraMoonRarePokemonSpawnMultiplier": 6.0,
+  "forecastDayView": 10,
+  "hologramSwitchTime": 100
+}

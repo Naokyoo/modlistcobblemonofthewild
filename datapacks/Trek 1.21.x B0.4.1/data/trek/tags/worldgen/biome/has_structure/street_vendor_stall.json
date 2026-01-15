@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#trek:is_desert",
+    "#trek:plains/is_plains",
+    "#trek:slopes/is_slopes_no_snow",
+    "#trek:forest/spruce/is_normal_taiga"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:carvanha",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:carvanha",
+      "model": "cobblemon:carvanha.geo",
+      "texture": "cobblemon:textures/pokemon/0318_carvanha/carvanha_radiant.png",
+      "layers": []
+    }
+  ]
+}

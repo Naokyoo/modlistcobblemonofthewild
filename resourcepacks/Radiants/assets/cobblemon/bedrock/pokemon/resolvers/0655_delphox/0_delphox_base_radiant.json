@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:delphox",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:delphox",
+      "model": "cobblemon:delphox.geo",
+      "texture": "cobblemon:textures/pokemon/0655_delphox/delphox_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0655_delphox/delphox_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

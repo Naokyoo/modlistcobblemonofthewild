@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:binacle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:binacle",
+      "model": "cobblemon:binacle.geo",
+      "texture": "cobblemon:textures/pokemon/0688_binacle/binacle_radiant.png",
+      "layers": []
+    }
+  ]
+}

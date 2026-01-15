@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:druddigon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:druddigon",
+      "model": "cobblemon:druddigon.geo",
+      "texture": "cobblemon:textures/pokemon/0621_druddigon/druddigon_radiant.png"
+    }
+  ]
+}

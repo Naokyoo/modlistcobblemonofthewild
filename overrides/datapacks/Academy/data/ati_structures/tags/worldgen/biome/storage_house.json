@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "#cobblemon:is_forest",
+        "#cobblemon:is_jungle",
+        "#has_structure/village_plains",
+        "#has_structure/village_savanna",
+        "#has_structure/village_snowy",
+        "#has_structure/village_taiga"
+    ]
+}

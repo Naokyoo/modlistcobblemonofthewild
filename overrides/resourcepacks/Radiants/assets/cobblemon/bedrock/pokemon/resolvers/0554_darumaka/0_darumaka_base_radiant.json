@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:darumaka",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:darumaka",
+      "model": "cobblemon:darumaka.geo",
+      "texture": "cobblemon:textures/pokemon/0554_darumaka/darumaka_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:delibird",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:delibird",
+      "model": "cobblemon:delibird.geo",
+      "texture": "cobblemon:textures/pokemon/0225_delibird/delibird_radiant.png",
+      "layers": []
+    }
+  ]
+}

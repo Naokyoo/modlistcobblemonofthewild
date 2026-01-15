@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:roselia",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:roselia",
+      "model": "cobblemon:roselia_male.geo",
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_radiant.png",
+      "layers": []
+    }
+  ]
+}

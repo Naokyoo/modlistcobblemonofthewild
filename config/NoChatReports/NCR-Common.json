@@ -1,0 +1,7 @@
+{
+  "demandOnClientMessage": "You do not have No Chat Reports, and this server is configured to require it on client! This mod comes packaged with the Cobblemon Academy 2.0 modpack. If this is the modpack you\u0027re running, please enable the mod!",
+  "demandOnClient": true,
+  "convertToGameMessage": true,
+  "addQueryData": true,
+  "enableDebugLog": false
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:clobbopus",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:clobbopus",
+      "model": "cobblemon:clobbopus.geo",
+      "texture": "cobblemon:textures/pokemon/0852_clobbopus/clobbopus_radiant.png",
+      "layers": []
+    }
+  ]
+}

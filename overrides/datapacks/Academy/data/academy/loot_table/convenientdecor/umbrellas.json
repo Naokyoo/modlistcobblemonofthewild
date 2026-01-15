@@ -1,0 +1,96 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:pink_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:magenta_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:light_blue_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:white_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:purple_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:light_gray_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:black_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:cyan_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:brown_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:orange_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:lime_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:green_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:red_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:yellow_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:gray_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:blue_umbrella",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "convenientdecor:allerts_umbrella",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

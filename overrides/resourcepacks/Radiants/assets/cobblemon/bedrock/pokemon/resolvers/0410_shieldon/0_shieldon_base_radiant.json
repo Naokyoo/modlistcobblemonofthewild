@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:shieldon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:shieldon",
+      "model": "cobblemon:shieldon.geo",
+      "texture": "cobblemon:textures/pokemon/0410_shieldon/shieldon_radiant.png",
+      "layers": []
+    }
+  ]
+}

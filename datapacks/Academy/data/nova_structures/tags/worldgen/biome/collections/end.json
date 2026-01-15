@@ -1,0 +1,102 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_end",
+    {
+      "id": "stellarity:amethyst_forest",
+      "required": false
+    },
+    {
+      "id": "stellarity:ashfall_deltas",
+      "required": false
+    },
+    {
+      "id": "stellarity:blazing_dunes",
+      "required": false
+    },
+    {
+      "id": "stellarity:crystal_crags",
+      "required": false
+    },
+    {
+      "id": "stellarity:dragons_den",
+      "required": false
+    },
+    {
+      "id": "stellarity:end_shrubland",
+      "required": false
+    },
+    {
+      "id": "stellarity:end_wilds",
+      "required": false
+    },
+    {
+      "id": "stellarity:ender_wastes",
+      "required": false
+    },
+    {
+      "id": "stellarity:endless_dunes",
+      "required": false
+    },
+    {
+      "id": "stellarity:fiery_hills",
+      "required": false
+    },
+    {
+      "id": "stellarity:flesh_tundra",
+      "required": false
+    },
+    {
+      "id": "stellarity:frosted_hills",
+      "required": false
+    },
+    {
+      "id": "stellarity:frosted_valley",
+      "required": false
+    },
+    {
+      "id": "stellarity:frozen_marsh",
+      "required": false
+    },
+    {
+      "id": "stellarity:frozen_shrubland",
+      "required": false
+    },
+    {
+      "id": "stellarity:frozen_spikes",
+      "required": false
+    },
+    {
+      "id": "stellarity:hallowed_tundra",
+      "required": false
+    },
+    {
+      "id": "stellarity:prismarine_forest",
+      "required": false
+    },
+    {
+      "id": "stellarity:prismatic_dunes",
+      "required": false
+    },
+    {
+      "id": "stellarity:sculk_growth",
+      "required": false
+    },
+    {
+      "id": "stellarity:the_hallow",
+      "required": false
+    },
+    {
+      "id": "stellarity:the_nest",
+      "required": false
+    },
+    {
+      "id": "stellarity:the_void",
+      "required": false
+    },
+    {
+      "id": "stellarity:warped_marsh",
+      "required": false
+    }
+  ]
+}

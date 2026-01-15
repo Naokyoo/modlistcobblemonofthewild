@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:emolga",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:emolga",
+      "model": "cobblemon:emolga.geo",
+      "texture": "cobblemon:textures/pokemon/0587_emolga/emolga_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:falinks",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:falinks",
+      "model": "cobblemon:falinks.geo",
+      "texture": "cobblemon:textures/pokemon/0870_falinks/falinks_radiant.png",
+      "layers": []
+    }
+  ]
+}

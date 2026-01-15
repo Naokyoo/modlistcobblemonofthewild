@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:qwilfish",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:qwilfish",
+      "model": "cobblemon:qwilfish.geo",
+      "texture": "cobblemon:textures/pokemon/0211_qwilfish/qwilfish_radiant.png",
+      "layers": []
+    }
+  ]
+}

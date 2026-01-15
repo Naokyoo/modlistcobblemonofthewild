@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:manectric",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:manectric",
+      "model": "cobblemon:manectric.geo",
+      "texture": "cobblemon:textures/pokemon/0310_manectric/manectric_radiant.png",
+      "layers": []
+    }
+  ]
+}

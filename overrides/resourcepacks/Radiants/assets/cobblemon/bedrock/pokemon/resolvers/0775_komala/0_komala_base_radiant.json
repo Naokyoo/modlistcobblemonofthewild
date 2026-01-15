@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:komala",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:komala",
+      "model": "cobblemon:komala.geo",
+      "texture": "cobblemon:textures/pokemon/0775_komala/komala_radiant.png",
+      "layers": []
+    }
+  ]
+}

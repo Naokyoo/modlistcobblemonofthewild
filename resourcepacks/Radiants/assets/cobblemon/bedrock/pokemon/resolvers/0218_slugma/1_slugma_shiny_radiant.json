@@ -1,0 +1,52 @@
+{
+  "species": "cobblemon:slugma",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:slugma_shiny",
+      "model": "cobblemon:slugma_shiny.geo",
+      "texture": "cobblemon:textures/pokemon/0218_slugma/slugma_shiny_radiant.png",
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0218_slugma/slugma__flame_0_radiant.png",
+              "cobblemon:textures/pokemon/0218_slugma/slugma__flame_1_radiant.png",
+              "cobblemon:textures/pokemon/0218_slugma/slugma__flame_2_radiant.png",
+              "cobblemon:textures/pokemon/0218_slugma/slugma__flame_3_radiant.png"
+            ],
+            "fps": 10,
+            "loop": true
+          }
+        },
+        {
+          "name": "flame_emissive",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0218_slugma/slugma__emissive_flame_0_radiant.png",
+              "cobblemon:textures/pokemon/0218_slugma/slugma__emissive_flame_1_radiant.png",
+              "cobblemon:textures/pokemon/0218_slugma/slugma__emissive_flame_2_radiant.png",
+              "cobblemon:textures/pokemon/0218_slugma/slugma__emissive_flame_3_radiant.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        },
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0218_slugma/slugma_shiny_emissive_radiant.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

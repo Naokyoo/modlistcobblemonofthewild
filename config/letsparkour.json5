@@ -1,0 +1,24 @@
+{
+	// Whether the slow parkour block functionality should be enabled.
+	"enableSlowParkourBlock": true,
+	// Whether the fast parkour block functionality should be enabled.
+	"enableFastParkourBlock": true,
+	// Whether the jump parkour block functionality should be enabled.
+	"enableJumpParkourBlock": true,
+	// Whether the soft parkour block functionality should be enabled.
+	"enableSoftParkourBlock": true,
+	// Whether the jelly parkour block functionality should be enabled.
+	"enableJellyParkourBlock": true,
+	// Whether the slippery parkour block functionality should be enabled.
+	"enableSlipperyParkourBlock": true,
+	// Whether the trapdoor block functionality should be enabled.
+	"enableTrapdoorParkourBlock": true,
+	// The base speed factor of the slow parkour block.
+	"slowBlockBaseSpeedFactor": 0.5,
+	// The base speed factor of the fast parkour block.
+	"fastBlockBaseSpeedFactor": 1.5,
+	// The base jump factor of the jump parkour block.
+	"jumpBlockBaseJumpFactor": 2.0,
+	// The base friction factor of the slippery parkour block.
+	"slipperyBlockBaseFrictionFactor": 0.95
+}

@@ -1,0 +1,40 @@
+{
+  "target": "cobblemon:bergmite",
+  "implemented": true,
+  "evolutions": [
+    {
+      "id": "bergmite_avalugg",
+      "variant": "level_up",
+      "result": "avalugg hisuian",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "bodyslam"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 37
+        }
+      ]
+    },
+    {
+      "id": "bergmite_avalugg_hisuian",
+      "variant": "level_up",
+      "result": "avalugg hisuian",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "rockslide"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 37
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is_mountain"
+        }
+      ]
+    }
+  ]
+}

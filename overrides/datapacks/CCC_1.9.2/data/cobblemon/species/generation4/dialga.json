@@ -1,0 +1,69 @@
+{
+  "nationalPokedexNumber": 483,
+  "name": "Dialga",
+  "primaryType": "steel",
+  "secondaryType": "dragon",
+  "maleRatio": -1,
+  "height": 54,
+  "weight": 6830,
+  "pokedex": [
+    "cobblemon.species.dialga.desc"
+  ],
+  "labels": [
+    "gen4",
+    "legendary",
+    "restricted"
+  ],
+  "aspects": [
+    "altered-forme"
+  ],
+  "abilities": [
+    "pressure",
+    "h:telepathy"
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 120,
+    "defence": 120,
+    "special_attack": 150,
+    "special_defence": 100,
+    "speed": 90
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "baseExperienceYield": 340,
+  "experienceGroup": "slow",
+  "catchRate": 3,
+  "eggCycles": 120,
+  "baseFriendship": 0,
+  "moves": [],
+  "evolutions": [],
+  "forms": [],
+  "baseScale": 1,
+  "hitbox": {
+    "width": 1,
+    "height": 1,
+    "fixed": false
+  },
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "avoidsWater": true,
+        "canSwimInWater": false,
+        "canWalkOnWater": true
+      },
+      "fly": {
+        "canFly": true
+      }
+    }
+  }
+}

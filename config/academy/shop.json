@@ -1,0 +1,2879 @@
+{
+  "offers": {
+    "pokeballs": [
+      {
+        "sell": {
+          "id": "cobblemon:poke_ball",
+          "count": 6
+        },
+        "price": 40
+      },
+      {
+        "sell": {
+          "id": "cobblemon:great_ball",
+          "count": 6
+        },
+        "price": 200
+      },
+      {
+        "sell": {
+          "id": "cobblemon:lure_ball",
+          "count": 6
+        },
+        "price": 600
+      },
+      {
+        "sell": {
+          "id": "cobblemon:safari_ball",
+          "count": 6
+        },
+        "price": 2000
+      }
+    ],
+    "essentials": [
+      {
+        "sell": {
+          "id": "knowlogy:knowlogy_book",
+          "count": 1
+        },
+        "price": 1
+      },
+      {
+        "sell": {
+          "id": "cobblemon:pokedex_red",
+          "count": 1
+        },
+        "price": 1
+      },
+      {
+        "sell": {
+          "id": "cobbled_counter:counter",
+          "count": 1
+        },
+        "price": 10
+      },
+      {
+        "sell": {
+          "id": "cobblenav:pokenav_item_base",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblenav:fishingnav_item",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblenav:pokefinder_item_red",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:pasture",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "academy:lunar_forecast_hologram",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "naturescompass:naturescompass",
+          "count": 1
+        },
+        "price": 20000
+      }
+    ],
+    "buildersdepot": [
+      {
+        "sell": {
+          "id": "minecraft:warped_fungus_on_a_stick",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Trowel\"}],\"text\":\"\"}",
+                "minecraft:max_damage": 4500,
+                "minecraft:custom_model_data": 102203,
+                "minecraft:custom_data":
+                {
+                  "jbt_trowel_diamond": 1,
+                  "jbt_trowel": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 800
+      },
+      {
+        "sell": {
+          "id": "minecraft:warped_fungus_on_a_stick",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Chisel\"}],\"text\":\"\"}",
+                "minecraft:max_damage": 2100,
+                "minecraft:custom_model_data": 102204,
+                "minecraft:custom_data":
+                {
+                  "jbt_trowel_chisel": 1,
+                  "jbt_chisel": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 800
+      },
+      {
+        "sell": {
+          "id": "minecraft:rabbit_foot",
+          "components": {
+                "minecraft:custom_name":"{\"extra\":[{\"italic\":false,\"text\":\"Magnet\"}],\"text\":\"\"}",
+                "minecraft:custom_model_data": 1022095,
+                "minecraft:custom_data":
+                {
+                  "jbt_magnet": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 2000
+      },
+      {
+        "sell": {
+          "id": "minecraft:warped_fungus_on_a_stick",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Block Wrench\"}],\"text\":\"\"}",
+                "minecraft:max_damage": 5000,
+                "minecraft:custom_model_data": 1022097,
+                "minecraft:custom_data":
+                {
+                  "jbt_magnet": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 300
+      },
+      {
+        "sell": {
+          "id": "constructionwand:iron_wand",
+          "components": {
+                "minecraft:max_damage": 2500
+              },
+          "count": 1
+        },
+        "price": 3000
+      },
+      {
+        "sell": {
+          "id": "minecraft:iron_pickaxe",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Hammer\"}],\"text\":\"\"}",
+                "minecraft:max_damage": 1800,
+                "minecraft:custom_model_data": 102211,
+                "minecraft:custom_data":
+                {
+                  "jbt_hammer": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 30000
+      },
+      {
+        "sell": {
+          "id": "minecraft:warped_fungus_on_a_stick",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Tape Measure\"}],\"text\":\"\"}",
+                "minecraft:custom_model_data": 1022095,
+                "minecraft:custom_data":
+                {
+                  "jbt_tape_open": 0,
+                  "jbt_tape": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 300
+      },
+      {
+        "sell": {
+          "id": "vanity:styling_table",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "crabclaws:crab_claw",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Kingler's Claw\"}],\"text\":\"\"}"
+              },
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "minecraft:beacon",
+          "count": 1
+        },
+        "price": 20000
+      },
+      {
+        "sell": {
+          "id": "minecraft:bundle",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Void Bundle\"}],\"text\":\"\"}",
+                "minecraft:custom_model_data": 1022095,
+                "minecraft:custom_data":
+                {
+                  "jbt_bundle": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "minecraft:warped_fungus_on_a_stick",
+          "components": {
+                "minecraft:custom_name": "{\"extra\":[{\"italic\":false,\"text\":\"Grass Starter\"}],\"text\":\"\"}",
+                "minecraft:custom_model_data": 102209,
+                "minecraft:custom_data":
+                {
+                  "jbt_grass": 1
+                }
+              },
+          "count": 1
+        },
+        "price": 100
+      }
+    ],
+    "potions": [
+      {
+        "sell": {
+          "id": "cobblemon:potion",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:super_potion",
+          "count": 1
+        },
+        "price": 200
+      },
+      {
+        "sell": {
+          "id": "cobblemon:hyper_potion",
+          "count": 1
+        },
+        "price": 300
+      },
+      {
+        "sell": {
+          "id": "cobblemon:max_potion",
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "cobblemon:revive",
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "cobblemon:max_revive",
+          "count": 1
+        },
+        "price": 1000
+      }
+    ],
+    "heals": [
+      {
+        "sell": {
+          "id": "cobblemon:burn_heal",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:ice_heal",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:paralyze_heal",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:antidote",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:awakening",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:full_heal",
+          "count": 1
+        },
+        "price": 200
+      }
+    ],
+    "ethers": [
+      {
+        "sell": {
+          "id": "cobblemon:ether",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblemon:max_ether",
+          "count": 1
+        },
+        "price": 200
+      },
+      {
+        "sell": {
+          "id": "cobblemon:elixir",
+          "count": 1
+        },
+        "price": 300
+      },
+      {
+        "sell": {
+          "id": "cobblemon:max_elixir",
+          "count": 1
+        },
+        "price": 500
+      }
+    ],
+    "poweritems": [
+      {
+        "sell": {
+          "id": "cobblemon:power_bracer",
+          "count": 1
+        },
+        "price": 2000
+      },
+      {
+        "sell": {
+          "id": "cobblemon:power_belt",
+          "count": 1
+        },
+        "price": 2000
+      },
+      {
+        "sell": {
+          "id": "cobblemon:power_band",
+          "count": 1
+        },
+        "price": 2000
+      },
+      {
+        "sell": {
+          "id": "cobblemon:power_weight",
+          "count": 1
+        },
+        "price": 2000
+      },
+      {
+        "sell": {
+          "id": "cobblemon:power_anklet",
+          "count": 1
+        },
+        "price": 2000
+      },
+      {
+        "sell": {
+          "id": "cobblemon:power_lens",
+          "count": 1
+        },
+        "price": 2000
+      }
+    ],
+    "trainingutility": [
+      {
+        "sell": {
+          "id": "cobblemon_utility:ballsynchronizer",
+          "count": 1
+        },
+        "price": 300
+      },
+      {
+        "sell": {
+          "id": "cobblemon_utility:voidfeather",
+          "count": 1
+        },
+        "price": 800
+      },
+      {
+        "sell": {
+          "id": "cobblemon:ability_capsule",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "cobblemon:ability_patch",
+          "count": 1
+        },
+        "price": 50000
+      },
+      {
+        "sell": {
+          "id": "cobblemon_utility:woodencap",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "cobblemon_utility:transmutationorb",
+          "count": 1
+        },
+        "price": 30000
+      }
+    ],
+    "trstms": [
+      {
+        "sell": {
+          "id": "simpletms:tr_blank",
+          "count": 1
+        },
+        "price": 1200
+      },
+      {
+        "sell": {
+          "id": "simpletms:tm_blank",
+          "count": 1
+        },
+        "price": 10000
+      }
+    ],
+    "teleportation": [
+      {
+        "sell": {
+          "id": "waystones:waystone",
+          "count": 1
+        },
+        "price": 600
+      },
+      {
+        "sell": {
+          "id": "waystones:red_sharestone",
+          "count": 1
+        },
+        "price": 600
+      },
+      {
+        "sell": {
+          "id": "waystones:red_portstone",
+          "count": 1
+        },
+        "price": 600
+      },
+      {
+        "sell": {
+          "id": "waystones:warp_plate",
+          "count": 2
+        },
+        "price": 600
+      },
+      {
+        "sell": {
+          "id": "telepass:gold_telepass",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "telepass:diamond_telepass",
+          "count": 1
+        },
+        "price": 1000
+      }
+    ],
+    "storage": [
+      {
+        "sell": {
+          "id": "sophisticatedbackpacks:backpack",
+          "count": 1
+        },
+        "price": 800
+      },
+      {
+        "sell": {
+          "id": "sophisticatedbackpacks:upgrade_base",
+          "count": 1
+        },
+        "price": 200
+      }
+    ],
+    "megashowdown": [
+      {
+        "sell": {
+          "id": "mega_showdown:keystone",
+          "count": 1
+        },
+        "price": 50000
+      },
+      {
+        "sell": {
+          "id": "academy:lootbag_megastone",
+          "count": 1
+        },
+        "price": 30000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:dynamax_band",
+          "count": 1
+        },
+        "price": 60000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:power_spot",
+          "count": 1
+        },
+        "price": 40000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:sparkling_stone_light",
+          "count": 1
+        },
+        "price": 60000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:sparkling_stone_dark",
+          "count": 1
+        },
+        "price": 60000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:blank-z",
+          "count": 1
+        },
+        "price": 30000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:tera_orb",
+          "count": 1
+        },
+        "price": 30000
+      },
+      {
+        "sell": {
+          "id": "mega_showdown:star_core",
+          "count": 1
+        },
+        "price": 200000
+      }
+    ],
+    "gamba": [
+      {
+        "sell": {
+          "id": "academy:lootbag_mythsandlegends",
+          "count": 1
+        },
+        "price": 100000
+      },
+      {
+        "sell": {
+          "id": "academy:lootbag_plushie",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "academy:lootbag_shinyplushie",
+          "count": 1
+        },
+        "price": 60000
+      },
+      {
+        "sell": {
+          "id": "cobblemonalphas:alpha_spawner",
+          "count": 1
+        },
+        "price": 100000
+      }
+    ],
+    "footwear": [
+      {
+        "sell": {
+          "id": "cloudboots:iron_cloud_boots",
+          "count": 1
+        },
+        "price": 60000
+      },
+      {
+        "sell": {
+          "id": "cloudboots:gold_cloud_boots",
+          "count": 1
+        },
+        "price": 120000
+      },
+      {
+        "sell": {
+          "id": "cloudboots:diamond_cloud_boots",
+          "count": 1
+        },
+        "price": 200000
+      },
+      {
+        "sell": {
+          "id": "cloudboots:netherite_cloud_boots",
+          "count": 1
+        },
+        "price": 300000
+      },
+      {
+        "sell": {
+          "id": "fading_clouds:fading_cloud",
+          "count": 1
+        },
+        "price": 30000
+      },
+      {
+        "sell": {
+          "id": "fading_clouds:cloud_walker_armor_trim_smithing_template",
+          "count": 1
+        },
+        "price": 30000
+      }
+    ],
+    "gliders": [
+      {
+        "sell": {
+          "id": "gliding:wooden_glider",
+          "count": 1
+        },
+        "price": 3000
+      },
+      {
+        "sell": {
+          "id": "gliding:iron_glider",
+          "count": 1
+        },
+        "price": 8000
+      },
+      {
+        "sell": {
+          "id": "gliding:golden_glider",
+          "count": 1
+        },
+        "price": 20000
+      },
+      {
+        "sell": {
+          "id": "gliding:diamond_glider",
+          "count": 1
+        },
+        "price": 50000
+      },
+      {
+        "sell": {
+          "id": "gliding:netherite_glider",
+          "count": 1
+        },
+        "price": 100000
+      }
+    ],
+    "mermod": [
+      {
+        "sell": {
+          "id": "mermod:sea_necklace",
+          "count": 1
+        },
+        "price": 60000
+      },
+      {
+        "sell": {
+          "id": "mermod:mermaid_bra_modifier",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "mermod:glowing_pearl_modifier",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "mermod:tail_gradient_modifier",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "mermod:tail_moisturizer_modifier",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "mermod:moon_rock_modifier",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "mermod:ursula_shell_modifier",
+          "count": 1
+        },
+        "price": 10000
+      },
+      {
+        "sell": {
+          "id": "mermod:deep_sea_crystal_modifier",
+          "count": 1
+        },
+        "price": 10000
+      }
+    ],
+    "wool": [
+      {
+        "sell": {
+          "id": "arts_and_crafts:bleached_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:white_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_gray_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:gray_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:black_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:brown_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:red_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:orange_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:yellow_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:lime_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:green_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:cyan_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_blue_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:blue_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:purple_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:magenta_wool",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:pink_wool",
+          "count": 16
+        },
+        "price": 100
+      }
+    ],
+    "pokewool": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_poke_wool",
+          "count": 8
+        },
+        "price": 100
+      }
+    ],
+    "concrete": [
+      {
+        "sell": {
+          "id": "arts_and_crafts:bleached_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:white_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_gray_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:gray_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:black_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:brown_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:red_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:orange_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:yellow_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:lime_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:green_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:cyan_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_blue_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:blue_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:purple_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:magenta_concrete",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:pink_concrete",
+          "count": 16
+        },
+        "price": 100
+      }
+    ],
+    "terracotta": [
+      {
+        "sell": {
+          "id": "minecraft:terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:white_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_gray_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:gray_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:black_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:brown_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:red_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:orange_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:yellow_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:lime_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:green_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:cyan_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_blue_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:blue_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:purple_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:magenta_terracotta",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:pink_terracotta",
+          "count": 16
+        },
+        "price": 100
+      }
+    ],
+    "glass": [
+      {
+        "sell": {
+          "id": "minecraft:stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:white_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_gray_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:gray_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:black_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:brown_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:red_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:orange_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:yellow_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:lime_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:green_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:cyan_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:light_blue_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:blue_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:purple_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:magenta_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "minecraft:pink_stained_glass",
+          "count": 32
+        },
+        "price": 100
+      }
+    ],
+    "chalk": [
+      {
+        "sell": {
+          "id": "arts_and_crafts:bleached_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:white_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:light_gray_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:gray_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:black_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:brown_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:red_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:orange_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:yellow_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:lime_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:green_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:cyan_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:light_blue_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:blue_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:purple_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:magenta_chalk",
+          "count": 16
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "arts_and_crafts:pink_chalk",
+          "count": 16
+        },
+        "price": 100
+      }
+    ],
+    "chairs": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:white_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_dark_chair",
+          "count": 1
+        },
+        "price": 20
+      }
+    ],
+    "stools": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:white_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_dark_stool",
+          "count": 1
+        },
+        "price": 20
+      }
+    ],
+    "sofas": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_sofa",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_sofa",
+          "count": 1
+        },
+        "price": 100
+      }
+    ],
+    "tables": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:white_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_dark_table",
+          "count": 1
+        },
+        "price": 30
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_dark_table",
+          "count": 1
+        },
+        "price": 30
+      }
+    ],
+    "sinks": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_sink",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_sink",
+          "count": 1
+        },
+        "price": 100
+      }
+    ],
+    "stoves": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_stove",
+          "count": 1
+        },
+        "price": 100
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_stove",
+          "count": 1
+        },
+        "price": 100
+      }
+    ],
+    "cabinetry": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_cabinetry",
+          "count": 1
+        },
+        "price": 20
+      }
+    ],
+    "drawers": [
+      {
+        "sell": {
+          "id": "cobblefurnies:white_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_gray_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:gray_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:black_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:brown_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:red_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:orange_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:yellow_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:lime_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:green_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:cyan_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:light_blue_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:blue_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:purple_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:magenta_drawer",
+          "count": 1
+        },
+        "price": 20
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:pink_drawer",
+          "count": 1
+        },
+        "price": 20
+      }
+    ],
+    "drinks": [
+      {
+        "sell": {
+          "id": "hotkettles:hot_cider",
+          "count": 1
+        },
+        "price": 200
+      },
+      {
+        "sell": {
+          "id": "hotkettles:hot_chocolate",
+          "count": 1
+        },
+        "price": 400
+      },
+      {
+        "sell": {
+          "id": "hotkettles:latte",
+          "count": 1
+        },
+        "price": 700
+      },
+      {
+        "sell": {
+          "id": "hotkettles:mocha",
+          "count": 1
+        },
+        "price": 800
+      },
+      {
+        "sell": {
+          "id": "hotkettles:dandelion_tea",
+          "count": 1
+        },
+        "price": 400
+      },
+      {
+        "sell": {
+          "id": "hotkettles:rose_tea",
+          "count": 1
+        },
+        "price": 400
+      },
+      {
+        "sell": {
+          "id": "hotkettles:fairy_tea",
+          "count": 1
+        },
+        "price": 600
+      },
+      {
+        "sell": {
+          "id": "hotkettles:pumpkin_spice_latte",
+          "count": 1
+        },
+        "price": 1000
+      }
+    ],
+    "open1": [
+      {
+        "sell": {
+          "id": "cobblefurnies:statue_ancient",
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:statue_pikachu",
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:statue_charmander",
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:statue_squirtle",
+          "count": 1
+        },
+        "price": 500
+      },
+      {
+        "sell": {
+          "id": "cobblefurnies:statue_bulbasaur",
+          "count": 1
+        },
+        "price": 500
+      }
+    ],
+    "open2": [
+      {}
+    ],
+    "open3": [
+      {}
+    ],
+    "open4": [
+      {}
+    ],
+    "open5": [
+      {}
+    ],
+    "open6": [
+      {}
+    ],
+    "open7": [
+      {}
+    ],
+    "open8": [
+      {}
+    ],
+    "open9": [
+      {}
+    ],
+    "open10": [
+      {}
+    ],
+    "open11": [
+      {}
+    ],
+    "open12": [
+      {}
+    ],
+    "open13": [
+      {}
+    ],
+    "open14": [
+      {}
+    ]
+  }
+}

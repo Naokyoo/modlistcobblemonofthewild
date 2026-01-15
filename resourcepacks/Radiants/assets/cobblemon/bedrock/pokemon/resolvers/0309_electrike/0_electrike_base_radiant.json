@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:electrike",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:electrike",
+      "model": "cobblemon:electrike.geo",
+      "texture": "cobblemon:textures/pokemon/0309_electrike/electrike_radiant.png",
+      "layers": []
+    }
+  ]
+}

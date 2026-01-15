@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:huge_red_mushroom",
+  "config": {
+    "cap_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Name": "minecraft:red_mushroom_block"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:red_concrete"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:red_wool"
+          }
+        }
+      ]
+    },
+    "foliage_radius": 2,
+    "stem_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Name": "minecraft:mushroom_stem",
+            "Properties": {
+              "down": "false",
+              "east": "true",
+              "north": "true",
+              "south": "true",
+              "up": "false",
+              "west": "true"
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:calcite"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:white_concrete"
+          }
+        }
+      ]
+    }
+  }
+}

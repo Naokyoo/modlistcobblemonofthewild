@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:dewgong",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dewgong",
+      "model": "cobblemon:dewgong.geo",
+      "texture": "cobblemon:textures/pokemon/0087_dewgong/dewgong_radiant.png",
+      "layers": []
+    }
+  ]
+}

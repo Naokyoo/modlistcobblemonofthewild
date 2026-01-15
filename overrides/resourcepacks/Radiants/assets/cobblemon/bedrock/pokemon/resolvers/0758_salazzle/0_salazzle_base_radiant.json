@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:salazzle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:salazzle",
+      "model": "cobblemon:salazzle.geo",
+      "texture": "cobblemon:textures/pokemon/0758_salazzle/salazzle_radiant.png",
+      "layers": []
+    }
+  ]
+}

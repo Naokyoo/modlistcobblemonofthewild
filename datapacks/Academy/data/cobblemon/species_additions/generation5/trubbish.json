@@ -1,0 +1,19 @@
+{
+    "implemented": true,
+    "target": "cobblemon:trubbish",   
+    "shoulderMountable": false,
+    "baseScale": 1.25,
+    "hitbox": {
+      "width": 0.55,
+      "height": 0.45,
+      "fixed": false
+    },
+    "behaviour": {
+      "resting": {
+        "canSleep": true,
+        "willSleepOnBed": true,
+        "depth": "normal",
+        "light": "0-4"
+      }
+    }
+}

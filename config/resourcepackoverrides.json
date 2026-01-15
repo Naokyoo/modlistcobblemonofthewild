@@ -1,0 +1,29 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "moonlight:mods_dynamic_assets",
+    "$polymer-resources",
+    "cobblemon:regionbiasforms",
+    "cobblemon:uniqueshinyforms",
+    "cobblemon:gyaradosjump",
+    "cobblemon_knowlogy:cobblemon",
+    "cobblemon_knowlogy:cobblemonpokenav",
+    "scholar:colored_books",
+    "cobblemon_knowlogy:pokepedia",
+    "exposure_knowlogy:exposure_polaroid",
+    "knowlogy:1.0.0_minecraft",
+    "exposure_knowlogy:exposure",
+    "file/dCIM1.0.3",
+    "file/Cobblemon Interface v1.4.1.zip",
+    "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip",
+    "file/CCC_1.9.2",
+    "file/Radiants",
+    "file/Journey Mounts",
+    "file/Academy"
+],
+  "default_overrides": {
+    "force_compatible": true
+  }
+}

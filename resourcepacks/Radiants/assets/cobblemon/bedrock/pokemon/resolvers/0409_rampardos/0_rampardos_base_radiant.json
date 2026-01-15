@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:rampardos",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:rampardos",
+      "model": "cobblemon:rampardos.geo",
+      "texture": "cobblemon:textures/pokemon/0409_rampardos/rampardos_radiant.png",
+      "layers": []
+    }
+  ]
+}

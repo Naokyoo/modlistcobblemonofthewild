@@ -1,0 +1,168 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 3,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "lootr:trophy",
+    "minecraft:elytra",
+    "biomeswevegone:music_disc_pixie_club",
+    "biomeswevegone:music_disc_better_days",
+    "libraryferret:iron_coins_jtl",
+    "libraryferret:emerald_coins_jtl",
+    "libraryferret:gold_coins_jtl",
+    "libraryferret:diamond_coins_jtl",
+    "libraryferret:netherite_coins_jtl",
+    "academy:great_safari_ball",
+    "academy:golden_safari_ball",
+    "!convenientdecor:.*_raincoat",
+    "!convenientdecor:.*_rain_hat",
+    "!convenientdecor:.*_rain_boots",
+    "!convenientdecor:.*_plastic_shovel",
+    "!convenientdecor:.*_weather_vane",
+    "!convenientdecor:.*_leaf_pile",
+    "!convenientdecor:.*_block",
+    "!convenientdecor:.*_plushie",
+    "convenientdecor:umbrella_stand",
+    "convenientdecor:watering_can",
+    "convenientdecor:pitchfork",
+    "convenientdecor:shovel",
+    "!rad-gyms:shard_.*",
+    "!rad-gyms:exit_rope",
+    "rad-gyms:gym_entrance",
+    "!vanity:.*",
+    "sophisticatedstorage:shulker_box",
+    "!sophisticatedstorage:.*_shulker_box",
+    "sophisticatedstorage:stack_upgrade_tier_5",
+    "sophisticatedstorage:stack_upgrade_omega_tier",
+    "comforts:sleeping_bag_maroon",
+    "comforts:sleeping_bag_rose",
+    "comforts:sleeping_bag_coral",
+    "comforts:sleeping_bag_indigo",
+    "comforts:sleeping_bag_navy",
+    "comforts:sleeping_bag_slate",
+    "comforts:sleeping_bag_olive",
+    "comforts:sleeping_bag_amber",
+    "comforts:sleeping_bag_beige",
+    "comforts:sleeping_bag_teal",
+    "comforts:sleeping_bag_mint",
+    "comforts:sleeping_bag_aqua",
+    "comforts:sleeping_bag_verdant",
+    "comforts:sleeping_bag_forest",
+    "comforts:sleeping_bag_ginger",
+    "comforts:sleeping_bag_tan",
+    "comforts:hammock_maroon",
+    "comforts:hammock_rose",
+    "comforts:hammock_coral",
+    "comforts:hammock_indigo",
+    "comforts:hammock_navy",
+    "comforts:hammock_slate",
+    "comforts:hammock_olive",
+    "comforts:hammock_amber",
+    "comforts:hammock_beige",
+    "comforts:hammock_teal",
+    "comforts:hammock_mint",
+    "comforts:hammock_aqua",
+    "comforts:hammock_verdant",
+    "comforts:hammock_forest",
+    "comforts:hammock_ginger",
+    "comforts:hammock_tan",
+    "elevatorid:elevator_maroon",
+    "elevatorid:elevator_rose",
+    "elevatorid:elevator_coral",
+    "elevatorid:elevator_indigo",
+    "elevatorid:elevator_navy",
+    "elevatorid:elevator_slate",
+    "elevatorid:elevator_olive",
+    "elevatorid:elevator_amber",
+    "elevatorid:elevator_beige",
+    "elevatorid:elevator_teal",
+    "elevatorid:elevator_mint",
+    "elevatorid:elevator_aqua",
+    "elevatorid:elevator_verdant",
+    "elevatorid:elevator_forest",
+    "elevatorid:elevator_ginger",
+    "elevatorid:elevator_tan",
+    "toms_storage:adv_wireless_terminal"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_component_data": [],
+  // -----------------------------------------------------------
+  // If true, the mod will log all components of your main hand item every second.
+  // This is useful for finding the specific component data of an item to blacklist it.
+  //  
+  // Only enable it if you need it, as this is only meant to be used for debugging.
+  "debug_print_components": false,
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "cobblemon:safari_ball",
+    "cobblemon:master_ball",
+    "cobblemon:beast_ball",
+    "!naturescompass:.*",
+    "!cobblemon_utility:.*",
+    "cobblenav:pokenav_item_gholdengo",
+    "cobblemon:ability_capsule",
+    "cobblemon:ability_patch",
+    "fireworkcapsules:ball_capsule",
+    "fireworkcapsules:bug_sticker",
+    "fireworkcapsules:dark_sticker",
+    "fireworkcapsules:dragon_sticker",
+    "fireworkcapsules:electric_sticker",
+    "fireworkcapsules:fairy_sticker",
+    "fireworkcapsules:fighting_sticker",
+    "fireworkcapsules:fire_sticker",
+    "fireworkcapsules:flying_sticker",
+    "fireworkcapsules:ghost_sticker",
+    "fireworkcapsules:grass_sticker",
+    "fireworkcapsules:ground_sticker",
+    "fireworkcapsules:ice_sticker",
+    "fireworkcapsules:normal_sticker",
+    "fireworkcapsules:poison_sticker",
+    "fireworkcapsules:psychic_sticker",
+    "fireworkcapsules:rock_sticker",
+    "fireworkcapsules:steel_sticker",
+    "fireworkcapsules:water_sticker",
+    "!constructionwand:.*",
+    "rad-gyms:gym_key"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

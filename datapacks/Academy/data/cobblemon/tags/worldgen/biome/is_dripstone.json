@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:dripstone_caves",
+    {
+      "id": "regions_unexplored:prismachasm",
+      "required": false 
+    },
+    {
+      "id": "regions_unexplored:redstone_caves",
+      "required": false 
+    }
+  ]
+}

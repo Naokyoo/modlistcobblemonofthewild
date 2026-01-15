@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:togedemaru",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:togedemaru",
+      "model": "cobblemon:togedemaru.geo",
+      "texture": "cobblemon:textures/pokemon/0777_togedemaru/togedemaru_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:yamper",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:yamper",
+      "model": "cobblemon:yamper.geo",
+      "texture": "cobblemon:textures/pokemon/0835_yamper/yamper_radiant.png",
+      "layers": []
+    }
+  ]
+}

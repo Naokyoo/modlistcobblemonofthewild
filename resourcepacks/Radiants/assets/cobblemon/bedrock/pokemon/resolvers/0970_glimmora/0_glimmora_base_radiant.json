@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:glimmora",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:glimmora",
+      "model": "cobblemon:glimmora.geo",
+      "texture": "cobblemon:textures/pokemon/0970_glimmora/glimmora_radiant.png",
+      "layers": []
+    }
+  ]
+}

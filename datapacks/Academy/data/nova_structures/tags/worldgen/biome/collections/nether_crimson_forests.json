@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crimson_forest",
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": false
+    }
+  ]
+}

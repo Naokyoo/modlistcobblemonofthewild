@@ -1,0 +1,1194 @@
+{
+  "config_version": "1.0.13",
+  "config_datetime": "2025-09-04_06-52-29",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 1.8
+  },
+  "structures": [
+    {
+      "name": "minecraft:stronghold_big",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "minecraft:trial_chambers",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 116,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 116,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "ati_structures:gnome_hut",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "cobblemonalphas:alpha_den_underground",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 40,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 40,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "cobblemonalphas:plains_den",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 40,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 40,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:cursed_garden",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:golem_forge",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 116,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 116,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_cold",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_common",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_desert",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_forest",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_jungle",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:stranghoul_den",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mega_showdown:archaeological_site",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 1,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 1,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mega_showdown:mega_site",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 1,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 1,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mega_showdown:megaroid",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 1,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 1,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mega_showdown:wishing_weald",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 1,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 1,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mns:copper_tower",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mss:arena",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 128,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 128,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mss:calcite_house",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mss:volcano",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:carts/cart",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:carts/large_cart_1",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:carts/large_cart_2",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:carts/medium_bamboo_cart",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:cathedral",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 35,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 35,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:houses/large_warped_tower",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_bug",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_dark",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_dragon",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_electric",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_fairy",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_fighting",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_fire",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_flying",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_ghost",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_grass",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_ground",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_ice",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_normal",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_poison",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_psychic",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_rock",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_steel",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_entrance_water",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "rad-gyms:gym_interior_default",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "stellarity:village",
+      "is_disabled": false,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 116,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 116,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [
+        "stellarity:the_hallow",
+        "stellarity:prismatic_dunes",
+        "stellarity:hallowed_tundra",
+        "minecraft:end_highlands",
+        "minecraft:end_midlands",
+        "stellarity:endless_dunes",
+        "stellarity:warped_marsh",
+        "stellarity:frozen_marsh"
+      ]
+    },
+    {
+      "name": "trek:overworld/rare/villager_castle",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "trek:overworld/very_rare/coves",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 127,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 127,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "cobblemon:fishing_boats",
+      "salt": 94221222,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 16,
+      "separation": 4
+    },
+    {
+      "name": "cobblemon:fossils/avoid_gimmi_towers",
+      "salt": 1692720812,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 20,
+      "separation": 10
+    },
+    {
+      "name": "cobblemon:fossils/avoid_jungle_temples",
+      "salt": 1695780712,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 13,
+      "separation": 5
+    },
+    {
+      "name": "cobblemon:fossils/avoid_shipwrecks",
+      "salt": 1698765836,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 17,
+      "separation": 5
+    },
+    {
+      "name": "cobblemon:fossils/avoid_trial_chambers",
+      "salt": 1695299744,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 5,
+      "separation": 3
+    },
+    {
+      "name": "cobblemon:fossils/avoid_villages",
+      "salt": 1895720816,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 20,
+      "separation": 10
+    },
+    {
+      "name": "cobblemon:fossils/avoid_witch_huts",
+      "salt": 1691118712,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 8,
+      "separation": 4
+    },
+    {
+      "name": "cobblemon:ruins/avoid_trial_chambers",
+      "salt": 1695297744,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 15,
+      "separation": 5
+    },
+    {
+      "name": "cobblemon:ruins/avoid_villages",
+      "salt": 1695780755,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 30,
+      "separation": 13
+    },
+    {
+      "name": "cobblemon:ruins/avoid_witch_huts",
+      "salt": 1628364155,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 25,
+      "separation": 15
+    },
+    {
+      "name": "cobblemon:ruins/gimmi_towers",
+      "salt": 1192837015,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 40,
+      "separation": 25
+    },
+    {
+      "name": "cobblemon:shipwreck_coves",
+      "salt": 94251327,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 150,
+      "separation": 75
+    },
+    {
+      "name": "eternal_starlight:cursed_garden",
+      "salt": 1,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 0,
+      "separation": 0
+    },
+    {
+      "name": "eternal_starlight:golem_forge",
+      "salt": 1,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 0,
+      "separation": 0
+    },
+    {
+      "name": "hopo:underwater_city",
+      "salt": 77777777,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 42,
+      "separation": 38
+    },
+    {
+      "name": "hopo:underwater_fossils",
+      "salt": 66666666,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 16,
+      "separation": 2
+    },
+    {
+      "name": "hopo:underwater_small_ruins",
+      "salt": 11223344,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 11,
+      "separation": 2
+    },
+    {
+      "name": "hopo:underwater_warm_small_ruins",
+      "salt": 44332211,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 11,
+      "separation": 2
+    },
+    {
+      "name": "minecraft:ancient_cities",
+      "salt": 20083232,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 24,
+      "separation": 8
+    },
+    {
+      "name": "minecraft:buried_treasures",
+      "salt": 1,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 1,
+      "separation": 0
+    },
+    {
+      "name": "minecraft:desert_pyramids",
+      "salt": 239021,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 80,
+      "separation": 12
+    },
+    {
+      "name": "minecraft:end_cities",
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 43,
+      "separation": 22
+    },
+    {
+      "name": "minecraft:igloos",
+      "salt": 14357618,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 32,
+      "separation": 8
+    },
+    {
+      "name": "minecraft:illager_manor",
+      "salt": 10387319,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 80,
+      "separation": 20
+    },
+    {
+      "name": "minecraft:jungle_temples",
+      "salt": 239021,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 80,
+      "separation": 12
+    },
+    {
+      "name": "minecraft:mineshafts",
+      "salt": 1,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 1,
+      "separation": 0
+    },
+    {
+      "name": "minecraft:nether_complexes",
+      "salt": 30084232,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 27,
+      "separation": 4
+    },
+    {
+      "name": "minecraft:nether_fossils",
+      "salt": 14357921,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 2,
+      "separation": 1
+    },
+    {
+      "name": "minecraft:ocean_monuments",
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 32,
+      "separation": 5
+    },
+    {
+      "name": "minecraft:ocean_ruins",
+      "salt": 14357621,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 19,
+      "separation": 6
+    },
+    {
+      "name": "minecraft:pillager_outposts",
+      "salt": 165745296,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 32,
+      "separation": 8
+    },
+    {
+      "name": "minecraft:ruined_portals",
+      "salt": 34222645,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 40,
+      "separation": 15
+    },
+    {
+      "name": "minecraft:shipwrecks",
+      "salt": 165745295,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 35,
+      "separation": 26
+    },
+    {
+      "name": "minecraft:strongholds",
+      "salt": 1,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 0,
+      "separation": 0
+    },
+    {
+      "name": "minecraft:swamp_huts",
+      "salt": 14357620,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 32,
+      "separation": 8
+    },
+    {
+      "name": "minecraft:trail_ruins",
+      "salt": 83469867,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 34,
+      "separation": 8
+    },
+    {
+      "name": "minecraft:trial_chambers",
+      "salt": 94251327,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 34,
+      "separation": 12
+    },
+    {
+      "name": "minecraft:villages",
+      "salt": 10387312,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 45,
+      "separation": 20
+    },
+    {
+      "name": "minecraft:woodland_mansions",
+      "salt": 10387319,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 130,
+      "separation": 20
+    },
+    {
+      "name": "mss:arena",
+      "salt": 982034754,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 64,
+      "separation": 10
+    },
+    {
+      "name": "mss:birch_river",
+      "salt": 33165454,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 76,
+      "separation": 10
+    },
+    {
+      "name": "mss:calcite_house",
+      "salt": 898754145,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 48,
+      "separation": 10
+    },
+    {
+      "name": "mss:castle_ruin",
+      "salt": 213548795,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 97,
+      "separation": 10
+    },
+    {
+      "name": "mss:castle_tower",
+      "salt": 333265012,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 94,
+      "separation": 10
+    },
+    {
+      "name": "mss:cherry_river",
+      "salt": 1379941050,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 54,
+      "separation": 10
+    },
+    {
+      "name": "mss:desert_pyramid",
+      "salt": 669695487,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 60,
+      "separation": 10
+    },
+    {
+      "name": "mss:desert_well",
+      "salt": 336251454,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 36,
+      "separation": 11
+    },
+    {
+      "name": "mss:diorite_house",
+      "salt": 555222325,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 126,
+      "separation": 10
+    },
+    {
+      "name": "mss:frozen_pond",
+      "salt": 336255419,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 64,
+      "separation": 10
+    },
+    {
+      "name": "mss:jungle",
+      "salt": 1074494077,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 52,
+      "separation": 10
+    },
+    {
+      "name": "mss:large_tower",
+      "salt": 996503632,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 120,
+      "separation": 10
+    },
+    {
+      "name": "mss:leaf_hollow",
+      "salt": 889896532,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 47,
+      "separation": 10
+    },
+    {
+      "name": "mss:mangrove",
+      "salt": 111136452,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 38,
+      "separation": 10
+    },
+    {
+      "name": "mss:muddy_water_hole",
+      "salt": 995843475,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 112,
+      "separation": 10
+    },
+    {
+      "name": "mss:mushroom",
+      "salt": 1070384379,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 94,
+      "separation": 10
+    },
+    {
+      "name": "mss:nether_portal",
+      "salt": 889985412,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 69,
+      "separation": 10
+    },
+    {
+      "name": "mss:palm_island",
+      "salt": 998651362,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 82,
+      "separation": 10
+    },
+    {
+      "name": "mss:red_sand",
+      "salt": 887444382,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 112,
+      "separation": 10
+    },
+    {
+      "name": "mss:small_deepslate_house",
+      "salt": 976656987,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 84,
+      "separation": 10
+    },
+    {
+      "name": "mss:small_oak_house",
+      "salt": 226898754,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 55,
+      "separation": 10
+    },
+    {
+      "name": "mss:small_pond",
+      "salt": 889574325,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 42,
+      "separation": 10
+    },
+    {
+      "name": "mss:small_tower",
+      "salt": 266989875,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 58,
+      "separation": 10
+    },
+    {
+      "name": "mss:spruce_huts",
+      "salt": 225114645,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 94,
+      "separation": 10
+    },
+    {
+      "name": "mss:taiga",
+      "salt": 336556874,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 65,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_1",
+      "salt": 226894852,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 127,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_2",
+      "salt": 259875415,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 128,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_3",
+      "salt": 362598745,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 166,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_4",
+      "salt": 363625254,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 109,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_5",
+      "salt": 951546454,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 135,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_6",
+      "salt": 554551525,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 142,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_7",
+      "salt": 663654858,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 156,
+      "separation": 10
+    },
+    {
+      "name": "mss:tree_8",
+      "salt": 858574474,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 176,
+      "separation": 10
+    },
+    {
+      "name": "mss:volcano",
+      "salt": 689865874,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 108,
+      "separation": 10
+    },
+    {
+      "name": "mss:white_house",
+      "salt": 665411587,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 125,
+      "separation": 10
+    },
+    {
+      "name": "nova_structures:desert_ruins",
+      "salt": 239021,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 80,
+      "separation": 12
+    },
+    {
+      "name": "nova_structures:jungle_ruins",
+      "salt": 239021,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 80,
+      "separation": 12
+    },
+    {
+      "name": "stellarity:chapel",
+      "salt": 100801420,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 33,
+      "separation": 32
+    },
+    {
+      "name": "stellarity:return_gateways",
+      "salt": 5783475,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "spacing": 35,
+      "separation": 25
+    },
+    {
+      "name": "stellarity:small_structures",
+      "salt": 278609929,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 33,
+      "separation": 32
+    }
+  ]
+}

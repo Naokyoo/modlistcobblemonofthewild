@@ -1,0 +1,11 @@
+{
+  "target": "cobblemon:applin",
+  "implemented": true,
+  "shoulderMountable": true,
+  "baseScale": 0.4,
+  "hitbox": {
+    "width": 0.3,
+    "height": 0.4,
+    "fixed": false
+  }
+}

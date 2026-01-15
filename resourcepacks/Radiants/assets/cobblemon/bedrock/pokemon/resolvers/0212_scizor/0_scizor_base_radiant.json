@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:scizor",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:scizor",
+      "model": "cobblemon:scizor_male.geo",
+      "texture": "cobblemon:textures/pokemon/0212_scizor/scizor_radiant.png",
+      "layers": []
+    }
+  ]
+}

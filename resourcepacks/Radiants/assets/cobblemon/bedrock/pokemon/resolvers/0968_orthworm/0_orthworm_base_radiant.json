@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:orthworm",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:orthworm",
+      "model": "cobblemon:orthworm.geo",
+      "texture": "cobblemon:textures/pokemon/0968_orthworm/orthworm_radiant.png",
+      "layers": []
+    }
+  ]
+}

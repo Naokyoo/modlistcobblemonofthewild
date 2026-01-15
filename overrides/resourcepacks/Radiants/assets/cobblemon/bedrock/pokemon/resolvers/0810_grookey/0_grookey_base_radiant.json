@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:grookey",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:grookey",
+      "model": "cobblemon:grookey.geo",
+      "texture": "cobblemon:textures/pokemon/0810_grookey/grookey_radiant.png",
+      "layers": []
+    }
+  ]
+}

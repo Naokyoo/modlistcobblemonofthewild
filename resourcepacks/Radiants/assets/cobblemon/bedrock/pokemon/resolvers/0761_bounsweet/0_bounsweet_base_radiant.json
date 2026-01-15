@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bounsweet",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bounsweet",
+      "model": "cobblemon:bounsweet.geo",
+      "texture": "cobblemon:textures/pokemon/0761_bounsweet/bounsweet_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:raichu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:raichu",
+      "model": "cobblemon:raichu_male.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_emissive_radiant.png",
+          "emissive": true,
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

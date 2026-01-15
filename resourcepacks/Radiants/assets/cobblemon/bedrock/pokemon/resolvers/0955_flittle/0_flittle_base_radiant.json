@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:flittle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:flittle",
+      "model": "cobblemon:flittle.geo",
+      "texture": "cobblemon:textures/pokemon/0955_flittle/flittle_radiant.png",
+      "layers": []
+    }
+  ]
+}

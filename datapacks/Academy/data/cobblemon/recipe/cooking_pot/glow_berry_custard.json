@@ -1,0 +1,27 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:glow_berry_custard"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

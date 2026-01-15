@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:buneary",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:buneary",
+      "model": "cobblemon:buneary.geo",
+      "texture": "cobblemon:textures/pokemon/0427_buneary/buneary_radiant.png",
+      "layers": []
+    }
+  ]
+}

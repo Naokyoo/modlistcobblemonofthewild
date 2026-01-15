@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:swadloon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:swadloon",
+      "model": "cobblemon:swadloon.geo",
+      "texture": "cobblemon:textures/pokemon/0541_swadloon/swadloon_radiant.png",
+      "layers": []
+    }
+  ]
+}

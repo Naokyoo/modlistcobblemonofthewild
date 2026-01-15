@@ -1,0 +1,12 @@
+{
+    "announceAdvancements": false,
+    "disableElytraMovementCheck": true,
+    "disableRaids": true,
+    "doMobSpawning": false,
+    "doPatrolSpawning": false,
+    "doTraderSpawning": false,
+    "doWardenSpawning": true,
+    "keepInventory": true,
+    "playersSleepingPercentage": 30,
+    "moneyDropPercentage": 0
+}

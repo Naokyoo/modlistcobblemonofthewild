@@ -1,0 +1,27 @@
+{
+  "species": "cobblemon:chinchou",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:chinchou",
+      "model": "cobblemon:chinchou.geo",
+      "texture": "cobblemon:textures/pokemon/0170_chinchou/chinchou_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0170_chinchou/chinchou_emissive_radiant.png",
+          "emissive": "true"
+        },
+        {
+          "name": "emissive2",
+          "texture": "cobblemon:textures/pokemon/0170_chinchou/chinchou_emissive_radiant.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

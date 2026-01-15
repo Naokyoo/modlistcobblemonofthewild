@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:empoleon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:empoleon",
+      "model": "cobblemon:empoleon.geo",
+      "texture": "cobblemon:textures/pokemon/0395_empoleon/empoleon_radiant.png",
+      "layers": []
+    }
+  ]
+}

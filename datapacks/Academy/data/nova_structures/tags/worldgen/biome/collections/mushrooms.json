@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mushroom_fields",
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    }
+  ]
+}

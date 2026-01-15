@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:centiskorch",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:centiskorch",
+      "model": "cobblemon:centiskorch.geo",
+      "texture": "cobblemon:textures/pokemon/0851_centiskorch/centiskorch_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0851_centiskorch/centiskorch_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

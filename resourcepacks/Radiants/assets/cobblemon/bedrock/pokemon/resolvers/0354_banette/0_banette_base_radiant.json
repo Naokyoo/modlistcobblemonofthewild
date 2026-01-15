@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:banette",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:banette",
+      "model": "cobblemon:banette.geo",
+      "texture": "cobblemon:textures/pokemon/0354_banette/banette_radiant.png",
+      "layers": []
+    }
+  ]
+}

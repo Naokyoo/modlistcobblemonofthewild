@@ -1,0 +1,31 @@
+{
+  "target": "cobblemon:ogerpon",
+  "forms": [
+    {
+      "name": "Teal-Tera",
+      "primaryType": "grass",
+      "maleRatio": 0,
+      "height": 12,
+      "weight": 398,
+      "pokedex": [
+        "cobblemon.species.ogerpon-tealtera.desc"
+      ],
+      "labels": [
+        "gen9",
+        "legendary"
+      ],
+      "aspects": [
+        "embody-aspect",
+        "teal-mask"
+      ],
+      "abilities": [
+        "embodyaspectteal",
+        "h:embodyaspectteal"
+      ],
+      "eggCycles": 5,
+      "dynamaxBlocked": true,
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

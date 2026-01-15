@@ -1,0 +1,25 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:apple_cider"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

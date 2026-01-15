@@ -1,0 +1,46 @@
+{
+	"disablerEnabled": true,
+	"disabledEnchantments": [
+		"nova_structures:boss_behavior",
+		"eternal_starlight:fertile",
+		"eternal_starlight:glacial_sowing",
+		"eternal_starlight:overheat",
+		"nova_structures:shulker_boss",
+		"nova_structures:shulker_miniboss",
+		"eternal_starlight:soul_snatcher",
+		"eternal_starlight:tearing"
+	],
+	"maxLevel": {
+		"modifyMaxLevels": false,
+		"maxLevels": [
+			"minecraft:sharpness/5"
+		],
+		"limitObtainableEnchantmentLevel": false,
+		"obtainableEnchantmentLevels": [
+			"minecraft:sharpness/4"
+		]
+	},
+	"trades": {
+		"limitBookTradeLevel": false,
+		"bookTradeLevelLimit": 5,
+		"modifyEnchantedBookTradeUses": false,
+		"maxEnchantedBookTradeUses": 12,
+		"modifyEnchantedItemTradeUses": false,
+		"maxEnchantedItemTradeUses": 3,
+		"enchantedBookTradeRestockEnabled": true,
+		"enchantedItemTradeRestockEnabled": true
+	},
+	"enchantingTable": {
+		"enchantingTableEnabled": true,
+		"modifyMaxTablePower": false,
+		"maxTablePower": 15,
+		"modifyLapisCost": false,
+		"lapisCostFormula": "id+1",
+		"modifyXpCost": false,
+		"xpCostFormula": "id+1"
+	},
+	"loot": {
+		"modifyEnchantWithLevelsMaxPower": false,
+		"enchantWithLevelsMaxPower": 50
+	}
+}

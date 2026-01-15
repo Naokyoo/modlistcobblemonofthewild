@@ -1,0 +1,32 @@
+{
+  "target": "cobblemon:ogerpon",
+  "forms": [
+    {
+      "name": "Hearthflame-Tera",
+      "primaryType": "grass",
+      "secondaryType": "fire",
+      "maleRatio": 0,
+      "height": 12,
+      "weight": 398,
+      "pokedex": [
+        "cobblemon.species.ogerpon-hearthflametera.desc"
+      ],
+      "labels": [
+        "gen9",
+        "legendary"
+      ],
+      "aspects": [
+        "embody-aspect",
+        "hearthflame-mask"
+      ],
+      "abilities": [
+        "embodyaspecthearthflame",
+        "h:embodyaspecthearthflame"
+      ],
+      "eggCycles": 5,
+      "dynamaxBlocked": true,
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

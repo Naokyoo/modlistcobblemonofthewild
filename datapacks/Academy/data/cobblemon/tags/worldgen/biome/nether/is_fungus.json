@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crimson_forest",
+    "minecraft:warped_forest",
+    {
+      "id": "regions_unexplored:mycotoxic_undergrowth",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:exeggutor",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:exeggutor",
+      "model": "cobblemon:exeggutor.geo",
+      "texture": "cobblemon:textures/pokemon/0103_exeggutor/exeggutor_radiant.png",
+      "layers": []
+    }
+  ]
+}

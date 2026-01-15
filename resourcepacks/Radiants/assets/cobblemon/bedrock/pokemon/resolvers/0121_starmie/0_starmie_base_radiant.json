@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:starmie",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:starmie",
+      "model": "cobblemon:starmie.geo",
+      "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_emissive_radiant.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

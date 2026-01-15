@@ -1,0 +1,36 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_arid",
+    "#cobblemon:is_grassland",
+    "#cobblemon:is_tundra",
+    {
+      "id": "regions_unexplored:sparse_rainforest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:sparse_redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:temperate_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:icy_heights",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:towering_cliffs",
+      "required": false
+    }
+  ]
+}

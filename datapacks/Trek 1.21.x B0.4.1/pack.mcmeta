@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "description": "Trek 1.21.x",
+        "version": "B0.4.1",
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 71
+        }
+    }
+}

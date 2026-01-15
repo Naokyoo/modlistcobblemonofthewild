@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:darmanitan",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:darmanitan",
+      "model": "cobblemon:darmanitan.geo",
+      "texture": "cobblemon:textures/pokemon/0555_darmanitan/darmanitan_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0555_darmanitan/darmanitan_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

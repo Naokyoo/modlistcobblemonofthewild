@@ -1,0 +1,67 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [
+    0,
+    0.25,
+    0
+  ],
+  "profileScale": 0.85,
+  "profileTranslation": [
+    0,
+    0.55,
+    0
+  ],
+  "rootBone": "dustox",
+  "animations": {
+    "cry": "q.bedrock_stateful('dustox', 'cry')",
+    "recoil": "q.bedrock_stateful('dustox', 'recoil')",
+    "physical": "q.bedrock_primary('dustox', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('dustox', 'status', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('dustox', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "q.bedrock('dustox', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('dustox', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "poseName": "hover",
+      "transformTicks": 10,
+      "poseTypes": [
+        "HOVER"
+      ],
+      "animations": [
+        "q.bedrock('dustox', 'air_idle')"
+      ]
+    },
+    "fly": {
+      "poseName": "fly",
+      "transformTicks": 10,
+      "poseTypes": [
+        "FLY"
+      ],
+      "animations": [
+        "q.bedrock('dustox', 'air_fly')"
+      ]
+    }
+  }
+}

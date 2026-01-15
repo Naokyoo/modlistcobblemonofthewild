@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:oinkologne",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:oinkologne_male",
+      "model": "cobblemon:oinkologne_male.geo",
+      "texture": "cobblemon:textures/pokemon/0916_oinkologne/oinkologne_male_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:thwackey",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:thwackey",
+      "model": "cobblemon:thwackey.geo",
+      "texture": "cobblemon:textures/pokemon/0811_thwackey/thwackey_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:arctozolt",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:arctozolt",
+      "model": "cobblemon:arctozolt.geo",
+      "texture": "cobblemon:textures/pokemon/0881_arctozolt/arctozolt_radiant.png",
+      "layers": []
+    }
+  ]
+}

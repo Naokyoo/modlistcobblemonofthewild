@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:lickilicky",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:lickilicky",
+      "model": "cobblemon:lickilicky.geo",
+      "texture": "cobblemon:textures/pokemon/0463_lickilicky/lickilicky_radiant.png",
+      "layers": []
+    }
+  ]
+}

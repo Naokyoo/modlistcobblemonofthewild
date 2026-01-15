@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:chimecho",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:chimecho",
+      "model": "cobblemon:chimecho.geo",
+      "texture": "cobblemon:textures/pokemon/0358_chimecho/chimecho_radiant.png",
+      "layers": []
+    }
+  ]
+}

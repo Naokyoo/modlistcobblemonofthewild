@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:zweilous",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:zweilous",
+      "model": "cobblemon:zweilous.geo",
+      "texture": "cobblemon:textures/pokemon/0634_zweilous/zweilous_radiant.png",
+      "layers": []
+    }
+  ]
+}

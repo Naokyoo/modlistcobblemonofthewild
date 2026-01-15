@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:glalie",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:glalie",
+      "model": "cobblemon:glalie.geo",
+      "texture": "cobblemon:textures/pokemon/0362_glalie/glalie_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:elgyem",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:elgyem",
+      "model": "cobblemon:elgyem.geo",
+      "texture": "cobblemon:textures/pokemon/0605_elgyem/elgyem_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0605_elgyem/elgyem_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

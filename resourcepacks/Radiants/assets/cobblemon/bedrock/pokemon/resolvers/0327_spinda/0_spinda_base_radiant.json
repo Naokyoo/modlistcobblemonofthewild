@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:spinda",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:spinda",
+      "model": "cobblemon:spinda.geo",
+      "texture": "cobblemon:textures/pokemon/0327_spinda/spinda_radiant.png",
+      "layers": []
+    }
+  ]
+}

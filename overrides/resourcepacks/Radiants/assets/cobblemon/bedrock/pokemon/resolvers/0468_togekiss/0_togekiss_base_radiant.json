@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:togekiss",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:togekiss",
+      "model": "cobblemon:togekiss.geo",
+      "texture": "cobblemon:textures/pokemon/0468_togekiss/togekiss_radiant.png",
+      "layers": []
+    }
+  ]
+}

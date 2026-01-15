@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:meowstic",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:meowstic_male",
+      "model": "cobblemon:meowstic_male.geo",
+      "texture": "cobblemon:textures/pokemon/0678_meowstic/meowstic_male_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0678_meowstic/meowstic_male_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

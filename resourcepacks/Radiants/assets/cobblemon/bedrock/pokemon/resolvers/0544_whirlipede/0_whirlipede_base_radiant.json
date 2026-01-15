@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:whirlipede",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:whirlipede",
+      "model": "cobblemon:whirlipede.geo",
+      "texture": "cobblemon:textures/pokemon/0544_whirlipede/whirlipede_radiant.png",
+      "layers": []
+    }
+  ]
+}

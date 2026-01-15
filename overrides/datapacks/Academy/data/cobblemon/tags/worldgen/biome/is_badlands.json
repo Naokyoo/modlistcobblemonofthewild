@@ -1,0 +1,30 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_badlands",
+    {
+      "id": "#c:is_badlands",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:arid_mountains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:outback",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rugged_badlands",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:red_rock_valley",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:sierra_badlands",
+      "required": false
+    }
+  ]
+}

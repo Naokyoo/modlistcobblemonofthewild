@@ -1,0 +1,27 @@
+{
+  "species": "cobblemon:dewpider",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dewpider",
+      "model": "cobblemon:dewpider.geo",
+      "texture": "cobblemon:textures/pokemon/0751_dewpider/dewpider_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0751_dewpider/dewpider_emissive_radiant.png",
+          "emissive": true
+        },
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0751_dewpider/dewpider_translucent_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "portraitScale": 1.7,
+  "portraitTranslation": [
+    -1,
+    0.8,
+    0
+  ],
+  "profileScale": 0.6,
+  "profileTranslation": [
+    -0.15,
+    0.9,
+    0
+  ],
+  "animations": {
+    "faint": "q.bedrock_primary('arctibax', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('arctibax', 'cry', q.curve('symmetrical_wide'))",
+    "recoil": "q.bedrock_stateful('arctibax', 'recoil')",
+    "physical": "q.bedrock_primary('arctibax', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('arctibax', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('arctibax', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arctibax', 'ground_idle')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arctibax', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arctibax', 'ground_walk')"
+      ]
+    }
+  }
+}

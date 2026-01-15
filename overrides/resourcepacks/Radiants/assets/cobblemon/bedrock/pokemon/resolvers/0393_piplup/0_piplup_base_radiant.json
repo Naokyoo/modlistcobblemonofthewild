@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:piplup",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:piplup",
+      "model": "cobblemon:piplup.geo",
+      "texture": "cobblemon:textures/pokemon/0393_piplup/piplup_radiant.png",
+      "layers": []
+    }
+  ]
+}

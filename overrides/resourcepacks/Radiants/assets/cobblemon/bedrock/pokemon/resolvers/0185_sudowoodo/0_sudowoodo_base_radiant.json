@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sudowoodo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sudowoodo",
+      "model": "cobblemon:sudowoodo.geo",
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_radiant.png",
+      "layers": []
+    }
+  ]
+}

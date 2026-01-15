@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:grafaiai",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:grafaiai",
+      "model": "cobblemon:grafaiai.geo",
+      "texture": "cobblemon:textures/pokemon/0945_grafaiai/grafaiai_radiant.png",
+      "layers": []
+    }
+  ]
+}

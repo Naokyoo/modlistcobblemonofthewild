@@ -1,0 +1,46 @@
+{
+  "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:strawberry_sweet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:love_sweet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:berry_sweet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:clover_sweet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:flower_sweet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:star_sweet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ribbon_sweet",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

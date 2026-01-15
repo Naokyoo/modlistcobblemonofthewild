@@ -1,0 +1,27 @@
+{
+  "species": "cobblemon:lanturn",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:lanturn",
+      "model": "cobblemon:lanturn.geo",
+      "texture": "cobblemon:textures/pokemon/0171_lanturn/lanturn_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0171_lanturn/lanturn_emissive_radiant.png",
+          "emissive": true
+        },
+        {
+          "name": "emissive2",
+          "texture": "cobblemon:textures/pokemon/0171_lanturn/lanturn_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

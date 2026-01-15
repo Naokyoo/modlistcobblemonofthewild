@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:kyogre",
+  "implemented": true,
+  "baseScale": 1,
+  "hitbox": {
+    "width": 10,
+    "height": 2.1,
+    "fixed": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "skitty-1",
+      "pokemon": "skitty",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "15-32",
+      "weight": 3.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_woodland",
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_forest"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "head": "head",
+  "portraitScale": 2,
+  "portraitTranslation": [
+    -0.4,
+    -0.25,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0,
+    0.4,
+    0
+  ],
+  "rootBone": "growlithe",
+  "animations": {
+    "cry": "q.bedrock_stateful('growlithe_hisuian', 'cry', q.curve('symmetrical_wide'))",
+    "recoil": "q.bedrock_stateful('growlithe_hisuian', 'recoil', q.curve('symmetrical_wide'))",
+    "physical": "q.bedrock_primary('growlithe_hisuian', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('growlithe_hisuian', 'special', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('growlithe_hisuian', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('growlithe_hisuian', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('growlithe_hisuian', 'ground_walk')"
+      ]
+    }
+  }
+}

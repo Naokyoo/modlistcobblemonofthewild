@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:lush_caves",
+    {
+      "id": "#c:is_lush",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:ancient_delta",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bioshroom_caves",
+      "required": false
+    }
+  ]
+}

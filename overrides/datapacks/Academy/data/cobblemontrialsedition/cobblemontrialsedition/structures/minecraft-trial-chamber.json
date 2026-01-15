@@ -1,0 +1,269 @@
+{
+  "structureId": "minecraft:trial_chambers",
+  "spawnerProperties": [
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:breeze"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "drifloon",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "loudred",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "drifblim",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "exploud",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:zombie"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "golett",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "croagunk",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "golurk",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "toxicroak",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:husk"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "yamask",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "spiritomb",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "cofagrigus",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "spiritomb",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:spider"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "joltik",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "tarountula",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "galvantula",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "spidops",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:slime"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+          "species": "grimer",
+          "weight": 50,
+          "level": 30
+        },
+        {
+          "species": "grimer",
+          "weight": 50,
+          "form": "alolan",
+          "level": 30
+        }],
+      "listOfOminousPokemonToSpawn": [{
+          "species": "muk",
+          "weight": 50,
+          "level": 60
+        },
+        {
+          "species": "muk",
+          "weight": 50,
+          "form": "alolan",
+          "level": 60
+        }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:silverfish"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "wimpod",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "anorith",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "golisopod",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "armaldo",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:cave_spider"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "spinarak",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "whirlipede",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "ariados",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "scolipede",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:stray"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "vulpix",
+        "weight": 100,
+        "form": "alolan",
+        "level": 30
+      },
+      {
+        "species": "snorunt",
+        "weight": 100,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "ninetales",
+        "weight": 100,
+        "form": "alolan",
+        "level": 60
+      },
+      {
+        "species": "glalie",
+        "weight": 100,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:skeleton"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "magnemite",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "electabuzz",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "magneton",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "electivire",
+        "weight": 50,
+        "level": 60
+      }]
+    },
+    {
+      "blockEntityTypesToReplace": ["minecraft:trial_spawner"],
+      "mobEntitiesInSpawnerToReplace": ["minecraft:bogged"],
+      "lootTables": [],
+      "ominousLootTables": [],
+      "listOfPokemonToSpawn": [{
+        "species": "paras",
+        "weight": 50,
+        "level": 30
+      },
+      {
+        "species": "foongus",
+        "weight": 50,
+        "level": 30
+      }],
+      "listOfOminousPokemonToSpawn": [{
+        "species": "parasect",
+        "weight": 50,
+        "level": 60
+      },
+      {
+        "species": "amoonguss",
+        "weight": 50,
+        "level": 60
+      }]
+    }
+  ]
+}

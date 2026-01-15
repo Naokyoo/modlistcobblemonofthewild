@@ -1,0 +1,96 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+        "bonus_rolls": 0.0,
+        "entries": [
+        {
+            "type": "loot_table",
+            "value": "academy:basic/t3"
+        }
+    ],
+        "rolls": {
+            "type": "minecraft:uniform",
+            "max": 1.0,
+            "min": 1.0
+        }
+    },
+    {
+          "rolls": 2,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:wheat",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 2
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "rolls": 4,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:tnt",
+                  "weight": 1
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:rotten_flesh",
+                  "weight": 1
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:gunpowder",
+                  "weight": 1
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:lantern",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 0,
+                              "max": 1
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:bow",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 0,
+                              "max": 1
+                          }
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}

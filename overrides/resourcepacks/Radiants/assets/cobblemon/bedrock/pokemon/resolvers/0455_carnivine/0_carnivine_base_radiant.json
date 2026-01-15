@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:carnivine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:carnivine",
+      "model": "cobblemon:carnivine.geo",
+      "texture": "cobblemon:textures/pokemon/0455_carnivine/carnivine_radiant.png",
+      "layers": []
+    }
+  ]
+}

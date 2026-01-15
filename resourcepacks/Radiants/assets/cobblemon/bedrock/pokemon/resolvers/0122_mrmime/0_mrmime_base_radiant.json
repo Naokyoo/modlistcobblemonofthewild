@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:mrmime",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:mrmime",
+      "model": "cobblemon:mr_mime.geo",
+      "texture": "cobblemon:textures/pokemon/0122_mrmime/mr_mime_radiant.png",
+      "layers": []
+    }
+  ]
+}

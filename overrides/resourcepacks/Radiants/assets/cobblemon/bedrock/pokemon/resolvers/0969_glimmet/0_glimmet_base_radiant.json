@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:glimmet",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:glimmet",
+      "model": "cobblemon:glimmet.geo",
+      "texture": "cobblemon:textures/pokemon/0969_glimmet/glimmet_radiant.png",
+      "layers": []
+    }
+  ]
+}

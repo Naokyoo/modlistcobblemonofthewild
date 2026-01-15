@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:dusknoir",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dusknoir",
+      "model": "cobblemon:dusknoir.geo",
+      "texture": "cobblemon:textures/pokemon/0477_dusknoir/dusknoir_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0477_dusknoir/dusknoir_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

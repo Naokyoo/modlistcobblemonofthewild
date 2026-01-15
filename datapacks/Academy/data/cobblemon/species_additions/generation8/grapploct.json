@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:grapploct",
+  "implemented": true,
+  "baseScale": 1.0,
+  "hitbox": {
+    "width": 0.62,
+    "height": 1.52,
+    "fixed": false
+  }
+}

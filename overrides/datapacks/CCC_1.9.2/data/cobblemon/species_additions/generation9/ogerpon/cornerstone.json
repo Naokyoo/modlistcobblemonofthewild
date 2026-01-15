@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:ogerpon",
+  "forms": [
+    {
+      "name": "Cornerstone",
+      "primaryType": "grass",
+      "secondaryType": "rock",
+      "maleRatio": 0,
+      "height": 12,
+      "weight": 398,
+      "pokedex": [
+        "cobblemon.species.ogerpon-cornerstone.desc"
+      ],
+      "labels": [
+        "gen9",
+        "legendary"
+      ],
+      "aspects": [
+        "cornerstone-mask"
+      ],
+      "abilities": [
+        "sturdy",
+        "h:sturdy"
+      ],
+      "eggCycles": 5,
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

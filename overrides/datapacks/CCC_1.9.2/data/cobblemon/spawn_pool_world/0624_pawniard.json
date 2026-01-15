@@ -1,0 +1,83 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "pawniard-1",
+      "pokemon": "pawniard",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-35",
+      "weight": 20,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:water"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "pawniard-2",
+      "pokemon": "pawniard",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-35",
+      "weight": 10,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_basalt"
+        ]
+      }
+    },
+    {
+      "id": "pawniard-3",
+      "pokemon": "pawniard",
+      "presets": [
+        "natural",
+        "nether_structures"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-35",
+      "weight": 15,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_nether"
+        ]
+      }
+    },
+    {
+      "id": "pawniard-4",
+      "pokemon": "pawniard",
+      "presets": [
+        "natural",
+        "pillager_outpost"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-35",
+      "weight": 20,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "timeRange": "night"
+      }
+    }
+  ]
+}

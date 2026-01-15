@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_badlands",
+	  "#cobblemon:is_desert",
+    "#cobblemon:is_savanna",
+    {
+      "id": "regions_unexplored:arid_mountains",
+      "required": false 
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:samurott",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:samurott",
+      "model": "cobblemon:samurott.geo",
+      "texture": "cobblemon:textures/pokemon/0503_samurott/samurott_radiant.png",
+      "layers": []
+    }
+  ]
+}

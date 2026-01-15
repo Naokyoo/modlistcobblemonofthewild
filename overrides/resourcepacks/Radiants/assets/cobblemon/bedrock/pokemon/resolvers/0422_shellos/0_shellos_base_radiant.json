@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:shellos",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:shellos_west",
+      "model": "cobblemon:shellos_west.geo",
+      "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_west_radiant.png",
+      "layers": []
+    }
+  ]
+}

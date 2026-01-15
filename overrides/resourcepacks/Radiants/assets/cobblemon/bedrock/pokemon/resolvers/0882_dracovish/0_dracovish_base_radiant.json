@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:dracovish",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dracovish",
+      "model": "cobblemon:dracovish.geo",
+      "texture": "cobblemon:textures/pokemon/0882_dracovish/dracovish_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:magby",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:magby",
+      "model": "cobblemon:magby.geo",
+      "texture": "cobblemon:textures/pokemon/0240_magby/magby_radiant.png",
+      "layers": []
+    }
+  ]
+}

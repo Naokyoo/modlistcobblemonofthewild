@@ -1,0 +1,22 @@
+{
+  "target": "cobblemon:naganadel",
+  "implemented": true,
+  "behaviour": {
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.6,
+        "canWalk": true,
+        "avoidsLand": false
+      },
+      "fly": {
+        "canFly": true
+      },
+      "swim": {
+        "swimSpeed": 0.4,
+        "canSwimInWater": false,
+        "canBreatheUnderwater": false
+      }
+    }
+  }
+}

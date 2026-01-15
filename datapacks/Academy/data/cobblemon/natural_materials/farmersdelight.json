@@ -1,0 +1,390 @@
+[
+    {
+        "content": 1,
+        "item": "farmersdelight:cabbage_seeds"
+    },
+    {
+        "content": 1,
+        "item": "farmersdelight:tomato_seeds"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:cabbage"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:tomato"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:onion"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:rice_panicle"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:rice"
+    },
+    {
+        "content": 1,
+        "item": "farmersdelight:straw"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:rotten_tomato"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:fried_egg"
+    },
+    {
+        "content": 1,
+        "item": "farmersdelight:milk_bottle",
+        "returnItem": "minecraft:glass_bottle"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:hot_cocoa",
+        "returnItem":"minecraft:glass_bottle"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:apple_cider",
+        "returnItem":"minecraft:glass_bottle"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:melon_juice",
+        "returnItem":"minecraft:glass_bottle"
+    },
+    {
+        "content": 1,
+        "item": "farmersdelight:tomato_sauce",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:wheat_dough"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:raw_pasta"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cabbage_leaf"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:minced_beef"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:beef_patty"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:chicken_cuts"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cooked_chicken_cuts"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:bacon"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cooked_bacon"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:cod_slice"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cooked_cod_slice"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:salmon_slice"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cooked_salmon_slice"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:mutton_chops"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cooked_mutton_chops"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:pie_crust"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:apple_pie"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:sweet_berry_cheesecake"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:chocolate_pie"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:cake_slice"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:apple_pie_slice"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:sweet_berry_cheesecake_slice"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:chocolate_pie_slice"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:sweet_berry_cookie"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:honey_cookie"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:melon_popsicle"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:glow_berry_custard",
+        "returnItem":"minecraft:glass_bottle"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:fruit_salad",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:mixed_salad",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:nether_salad",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:barbecue_stick",
+        "returnItem":"minecraft:stick"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:egg_sandwich"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:chicken_sandwich"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:hamburger"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:bacon_sandwich"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:mutton_wrap"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:dumplings"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:stuffed_potato"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:cabbage_rolls"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:salmon_roll"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:cod_roll"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:kelp_roll"
+    },
+    {
+        "content": 2,
+        "item": "farmersdelight:kelp_roll_slice"
+    },
+    {
+        "content": 4,
+        "item": "farmersdelight:cooked_rice",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 8,
+        "item": "farmersdelight:bone_broth",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:beef_stew",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:chicken_soup",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:vegetable_soup",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:fish_stew",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:fried_rice",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:pumpkin_soup",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:baked_cod_stew",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:noodle_soup",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:bacon_and_eggs",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 32,
+        "item": "farmersdelight:pasta_with_meatballs",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 32,
+        "item": "farmersdelight:pasta_with_mutton_chop",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:mushroom_rice",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 32,
+        "item": "farmersdelight:roasted_mutton_chops",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 32,
+        "item": "farmersdelight:vegetable_noodles",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 32,
+        "item": "farmersdelight:steak_and_potatoes",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:ratatouille",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 32,
+        "item": "farmersdelight:squid_ink_pasta",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:grilled_salmon",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 64,
+        "item": "farmersdelight:roast_chicken_block",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:roast_chicken",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 64,
+        "item": "farmersdelight:stuffed_pumpkin_block"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:stuffed_pumpkin",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 64,
+        "item": "farmersdelight:shepherds_pie_block",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:shepherds_pie",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 64,
+        "item": "farmersdelight:rice_roll_medley_block",
+        "returnItem":"minecraft:bowl"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:dog_food"
+    },
+    {
+        "content": 16,
+        "item": "farmersdelight:horse_feed"
+    }
+]

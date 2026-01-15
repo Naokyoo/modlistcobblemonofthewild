@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:pikipek",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:pikipek",
+      "model": "cobblemon:pikipek.geo",
+      "texture": "cobblemon:textures/pokemon/0731_pikipek/pikipek_radiant.png",
+      "layers": []
+    }
+  ]
+}

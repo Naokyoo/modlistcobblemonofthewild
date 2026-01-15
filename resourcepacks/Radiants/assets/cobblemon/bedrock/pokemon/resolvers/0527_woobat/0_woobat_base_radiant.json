@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:woobat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:woobat",
+      "model": "cobblemon:woobat.geo",
+      "texture": "cobblemon:textures/pokemon/0527_woobat/woobat_radiant.png",
+      "layers": []
+    }
+  ]
+}

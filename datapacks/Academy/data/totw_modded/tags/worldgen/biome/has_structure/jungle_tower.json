@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:is_jungle",
+        "#biomeswevegone:jungle",
+        {
+            "id": "#c:is_jungle",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:rainforest",
+            "required": false
+          },
+          {
+            "id": "regions_unexplored:sparse_rainforest",
+            "required": false
+          },
+          {
+            "id": "regions_unexplored:eucalyptus_forest",
+            "required": false
+          },
+          {
+            "id": "regions_unexplored:tropics",
+            "required": false
+          }
+    ]
+}

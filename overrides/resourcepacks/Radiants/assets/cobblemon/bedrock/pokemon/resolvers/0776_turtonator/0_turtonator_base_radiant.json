@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:turtonator",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:turtonator",
+      "model": "cobblemon:turtonator.geo",
+      "texture": "cobblemon:textures/pokemon/0776_turtonator/turtonator_radiant.png",
+      "layers": []
+    }
+  ]
+}

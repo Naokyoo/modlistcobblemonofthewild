@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:metagross",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:metagross",
+      "model": "cobblemon:metagross.geo",
+      "texture": "cobblemon:textures/pokemon/0376_metagross/metagross_radiant.png",
+      "layers": []
+    }
+  ]
+}

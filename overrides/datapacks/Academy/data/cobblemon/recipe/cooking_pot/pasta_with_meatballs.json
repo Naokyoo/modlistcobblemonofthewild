@@ -1,0 +1,25 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:minced_beef"
+    },
+    {
+      "tag": "c:foods/pasta"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:pasta_with_meatballs"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

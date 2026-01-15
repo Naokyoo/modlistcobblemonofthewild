@@ -1,0 +1,45 @@
+{
+  "configVersion": "1.11.2",
+  "pokemonConfigs": {
+    "default (You can modify anything BELOW this, but dont delete it!)": {
+      "enabled": true,
+      "alwaysAlert": true,
+      "alertShiny": true,
+      "alertHiddenAbility": true,
+      "alertDespawned": true,
+      "showLegendary": true,
+      "statDisplayModes": {
+        "level": "DISABLED",
+        "ivs": "DISABLED",
+        "evs": "DISABLED",
+        "nature": "DISABLED",
+        "ability": "DISABLED",
+        "gender": "DISABLED",
+        "coordinates": "DISABLED",
+        "biome": "MAIN_MESSAGE",
+        "nearestPlayer": "DISABLED"
+      },
+      "customAlertMessage": "",
+      "sounds": {
+        "shiny": "",
+        "legendary": "",
+        "mythical": "",
+        "ultrabeast": "",
+        "paradox": "",
+        "starter": "",
+        "unregistered": "",
+        "uncaught": "",
+        "ivs": "",
+        "evs": ""
+      },
+      "customAlertSound": "",
+      "autoGlow": false,
+      "journeyMap": {
+        "enableWaypoint": false,
+        "waypointName": "",
+        "waypointHexColor": "",
+        "persistent": false
+      }
+    }
+  }
+}

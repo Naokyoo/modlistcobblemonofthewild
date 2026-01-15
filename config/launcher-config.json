@@ -1,0 +1,15 @@
+{
+    "serverName": "Cobblemon Server",
+    "serverIp": "play.cobblemon.fr",
+    "serverPort": 25565,
+    "minecraftVersion": "1.21.1",
+    "fabricVersion": "latest",
+    "discordLink": "https://discord.gg/cobblemon",
+    "websiteLink": "https://cobblemon.fr",
+    "modsUrl": "",
+    "resourcesUrl": "",
+    "maxRam": "4G",
+    "minRam": "2G",
+    "username": "",
+    "autoConnect": false
+}

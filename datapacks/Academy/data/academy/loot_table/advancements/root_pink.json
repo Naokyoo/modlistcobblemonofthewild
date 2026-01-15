@@ -1,0 +1,103 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 12.0,"min": 12.0},"function":"minecraft:set_count"}],
+          "name": "cobblemon:roseate_ball"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "knowlogy:knowlogy_book"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pokedex_pink"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:small_poke_bag"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:card_album",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "academy:card_album": "base"
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pink_apricorn_seed"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_colbur_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_kasib_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_payapa_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_nanab_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_pecha_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

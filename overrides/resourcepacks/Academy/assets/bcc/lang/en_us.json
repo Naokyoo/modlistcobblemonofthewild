@@ -1,0 +1,4 @@
+{
+  "bcc.gui.tooltip.compatible_server": "§bServer: %s\n§bClient (You): %s",
+  "bcc.gui.tooltip.incompatible_server": "§7You are not running the same version of the modpack as the server\n \n§cServer: %s\n§cClient (You): %s"
+}

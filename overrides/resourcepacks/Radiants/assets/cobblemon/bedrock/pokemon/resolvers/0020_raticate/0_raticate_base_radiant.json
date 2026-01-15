@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:raticate",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:raticate",
+      "model": "cobblemon:raticate_male.geo",
+      "texture": "cobblemon:textures/pokemon/0020_raticate/raticate_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:crimson_forest",
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": true
+    }
+  ]
+}

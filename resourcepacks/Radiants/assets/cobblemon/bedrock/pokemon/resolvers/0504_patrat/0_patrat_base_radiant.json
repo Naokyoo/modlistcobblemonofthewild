@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:patrat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:patrat",
+      "model": "cobblemon:patrat.geo",
+      "texture": "cobblemon:textures/pokemon/0504_patrat/patrat_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0504_patrat/patrat_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

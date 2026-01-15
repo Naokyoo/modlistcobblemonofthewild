@@ -1,0 +1,45 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_red",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_yellow",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_green",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_blue",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_pink",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_black",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:advancements/root_white",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

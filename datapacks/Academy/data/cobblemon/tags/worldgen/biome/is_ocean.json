@@ -1,0 +1,24 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_ocean",
+    "#cobblemon:is_cold_ocean",
+    "#cobblemon:is_deep_ocean",
+    "#cobblemon:is_frozen_ocean",
+    "#cobblemon:is_lukewarm_ocean",
+    "#cobblemon:is_temperate_ocean",
+    "#cobblemon:is_warm_ocean",
+    {
+      "id": "#c:is_ocean",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:rocky_reef",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:hyacinth_deeps",
+      "required": false 
+    }
+  ]
+}

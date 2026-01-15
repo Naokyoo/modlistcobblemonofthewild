@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:ogerpon",
+  "forms": [
+    {
+      "name": "Wellspring",
+      "primaryType": "grass",
+      "secondaryType": "water",
+      "maleRatio": 0,
+      "height": 12,
+      "weight": 398,
+      "pokedex": [
+        "cobblemon.species.ogerpon-wellspring.desc"
+      ],
+      "labels": [
+        "gen9",
+        "legendary"
+      ],
+      "aspects": [
+        "wellspring-mask"
+      ],
+      "abilities": [
+        "waterabsorb",
+        "h:waterabsorb"
+      ],
+      "eggCycles": 5,
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

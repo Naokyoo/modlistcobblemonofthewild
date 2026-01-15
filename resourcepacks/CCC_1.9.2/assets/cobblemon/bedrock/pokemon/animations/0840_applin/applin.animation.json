@@ -1,0 +1,239 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.applin.ground_idle": {
+      "loop": true,
+      "bones": {
+        "tail_1": {
+          "rotation": [
+            0,
+            "math.sin(q.anim_time*90*2+125)*6",
+            0
+          ]
+        },
+        "tail_2": {
+          "rotation": [
+            0,
+            "math.sin(q.anim_time*90*2+125)*6",
+            0
+          ]
+        },
+        "eye": {
+          "rotation": [
+            "-2.25+math.sin(q.anim_time*90*2-60)*3",
+            0,
+            0
+          ]
+        },
+        "head": {
+          "rotation": [
+            "-math.sin(q.anim_time*90*2+90)*2",
+            0,
+            "math.sin(q.anim_time*90*2)*1"
+          ]
+        }
+      }
+    },
+    "animation.applin.ground_walk": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {
+        "tail_1": {
+          "rotation": [
+            "-math.clamp(math.sin(-q.anim_time*90*4-120)*20,0,20)+math.clamp(math.sin(-q.anim_time*90*4+60)*4,0,20)",
+            0,
+            0
+          ],
+          "position": [
+            0,
+            "0.25+math.clamp(math.sin(q.anim_time*90*4-45)*1,0,20)-math.clamp(math.sin(q.anim_time*90*4-45+180)*1,0,10)",
+            "-math.clamp(math.sin(q.anim_time*90*4-30)*0.5,0,50)"
+          ]
+        },
+        "tail_2": {
+          "rotation": [
+            "-8.5+(math.sin(q.anim_time*90*4)*1+1)*5+math.clamp(math.sin(q.anim_time*90*4-30)*5,0,20)",
+            0,
+            0
+          ],
+          "position": [
+            0,
+            "math.clamp(math.sin(q.anim_time*90*4-30)*0.5,0,50)",
+            "-math.clamp(math.sin(q.anim_time*90*4-30)*1,0,50)"
+          ]
+        },
+        "eye": {
+          "rotation": [
+            "-2.25+math.sin(q.anim_time*90*4-60)*4",
+            0,
+            0
+          ]
+        },
+        "bone2": {
+          "rotation": [
+            "-1.25+math.sin(q.anim_time*90*4-90)*1",
+            0,
+            0
+          ],
+          "position": [
+            0,
+            "0+math.sin(q.anim_time*90*4+30)*0.1",
+            0
+          ]
+        },
+        "applin": {
+          "position": [
+            0,
+            0,
+            "-math.clamp(math.sin(q.anim_time*90*4)*1,0,1)-math.clamp(math.sin(-q.anim_time*90*1)*1,0,1)"
+          ]
+        }
+      }
+    },
+    "animation.applin.cry": {
+      "animation_length": 1.0833,
+      "bones": {
+        "applin": {
+          "position": {
+            "0.0833": [
+              0,
+              0,
+              0
+            ],
+            "0.2083": [
+              0,
+              0,
+              0
+            ],
+            "0.2917": [
+              0,
+              0,
+              0
+            ],
+            "0.375": [
+              0,
+              6,
+              0
+            ],
+            "0.5417": [
+              0,
+              0,
+              0
+            ]
+          },
+          "scale": {
+            "0.0833": [
+              1,
+              1,
+              1
+            ],
+            "0.2083": [
+              1,
+              0.8,
+              1
+            ],
+            "0.2917": [
+              1,
+              1.1,
+              1
+            ],
+            "0.375": [
+              1,
+              0.9,
+              1
+            ],
+            "0.5417": [
+              1,
+              1.1,
+              1
+            ],
+            "0.625": [
+              1,
+              0.8,
+              1
+            ],
+            "0.8333": [
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        "tail_1": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.2917": [
+              -7.5,
+              0,
+              0
+            ],
+            "0.375": [
+              -22.5,
+              0,
+              0
+            ],
+            "0.4167": [
+              -12.5,
+              0,
+              0
+            ],
+            "0.5": [
+              20,
+              0,
+              0
+            ],
+            "1.0": [
+              0,
+              0,
+              0
+            ]
+          },
+          "scale": 1
+        },
+        "tail_2": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.2917": [
+              0,
+              0,
+              0
+            ],
+            "0.375": [
+              -37.5,
+              0,
+              0
+            ],
+            "0.4167": [
+              -7.5,
+              0,
+              0
+            ],
+            "0.6667": [
+              -12.5,
+              0,
+              0
+            ],
+            "1.0": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      "sound_effects": {
+        "0.0417": {
+          "effect": "pokemon.applin.cry"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#trek:forest/dark_oak/is_dark_forest",
+    "#trek:forest/oak/is_oak_forest",
+    "#trek:forest/spruce/is_windswept_forest",
+    "#trek:forest/spruce/is_normal_taiga",
+    "#trek:plains/is_plains_no_snow",
+    "#trek:slopes/is_slopes_no_snow",
+    "#trek:plains/is_plains",
+    "#trek:mountain/is_stony_peaks",
+    "#trek:beach/is_stony_shore"
+  ]
+}

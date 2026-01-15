@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:nidoranm",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:nidoranm",
+      "model": "cobblemon:nidoranm.geo",
+      "texture": "cobblemon:textures/pokemon/0032_nidoranm/nidoranm_radiant.png",
+      "layers": []
+    }
+  ]
+}

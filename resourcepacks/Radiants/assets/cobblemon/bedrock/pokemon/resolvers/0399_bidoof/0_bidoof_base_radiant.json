@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bidoof",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bidoof",
+      "model": "cobblemon:bidoof_male.geo",
+      "texture": "cobblemon:textures/pokemon/0399_bidoof/bidoof_radiant.png",
+      "layers": []
+    }
+  ]
+}

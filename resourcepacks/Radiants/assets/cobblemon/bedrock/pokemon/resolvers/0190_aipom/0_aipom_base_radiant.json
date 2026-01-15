@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:aipom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:aipom",
+      "model": "cobblemon:aipom_male.geo",
+      "texture": "cobblemon:textures/pokemon/0190_aipom/aipom_radiant.png",
+      "layers": []
+    }
+  ]
+}

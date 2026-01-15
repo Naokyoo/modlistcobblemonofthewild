@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:feraligatr",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:feraligatr",
+      "model": "cobblemon:feraligatr.geo",
+      "texture": "cobblemon:textures/pokemon/0160_feraligatr/feraligatr_radiant.png",
+      "layers": []
+    }
+  ]
+}

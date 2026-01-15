@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:staryu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:staryu",
+      "model": "cobblemon:staryu.geo",
+      "texture": "cobblemon:textures/pokemon/0120_staryu/staryu_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0120_staryu/staryu_emissive_radiant.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

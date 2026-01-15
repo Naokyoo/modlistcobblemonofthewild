@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tynamo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tynamo",
+      "model": "cobblemon:tynamo.geo",
+      "texture": "cobblemon:textures/pokemon/0602_tynamo/tynamo_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bewear",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bewear",
+      "model": "cobblemon:bewear.geo",
+      "texture": "cobblemon:textures/pokemon/0760_bewear/bewear_radiant.png",
+      "layers": []
+    }
+  ]
+}

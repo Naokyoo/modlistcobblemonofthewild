@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:claydol",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:claydol",
+      "model": "cobblemon:claydol.geo",
+      "texture": "cobblemon:textures/pokemon/0344_claydol/claydol_radiant.png",
+      "layers": []
+    }
+  ]
+}

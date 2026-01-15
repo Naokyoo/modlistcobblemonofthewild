@@ -1,0 +1,104 @@
+{
+  "implemented": true,
+  "target": "cobblemon:thundurus",
+  "baseScale": 1.1,
+  "hitbox": {
+    "width": 1.5,
+    "height": 2.5,
+    "fixed": false
+  },
+  "evolutions": [
+    {
+      "id": "thundurus_therian",
+      "variant": "level_up",
+      "result": "thundurus mirror_forme=therian",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:wide_lens"
+        }
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "name": "Therian",
+      "baseScale": 0.5,
+      "primaryType": "electric",
+      "secondaryType": "flying",
+      "maleRatio": 1,
+      "height": 30,
+      "weight": 610,
+      "pokedex": [
+        "cobblemon.species.thundurus-therian.desc"
+      ],
+      "labels": [
+        "gen5",
+        "legendary"
+      ],
+      "aspects": [
+        "therian-forme"
+      ],
+      "abilities": [
+        "voltabsorb",
+        "h:voltabsorb"
+      ],
+      "baseStats": {
+        "hp": 79,
+        "attack": 105,
+        "defence": 70,
+        "special_attack": 145,
+        "special_defence": 80,
+        "speed": 101
+      },
+      "evYield": {
+        "hp": 0,
+        "attack": 0,
+        "defence": 0,
+        "special_attack": 3,
+        "special_defence": 0,
+        "speed": 0
+      },
+      "evolutions": [
+        {
+          "id": "thundurus_incarnate",
+          "variant": "level_up",
+          "result": "thundurus mirror_forme=incarnate",
+          "consumeHeldItem": false,
+          "learnableMoves": [],
+          "requirements": [
+            {
+              "variant": "held_item",
+              "itemCondition": "cobblemon:wide_lens"
+            }
+          ]
+        }
+      ],
+      "battleOnly": false
+    }
+  ],
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "avoidsWater": true
+      },
+      "fly": {
+        "canFly": true
+      },
+      "walk": {
+        "canWalk": false
+      }
+    },
+    "combat": {
+      "willDefendSelf": true,
+      "willDefendOwner": true,
+      "willFlee": false
+    },
+    "resting": {
+      "drowsyChance": 0.0333,
+      "rouseChance": 0.0042
+    }
+  }
+}

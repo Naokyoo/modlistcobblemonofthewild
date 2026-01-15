@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:mareep",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:mareep",
+      "model": "cobblemon:mareep.geo",
+      "texture": "cobblemon:textures/pokemon/0179_mareep/mareep_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0179_mareep/mareep_emissive_radiant.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2572 @@
+{
+  "values": {
+    "001bulbasaur": {
+      "name": "cobblemon.species.bulbasaur.name",
+      "SHINY": {
+        "model": "academy:card/icon/001bulbasaurshiny",
+        "colors": [
+          10875010,
+          3702354
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/001bulbasaur",
+        "colors": [
+          3856069,
+          2980968
+        ]
+      }
+    },
+    "002ivysaur": {
+      "name": "cobblemon.species.ivysaur.name",
+      "SHINY": {
+        "model": "academy:card/icon/002ivysaurshiny",
+        "colors": [
+          12382070,
+          4557142
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/002ivysaur",
+        "colors": [
+          3591871,
+          8550254
+        ]
+      }
+    },
+    "003venusaur": {
+      "name": "cobblemon.species.venusaur.name",
+      "SHINY": {
+        "model": "academy:card/icon/003venusaurshiny",
+        "colors": [
+          12185721,
+          7375708
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/003venusaur",
+        "colors": [
+          4901818,
+          9530209
+        ]
+      }
+    },
+    "004charmander": {
+      "name": "cobblemon.species.charmander.name",
+      "SHINY": {
+        "model": "academy:card/icon/004charmandershiny",
+        "colors": [
+          16506463,
+          15640388
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/004charmander",
+        "colors": [
+          16099937,
+          12473377
+        ]
+      }
+    },
+    "005charmeleon": {
+      "name": "cobblemon.species.charmeleon.name",
+      "SHINY": {
+        "model": "academy:card/icon/005charmeleonshiny",
+        "colors": [
+          15515216,
+          16378545
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/005charmeleon",
+        "colors": [
+          14043705,
+          14988180
+        ]
+      }
+    },
+    "006charizard": {
+      "name": "cobblemon.species.charizard.name",
+      "SHINY": {
+        "model": "academy:card/icon/006charizardshiny",
+        "colors": [
+          6318709,
+          6109762
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/006charizard",
+        "colors": [
+          16160856,
+          9793351
+        ]
+      }
+    },
+    "007squirtle": {
+      "name": "cobblemon.species.squirtle.name",
+      "SHINY": {
+        "model": "academy:card/icon/007squirtleshiny",
+        "colors": [
+          10940131,
+          11635800
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/007squirtle",
+        "colors": [
+          8643034,
+          10970681
+        ]
+      }
+    },
+    "008wartortle": {
+      "name": "cobblemon.species.wartortle.name",
+      "SHINY": {
+        "model": "academy:card/icon/008wartortleshiny",
+        "colors": [
+          12509399,
+          12026013
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/008wartortle",
+        "colors": [
+          15001842,
+          10387854
+        ]
+      }
+    },
+    "009blastoise": {
+      "name": "cobblemon.species.blastoise.name",
+      "SHINY": {
+        "model": "academy:card/icon/009blastoiseshiny",
+        "colors": [
+          12890776,
+          8546151
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/009blastoise",
+        "colors": [
+          12629932,
+          7166556
+        ]
+      }
+    },
+    "010caterpie": {
+      "name": "cobblemon.species.caterpie.name",
+      "SHINY": {
+        "model": "academy:card/icon/010caterpieshiny",
+        "colors": [
+          16769631,
+          14191431
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/010caterpie",
+        "colors": [
+          15261020,
+          7771194
+        ]
+      }
+    },
+    "011metapod": {
+      "name": "cobblemon.species.metapod.name",
+      "SHINY": {
+        "model": "academy:card/icon/011metapodshiny",
+        "colors": [
+          16741197,
+          13452835
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/011metapod",
+        "colors": [
+          6933574,
+          3122476
+        ]
+      }
+    },
+    "012butterfree": {
+      "name": "cobblemon.species.butterfree.name",
+      "SHINY": {
+        "model": "academy:card/icon/012butterfreeshiny",
+        "colors": [
+          3221567,
+          14667710
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/012butterfree",
+        "colors": [
+          3875895,
+          13161440
+        ]
+      }
+    },
+    "013weedle": {
+      "name": "cobblemon.species.weedle.name",
+      "SHINY": {
+        "model": "academy:card/icon/013weedleshiny",
+        "colors": [
+          15983527,
+          14392922
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/013weedle",
+        "colors": [
+          13462857,
+          15971222
+        ]
+      }
+    },
+    "014kakuna": {
+      "name": "cobblemon.species.kakuna.name",
+      "SHINY": {
+        "model": "academy:card/icon/014kakunashiny",
+        "colors": [
+          9170781,
+          4362015
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/014kakuna",
+        "colors": [
+          16438359,
+          10711590
+        ]
+      }
+    },
+    "015beedrill": {
+      "name": "cobblemon.species.beedrill.name",
+      "SHINY": {
+        "model": "academy:card/icon/015beedrillshiny",
+        "colors": [
+          11330452,
+          5331310
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/015beedrill",
+        "colors": [
+          15323035,
+          5393497
+        ]
+      }
+    },
+    "016pidgey": {
+      "name": "cobblemon.species.pidgey.name",
+      "SHINY": {
+        "model": "academy:card/icon/016pidgeyshiny",
+        "colors": [
+          15593343,
+          10264894
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/016pidgey",
+        "colors": [
+          15386266,
+          9525044
+        ]
+      }
+    },
+    "017pidgeotto": {
+      "name": "cobblemon.species.pidgeotto.name",
+      "SHINY": {
+        "model": "academy:card/icon/017pidgeottoshiny",
+        "colors": [
+          16247195,
+          14006340
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/017pidgeotto",
+        "colors": [
+          15518865,
+          12477257
+        ]
+      }
+    },
+    "018pidgeot": {
+      "name": "cobblemon.species.pidgeot.name",
+      "SHINY": {
+        "model": "academy:card/icon/018pidgeotshiny",
+        "colors": [
+          16568415,
+          13011249
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/018pidgeot",
+        "colors": [
+          12664868,
+          15183985
+        ]
+      }
+    },
+    "019rattata": {
+      "name": "cobblemon.species.rattata.name",
+      "SHINY": {
+        "model": "academy:card/icon/019rattatashiny",
+        "colors": [
+          13757857,
+          13420438
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/019rattata",
+        "colors": [
+          7481955,
+          11237783
+        ]
+      }
+    },
+    "020raticate": {
+      "name": "cobblemon.species.raticate.name",
+      "SHINY": {
+        "model": "academy:card/icon/020raticateshiny",
+        "colors": [
+          15455407,
+          12144687
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/020raticate",
+        "colors": [
+          12225886,
+          15125406
+        ]
+      }
+    },
+    "021spearow": {
+      "name": "cobblemon.species.spearow.name",
+      "SHINY": {
+        "model": "academy:card/icon/021spearowshiny",
+        "colors": [
+          15129973,
+          11441736
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/021spearow",
+        "colors": [
+          15380624,
+          11948356
+        ]
+      }
+    },
+    "022fearow": {
+      "name": "cobblemon.species.fearow.name",
+      "SHINY": {
+        "model": "academy:card/icon/022fearowshiny",
+        "colors": [
+          13816481,
+          11379027
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/022fearow",
+        "colors": [
+          11888193,
+          15055001
+        ]
+      }
+    },
+    "023ekans": {
+      "name": "cobblemon.species.ekans.name",
+      "SHINY": {
+        "model": "academy:card/icon/023ekansshiny",
+        "colors": [
+          10598505,
+          6979134
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/023ekans",
+        "colors": [
+          14582672,
+          10829447
+        ]
+      }
+    },
+    "024arbok": {
+      "name": "cobblemon.species.arbok.name",
+      "SHINY": {
+        "model": "academy:card/icon/024arbokshiny",
+        "colors": [
+          16767863,
+          10317880
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/024arbok",
+        "colors": [
+          13262507,
+          7811683
+        ]
+      }
+    },
+    "025pikachu": {
+      "name": "cobblemon.species.pikachu.name",
+      "SHINY": {
+        "model": "academy:card/icon/025pikachushiny",
+        "colors": [
+          16754759,
+          8930100
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/025pikachu",
+        "colors": [
+          16766794,
+          8407332
+        ]
+      }
+    },
+    "026raichu": {
+      "name": "cobblemon.species.raichu.name",
+      "SHINY": {
+        "model": "academy:card/icon/026raichushiny",
+        "colors": [
+          15450284,
+          9589552
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/026raichu",
+        "colors": [
+          16499793,
+          8541226
+        ]
+      }
+    },
+    "027sandshrew": {
+      "name": "cobblemon.species.sandshrew.name",
+      "SHINY": {
+        "model": "academy:card/icon/027sandshrewshiny",
+        "colors": [
+          5536825,
+          12376732
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/027sandshrew",
+        "colors": [
+          16638591,
+          13283422
+        ]
+      }
+    },
+    "028sandslash": {
+      "name": "cobblemon.species.sandslash.name",
+      "SHINY": {
+        "model": "academy:card/icon/028sandslashshiny",
+        "colors": [
+          9775660,
+          15844520
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/028sandslash",
+        "colors": [
+          4140314,
+          13678714
+        ]
+      }
+    },
+    "029nidoranf": {
+      "name": "cobblemon.species.nidoranf.name",
+      "SHINY": {
+        "model": "academy:card/icon/029nidoranfshiny",
+        "colors": [
+          15379955,
+          10375073
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/029nidoranf",
+        "colors": [
+          12440575,
+          5931941
+        ]
+      }
+    },
+    "030nidorina": {
+      "name": "cobblemon.species.nidorina.name",
+      "SHINY": {
+        "model": "academy:card/icon/030nidorinashiny",
+        "colors": [
+          15048657,
+          10707594
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/030nidorina",
+        "colors": [
+          12255225,
+          6268602
+        ]
+      }
+    },
+    "031nidoqueen": {
+      "name": "cobblemon.species.nidoqueen.name",
+      "SHINY": {
+        "model": "academy:card/icon/031nidoqueenshiny",
+        "colors": [
+          9683086,
+          12548229
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/031nidoqueen",
+        "colors": [
+          4757953,
+          10866636
+        ]
+      }
+    },
+    "032nidoranm": {
+      "name": "cobblemon.species.nidoranm.name",
+      "SHINY": {
+        "model": "academy:card/icon/032nidoranmshiny",
+        "colors": [
+          11985379,
+          8819592
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/032nidoranm",
+        "colors": [
+          12744628,
+          7024997
+        ]
+      }
+    },
+    "033nidorino": {
+      "name": "cobblemon.species.nidorino.name",
+      "SHINY": {
+        "model": "academy:card/icon/033nidorinoshiny",
+        "colors": [
+          9617860,
+          7832955
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/033nidorino",
+        "colors": [
+          10905498,
+          9453944
+        ]
+      }
+    },
+    "034nidoking": {
+      "name": "cobblemon.species.nidoking.name",
+      "SHINY": {
+        "model": "academy:card/icon/034nidokingshiny",
+        "colors": [
+          2707100,
+          5865162
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/034nidoking",
+        "colors": [
+          11769025,
+          8410768
+        ]
+      }
+    },
+    "035clefairy": {
+      "name": "cobblemon.species.clefairy.name",
+      "SHINY": {
+        "model": "academy:card/icon/035clefairyshiny",
+        "colors": [
+          15125436,
+          11694964
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/035clefairy",
+        "colors": [
+          16757940,
+          8802384
+        ]
+      }
+    },
+    "036clefable": {
+      "name": "cobblemon.species.clefable.name",
+      "SHINY": {
+        "model": "academy:card/icon/036clefableshiny",
+        "colors": [
+          16177620,
+          13733520
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/036clefable",
+        "colors": [
+          16756398,
+          12412778
+        ]
+      }
+    },
+    "037vulpix": {
+      "name": "cobblemon.species.vulpix.name",
+      "SHINY": {
+        "model": "academy:card/icon/037vulpixshiny",
+        "colors": [
+          13009949,
+          15318345
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/037vulpix",
+        "colors": [
+          13652252,
+          15564369
+        ]
+      }
+    },
+    "038ninetales": {
+      "name": "cobblemon.species.ninetales.name",
+      "SHINY": {
+        "model": "academy:card/icon/038ninetalesshiny",
+        "colors": [
+          13355979,
+          9211287
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/038ninetales",
+        "colors": [
+          16770443,
+          14592844
+        ]
+      }
+    },
+    "039jigglypuff": {
+      "name": "cobblemon.species.jigglypuff.name",
+      "SHINY": {
+        "model": "academy:card/icon/039jigglypuffshiny",
+        "colors": [
+          15448536,
+          8087914
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/039jigglypuff",
+        "colors": [
+          15447758,
+          7563133
+        ]
+      }
+    },
+    "040wigglytuff": {
+      "name": "cobblemon.species.wigglytuff.name",
+      "SHINY": {
+        "model": "academy:card/icon/040wigglytuffshiny",
+        "colors": [
+          14389982,
+          15388655
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/040wigglytuff",
+        "colors": [
+          14912937,
+          15650267
+        ]
+      }
+    },
+    "041zubat": {
+      "name": "cobblemon.species.zubat.name",
+      "SHINY": {
+        "model": "academy:card/icon/041zubatshiny",
+        "colors": [
+          10478697,
+          10004054
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/041zubat",
+        "colors": [
+          5669853,
+          8141446
+        ]
+      }
+    },
+    "042golbat": {
+      "name": "cobblemon.species.golbat.name",
+      "SHINY": {
+        "model": "academy:card/icon/042golbatshiny",
+        "colors": [
+          8447076,
+          9789786
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/042golbat",
+        "colors": [
+          6590436,
+          5386590
+        ]
+      }
+    },
+    "043oddish": {
+      "name": "cobblemon.species.oddish.name",
+      "SHINY": {
+        "model": "academy:card/icon/043oddishshiny",
+        "colors": [
+          6595625,
+          4156199
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/043oddish",
+        "colors": [
+          2464814,
+          2966382
+        ]
+      }
+    },
+    "044gloom": {
+      "name": "cobblemon.species.gloom.name",
+      "SHINY": {
+        "model": "academy:card/icon/044gloomshiny",
+        "colors": [
+          8887100,
+          5726493
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/044gloom",
+        "colors": [
+          5648440,
+          8148067
+        ]
+      }
+    },
+    "045vileplume": {
+      "name": "cobblemon.species.vileplume.name",
+      "SHINY": {
+        "model": "academy:card/icon/045vileplumeshiny",
+        "colors": [
+          9804891,
+          8809020
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/045vileplume",
+        "colors": [
+          14775667,
+          2046305
+        ]
+      }
+    },
+    "046paras": {
+      "name": "cobblemon.species.paras.name",
+      "SHINY": {
+        "model": "academy:card/icon/046parasshiny",
+        "colors": [
+          15895417,
+          11223348
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/046paras",
+        "colors": [
+          16691310,
+          12084806
+        ]
+      }
+    },
+    "047parasect": {
+      "name": "cobblemon.species.parasect.name",
+      "SHINY": {
+        "model": "academy:card/icon/047parasectshiny",
+        "colors": [
+          16175770,
+          13994885
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/047parasect",
+        "colors": [
+          16168047,
+          13526371
+        ]
+      }
+    },
+    "048venonat": {
+      "name": "cobblemon.species.venonat.name",
+      "SHINY": {
+        "model": "academy:card/icon/048venonatshiny",
+        "colors": [
+          3624058,
+          8556478
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/048venonat",
+        "colors": [
+          8073578,
+          12482975
+        ]
+      }
+    },
+    "049venomoth": {
+      "name": "cobblemon.species.venomoth.name",
+      "SHINY": {
+        "model": "academy:card/icon/049venomothshiny",
+        "colors": [
+          9287928,
+          6722510
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/049venomoth",
+        "colors": [
+          15455204,
+          12691130
+        ]
+      }
+    },
+    "050diglett": {
+      "name": "cobblemon.species.diglett.name",
+      "SHINY": {
+        "model": "academy:card/icon/050diglettshiny",
+        "colors": [
+          9929862,
+          5655362
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/050diglett",
+        "colors": [
+          11235151,
+          5521723
+        ]
+      }
+    },
+    "051dugtrio": {
+      "name": "cobblemon.species.dugtrio.name",
+      "SHINY": {
+        "model": "academy:card/icon/051dugtrioshiny",
+        "colors": [
+          10783369,
+          5654590
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/051dugtrio",
+        "colors": [
+          11628880,
+          5783092
+        ]
+      }
+    },
+    "052meowth": {
+      "name": "cobblemon.species.meowth.name",
+      "SHINY": {
+        "model": "academy:card/icon/052meowthshiny",
+        "colors": [
+          15919809,
+          11435889
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/052meowth",
+        "colors": [
+          16379059,
+          11043413
+        ]
+      }
+    },
+    "053persian": {
+      "name": "cobblemon.species.persian.name",
+      "SHINY": {
+        "model": "academy:card/icon/053persianshiny",
+        "colors": [
+          15854286,
+          11311230
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/053persian",
+        "colors": [
+          16313267,
+          11705446
+        ]
+      }
+    },
+    "054psyduck": {
+      "name": "cobblemon.species.psyduck.name",
+      "SHINY": {
+        "model": "academy:card/icon/054psyduckshiny",
+        "colors": [
+          10150119,
+          6861761
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/054psyduck",
+        "colors": [
+          16705440,
+          13280865
+        ]
+      }
+    },
+    "055golduck": {
+      "name": "cobblemon.species.golduck.name",
+      "SHINY": {
+        "model": "academy:card/icon/055golduckshiny",
+        "colors": [
+          3583980,
+          7891605
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/055golduck",
+        "colors": [
+          3635368,
+          6798820
+        ]
+      }
+    },
+    "056mankey": {
+      "name": "cobblemon.species.mankey.name",
+      "SHINY": {
+        "model": "academy:card/icon/056mankeyshiny",
+        "colors": [
+          13822355,
+          11577430
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/056mankey",
+        "colors": [
+          15851444,
+          12683877
+        ]
+      }
+    },
+    "057primeape": {
+      "name": "cobblemon.species.primeape.name",
+      "SHINY": {
+        "model": "academy:card/icon/057primeapeshiny",
+        "colors": [
+          14729372,
+          8680525
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/057primeape",
+        "colors": [
+          15124640,
+          9265993
+        ]
+      }
+    },
+    "058growlithe": {
+      "name": "cobblemon.species.growlithe.name",
+      "SHINY": {
+        "model": "academy:card/icon/058growlitheshiny",
+        "colors": [
+          15528373,
+          12429651
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/058growlithe",
+        "colors": [
+          15585941,
+          12218429
+        ]
+      }
+    },
+    "059arcanine": {
+      "name": "cobblemon.species.arcanine.name",
+      "SHINY": {
+        "model": "academy:card/icon/059arcanineshiny",
+        "colors": [
+          16054182,
+          12428887
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/059arcanine",
+        "colors": [
+          15782802,
+          12024140
+        ]
+      }
+    },
+    "060poliwag": {
+      "name": "cobblemon.species.poliwag.name",
+      "SHINY": {
+        "model": "academy:card/icon/060poliwagshiny",
+        "colors": [
+          13430775,
+          3699587
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/060poliwag",
+        "colors": [
+          3690370,
+          13425399
+        ]
+      }
+    },
+    "061poliwhirl": {
+      "name": "cobblemon.species.poliwhirl.name",
+      "SHINY": {
+        "model": "academy:card/icon/061poliwhirlshiny",
+        "colors": [
+          11852263,
+          2247764
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/061poliwhirl",
+        "colors": [
+          2243160,
+          11847143
+        ]
+      }
+    },
+    "062poliwrath": {
+      "name": "cobblemon.species.poliwrath.name",
+      "SHINY": {
+        "model": "academy:card/icon/062poliwrathshiny",
+        "colors": [
+          12115102,
+          4547370
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/062poliwrath",
+        "colors": [
+          10072545,
+          2441320
+        ]
+      }
+    },
+    "063abra": {
+      "name": "cobblemon.species.abra.name",
+      "SHINY": {
+        "model": "academy:card/icon/063abrashiny",
+        "colors": [
+          16049314,
+          11707498
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/063abra",
+        "colors": [
+          16763249,
+          11897933
+        ]
+      }
+    },
+    "064kadabra": {
+      "name": "cobblemon.species.kadabra.name",
+      "SHINY": {
+        "model": "academy:card/icon/064kadabrashiny",
+        "colors": [
+          16444592,
+          11115122
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/064kadabra",
+        "colors": [
+          16698752,
+          10583897
+        ]
+      }
+    },
+    "065alakazam": {
+      "name": "cobblemon.species.alakazam.name",
+      "SHINY": {
+        "model": "academy:card/icon/065alakazamshiny",
+        "colors": [
+          16381872,
+          11237246
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/065alakazam",
+        "colors": [
+          16769923,
+          9464149
+        ]
+      }
+    },
+    "066machop": {
+      "name": "cobblemon.species.machop.name",
+      "SHINY": {
+        "model": "academy:card/icon/066machopshiny",
+        "colors": [
+          16180405,
+          11768968
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/066machop",
+        "colors": [
+          13828078,
+          10988704
+        ]
+      }
+    },
+    "067machoke": {
+      "name": "cobblemon.species.machoke.name",
+      "SHINY": {
+        "model": "academy:card/icon/067machokeshiny",
+        "colors": [
+          10808994,
+          8956811
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/067machoke",
+        "colors": [
+          12895728,
+          9141419
+        ]
+      }
+    },
+    "068machamp": {
+      "name": "cobblemon.species.machamp.name",
+      "SHINY": {
+        "model": "academy:card/icon/068machampshiny",
+        "colors": [
+          11009951,
+          11059852
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/068machamp",
+        "colors": [
+          14213115,
+          11840445
+        ]
+      }
+    },
+    "069bellsprout": {
+      "name": "cobblemon.species.bellsprout.name",
+      "SHINY": {
+        "model": "academy:card/icon/069bellsproutshiny",
+        "colors": [
+          15916413,
+          9075020
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/069bellsprout",
+        "colors": [
+          13557109,
+          7893324
+        ]
+      }
+    },
+    "070weepinbell": {
+      "name": "cobblemon.species.weepinbell.name",
+      "SHINY": {
+        "model": "academy:card/icon/070weepinbellshiny",
+        "colors": [
+          12972695,
+          6978131
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/070weepinbell",
+        "colors": [
+          14409872,
+          7433550
+        ]
+      }
+    },
+    "071victreebel": {
+      "name": "cobblemon.species.victreebel.name",
+      "SHINY": {
+        "model": "academy:card/icon/071victreebelshiny",
+        "colors": [
+          14083729,
+          8881516
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/071victreebel",
+        "colors": [
+          12051841,
+          10061910
+        ]
+      }
+    },
+    "072tentacool": {
+      "name": "cobblemon.species.tentacool.name",
+      "SHINY": {
+        "model": "academy:card/icon/072tentacoolshiny",
+        "colors": [
+          9879447,
+          8744356
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/072tentacool",
+        "colors": [
+          9355995,
+          8736346
+        ]
+      }
+    },
+    "073tentacruel": {
+      "name": "cobblemon.species.tentacruel.name",
+      "SHINY": {
+        "model": "academy:card/icon/073tentacruelshiny",
+        "colors": [
+          7716311,
+          5070975
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/073tentacruel",
+        "colors": [
+          8637682,
+          9061192
+        ]
+      }
+    },
+    "074geodude": {
+      "name": "cobblemon.species.geodude.name",
+      "SHINY": {
+        "model": "academy:card/icon/074geodudeshiny",
+        "colors": [
+          16113251,
+          12815143
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/074geodude",
+        "colors": [
+          13353141,
+          10392194
+        ]
+      }
+    },
+    "075graveler": {
+      "name": "cobblemon.species.graveler.name",
+      "SHINY": {
+        "model": "academy:card/icon/075gravelershiny",
+        "colors": [
+          13802331,
+          10644547
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/075graveler",
+        "colors": [
+          13747638,
+          11176320
+        ]
+      }
+    },
+    "076golem": {
+      "name": "cobblemon.species.golem.name",
+      "SHINY": {
+        "model": "academy:card/icon/076golemshiny",
+        "colors": [
+          8476201,
+          12362371
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/076golem",
+        "colors": [
+          6904398,
+          10194817
+        ]
+      }
+    },
+    "077ponyta": {
+      "name": "cobblemon.species.ponyta.name",
+      "SHINY": {
+        "model": "academy:card/icon/077ponytashiny",
+        "colors": [
+          8763864,
+          12450530
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/077ponyta",
+        "colors": [
+          16508307,
+          15103042
+        ]
+      }
+    },
+    "078rapidash": {
+      "name": "cobblemon.species.rapidash.name",
+      "SHINY": {
+        "model": "academy:card/icon/078rapidashshiny",
+        "colors": [
+          6711176,
+          13486264
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/078rapidash",
+        "colors": [
+          16771479,
+          14516047
+        ]
+      }
+    },
+    "079slowpoke": {
+      "name": "cobblemon.species.slowpoke.name",
+      "SHINY": {
+        "model": "academy:card/icon/079slowpokeshiny",
+        "colors": [
+          14526370,
+          16313572
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/079slowpoke",
+        "colors": [
+          14913157,
+          16442581
+        ]
+      }
+    },
+    "080slowbro": {
+      "name": "cobblemon.species.slowbro.name",
+      "SHINY": {
+        "model": "academy:card/icon/080slowbroshiny",
+        "colors": [
+          11242920,
+          15195349
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/080slowbro",
+        "colors": [
+          12357014,
+          15654349
+        ]
+      }
+    },
+    "081magnemite": {
+      "name": "cobblemon.species.magnemite.name",
+      "SHINY": {
+        "model": "academy:card/icon/081magnemiteshiny",
+        "colors": [
+          15659223,
+          8684940
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/081magnemite",
+        "colors": [
+          14738167,
+          9013671
+        ]
+      }
+    },
+    "082magneton": {
+      "name": "cobblemon.species.magneton.name",
+      "SHINY": {
+        "model": "academy:card/icon/082magnetonshiny",
+        "colors": [
+          14540750,
+          6908790
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/082magneton",
+        "colors": [
+          13948655,
+          8355228
+        ]
+      }
+    },
+    "083farfetchd": {
+      "name": "cobblemon.species.farfetchd.name",
+      "SHINY": {
+        "model": "academy:card/icon/083farfetchdshiny",
+        "colors": [
+          13677727,
+          10641756
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/083farfetchd",
+        "colors": [
+          12232302,
+          7758148
+        ]
+      }
+    },
+    "084doduo": {
+      "name": "cobblemon.species.doduo.name",
+      "SHINY": {
+        "model": "academy:card/icon/084doduoshiny",
+        "colors": [
+          14742458,
+          10335336
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/084doduo",
+        "colors": [
+          15976070,
+          11765063
+        ]
+      }
+    },
+    "085dodrio": {
+      "name": "cobblemon.species.dodrio.name",
+      "SHINY": {
+        "model": "academy:card/icon/085dodrioshiny",
+        "colors": [
+          15134903,
+          7230275
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/085dodrio",
+        "colors": [
+          15845267,
+          6175535
+        ]
+      }
+    },
+    "086seel": {
+      "name": "cobblemon.species.seel.name",
+      "SHINY": {
+        "model": "academy:card/icon/086seelshiny",
+        "colors": [
+          16515052,
+          14731192
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/086seel",
+        "colors": [
+          15593210,
+          13220805
+        ]
+      }
+    },
+    "087dewgong": {
+      "name": "cobblemon.species.dewgong.name",
+      "SHINY": {
+        "model": "academy:card/icon/087dewgongshiny",
+        "colors": [
+          16317662,
+          13423024
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/087dewgong",
+        "colors": [
+          15330559,
+          11975383
+        ]
+      }
+    },
+    "088grimer": {
+      "name": "cobblemon.species.grimer.name",
+      "SHINY": {
+        "model": "academy:card/icon/088grimershiny",
+        "colors": [
+          10210988,
+          5667940
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/088grimer",
+        "colors": [
+          13537728,
+          8343154
+        ]
+      }
+    },
+    "089muk": {
+      "name": "cobblemon.species.muk.name",
+      "SHINY": {
+        "model": "academy:card/icon/089mukshiny",
+        "colors": [
+          8429705,
+          4482638
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/089muk",
+        "colors": [
+          10453399,
+          6571356
+        ]
+      }
+    },
+    "090shellder": {
+      "name": "cobblemon.species.shellder.name",
+      "SHINY": {
+        "model": "academy:card/icon/090shelldershiny",
+        "colors": [
+          15249510,
+          6834985
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/090shellder",
+        "colors": [
+          10128329,
+          4013168
+        ]
+      }
+    },
+    "091cloyster": {
+      "name": "cobblemon.species.cloyster.name",
+      "SHINY": {
+        "model": "academy:card/icon/091cloystershiny",
+        "colors": [
+          8692930,
+          4281969
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/091cloyster",
+        "colors": [
+          8619712,
+          4407409
+        ]
+      }
+    },
+    "092gastly": {
+      "name": "cobblemon.species.gastly.name",
+      "SHINY": {
+        "model": "academy:card/icon/092gastlyshiny",
+        "colors": [
+          7503260,
+          2831674
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/092gastly",
+        "colors": [
+          9989528,
+          2368052
+        ]
+      }
+    },
+    "093haunter": {
+      "name": "cobblemon.species.haunter.name",
+      "SHINY": {
+        "model": "academy:card/icon/093hauntershiny",
+        "colors": [
+          3356012,
+          5595549
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/093haunter",
+        "colors": [
+          6697836,
+          9525635
+        ]
+      }
+    },
+    "094gengar": {
+      "name": "cobblemon.species.gengar.name",
+      "SHINY": {
+        "model": "academy:card/icon/094gengarshiny",
+        "colors": [
+          1578294,
+          5852532
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/094gengar",
+        "colors": [
+          1181739,
+          5059418
+        ]
+      }
+    },
+    "095onix": {
+      "name": "cobblemon.species.onix.name",
+      "SHINY": {
+        "model": "academy:card/icon/095onixshiny",
+        "colors": [
+          12109708,
+          7634511
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/095onix",
+        "colors": [
+          12238535,
+          7238527
+        ]
+      }
+    },
+    "096drowzee": {
+      "name": "cobblemon.species.drowzee.name",
+      "SHINY": {
+        "model": "academy:card/icon/096drowzeeshiny",
+        "colors": [
+          16568047,
+          8866921
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/096drowzee",
+        "colors": [
+          16572032,
+          6838594
+        ]
+      }
+    },
+    "097hypno": {
+      "name": "cobblemon.species.hypno.name",
+      "SHINY": {
+        "model": "academy:card/icon/097hypnoshiny",
+        "colors": [
+          16168656,
+          14381980
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/097hypno",
+        "colors": [
+          16574627,
+          13810293
+        ]
+      }
+    },
+    "098krabby": {
+      "name": "cobblemon.species.krabby.name",
+      "SHINY": {
+        "model": "academy:card/icon/098krabbyshiny",
+        "colors": [
+          16508309,
+          14790463
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/098krabby",
+        "colors": [
+          14777919,
+          16500373
+        ]
+      }
+    },
+    "099kingler": {
+      "name": "cobblemon.species.kingler.name",
+      "SHINY": {
+        "model": "academy:card/icon/099kinglershiny",
+        "colors": [
+          13232299,
+          9153630
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/099kingler",
+        "colors": [
+          16498827,
+          13004857
+        ]
+      }
+    },
+    "100voltorb": {
+      "name": "cobblemon.species.voltorb.name",
+      "SHINY": {
+        "model": "academy:card/icon/100voltorbshiny",
+        "colors": [
+          3364299,
+          10334451
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/100voltorb",
+        "colors": [
+          13317182,
+          15965603
+        ]
+      }
+    },
+    "101electrode": {
+      "name": "cobblemon.species.electrode.name",
+      "SHINY": {
+        "model": "academy:card/icon/101electrodeshiny",
+        "colors": [
+          16448250,
+          4212918
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/101electrode",
+        "colors": [
+          16448250,
+          11944008
+        ]
+      }
+    },
+    "102exeggcute": {
+      "name": "cobblemon.species.exeggcute.name",
+      "SHINY": {
+        "model": "academy:card/icon/102exeggcuteshiny",
+        "colors": [
+          16639415,
+          13082217
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/102exeggcute",
+        "colors": [
+          12548468,
+          16762811
+        ]
+      }
+    },
+    "103exeggutor": {
+      "name": "cobblemon.species.exeggutor.name",
+      "SHINY": {
+        "model": "academy:card/icon/103exeggutorshiny",
+        "colors": [
+          14532754,
+          9398603
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/103exeggutor",
+        "colors": [
+          12050068,
+          9076059
+        ]
+      }
+    },
+    "104cubone": {
+      "name": "cobblemon.species.cubone.name",
+      "SHINY": {
+        "model": "academy:card/icon/104cuboneshiny",
+        "colors": [
+          15330783,
+          7118949
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/104cubone",
+        "colors": [
+          15921383,
+          13080928
+        ]
+      }
+    },
+    "105marowak": {
+      "name": "cobblemon.species.marowak.name",
+      "SHINY": {
+        "model": "academy:card/icon/105marowakshiny",
+        "colors": [
+          14871750,
+          10922858
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/105marowak",
+        "colors": [
+          16248285,
+          12226654
+        ]
+      }
+    },
+    "106hitmonlee": {
+      "name": "cobblemon.species.hitmonlee.name",
+      "SHINY": {
+        "model": "academy:card/icon/106hitmonleeshiny",
+        "colors": [
+          9082727,
+          14084779
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/106hitmonlee",
+        "colors": [
+          15323554,
+          9924446
+        ]
+      }
+    },
+    "107hitmonchan": {
+      "name": "cobblemon.species.hitmonchan.name",
+      "SHINY": {
+        "model": "academy:card/icon/107hitmonchanshiny",
+        "colors": [
+          10991539,
+          4276650
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/107hitmonchan",
+        "colors": [
+          11707047,
+          11615039
+        ]
+      }
+    },
+    "108lickitung": {
+      "name": "cobblemon.species.lickitung.name",
+      "SHINY": {
+        "model": "academy:card/icon/108lickitungshiny",
+        "colors": [
+          16705729,
+          14979968
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/108lickitung",
+        "colors": [
+          16762291,
+          14646911
+        ]
+      }
+    },
+    "109koffing": {
+      "name": "cobblemon.species.koffing.name",
+      "SHINY": {
+        "model": "academy:card/icon/109koffingshiny",
+        "colors": [
+          9290418,
+          8361633
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/109koffing",
+        "colors": [
+          10771360,
+          12489907
+        ]
+      }
+    },
+    "110weezing": {
+      "name": "cobblemon.species.weezing.name",
+      "SHINY": {
+        "model": "academy:card/icon/110weezingshiny",
+        "colors": [
+          9616067,
+          9076643
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/110weezing",
+        "colors": [
+          12556720,
+          10705041
+        ]
+      }
+    },
+    "111rhyhorn": {
+      "name": "cobblemon.species.rhyhorn.name",
+      "SHINY": {
+        "model": "academy:card/icon/111rhyhornshiny",
+        "colors": [
+          14398359,
+          11040601
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/111rhyhorn",
+        "colors": [
+          11055306,
+          7238544
+        ]
+      }
+    },
+    "112rhydon": {
+      "name": "cobblemon.species.rhydon.name",
+      "SHINY": {
+        "model": "academy:card/icon/112rhydonshiny",
+        "colors": [
+          13554605,
+          10920316
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/112rhydon",
+        "colors": [
+          11646923,
+          9210519
+        ]
+      }
+    },
+    "113chansey": {
+      "name": "cobblemon.species.chansey.name",
+      "SHINY": {
+        "model": "academy:card/icon/113chanseyshiny",
+        "colors": [
+          15131595,
+          12952729
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/113chansey",
+        "colors": [
+          16633802,
+          15111318
+        ]
+      }
+    },
+    "114tangela": {
+      "name": "cobblemon.species.tangela.name",
+      "SHINY": {
+        "model": "academy:card/icon/114tangelashiny",
+        "colors": [
+          6866270,
+          6894122
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/114tangela",
+        "colors": [
+          7897519,
+          3939354
+        ]
+      }
+    },
+    "115kangaskhan": {
+      "name": "cobblemon.species.kangaskhan.name",
+      "SHINY": {
+        "model": "academy:card/icon/115kangaskhanshiny",
+        "colors": [
+          15130578,
+          9801336
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/115kangaskhan",
+        "colors": [
+          15325108,
+          10058853
+        ]
+      }
+    },
+    "116horsea": {
+      "name": "cobblemon.species.horsea.name",
+      "SHINY": {
+        "model": "academy:card/icon/116horseashiny",
+        "colors": [
+          8120271,
+          12233382
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/116horsea",
+        "colors": [
+          10742246,
+          6143185
+        ]
+      }
+    },
+    "117seadra": {
+      "name": "cobblemon.species.seadra.name",
+      "SHINY": {
+        "model": "academy:card/icon/117seadrashiny",
+        "colors": [
+          11184620,
+          6584016
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/117seadra",
+        "colors": [
+          10415604,
+          5753823
+        ]
+      }
+    },
+    "118goldeen": {
+      "name": "cobblemon.species.goldeen.name",
+      "SHINY": {
+        "model": "academy:card/icon/118goldeenshiny",
+        "colors": [
+          16316661,
+          14583356
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/118goldeen",
+        "colors": [
+          16316661,
+          14506305
+        ]
+      }
+    },
+    "119seaking": {
+      "name": "cobblemon.species.seaking.name",
+      "SHINY": {
+        "model": "academy:card/icon/119seakingshiny",
+        "colors": [
+          16185076,
+          9332266
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/119seaking",
+        "colors": [
+          16185076,
+          9322029
+        ]
+      }
+    },
+    "120staryu": {
+      "name": "cobblemon.species.staryu.name",
+      "SHINY": {
+        "model": "academy:card/icon/120staryushiny",
+        "colors": [
+          15917490,
+          10586005
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/120staryu",
+        "colors": [
+          14658130,
+          10705468
+        ]
+      }
+    },
+    "121starmie": {
+      "name": "cobblemon.species.starmie.name",
+      "SHINY": {
+        "model": "academy:card/icon/121starmieshiny",
+        "colors": [
+          10458553,
+          8538509
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/121starmie",
+        "colors": [
+          12692371,
+          8601179
+        ]
+      }
+    },
+    "122mrmime": {
+      "name": "cobblemon.species.mrmime.name",
+      "SHINY": {
+        "model": "academy:card/icon/122mrmimeshiny",
+        "colors": [
+          13232823,
+          6973056
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/122mrmime",
+        "colors": [
+          15844806,
+          5523047
+        ]
+      }
+    },
+    "123scyther": {
+      "name": "cobblemon.species.scyther.name",
+      "SHINY": {
+        "model": "academy:card/icon/123scythershiny",
+        "colors": [
+          10731596,
+          13954728
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/123scyther",
+        "colors": [
+          10669903,
+          14020264
+        ]
+      }
+    },
+    "124jynx": {
+      "name": "cobblemon.species.jynx.name",
+      "SHINY": {
+        "model": "academy:card/icon/124jynxshiny",
+        "colors": [
+          12998784,
+          15521469
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/124jynx",
+        "colors": [
+          16376708,
+          13387593
+        ]
+      }
+    },
+    "125electabuzz": {
+      "name": "cobblemon.species.electabuzz.name",
+      "SHINY": {
+        "model": "academy:card/icon/125electabuzzshiny",
+        "colors": [
+          16222823,
+          7485756
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/125electabuzz",
+        "colors": [
+          16768095,
+          7820853
+        ]
+      }
+    },
+    "126magmar": {
+      "name": "cobblemon.species.magmar.name",
+      "SHINY": {
+        "model": "academy:card/icon/126magmarshiny",
+        "colors": [
+          11289705,
+          15444928
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/126magmar",
+        "colors": [
+          16109157,
+          12598559
+        ]
+      }
+    },
+    "127pinsir": {
+      "name": "cobblemon.species.pinsir.name",
+      "SHINY": {
+        "model": "academy:card/icon/127pinsirshiny",
+        "colors": [
+          14276083,
+          7169453
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/127pinsir",
+        "colors": [
+          15722457,
+          10850158
+        ]
+      }
+    },
+    "128tauros": {
+      "name": "cobblemon.species.tauros.name",
+      "SHINY": {
+        "model": "academy:card/icon/128taurosshiny",
+        "colors": [
+          12892251,
+          5591125
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/128tauros",
+        "colors": [
+          12294502,
+          4537661
+        ]
+      }
+    },
+    "129magikarp": {
+      "name": "cobblemon.species.magikarp.name",
+      "SHINY": {
+        "model": "academy:card/icon/129magikarpshiny",
+        "colors": [
+          15451729,
+          16772761
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/129magikarp",
+        "colors": [
+          16092241,
+          16179347
+        ]
+      }
+    },
+    "130gyarados": {
+      "name": "cobblemon.species.gyarados.name",
+      "SHINY": {
+        "model": "academy:card/icon/130gyaradosshiny",
+        "colors": [
+          15590860,
+          14370384
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/130gyarados",
+        "colors": [
+          12968416,
+          7182761
+        ]
+      }
+    },
+    "131lapras": {
+      "name": "cobblemon.species.lapras.name",
+      "SHINY": {
+        "model": "academy:card/icon/131laprasshiny",
+        "colors": [
+          8872896,
+          13813447
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/131lapras",
+        "colors": [
+          10738145,
+          6591416
+        ]
+      }
+    },
+    "132ditto": {
+      "name": "cobblemon.species.ditto.name",
+      "SHINY": {
+        "model": "academy:card/icon/132dittoshiny",
+        "colors": [
+          10216697,
+          6269647
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/132ditto",
+        "colors": [
+          15901388,
+          13003151
+        ]
+      }
+    },
+    "133eevee": {
+      "name": "cobblemon.species.eevee.name",
+      "SHINY": {
+        "model": "academy:card/icon/133eeveeshiny",
+        "colors": [
+          15131871,
+          12169900
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/133eevee",
+        "colors": [
+          12557689,
+          9330753
+        ]
+      }
+    },
+    "134vaporeon": {
+      "name": "cobblemon.species.vaporeon.name",
+      "SHINY": {
+        "model": "academy:card/icon/134vaporeonshiny",
+        "colors": [
+          13876449,
+          9982608
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/134vaporeon",
+        "colors": [
+          10023409,
+          6124445
+        ]
+      }
+    },
+    "135jolteon": {
+      "name": "cobblemon.species.jolteon.name",
+      "SHINY": {
+        "model": "academy:card/icon/135jolteonshiny",
+        "colors": [
+          13432958,
+          9407101
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/135jolteon",
+        "colors": [
+          16376724,
+          12420151
+        ]
+      }
+    },
+    "136flareon": {
+      "name": "cobblemon.species.flareon.name",
+      "SHINY": {
+        "model": "academy:card/icon/136flareonshiny",
+        "colors": [
+          14673282,
+          11306527
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/136flareon",
+        "colors": [
+          15716218,
+          12080148
+        ]
+      }
+    },
+    "137porygon": {
+      "name": "cobblemon.species.porygon.name",
+      "SHINY": {
+        "model": "academy:card/icon/137porygonshiny",
+        "colors": [
+          14386394,
+          6705361
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/137porygon",
+        "colors": [
+          7466466,
+          11496565
+        ]
+      }
+    },
+    "138omanyte": {
+      "name": "cobblemon.species.omanyte.name",
+      "SHINY": {
+        "model": "academy:card/icon/138omanyteshiny",
+        "colors": [
+          14866861,
+          13726950
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/138omanyte",
+        "colors": [
+          12579567,
+          10861208
+        ]
+      }
+    },
+    "139omastar": {
+      "name": "cobblemon.species.omastar.name",
+      "SHINY": {
+        "model": "academy:card/icon/139omastarshiny",
+        "colors": [
+          12082894,
+          15189934
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/139omastar",
+        "colors": [
+          12119774,
+          9810321
+        ]
+      }
+    },
+    "140kabuto": {
+      "name": "cobblemon.species.kabuto.name",
+      "SHINY": {
+        "model": "academy:card/icon/140kabutoshiny",
+        "colors": [
+          10144065,
+          4596518
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/140kabuto",
+        "colors": [
+          13533759,
+          4004646
+        ]
+      }
+    },
+    "141kabutops": {
+      "name": "cobblemon.species.kabutops.name",
+      "SHINY": {
+        "model": "academy:card/icon/141kabutopsshiny",
+        "colors": [
+          13623467,
+          6387765
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/141kabutops",
+        "colors": [
+          9786151,
+          15521994
+        ]
+      }
+    },
+    "142aerodactyl": {
+      "name": "cobblemon.species.aerodactyl.name",
+      "SHINY": {
+        "model": "academy:card/icon/142aerodactylshiny",
+        "colors": [
+          12691405,
+          7370406
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/142aerodactyl",
+        "colors": [
+          11185357,
+          8087968
+        ]
+      }
+    },
+    "143snorlax": {
+      "name": "cobblemon.species.snorlax.name",
+      "SHINY": {
+        "model": "academy:card/icon/143snorlaxshiny",
+        "colors": [
+          16116929,
+          2840998
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/143snorlax",
+        "colors": [
+          16116929,
+          3045028
+        ]
+      }
+    },
+    "144articuno": {
+      "name": "cobblemon.species.articuno.name",
+      "SHINY": {
+        "model": "academy:card/icon/144articunoshiny",
+        "colors": [
+          13034739,
+          5413311
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/144articuno",
+        "colors": [
+          10476280,
+          2856139
+        ]
+      }
+    },
+    "145zapdos": {
+      "name": "cobblemon.species.zapdos.name",
+      "SHINY": {
+        "model": "academy:card/icon/145zapdosshiny",
+        "colors": [
+          16569154,
+          11760655
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/145zapdos",
+        "colors": [
+          16768358,
+          11894308
+        ]
+      }
+    },
+    "146moltres": {
+      "name": "cobblemon.species.moltres.name",
+      "SHINY": {
+        "model": "academy:card/icon/146moltresshiny",
+        "colors": [
+          16556101,
+          14052729
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/146moltres",
+        "colors": [
+          16564287,
+          15893817
+        ]
+      }
+    },
+    "147dratini": {
+      "name": "cobblemon.species.dratini.name",
+      "SHINY": {
+        "model": "academy:card/icon/147dratinishiny",
+        "colors": [
+          16053492,
+          14911460
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/147dratini",
+        "colors": [
+          16053492,
+          8882149
+        ]
+      }
+    },
+    "148dragonair": {
+      "name": "cobblemon.species.dragonair.name",
+      "SHINY": {
+        "model": "academy:card/icon/148dragonairshiny",
+        "colors": [
+          15499460,
+          16377844
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/148dragonair",
+        "colors": [
+          5812205,
+          14544631
+        ]
+      }
+    },
+    "149dragonite": {
+      "name": "cobblemon.species.dragonite.name",
+      "SHINY": {
+        "model": "academy:card/icon/149dragoniteshiny",
+        "colors": [
+          8754286,
+          11590815
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/149dragonite",
+        "colors": [
+          13736504,
+          15388543
+        ]
+      }
+    },
+    "150mewtwo": {
+      "name": "cobblemon.species.mewtwo.name",
+      "SHINY": {
+        "model": "academy:card/icon/150mewtwoshiny",
+        "colors": [
+          15987426,
+          8896376
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/150mewtwo",
+        "colors": [
+          13418726,
+          10840219
+        ]
+      }
+    },
+    "151mew": {
+      "name": "cobblemon.species.mew.name",
+      "SHINY": {
+        "model": "academy:card/icon/151mewshiny",
+        "colors": [
+          12117759,
+          7190751
+        ]
+      },
+      "*": {
+        "model": "academy:card/icon/151mew",
+        "colors": [
+          16760760,
+          12291729
+        ]
+      }
+    }
+  },
+  "pools": {}
+}

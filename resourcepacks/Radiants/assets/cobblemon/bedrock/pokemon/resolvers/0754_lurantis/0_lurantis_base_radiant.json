@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:lurantis",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:lurantis",
+      "model": "cobblemon:lurantis.geo",
+      "texture": "cobblemon:textures/pokemon/0754_lurantis/lurantis_radiant.png",
+      "layers": [
+        {
+          "name": "transparency",
+          "texture": "cobblemon:textures/pokemon/0754_lurantis/lurantis_transparent_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:stonjourner",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:stonjourner",
+      "model": "cobblemon:stonjourner.geo",
+      "texture": "cobblemon:textures/pokemon/0874_stonjourner/stonjourner_radiant.png",
+      "layers": []
+    }
+  ]
+}

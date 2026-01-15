@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tyrogue",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tyrogue",
+      "model": "cobblemon:tyrogue.geo",
+      "texture": "cobblemon:textures/pokemon/0236_tyrogue/tyrogue_radiant.png",
+      "layers": []
+    }
+  ]
+}

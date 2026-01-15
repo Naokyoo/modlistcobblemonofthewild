@@ -1,0 +1,10 @@
+{
+ "target": "cobblemon:greedent",
+ "implemented": true,
+   "baseScale": 0.4,
+      "hitbox": {
+            "width": 1,
+            "height": 2,
+            "fixed": false
+  }
+}

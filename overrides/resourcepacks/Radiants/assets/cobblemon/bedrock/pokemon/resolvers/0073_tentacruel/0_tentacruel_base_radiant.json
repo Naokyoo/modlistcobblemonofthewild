@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:tentacruel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tentacruel",
+      "model": "cobblemon:tentacruel.geo",
+      "texture": "cobblemon:textures/pokemon/0073_tentacruel/tentacruel_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0073_tentacruel/tentacruel_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

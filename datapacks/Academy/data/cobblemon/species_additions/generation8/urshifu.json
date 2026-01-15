@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:urshifu",
+  "implemented": false,
+  "baseScale": 0.85,
+    "hitbox": {
+        "width": 1.2,
+        "height": 2.85,
+        "fixed": false
+    },
+    "behaviour": {
+      "moving": {
+        "canLook": true,
+        "walk": {
+          "walkSpeed": 0.3,
+          "canWalk": true,
+          "avoidsLand": false
+        },
+      "fly": {
+        "canFly": false
+      },
+      "swim": {
+        "swimSpeed": 0.2,
+        "canSwimInWater": false,
+        "canBreatheUnderwater": false
+      }
+    }
+  }
+}

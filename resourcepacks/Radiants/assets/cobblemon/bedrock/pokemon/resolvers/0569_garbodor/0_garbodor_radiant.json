@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:garbodor",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:garbodor",
+      "model": "cobblemon:garbodor.geo",
+      "texture": "cobblemon:textures/pokemon/0569_garbodor/garbodor_radiant.png",
+      "layers": []
+    }
+  ]
+}

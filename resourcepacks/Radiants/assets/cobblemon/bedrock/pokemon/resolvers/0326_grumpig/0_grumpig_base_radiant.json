@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:grumpig",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:grumpig",
+      "model": "cobblemon:grumpig.geo",
+      "texture": "cobblemon:textures/pokemon/0326_grumpig/grumpig_radiant.png",
+      "layers": []
+    }
+  ]
+}

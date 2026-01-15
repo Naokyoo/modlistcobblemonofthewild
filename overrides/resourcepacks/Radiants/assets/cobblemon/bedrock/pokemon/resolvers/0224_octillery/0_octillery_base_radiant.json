@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:octillery",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:octillery",
+      "model": "cobblemon:octillery_male.geo",
+      "texture": "cobblemon:textures/pokemon/0224_octillery/octillery_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:chatot",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:chatot",
+      "model": "cobblemon:chatot.geo",
+      "texture": "cobblemon:textures/pokemon/0441_chatot/chatot_radiant.png",
+      "layers": []
+    }
+  ]
+}

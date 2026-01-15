@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:stoutland",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:stoutland",
+      "model": "cobblemon:stoutland.geo",
+      "texture": "cobblemon:textures/pokemon/0508_stoutland/stoutland_radiant.png",
+      "layers": []
+    }
+  ]
+}

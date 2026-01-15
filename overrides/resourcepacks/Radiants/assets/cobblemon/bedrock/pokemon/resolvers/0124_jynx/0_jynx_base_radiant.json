@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:jynx",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:jynx",
+      "model": "cobblemon:jynx.geo",
+      "texture": "cobblemon:textures/pokemon/0124_jynx/jynx_radiant.png",
+      "layers": []
+    }
+  ]
+}

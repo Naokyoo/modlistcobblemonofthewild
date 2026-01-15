@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:ogerpon",
+  "forms": [
+    {
+      "name": "Hearthflame",
+      "primaryType": "grass",
+      "secondaryType": "fire",
+      "maleRatio": 0,
+      "height": 12,
+      "weight": 398,
+      "pokedex": [
+        "cobblemon.species.ogerpon-hearthflame.desc"
+      ],
+      "labels": [
+        "gen9",
+        "legendary"
+      ],
+      "aspects": [
+        "hearthflame-mask"
+      ],
+      "abilities": [
+        "moldbreaker",
+        "h:moldbreaker"
+      ],
+      "eggCycles": 5,
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

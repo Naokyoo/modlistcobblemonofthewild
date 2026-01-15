@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:ninetales",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:ninetales",
+      "model": "cobblemon:ninetales.geo",
+      "texture": "cobblemon:textures/pokemon/0038_ninetales/ninetales_radiant.png",
+      "layers": []
+    }
+  ]
+}

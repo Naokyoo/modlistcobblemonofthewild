@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:deino",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:deino",
+      "model": "cobblemon:deino.geo",
+      "texture": "cobblemon:textures/pokemon/0633_deino/deino_radiant.png",
+      "layers": []
+    }
+  ]
+}

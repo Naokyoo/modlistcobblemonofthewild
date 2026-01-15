@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:clefairy",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:clefairy",
+      "model": "cobblemon:clefairy.geo",
+      "texture": "cobblemon:textures/pokemon/0035_clefairy/clefairy_radiant.png",
+      "layers": []
+    }
+  ]
+}

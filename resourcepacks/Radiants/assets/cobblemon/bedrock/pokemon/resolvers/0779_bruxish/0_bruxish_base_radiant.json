@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bruxish",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bruxish",
+      "model": "cobblemon:bruxish.geo",
+      "texture": "cobblemon:textures/pokemon/0779_bruxish/bruxish_radiant.png",
+      "layers": []
+    }
+  ]
+}

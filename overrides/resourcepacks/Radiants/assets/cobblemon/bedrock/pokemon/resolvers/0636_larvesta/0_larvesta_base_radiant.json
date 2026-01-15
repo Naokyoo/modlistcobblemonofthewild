@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:larvesta",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:larvesta",
+      "model": "cobblemon:larvesta.geo",
+      "texture": "cobblemon:textures/pokemon/0636_larvesta/larvesta_radiant.png",
+      "layers": []
+    }
+  ]
+}

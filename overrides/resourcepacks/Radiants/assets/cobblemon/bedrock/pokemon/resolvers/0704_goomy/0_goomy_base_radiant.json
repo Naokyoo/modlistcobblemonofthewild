@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:goomy",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:goomy",
+      "model": "cobblemon:goomy.geo",
+      "texture": "cobblemon:textures/pokemon/0704_goomy/goomy_radiant.png",
+      "layers": []
+    }
+  ]
+}

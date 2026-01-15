@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sandile",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sandile",
+      "model": "cobblemon:sandile.geo",
+      "texture": "cobblemon:textures/pokemon/0551_sandile/sandile_radiant.png",
+      "layers": []
+    }
+  ]
+}

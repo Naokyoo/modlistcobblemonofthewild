@@ -1,0 +1,19 @@
+{
+    "implemented": true,
+    "target": "cobblemon:garbodor",   
+    "shoulderMountable": false,
+    "baseScale": 0.55,
+    "hitbox": {
+      "width": 2,
+      "height": 2.8,
+      "fixed": false
+    },
+    "behaviour": {
+      "resting": {
+        "canSleep": true,
+        "willSleepOnBed": true,
+        "depth": "normal",
+        "light": "0-4"
+      }
+    }
+}

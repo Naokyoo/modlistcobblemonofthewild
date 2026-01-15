@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:kabutops",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:kabutops",
+      "model": "cobblemon:kabutops.geo",
+      "texture": "cobblemon:textures/pokemon/0141_kabutops/kabutops_radiant.png",
+      "layers": []
+    }
+  ]
+}

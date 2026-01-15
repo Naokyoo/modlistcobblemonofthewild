@@ -1,0 +1,32 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:desert",
+    {
+      "id": "biomeswevegone:atacama_outback",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:mojave_desert",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:windswept_desert",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:joshua_desert",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:saguaro_desert",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:outback",
+      "required": true
+    }
+  ]
+}

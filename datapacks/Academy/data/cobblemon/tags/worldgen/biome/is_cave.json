@@ -1,0 +1,35 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    {
+      "id": "#c:is_cave",
+      "required": false 
+    },
+    {
+      "id": "#c:is_underground",
+      "required": false 
+    },
+    {
+      "id": "regions_unexplored:ancient_delta",       
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bioshroom_caves",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:prismachasm",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:redstone_caves",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:scorching_caves",
+      "required": false
+    }
+  ]
+}

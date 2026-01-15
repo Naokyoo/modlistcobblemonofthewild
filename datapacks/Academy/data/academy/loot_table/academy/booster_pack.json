@@ -1,0 +1,23 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:booster_pack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "academy:booster_pack": "base"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

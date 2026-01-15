@@ -1,0 +1,145 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+        {
+            "type": "loot_table",
+            "value": "academy:basic/t3"
+        }
+    ],
+        "rolls": {
+            "type": "minecraft:uniform",
+            "max": 1.0,
+            "min": 1.0
+        }
+    },
+    {
+          "rolls": 3,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:blue_ice",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 2,
+                              "max": 4
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:ice",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 2,
+                              "max": 4
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:cobweb",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 3
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:golden_apple",
+                  "weight": 1
+              },
+              {
+                  "type": "minecraft:empty",
+                  "weight": 2
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:tipped_arrow",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_potion",
+                          "id": "minecraft:strong_slowness"
+                      },
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 4
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:tipped_arrow",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 4
+                          }
+                      },
+                      {
+                          "function": "minecraft:set_potion",
+                          "id": "minecraft:weakness"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:snowball",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 2,
+                              "max": 4
+                          }
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}

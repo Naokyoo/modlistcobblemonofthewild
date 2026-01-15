@@ -1,0 +1,461 @@
+{
+  "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rare_dna",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:time_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:wishing_star",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:meteorite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rare_sea_egg",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:nightmare_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gracidea",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:jewel_of_life",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:victory_star",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:resolute_sword",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:relic_disc",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:disc_drive",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pink_diamond",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ring",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:steam_engine",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:soul_heart",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:z_soul",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:meltan_nut",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dada_scarf",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mythical_pecha_berry",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:zeraora_tuft",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:glacial_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:static_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:flare_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cloning_cable",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sacred_lightning",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sacred_flame",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sacred_droplet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:silver_wing",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rainbow_wing",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:steel_alloy",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:never_melt_icicle",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ancient_ingot",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:infinite_source",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dragon_skull",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:titan_totem",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blue_eon_ticket",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_eon_ticket",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blue_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:jade_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruby_of_willpower",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruby_of_emotion",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruby_of_knowledge",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:adamant_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lustrous_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:griseous_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:magma_chunk",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lunar_feather",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cobalion_sword",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:virizion_sword",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:terrakion_sword",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:thundurus_bottle",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:tornadus_bottle",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:landorus_bottle",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:enamorus_bottle",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:light_stone",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dark_stone",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gray_stone",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:tree_of_life",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cocoon_of_destruction",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:zygarde_cube",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:broken_memory",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:electric_totem",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:psychic_totem",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:grass_totem",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:water_totem",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:solar_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lunar_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:eclipse_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rusted_sword",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rusted_shield",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dynamax_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mystical_branch",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:frozen_hoof",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ghostly_hoof",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:koraidon_key",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:miraidon_key",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:toxic_scarf",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:toxic_headband",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:toxic_ribbon",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:teal_mask",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:stellar_tera_core",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:psychic_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:combat_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dark_orb",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruinous_sword",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruinous_beads",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruinous_tablet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ruinous_vessel",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

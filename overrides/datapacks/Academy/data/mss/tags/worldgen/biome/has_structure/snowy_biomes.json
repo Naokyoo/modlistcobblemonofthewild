@@ -1,0 +1,52 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:snowy_taiga",
+    {
+      "id": "biomeswevegone:frosted_taiga",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:frosted_coniferous_forest",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:eroded_borealis",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:howling_peaks",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:cold_boreal_taiga",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:frozen_pine_taiga",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:cold_boreal_taiga",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:frozen_pine_taiga",
+      "required": true
+    }
+  ]
+}

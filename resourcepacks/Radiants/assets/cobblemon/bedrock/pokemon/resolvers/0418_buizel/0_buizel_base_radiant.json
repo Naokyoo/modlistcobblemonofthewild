@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:buizel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:buizel",
+      "model": "cobblemon:buizel_male.geo",
+      "texture": "cobblemon:textures/pokemon/0418_buizel/buizel_radiant.png",
+      "layers": []
+    }
+  ]
+}

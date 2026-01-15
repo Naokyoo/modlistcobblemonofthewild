@@ -1,0 +1,35 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:jagged_peaks",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "#cobblemon:is_glacial",
+    "#cobblemon:is_snowy",
+    {
+      "id": "#c:snowy",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:icy_heights",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:frozen_pine_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:spires",
+      "required": false 
+    },
+    {
+      "id": "biomeswevegone:shattered_glacier",
+      "required": false
+    }
+  ]
+}

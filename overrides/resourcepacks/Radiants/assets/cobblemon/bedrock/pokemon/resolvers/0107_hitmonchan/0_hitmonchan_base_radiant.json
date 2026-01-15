@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:hitmonchan",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hitmonchan",
+      "model": "cobblemon:hitmonchan.geo",
+      "texture": "cobblemon:textures/pokemon/0107_hitmonchan/hitmonchan_radiant.png",
+      "layers": []
+    }
+  ]
+}

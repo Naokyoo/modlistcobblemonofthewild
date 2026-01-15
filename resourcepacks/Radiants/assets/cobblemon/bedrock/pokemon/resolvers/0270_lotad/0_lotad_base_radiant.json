@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:lotad",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:lotad",
+      "model": "cobblemon:lotad.geo",
+      "texture": "cobblemon:textures/pokemon/0270_lotad/lotad_radiant.png",
+      "layers": []
+    }
+  ]
+}

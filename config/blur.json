@@ -1,0 +1,28 @@
+{
+  "configVersion": 2,
+  "blurContainers": true,
+  "blurTitleScreen": false,
+  "darkenTitleScreen": false,
+  "excludedScreens": [
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen"
+  ],
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen",
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen",
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper",
+    "com.glisco.numismaticoverhaul.client.gui.ShopScreen"
+  ],
+  "forceDisabledScreens": [
+    "inventory_screen"
+  ],
+  "useGradient": false,
+  "gradientStart": "#000000",
+  "gradientStartAlpha": 50,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 50,
+  "gradientRotation": 0,
+  "rainbowMode": false,
+  "fadeTimeMillis": 150,
+  "fadeOutTimeMillis": 150,
+  "animationCurve": "FLAT"
+}

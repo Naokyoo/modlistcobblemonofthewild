@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:drifblim",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:drifblim",
+      "model": "cobblemon:drifblim.geo",
+      "texture": "cobblemon:textures/pokemon/0426_drifblim/drifblim_radiant.png",
+      "layers": []
+    }
+  ]
+}

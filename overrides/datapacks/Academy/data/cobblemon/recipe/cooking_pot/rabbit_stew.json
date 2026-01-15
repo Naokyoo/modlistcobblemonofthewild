@@ -1,0 +1,40 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:rabbit"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:brown_mushroom"
+        },
+        {
+          "item": "minecraft:red_mushroom"
+        }
+      ]
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "minecraft:rabbit_stew"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

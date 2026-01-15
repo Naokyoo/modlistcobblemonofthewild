@@ -1,0 +1,105 @@
+{
+    "name": "ati_structures:ati_stoneworks",
+    "fallback": "ati_structures:stoneworks",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks1"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks2"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks3"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks4"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks5"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks6"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks7"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks8"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks9"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks10"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:stoneworks/stoneworks11"
+            },
+            "weight": 1
+        }
+    ]
+}

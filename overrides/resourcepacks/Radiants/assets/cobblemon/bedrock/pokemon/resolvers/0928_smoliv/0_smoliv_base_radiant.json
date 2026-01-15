@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:smoliv",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:smoliv",
+      "model": "cobblemon:smoliv.geo",
+      "texture": "cobblemon:textures/pokemon/0928_smoliv/smoliv_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "target": "cobblemon:golbat",
+  "riding": {
+    "behaviours": {
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "stats": {
+          "SPEED": "10-40",
+          "ACCELERATION": "10-40",
+          "SKILL": "60-80",
+          "JUMP": "10-40",
+          "STAMINA": "10-40"
+        }
+      },
+      "AIR": {
+        "key": "cobblemon:air/bird",
+        "rideSounds": [
+          {
+            "muffleEnabled": true,
+            "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+            "playForNonPassengers": true,
+            "soundLocation": "cobblemon:ride.loop.wind",
+            "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+          }
+        ],
+        "stats": {
+          "SPEED": "35-55",
+          "ACCELERATION": "45-70",
+          "SKILL": "25-45",
+          "JUMP": "45-65",
+          "STAMINA": "25-60"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "poseOffsets": [
+          {
+            "offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "poseTypes": [
+              "STAND",
+              "WALK",
+              "HOVER",
+              "FLOAT",
+              "SWIM",
+              "GLIDE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

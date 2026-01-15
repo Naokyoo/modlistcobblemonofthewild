@@ -1,0 +1,11 @@
+{
+  "target": "cobblemon:jirachi",
+  "implemented": true,
+  "shoulderMountable": true,
+  "baseScale": 0.65,
+  "hitbox": {
+    "width": 0.8,
+    "height": 1.2,
+    "fixed": false
+  }
+}

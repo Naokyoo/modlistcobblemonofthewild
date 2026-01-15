@@ -1,0 +1,64 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "minecraft:oak_checked",
+    "features": [
+      {
+        "chance": 0.0125,
+        "feature": {
+          "feature": "minecraft:huge_brown_mushroom",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.01266,
+        "feature": {
+          "feature": "trek:overworld/mushroom/huge_brown",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.0118,
+        "feature": {
+          "feature": "minecraft:huge_red_mushroom",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.01194,
+        "feature": {
+          "feature": "trek:overworld/mushroom/huge_red",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.02416,
+        "feature": "trek:overworld/mushroom/tree_1_checked"
+      },
+      {
+        "chance": 0.02476,
+        "feature": "trek:overworld/mushroom/tree_2_checked"
+      },
+      {
+        "chance": 0.02539,
+        "feature": "trek:overworld/mushroom/tree_3_checked"
+      },
+      {
+        "chance": 0.02605,
+        "feature": "trek:overworld/mushroom/tree_4_checked"
+      },
+      {
+        "chance": 0.6977,
+        "feature": "minecraft:dark_oak_checked"
+      },
+      {
+        "chance": 0.2308,
+        "feature": "minecraft:birch_checked"
+      },
+      {
+        "chance": 0.15,
+        "feature": "minecraft:fancy_oak_checked"
+      }
+    ]
+  }
+}

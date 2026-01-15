@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:hawlucha",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hawlucha",
+      "model": "cobblemon:hawlucha.geo",
+      "texture": "cobblemon:textures/pokemon/0701_hawlucha/hawlucha_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:impidimp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:impidimp",
+      "model": "cobblemon:impidimp.geo",
+      "texture": "cobblemon:textures/pokemon/0859_impidimp/impidimp_radiant.png",
+      "layers": []
+    }
+  ]
+}

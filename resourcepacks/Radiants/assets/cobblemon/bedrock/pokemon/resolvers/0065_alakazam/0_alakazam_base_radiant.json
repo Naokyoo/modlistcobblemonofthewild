@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:alakazam",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:alakazam_male",
+      "model": "cobblemon:alakazam_male.geo",
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_radiant.png",
+      "layers": []
+    }
+  ]
+}

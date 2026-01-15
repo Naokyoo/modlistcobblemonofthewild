@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#trek:forest/spruce/is_spruce_forest_snow",
+    "#trek:plains/is_plains_snow",
+    "#trek:slopes/is_slopes_snow"
+  ]
+}

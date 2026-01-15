@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tyrunt",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tyrunt",
+      "model": "cobblemon:tyrunt.geo",
+      "texture": "cobblemon:textures/pokemon/0696_tyrunt/tyrunt_radiant.png",
+      "layers": []
+    }
+  ]
+}

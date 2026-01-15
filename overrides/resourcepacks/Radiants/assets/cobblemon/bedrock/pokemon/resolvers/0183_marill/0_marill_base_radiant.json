@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:marill",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:marill",
+      "model": "cobblemon:marill.geo",
+      "texture": "cobblemon:textures/pokemon/0183_marill/marill_radiant.png",
+      "layers": []
+    }
+  ]
+}

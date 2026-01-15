@@ -1,0 +1,42 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:dark_forest",
+    {
+      "id": "regions_unexplored:ashen_woodland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:willow_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:weeping_witch_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:overgrowth_woodlands",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:black_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:pale_bog",
+      "required": false
+    }
+  ]
+}

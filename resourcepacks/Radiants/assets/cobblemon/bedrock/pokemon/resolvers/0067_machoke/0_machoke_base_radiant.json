@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:machoke",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:machoke",
+      "model": "cobblemon:machoke.geo",
+      "texture": "cobblemon:textures/pokemon/0067_machoke/machoke_radiant.png",
+      "layers": []
+    }
+  ]
+}

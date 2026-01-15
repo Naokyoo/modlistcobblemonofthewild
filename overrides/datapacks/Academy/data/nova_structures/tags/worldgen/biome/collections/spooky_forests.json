@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dark_forest",
+    {
+      "id": "regions_unexplored:ashen_woodland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:willow_forest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "PeteZahHutt",
+      "uniqueId": "7ac3c39f-23d5-472a-a7c9-24798265fa15"
+    },
+    "time": 1767409472554,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TskdMQMmgQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PeteZahHutt",
+      "uniqueId": "7ac3c39f-23d5-472a-a7c9-24798265fa15"
+    },
+    "time": 1765199303429,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/04alf7PndT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PeteZahHutt",
+      "uniqueId": "7ac3c39f-23d5-472a-a7c9-24798265fa15"
+    },
+    "time": 1765199281752,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "D:\\curseforge\\minecraft\\Instances\\Cobblemon Academy 2.0\\config\\spark\\profile-2025-12-08_05.08.01.sparkprofile"
+    }
+  }
+]

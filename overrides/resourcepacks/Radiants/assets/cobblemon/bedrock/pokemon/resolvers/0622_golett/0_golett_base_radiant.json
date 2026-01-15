@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:golett",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:golett",
+      "model": "cobblemon:golett.geo",
+      "texture": "cobblemon:textures/pokemon/0622_golett/golett_radiant.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0622_golett/golett_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

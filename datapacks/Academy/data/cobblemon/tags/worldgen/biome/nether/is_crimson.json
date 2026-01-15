@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crimson_forest",
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": false
+    }
+  ]
+}

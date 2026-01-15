@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "brutebonnet-1",
+      "pokemon": "brutebonnet",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 3,
+      "condition": {
+        "biomes": [
+          "none"
+        ],
+        "canSeeSky": true
+      }
+    }
+  ]
+}

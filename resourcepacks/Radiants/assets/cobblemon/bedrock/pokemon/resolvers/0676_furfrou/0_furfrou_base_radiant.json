@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:furfrou",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:furfrou",
+      "model": "cobblemon:furfrou.geo",
+      "texture": "cobblemon:textures/pokemon/0676_furfrou/furfrou_radiant.png",
+      "layers": []
+    }
+  ]
+}

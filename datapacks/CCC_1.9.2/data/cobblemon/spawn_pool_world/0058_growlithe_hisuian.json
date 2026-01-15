@@ -1,0 +1,60 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "growlithe-hisuian-1",
+      "pokemon": "growlithe hisuian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-35",
+      "weight": 3.5,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_mountain"
+        ]
+      }
+    },
+    {
+      "id": "growlithe-hisuian-2",
+      "pokemon": "growlithe hisuian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-40",
+      "weight": 4,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_volcanic"
+        ]
+      }
+    },
+    {
+      "id": "growlithe-hisuian-3",
+      "pokemon": "growlithe hisuian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-35",
+      "weight": 3.5,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_nether"
+        ]
+      }
+    }
+  ]
+}

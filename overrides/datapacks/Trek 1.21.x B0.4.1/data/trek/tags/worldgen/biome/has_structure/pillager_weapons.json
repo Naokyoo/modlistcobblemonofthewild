@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#trek:forest/dark_oak/is_dark_forest",
+    "#trek:forest/spruce/is_normal_taiga",
+    "#trek:plains/is_plains",
+    "#trek:slopes/is_slopes_no_snow",
+    "#minecraft:is_savanna"
+  ]
+}

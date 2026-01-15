@@ -1,0 +1,308 @@
+{
+  "target": "cobblemon:giratina",
+  "forms": [
+    {
+      "name": "Origin",
+      "primaryType": "ghost",
+      "secondaryType": "dragon",
+      "maleRatio": -1,
+      "height": 69,
+      "weight": 6500,
+      "pokedex": [
+        "cobblemon.species.giratina-origin.desc"
+      ],
+      "labels": [
+        "gen4",
+        "legendary",
+        "restricted"
+      ],
+      "aspects": [
+        "origin-forme"
+      ],
+      "abilities": [
+        "levitate",
+        "h:levitate"
+      ],
+      "baseStats": {
+        "hp": 150,
+        "attack": 120,
+        "defence": 100,
+        "special_attack": 120,
+        "special_defence": 100,
+        "speed": 90
+      },
+      "riding": {
+        "behaviours": {
+          "AIR": {
+            "key": "cobblemon:air/jet",
+            "rideSounds": [
+              {
+                "muffleEnabled": true,
+                "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+                "playForNonPassengers": true,
+                "soundLocation": "cobblemon:ride.loop.wind",
+                "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+              }
+            ],
+            "stats": {
+              "ACCELERATION": "20-40",
+              "JUMP": "10-20",
+              "SKILL": "45-70",
+              "SPEED": "40-90",
+              "STAMINA": "70-100"
+            }
+          },
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "canJump": false,
+            "canSprint": false,
+            "stats": {
+              "ACCELERATION": "10-50",
+              "JUMP": "25-50",
+              "SKILL": "80-100",
+              "SPEED": "10-50",
+              "STAMINA": "10-50"
+            }
+          }
+        },
+        "seats": [
+          {
+            "offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "poseOffsets": [
+              {
+                "offset": {
+                  "x": 0.00812481,
+                  "y": -0.9827318,
+                  "z": 0.6283719
+                },
+                "poseTypes": [
+                  "STAND"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.017718038,
+                  "y": -1.1636286,
+                  "z": 0.5473058
+                },
+                "poseTypes": [
+                  "WALK"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.018228253,
+                  "y": -1.3116126,
+                  "z": 0.32843813
+                },
+                "poseTypes": [
+                  "HOVER"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.027343981,
+                  "y": -1.3249094,
+                  "z": 0.30336052
+                },
+                "poseTypes": [
+                  "FLY"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.00812481,
+                  "y": -0.9827318,
+                  "z": 0.6283719
+                },
+                "poseTypes": [
+                  "FLOAT"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.017718038,
+                  "y": -1.1636286,
+                  "z": 0.5473058
+                },
+                "poseTypes": [
+                  "SWIM"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.018228253,
+                  "y": -1.6241126,
+                  "z": 0.32843813
+                },
+                "poseTypes": [
+                  "GLIDE"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "moves": [
+        "1:shadowsneak",
+        "1:defog",
+        "7:dragonbreath",
+        "14:ancientpower",
+        "21:hex",
+        "28:slash",
+        "35:scaryface",
+        "42:shadowclaw",
+        "49:painsplit",
+        "56:aurasphere",
+        "63:dragonclaw",
+        "70:earthpower",
+        "77:shadowforce",
+        "84:destinybond",
+        "tm:ancientpower",
+        "tm:aquatail",
+        "tm:aurasphere",
+        "tm:bodyslam",
+        "tm:breakingswipe",
+        "tm:brutalswing",
+        "tm:bulldoze",
+        "tm:calmmind",
+        "tm:confuseray",
+        "tm:curse",
+        "tm:cut",
+        "tm:darkpulse",
+        "tm:defog",
+        "tm:dracometeor",
+        "tm:dragonclaw",
+        "tm:dragonpulse",
+        "tm:dragontail",
+        "tm:dreameater",
+        "tm:dualwingbeat",
+        "tm:earthpower",
+        "tm:earthquake",
+        "tm:echoedvoice",
+        "tm:endure",
+        "tm:energyball",
+        "tm:facade",
+        "tm:fly",
+        "tm:furycutter",
+        "tm:gigaimpact",
+        "tm:gravity",
+        "tm:headbutt",
+        "tm:hex",
+        "tm:honeclaws",
+        "tm:hyperbeam",
+        "tm:hypervoice",
+        "tm:icywind",
+        "tm:ironhead",
+        "tm:irontail",
+        "tm:magiccoat",
+        "tm:ominouswind",
+        "tm:outrage",
+        "tm:painsplit",
+        "tm:payback",
+        "tm:phantomforce",
+        "tm:poltergeist",
+        "tm:protect",
+        "tm:psychic",
+        "tm:raindance",
+        "tm:rest",
+        "tm:roar",
+        "tm:rockclimb",
+        "tm:rocksmash",
+        "tm:safeguard",
+        "tm:scaryface",
+        "tm:shadowball",
+        "tm:shadowclaw",
+        "tm:shockwave",
+        "tm:silverwind",
+        "tm:skittersmack",
+        "tm:sleeptalk",
+        "tm:spite",
+        "tm:steelwing",
+        "tm:stoneedge",
+        "tm:strength",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swift",
+        "tm:takedown",
+        "tm:telekinesis",
+        "tm:terablast",
+        "tm:thunder",
+        "tm:thunderbolt",
+        "tm:thunderwave",
+        "tm:twister",
+        "tm:willowisp",
+        "tutor:ancientpower",
+        "tutor:aquatail",
+        "tutor:bulldoze",
+        "tutor:calmmind",
+        "tutor:darkpulse",
+        "tutor:defog",
+        "tutor:dracometeor",
+        "tutor:dragonpulse",
+        "tutor:dualwingbeat",
+        "tutor:earthpower",
+        "tutor:energyball",
+        "tutor:furycutter",
+        "tutor:gigaimpact",
+        "tutor:gravity",
+        "tutor:hyperbeam",
+        "tutor:hypervoice",
+        "tutor:icywind",
+        "tutor:ironhead",
+        "tutor:irontail",
+        "tutor:magiccoat",
+        "tutor:ominouswind",
+        "tutor:outrage",
+        "tutor:painsplit",
+        "tutor:poltergeist",
+        "tutor:psychic",
+        "tutor:rest",
+        "tutor:rocksmash",
+        "tutor:shadowball",
+        "tutor:shadowclaw",
+        "tutor:shockwave",
+        "tutor:skittersmack",
+        "tutor:sleeptalk",
+        "tutor:spite",
+        "tutor:stoneedge",
+        "tutor:swift",
+        "tutor:telekinesis",
+        "tutor:thunderbolt",
+        "tutor:twister"
+      ],
+      "evolutions": [],
+      "hitbox": {
+        "width": 4.5,
+        "height": 4.5,
+        "fixed": false
+      },
+      "behaviour": {
+        "moving": {
+          "walk": {
+            "walkSpeed": 0.6
+          },
+          "fly": {
+            "canFly": true,
+            "flySpeedHorizontal": 0.7
+          }
+        }
+      },
+      "battleOnly": false,
+      "drops": {
+        "amount": 5,
+        "entries": [
+          {
+            "item": "minecraft:phantom_membrane",
+            "quantityRange": "3-5"
+          }
+        ]
+      }
+    }
+  ]
+}

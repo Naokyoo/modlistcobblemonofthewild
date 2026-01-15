@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:clodsire",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:clodsire",
+      "model": "cobblemon:clodsire.geo",
+      "texture": "cobblemon:textures/pokemon/0980_clodsire/clodsire_radiant.png",
+      "layers": []
+    }
+  ]
+}

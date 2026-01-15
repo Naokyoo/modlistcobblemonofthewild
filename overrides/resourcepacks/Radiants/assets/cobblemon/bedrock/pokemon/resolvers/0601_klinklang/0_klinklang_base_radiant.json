@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:klinklang",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:klinklang",
+      "model": "cobblemon:klinklang.geo",
+      "texture": "cobblemon:textures/pokemon/0601_klinklang/klinklang_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:buzzwole",
+  "implemented": true,
+  "baseScale": 1,
+  "hitbox": {
+    "width": 1.8,
+    "height": 3,
+    "fixed": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:cryogonal",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cryogonal",
+      "model": "cobblemon:cryogonal.geo",
+      "texture": "cobblemon:textures/pokemon/0615_cryogonal/cryogonal_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0615_cryogonal/cryogonal_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

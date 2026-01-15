@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:aerodactyl",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:aerodactyl",
+      "model": "cobblemon:aerodactyl.geo",
+      "texture": "cobblemon:textures/pokemon/0142_aerodactyl/aerodactyl_radiant.png",
+      "layers": []
+    }
+  ]
+}

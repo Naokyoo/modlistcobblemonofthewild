@@ -1,0 +1,11 @@
+{
+	"removeNametags": false,
+	"showOwnNametags": false,
+	"hideEntityNametagsInHiddenHud": true,
+	"hidePlayerNametagsInHiddenHud": false,
+	"hideArmorStandNametagsInHiddenHud": false,
+	"nametagOffset": 0,
+	"nametagColor": 10092031,
+	"nametagTextShadow": false,
+	"nametagScale": 0.90000004
+}

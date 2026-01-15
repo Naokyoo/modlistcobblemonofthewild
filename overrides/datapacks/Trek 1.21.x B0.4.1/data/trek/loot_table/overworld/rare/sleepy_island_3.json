@@ -1,0 +1,108 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+        "bonus_rolls": 0.0,
+        "entries": [
+        {
+            "type": "loot_table",
+            "value": "academy:basic/t3"
+        }
+    ],
+        "rolls": {
+            "type": "minecraft:uniform",
+            "max": 1.0,
+            "min": 1.0
+        }
+    },
+      {
+          "rolls": 4,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:wheat",
+                  "weight": 3,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 3,
+                              "max": 4
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:apple",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 2
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:hay_block",
+                  "weight": 2,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 3
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:emerald",
+                  "weight": 2,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 2
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:azalea",
+                  "weight": 2,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 2
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:blue_orchid",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 2
+                          }
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}

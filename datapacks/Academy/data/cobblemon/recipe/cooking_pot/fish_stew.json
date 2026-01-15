@@ -1,0 +1,25 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/safe_raw_fish"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:fish_stew"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gallade",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gallade",
+      "model": "cobblemon:gallade.geo",
+      "texture": "cobblemon:textures/pokemon/0475_gallade/gallade_radiant.png",
+      "layers": []
+    }
+  ]
+}

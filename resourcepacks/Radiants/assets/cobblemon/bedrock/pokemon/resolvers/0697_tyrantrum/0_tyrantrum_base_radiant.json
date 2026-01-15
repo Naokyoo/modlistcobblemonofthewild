@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tyrantrum",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tyrantrum",
+      "model": "cobblemon:tyrantrum.geo",
+      "texture": "cobblemon:textures/pokemon/0697_tyrantrum/tyrantrum_radiant.png",
+      "layers": []
+    }
+  ]
+}

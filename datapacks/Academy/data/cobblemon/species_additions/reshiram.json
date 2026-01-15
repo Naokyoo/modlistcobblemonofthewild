@@ -1,0 +1,40 @@
+{
+    "target": "cobblemon:reshiram",
+    "behaviour": {
+        "moving": {
+            "walk": {
+                "canWalk": true,
+                "avoidsLand": false,
+                "walkSpeed": 0.35
+            },
+            "swim": {
+                "avoidsWater": false,
+                "canSwimInWater": false,
+                "canBreatheUnderwater": false,
+                "canWalkOnWater": true,
+                "canSwimInLava": false,
+                "canBreatheUnderlava": false,
+                "canWalkOnLava": false,
+                "hurtByLava": true,
+                "swimSpeed": 0.3
+            },
+            "fly": {
+                "canFly": true,
+                "flySpeedHorizontal": 0.3
+            },
+            "canLook": true,
+            "looksAtEntities": true,
+            "stepHeight": 0.6,
+            "wanderChance": 120,
+            "wanderSpeed": 1
+        },
+        "resting": {
+            "canSleep": true,
+            "times": "night",
+            "sleepChance": 0.0017,
+            "light": "0-4",
+            "depth": "normal",
+            "willSleepOnBed": true
+        }
+    }
+}

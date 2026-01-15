@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:brionne",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:brionne",
+      "model": "cobblemon:brionne.geo",
+      "texture": "cobblemon:textures/pokemon/0729_brionne/brionne_radiant.png",
+      "layers": []
+    }
+  ]
+}

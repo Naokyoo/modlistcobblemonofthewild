@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-gulpin-1",
+      "pokemon": "gulpin",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "13-28",
+      "weight": 9.2,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns"
+        ]
+      }
+    }
+  ]
+}

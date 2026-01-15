@@ -1,0 +1,31 @@
+{
+  "values": {
+    "base": {
+      "modelBase": "academy:booster_pack/base_base",
+      "modelRipped": "academy:booster_pack/base_ripped",
+      "color": 9031664,
+      "pools": [
+        {
+          "entry": "@all",
+          "count": {
+            "minimum_inclusive": 2,
+            "maximum_inclusive": 2,
+            "resolution": "integer",
+            "type": "uniform"
+          },
+          "probability": 1.0
+        },
+        {
+          "entry": "@plusone",
+          "count": {
+            "minimum_inclusive": 1,
+            "maximum_inclusive": 1,
+            "resolution": "integer",
+            "type": "uniform"
+          },
+          "probability": 1.0
+        }
+      ]
+    }
+  }
+}

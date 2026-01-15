@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:dartrix",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dartrix",
+      "model": "cobblemon:dartrix.geo",
+      "texture": "cobblemon:textures/pokemon/0723_dartrix/dartrix_radiant.png",
+      "layers": []
+    }
+  ]
+}

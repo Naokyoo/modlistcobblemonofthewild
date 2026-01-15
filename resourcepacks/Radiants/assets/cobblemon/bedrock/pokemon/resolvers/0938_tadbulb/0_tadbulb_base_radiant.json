@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:tadbulb",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tadbulb",
+      "model": "cobblemon:tadbulb.geo",
+      "texture": "cobblemon:textures/pokemon/0938_tadbulb/tadbulb_radiant.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0938_tadbulb/tadbulb_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

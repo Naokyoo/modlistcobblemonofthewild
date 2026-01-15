@@ -1,0 +1,11 @@
+{
+  "target": "cobblemon:marshadow",
+  "implemented": true,
+  "shoulderMountable": true,
+  "baseScale": 0.6,
+  "hitbox": {
+    "width": 0.5,
+    "height": 0.8,
+    "fixed": false
+  }
+}

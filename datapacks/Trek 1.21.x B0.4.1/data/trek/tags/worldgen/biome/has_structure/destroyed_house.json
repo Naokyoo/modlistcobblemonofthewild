@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#trek:plains/is_plains_no_snow",
+    "#trek:forest/birch/is_normal_birch",
+    "#trek:forest/spruce/is_normal_taiga",
+    "#minecraft:is_savanna",
+    "#trek:swamp/is_default_swamp"
+  ]
+}

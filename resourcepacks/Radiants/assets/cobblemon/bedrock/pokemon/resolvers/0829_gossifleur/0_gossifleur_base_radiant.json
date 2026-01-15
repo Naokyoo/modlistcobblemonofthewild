@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gossifleur",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gossifleur",
+      "model": "cobblemon:gossifleur.geo",
+      "texture": "cobblemon:textures/pokemon/0829_gossifleur/gossifleur_radiant.png",
+      "layers": []
+    }
+  ]
+}

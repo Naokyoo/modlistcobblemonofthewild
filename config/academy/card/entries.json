@@ -1,0 +1,6937 @@
+{
+  "values": {
+    "001bulbasaur2": {
+      "icon": "001bulbasaur",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "001bulbasaur3": {
+      "icon": "001bulbasaur",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "001bulbasaur6": {
+      "icon": "001bulbasaur",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "002ivysaur3": {
+      "icon": "002ivysaur",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "002ivysaur4": {
+      "icon": "002ivysaur",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/grass_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "002ivysaur6": {
+      "icon": "002ivysaur",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "003venusaur4": {
+      "icon": "003venusaur",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/grass_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "003venusaur5": {
+      "icon": "003venusaur",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "003venusaur6": {
+      "icon": "003venusaur",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "004charmander2": {
+      "icon": "004charmander",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "004charmander3": {
+      "icon": "004charmander",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "004charmander6": {
+      "icon": "004charmander",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "005charmeleon3": {
+      "icon": "005charmeleon",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "005charmeleon4": {
+      "icon": "005charmeleon",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fire_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "005charmeleon6": {
+      "icon": "005charmeleon",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "006charizard4": {
+      "icon": "006charizard",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/flying_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "006charizard5": {
+      "icon": "006charizard",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "006charizard6": {
+      "icon": "006charizard",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "007squirtle2": {
+      "icon": "007squirtle",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "007squirtle3": {
+      "icon": "007squirtle",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "007squirtle6": {
+      "icon": "007squirtle",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "008wartortle3": {
+      "icon": "008wartortle",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "008wartortle4": {
+      "icon": "008wartortle",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/water_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "008wartortle6": {
+      "icon": "008wartortle",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "009blastoise4": {
+      "icon": "009blastoise",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/water_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "009blastoise5": {
+      "icon": "009blastoise",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "009blastoise6": {
+      "icon": "009blastoise",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "010caterpie1": {
+      "icon": "010caterpie",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "010caterpie2": {
+      "icon": "010caterpie",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "010caterpie6": {
+      "icon": "010caterpie",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "011metapod1": {
+      "icon": "011metapod",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "011metapod2": {
+      "icon": "011metapod",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "011metapod3": {
+      "icon": "011metapod",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "011metapod6": {
+      "icon": "011metapod",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "012butterfree2": {
+      "icon": "012butterfree",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "012butterfree3": {
+      "icon": "012butterfree",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "012butterfree4": {
+      "icon": "012butterfree",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/bug_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "012butterfree6": {
+      "icon": "012butterfree",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "013weedle1": {
+      "icon": "013weedle",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "013weedle2": {
+      "icon": "013weedle",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "013weedle6": {
+      "icon": "013weedle",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "014kakuna1": {
+      "icon": "014kakuna",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "014kakuna2": {
+      "icon": "014kakuna",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "014kakuna3": {
+      "icon": "014kakuna",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "014kakuna6": {
+      "icon": "014kakuna",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "015beedrill2": {
+      "icon": "015beedrill",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "015beedrill3": {
+      "icon": "015beedrill",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "015beedrill4": {
+      "icon": "015beedrill",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/bug_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "015beedrill6": {
+      "icon": "015beedrill",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "016pidgey1": {
+      "icon": "016pidgey",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "016pidgey2": {
+      "icon": "016pidgey",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "016pidgey6": {
+      "icon": "016pidgey",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "017pidgeotto1": {
+      "icon": "017pidgeotto",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "017pidgeotto2": {
+      "icon": "017pidgeotto",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "017pidgeotto3": {
+      "icon": "017pidgeotto",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "017pidgeotto6": {
+      "icon": "017pidgeotto",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "018pidgeot2": {
+      "icon": "018pidgeot",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "018pidgeot3": {
+      "icon": "018pidgeot",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "018pidgeot4": {
+      "icon": "018pidgeot",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/flying_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "018pidgeot6": {
+      "icon": "018pidgeot",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "019rattata1": {
+      "icon": "019rattata",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "019rattata2": {
+      "icon": "019rattata",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "019rattata6": {
+      "icon": "019rattata",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "020raticate1": {
+      "icon": "020raticate",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "020raticate2": {
+      "icon": "020raticate",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "020raticate3": {
+      "icon": "020raticate",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "020raticate6": {
+      "icon": "020raticate",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "021spearow1": {
+      "icon": "021spearow",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "021spearow2": {
+      "icon": "021spearow",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "021spearow6": {
+      "icon": "021spearow",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "022fearow1": {
+      "icon": "022fearow",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "022fearow2": {
+      "icon": "022fearow",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "022fearow3": {
+      "icon": "022fearow",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "022fearow6": {
+      "icon": "022fearow",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "023ekans1": {
+      "icon": "023ekans",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "023ekans2": {
+      "icon": "023ekans",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "023ekans6": {
+      "icon": "023ekans",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "024arbok1": {
+      "icon": "024arbok",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "024arbok2": {
+      "icon": "024arbok",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "024arbok3": {
+      "icon": "024arbok",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "024arbok6": {
+      "icon": "024arbok",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "025pikachu3": {
+      "icon": "025pikachu",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "025pikachu4": {
+      "icon": "025pikachu",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/electric_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "025pikachu5": {
+      "icon": "025pikachu",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "025pikachu6": {
+      "icon": "025pikachu",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "026raichu3": {
+      "icon": "026raichu",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "026raichu4": {
+      "icon": "026raichu",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/electric_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "026raichu5": {
+      "icon": "026raichu",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "026raichu6": {
+      "icon": "026raichu",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "027sandshrew1": {
+      "icon": "027sandshrew",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "027sandshrew2": {
+      "icon": "027sandshrew",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "027sandshrew6": {
+      "icon": "027sandshrew",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "028sandslash1": {
+      "icon": "028sandslash",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "028sandslash2": {
+      "icon": "028sandslash",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "028sandslash3": {
+      "icon": "028sandslash",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "028sandslash6": {
+      "icon": "028sandslash",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "029nidoranf1": {
+      "icon": "029nidoranf",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "029nidoranf2": {
+      "icon": "029nidoranf",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "029nidoranf6": {
+      "icon": "029nidoranf",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "030nidorina1": {
+      "icon": "030nidorina",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "030nidorina2": {
+      "icon": "030nidorina",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "030nidorina3": {
+      "icon": "030nidorina",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "030nidorina6": {
+      "icon": "030nidorina",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "031nidoqueen2": {
+      "icon": "031nidoqueen",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "031nidoqueen3": {
+      "icon": "031nidoqueen",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "031nidoqueen4": {
+      "icon": "031nidoqueen",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/poison_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "031nidoqueen6": {
+      "icon": "031nidoqueen",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "032nidoranm1": {
+      "icon": "032nidoranm",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "032nidoranm2": {
+      "icon": "032nidoranm",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "032nidoranm6": {
+      "icon": "032nidoranm",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "033nidorino1": {
+      "icon": "033nidorino",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "033nidorino2": {
+      "icon": "033nidorino",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "033nidorino3": {
+      "icon": "033nidorino",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "033nidorino6": {
+      "icon": "033nidorino",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "034nidoking2": {
+      "icon": "034nidoking",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "034nidoking3": {
+      "icon": "034nidoking",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "034nidoking4": {
+      "icon": "034nidoking",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/poison_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "034nidoking6": {
+      "icon": "034nidoking",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "035clefairy1": {
+      "icon": "035clefairy",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "035clefairy2": {
+      "icon": "035clefairy",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "035clefairy3": {
+      "icon": "035clefairy",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "035clefairy6": {
+      "icon": "035clefairy",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "036clefable2": {
+      "icon": "036clefable",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "036clefable3": {
+      "icon": "036clefable",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "036clefable4": {
+      "icon": "036clefable",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fairy_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "036clefable6": {
+      "icon": "036clefable",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "037vulpix1": {
+      "icon": "037vulpix",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "037vulpix2": {
+      "icon": "037vulpix",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "037vulpix3": {
+      "icon": "037vulpix",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "037vulpix6": {
+      "icon": "037vulpix",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "038ninetales2": {
+      "icon": "038ninetales",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "038ninetales3": {
+      "icon": "038ninetales",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "038ninetales4": {
+      "icon": "038ninetales",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fire_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "038ninetales6": {
+      "icon": "038ninetales",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "039jigglypuff1": {
+      "icon": "039jigglypuff",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "039jigglypuff2": {
+      "icon": "039jigglypuff",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "039jigglypuff6": {
+      "icon": "039jigglypuff",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "040wigglytuff1": {
+      "icon": "040wigglytuff",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "040wigglytuff2": {
+      "icon": "040wigglytuff",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "040wigglytuff3": {
+      "icon": "040wigglytuff",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "040wigglytuff6": {
+      "icon": "040wigglytuff",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "041zubat1": {
+      "icon": "041zubat",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "041zubat2": {
+      "icon": "041zubat",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "041zubat6": {
+      "icon": "041zubat",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "042golbat1": {
+      "icon": "042golbat",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "042golbat2": {
+      "icon": "042golbat",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "042golbat3": {
+      "icon": "042golbat",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "042golbat6": {
+      "icon": "042golbat",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "043oddish1": {
+      "icon": "043oddish",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "043oddish2": {
+      "icon": "043oddish",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "043oddish6": {
+      "icon": "043oddish",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "044gloom1": {
+      "icon": "044gloom",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "044gloom2": {
+      "icon": "044gloom",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "044gloom3": {
+      "icon": "044gloom",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "044gloom6": {
+      "icon": "044gloom",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "045vileplume2": {
+      "icon": "045vileplume",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "045vileplume3": {
+      "icon": "045vileplume",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "045vileplume4": {
+      "icon": "045vileplume",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/poison_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "045vileplume6": {
+      "icon": "045vileplume",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "046paras1": {
+      "icon": "046paras",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "046paras2": {
+      "icon": "046paras",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "046paras6": {
+      "icon": "046paras",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "047parasect1": {
+      "icon": "047parasect",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "047parasect2": {
+      "icon": "047parasect",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "047parasect3": {
+      "icon": "047parasect",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "047parasect6": {
+      "icon": "047parasect",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "048venonat1": {
+      "icon": "048venonat",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "048venonat2": {
+      "icon": "048venonat",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "048venonat6": {
+      "icon": "048venonat",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "049venomoth1": {
+      "icon": "049venomoth",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "049venomoth2": {
+      "icon": "049venomoth",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "049venomoth3": {
+      "icon": "049venomoth",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "049venomoth6": {
+      "icon": "049venomoth",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "050diglett1": {
+      "icon": "050diglett",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "050diglett2": {
+      "icon": "050diglett",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "050diglett6": {
+      "icon": "050diglett",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "051dugtrio1": {
+      "icon": "051dugtrio",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "051dugtrio2": {
+      "icon": "051dugtrio",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "051dugtrio3": {
+      "icon": "051dugtrio",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "051dugtrio6": {
+      "icon": "051dugtrio",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "052meowth1": {
+      "icon": "052meowth",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "052meowth2": {
+      "icon": "052meowth",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "052meowth6": {
+      "icon": "052meowth",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "053persian1": {
+      "icon": "053persian",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "053persian2": {
+      "icon": "053persian",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "053persian3": {
+      "icon": "053persian",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "053persian6": {
+      "icon": "053persian",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "054psyduck1": {
+      "icon": "054psyduck",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "054psyduck2": {
+      "icon": "054psyduck",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "054psyduck6": {
+      "icon": "054psyduck",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "055golduck1": {
+      "icon": "055golduck",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "055golduck2": {
+      "icon": "055golduck",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "055golduck3": {
+      "icon": "055golduck",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "055golduck6": {
+      "icon": "055golduck",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "056mankey1": {
+      "icon": "056mankey",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "056mankey2": {
+      "icon": "056mankey",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "056mankey6": {
+      "icon": "056mankey",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "057primeape1": {
+      "icon": "057primeape",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "057primeape2": {
+      "icon": "057primeape",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "057primeape3": {
+      "icon": "057primeape",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "057primeape6": {
+      "icon": "057primeape",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "058growlithe2": {
+      "icon": "058growlithe",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "058growlithe3": {
+      "icon": "058growlithe",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "058growlithe4": {
+      "icon": "058growlithe",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fire_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "058growlithe6": {
+      "icon": "058growlithe",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "059arcanine3": {
+      "icon": "059arcanine",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "059arcanine4": {
+      "icon": "059arcanine",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fire_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "059arcanine5": {
+      "icon": "059arcanine",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "059arcanine6": {
+      "icon": "059arcanine",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "060poliwag1": {
+      "icon": "060poliwag",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "060poliwag2": {
+      "icon": "060poliwag",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "060poliwag6": {
+      "icon": "060poliwag",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "061poliwhirl1": {
+      "icon": "061poliwhirl",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "061poliwhirl2": {
+      "icon": "061poliwhirl",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "061poliwhirl3": {
+      "icon": "061poliwhirl",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "061poliwhirl6": {
+      "icon": "061poliwhirl",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "062poliwrath2": {
+      "icon": "062poliwrath",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "062poliwrath3": {
+      "icon": "062poliwrath",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "062poliwrath4": {
+      "icon": "062poliwrath",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fighting_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "062poliwrath6": {
+      "icon": "062poliwrath",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "063abra1": {
+      "icon": "063abra",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "063abra2": {
+      "icon": "063abra",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "063abra6": {
+      "icon": "063abra",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "064kadabra1": {
+      "icon": "064kadabra",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "064kadabra2": {
+      "icon": "064kadabra",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "064kadabra3": {
+      "icon": "064kadabra",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "064kadabra6": {
+      "icon": "064kadabra",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "065alakazam2": {
+      "icon": "065alakazam",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "065alakazam3": {
+      "icon": "065alakazam",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "065alakazam4": {
+      "icon": "065alakazam",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/psychic_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "065alakazam6": {
+      "icon": "065alakazam",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "066machop1": {
+      "icon": "066machop",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "066machop2": {
+      "icon": "066machop",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "066machop6": {
+      "icon": "066machop",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "067machoke1": {
+      "icon": "067machoke",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "067machoke2": {
+      "icon": "067machoke",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "067machoke3": {
+      "icon": "067machoke",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "067machoke6": {
+      "icon": "067machoke",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "068machamp2": {
+      "icon": "068machamp",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "068machamp3": {
+      "icon": "068machamp",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "068machamp4": {
+      "icon": "068machamp",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fighting_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "068machamp6": {
+      "icon": "068machamp",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "069bellsprout1": {
+      "icon": "069bellsprout",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "069bellsprout2": {
+      "icon": "069bellsprout",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "069bellsprout6": {
+      "icon": "069bellsprout",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "070weepinbell1": {
+      "icon": "070weepinbell",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "070weepinbell2": {
+      "icon": "070weepinbell",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "070weepinbell3": {
+      "icon": "070weepinbell",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "070weepinbell6": {
+      "icon": "070weepinbell",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "071victreebel2": {
+      "icon": "071victreebel",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "071victreebel3": {
+      "icon": "071victreebel",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "071victreebel4": {
+      "icon": "071victreebel",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/grass_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "071victreebel6": {
+      "icon": "071victreebel",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "072tentacool1": {
+      "icon": "072tentacool",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "072tentacool2": {
+      "icon": "072tentacool",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "072tentacool6": {
+      "icon": "072tentacool",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "073tentacruel1": {
+      "icon": "073tentacruel",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "073tentacruel2": {
+      "icon": "073tentacruel",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "073tentacruel3": {
+      "icon": "073tentacruel",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "073tentacruel6": {
+      "icon": "073tentacruel",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "074geodude1": {
+      "icon": "074geodude",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "074geodude2": {
+      "icon": "074geodude",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "074geodude6": {
+      "icon": "074geodude",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "075graveler1": {
+      "icon": "075graveler",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "075graveler2": {
+      "icon": "075graveler",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "075graveler3": {
+      "icon": "075graveler",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "075graveler6": {
+      "icon": "075graveler",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "076golem2": {
+      "icon": "076golem",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "076golem3": {
+      "icon": "076golem",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "076golem4": {
+      "icon": "076golem",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/ground_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "076golem6": {
+      "icon": "076golem",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "077ponyta1": {
+      "icon": "077ponyta",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "077ponyta2": {
+      "icon": "077ponyta",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "077ponyta6": {
+      "icon": "077ponyta",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "078rapidash1": {
+      "icon": "078rapidash",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "078rapidash2": {
+      "icon": "078rapidash",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "078rapidash3": {
+      "icon": "078rapidash",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "078rapidash6": {
+      "icon": "078rapidash",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "079slowpoke1": {
+      "icon": "079slowpoke",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "079slowpoke2": {
+      "icon": "079slowpoke",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "079slowpoke6": {
+      "icon": "079slowpoke",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "080slowbro1": {
+      "icon": "080slowbro",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "080slowbro2": {
+      "icon": "080slowbro",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "080slowbro3": {
+      "icon": "080slowbro",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "080slowbro6": {
+      "icon": "080slowbro",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "081magnemite1": {
+      "icon": "081magnemite",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "081magnemite2": {
+      "icon": "081magnemite",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "081magnemite6": {
+      "icon": "081magnemite",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "082magneton1": {
+      "icon": "082magneton",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "082magneton2": {
+      "icon": "082magneton",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "082magneton3": {
+      "icon": "082magneton",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "082magneton6": {
+      "icon": "082magneton",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "083farfetchd1": {
+      "icon": "083farfetchd",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "083farfetchd2": {
+      "icon": "083farfetchd",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "083farfetchd3": {
+      "icon": "083farfetchd",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "083farfetchd6": {
+      "icon": "083farfetchd",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "084doduo1": {
+      "icon": "084doduo",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "084doduo2": {
+      "icon": "084doduo",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "084doduo6": {
+      "icon": "084doduo",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "085dodrio1": {
+      "icon": "085dodrio",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "085dodrio2": {
+      "icon": "085dodrio",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "085dodrio3": {
+      "icon": "085dodrio",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "085dodrio6": {
+      "icon": "085dodrio",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "086seel1": {
+      "icon": "086seel",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "086seel2": {
+      "icon": "086seel",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "086seel6": {
+      "icon": "086seel",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "087dewgong1": {
+      "icon": "087dewgong",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "087dewgong2": {
+      "icon": "087dewgong",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "087dewgong3": {
+      "icon": "087dewgong",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "087dewgong6": {
+      "icon": "087dewgong",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "088grimer1": {
+      "icon": "088grimer",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "088grimer2": {
+      "icon": "088grimer",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "088grimer6": {
+      "icon": "088grimer",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "089muk1": {
+      "icon": "089muk",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "089muk2": {
+      "icon": "089muk",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "089muk3": {
+      "icon": "089muk",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "089muk6": {
+      "icon": "089muk",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "090shellder1": {
+      "icon": "090shellder",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "090shellder2": {
+      "icon": "090shellder",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "090shellder6": {
+      "icon": "090shellder",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "091cloyster1": {
+      "icon": "091cloyster",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "091cloyster2": {
+      "icon": "091cloyster",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "091cloyster3": {
+      "icon": "091cloyster",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "091cloyster6": {
+      "icon": "091cloyster",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "092gastly1": {
+      "icon": "092gastly",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "092gastly2": {
+      "icon": "092gastly",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "092gastly6": {
+      "icon": "092gastly",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "093haunter1": {
+      "icon": "093haunter",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "093haunter2": {
+      "icon": "093haunter",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "093haunter3": {
+      "icon": "093haunter",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "093haunter6": {
+      "icon": "093haunter",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "094gengar2": {
+      "icon": "094gengar",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "094gengar3": {
+      "icon": "094gengar",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "094gengar4": {
+      "icon": "094gengar",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/ghost_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "094gengar6": {
+      "icon": "094gengar",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "095onix2": {
+      "icon": "095onix",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "095onix3": {
+      "icon": "095onix",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "095onix4": {
+      "icon": "095onix",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/rock_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "095onix6": {
+      "icon": "095onix",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "096drowzee1": {
+      "icon": "096drowzee",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "096drowzee2": {
+      "icon": "096drowzee",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "096drowzee6": {
+      "icon": "096drowzee",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "097hypno1": {
+      "icon": "097hypno",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "097hypno2": {
+      "icon": "097hypno",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "097hypno3": {
+      "icon": "097hypno",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "097hypno6": {
+      "icon": "097hypno",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "098krabby1": {
+      "icon": "098krabby",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "098krabby2": {
+      "icon": "098krabby",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "098krabby6": {
+      "icon": "098krabby",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "099kingler1": {
+      "icon": "099kingler",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "099kingler2": {
+      "icon": "099kingler",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "099kingler3": {
+      "icon": "099kingler",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "099kingler6": {
+      "icon": "099kingler",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "100voltorb1": {
+      "icon": "100voltorb",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "100voltorb2": {
+      "icon": "100voltorb",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "100voltorb6": {
+      "icon": "100voltorb",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "101electrode1": {
+      "icon": "101electrode",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "101electrode2": {
+      "icon": "101electrode",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "101electrode3": {
+      "icon": "101electrode",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "101electrode6": {
+      "icon": "101electrode",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "102exeggcute1": {
+      "icon": "102exeggcute",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "102exeggcute2": {
+      "icon": "102exeggcute",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "102exeggcute6": {
+      "icon": "102exeggcute",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "103exeggutor1": {
+      "icon": "103exeggutor",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "103exeggutor2": {
+      "icon": "103exeggutor",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "103exeggutor3": {
+      "icon": "103exeggutor",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "103exeggutor6": {
+      "icon": "103exeggutor",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "104cubone1": {
+      "icon": "104cubone",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "104cubone2": {
+      "icon": "104cubone",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "104cubone6": {
+      "icon": "104cubone",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "105marowak1": {
+      "icon": "105marowak",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "105marowak2": {
+      "icon": "105marowak",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "105marowak3": {
+      "icon": "105marowak",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "105marowak6": {
+      "icon": "105marowak",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "106hitmonlee2": {
+      "icon": "106hitmonlee",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "106hitmonlee3": {
+      "icon": "106hitmonlee",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "106hitmonlee4": {
+      "icon": "106hitmonlee",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fighting_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "106hitmonlee6": {
+      "icon": "106hitmonlee",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "107hitmonchan2": {
+      "icon": "107hitmonchan",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "107hitmonchan3": {
+      "icon": "107hitmonchan",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "107hitmonchan4": {
+      "icon": "107hitmonchan",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fighting_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "107hitmonchan6": {
+      "icon": "107hitmonchan",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "108lickitung2": {
+      "icon": "108lickitung",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "108lickitung3": {
+      "icon": "108lickitung",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "108lickitung4": {
+      "icon": "108lickitung",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/normal_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "108lickitung6": {
+      "icon": "108lickitung",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "109koffing1": {
+      "icon": "109koffing",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "109koffing2": {
+      "icon": "109koffing",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "109koffing6": {
+      "icon": "109koffing",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "110weezing1": {
+      "icon": "110weezing",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "110weezing2": {
+      "icon": "110weezing",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "110weezing3": {
+      "icon": "110weezing",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "110weezing6": {
+      "icon": "110weezing",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "111rhyhorn1": {
+      "icon": "111rhyhorn",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "111rhyhorn2": {
+      "icon": "111rhyhorn",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "111rhyhorn6": {
+      "icon": "111rhyhorn",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "112rhydon1": {
+      "icon": "112rhydon",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "112rhydon2": {
+      "icon": "112rhydon",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "112rhydon3": {
+      "icon": "112rhydon",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "112rhydon6": {
+      "icon": "112rhydon",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "113chansey2": {
+      "icon": "113chansey",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "113chansey3": {
+      "icon": "113chansey",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "113chansey4": {
+      "icon": "113chansey",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/normal_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "113chansey6": {
+      "icon": "113chansey",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "114tangela2": {
+      "icon": "114tangela",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "114tangela3": {
+      "icon": "114tangela",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "114tangela4": {
+      "icon": "114tangela",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/grass_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "114tangela6": {
+      "icon": "114tangela",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "115kangaskhan2": {
+      "icon": "115kangaskhan",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "115kangaskhan3": {
+      "icon": "115kangaskhan",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "115kangaskhan4": {
+      "icon": "115kangaskhan",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/normal_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "115kangaskhan6": {
+      "icon": "115kangaskhan",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "116horsea1": {
+      "icon": "116horsea",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "116horsea2": {
+      "icon": "116horsea",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "116horsea6": {
+      "icon": "116horsea",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "117seadra1": {
+      "icon": "117seadra",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "117seadra2": {
+      "icon": "117seadra",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "117seadra3": {
+      "icon": "117seadra",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "117seadra6": {
+      "icon": "117seadra",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "118goldeen1": {
+      "icon": "118goldeen",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "118goldeen2": {
+      "icon": "118goldeen",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "118goldeen6": {
+      "icon": "118goldeen",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "119seaking1": {
+      "icon": "119seaking",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "119seaking2": {
+      "icon": "119seaking",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "119seaking3": {
+      "icon": "119seaking",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "119seaking6": {
+      "icon": "119seaking",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "120staryu1": {
+      "icon": "120staryu",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "120staryu2": {
+      "icon": "120staryu",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "120staryu6": {
+      "icon": "120staryu",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "121starmie1": {
+      "icon": "121starmie",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "121starmie2": {
+      "icon": "121starmie",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "121starmie3": {
+      "icon": "121starmie",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "121starmie6": {
+      "icon": "121starmie",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "122mrmime2": {
+      "icon": "122mrmime",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "122mrmime3": {
+      "icon": "122mrmime",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "122mrmime4": {
+      "icon": "122mrmime",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fairy_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "122mrmime6": {
+      "icon": "122mrmime",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "123scyther2": {
+      "icon": "123scyther",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "123scyther3": {
+      "icon": "123scyther",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "123scyther4": {
+      "icon": "123scyther",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/bug_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "123scyther6": {
+      "icon": "123scyther",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "124jynx2": {
+      "icon": "124jynx",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "124jynx3": {
+      "icon": "124jynx",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "124jynx4": {
+      "icon": "124jynx",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/ice_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "124jynx6": {
+      "icon": "124jynx",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "125electabuzz2": {
+      "icon": "125electabuzz",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "125electabuzz3": {
+      "icon": "125electabuzz",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "125electabuzz4": {
+      "icon": "125electabuzz",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/electric_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "125electabuzz6": {
+      "icon": "125electabuzz",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "126magmar2": {
+      "icon": "126magmar",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "126magmar3": {
+      "icon": "126magmar",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "126magmar4": {
+      "icon": "126magmar",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fire_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "126magmar6": {
+      "icon": "126magmar",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "127pinsir2": {
+      "icon": "127pinsir",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "127pinsir3": {
+      "icon": "127pinsir",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "127pinsir4": {
+      "icon": "127pinsir",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/bug_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "127pinsir6": {
+      "icon": "127pinsir",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "128tauros2": {
+      "icon": "128tauros",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "128tauros3": {
+      "icon": "128tauros",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "128tauros4": {
+      "icon": "128tauros",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/normal_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "128tauros6": {
+      "icon": "128tauros",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "129magikarp1": {
+      "icon": "129magikarp",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "129magikarp2": {
+      "icon": "129magikarp",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "129magikarp6": {
+      "icon": "129magikarp",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "130gyarados3": {
+      "icon": "130gyarados",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "130gyarados4": {
+      "icon": "130gyarados",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/water_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "130gyarados5": {
+      "icon": "130gyarados",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "130gyarados6": {
+      "icon": "130gyarados",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "131lapras3": {
+      "icon": "131lapras",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "131lapras4": {
+      "icon": "131lapras",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/ice_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "131lapras5": {
+      "icon": "131lapras",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "131lapras6": {
+      "icon": "131lapras",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "132ditto3": {
+      "icon": "132ditto",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "132ditto4": {
+      "icon": "132ditto",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@ditto",
+          "probability": 1.0
+        }
+      ]
+    },
+    "132ditto5": {
+      "icon": "132ditto",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "132ditto6": {
+      "icon": "132ditto",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "133eevee2": {
+      "icon": "133eevee",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "133eevee3": {
+      "icon": "133eevee",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "133eevee4": {
+      "icon": "133eevee",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@ditto",
+          "probability": 1.0
+        }
+      ]
+    },
+    "133eevee6": {
+      "icon": "133eevee",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "134vaporeon3": {
+      "icon": "134vaporeon",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "134vaporeon4": {
+      "icon": "134vaporeon",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/water_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "134vaporeon5": {
+      "icon": "134vaporeon",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "134vaporeon6": {
+      "icon": "134vaporeon",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "135jolteon3": {
+      "icon": "135jolteon",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "135jolteon4": {
+      "icon": "135jolteon",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/electric_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "135jolteon5": {
+      "icon": "135jolteon",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "135jolteon6": {
+      "icon": "135jolteon",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "136flareon3": {
+      "icon": "136flareon",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "136flareon4": {
+      "icon": "136flareon",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/fire_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "136flareon5": {
+      "icon": "136flareon",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "136flareon6": {
+      "icon": "136flareon",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "137porygon3": {
+      "icon": "137porygon",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "137porygon4": {
+      "icon": "137porygon",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@ditto",
+          "probability": 1.0
+        }
+      ]
+    },
+    "137porygon5": {
+      "icon": "137porygon",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "137porygon6": {
+      "icon": "137porygon",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "138omanyte2": {
+      "icon": "138omanyte",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "138omanyte3": {
+      "icon": "138omanyte",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "138omanyte4": {
+      "icon": "138omanyte",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/rock_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "138omanyte6": {
+      "icon": "138omanyte",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "139omastar3": {
+      "icon": "139omastar",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "139omastar4": {
+      "icon": "139omastar",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/rock_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "139omastar5": {
+      "icon": "139omastar",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "139omastar6": {
+      "icon": "139omastar",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "140kabuto1": {
+      "icon": "140kabuto",
+      "rarity": "common",
+      "modifiers": [
+        {
+          "modifier": "@t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "140kabuto2": {
+      "icon": "140kabuto",
+      "rarity": "uncommon",
+      "modifiers": [
+        {
+          "modifier": "@t2",
+          "probability": 1.0
+        }
+      ]
+    },
+    "140kabuto3": {
+      "icon": "140kabuto",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "140kabuto6": {
+      "icon": "140kabuto",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "141kabutops3": {
+      "icon": "141kabutops",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "141kabutops4": {
+      "icon": "141kabutops",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/rock_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "141kabutops5": {
+      "icon": "141kabutops",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "141kabutops6": {
+      "icon": "141kabutops",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "142aerodactyl3": {
+      "icon": "142aerodactyl",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "142aerodactyl4": {
+      "icon": "142aerodactyl",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/flying_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "142aerodactyl5": {
+      "icon": "142aerodactyl",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "142aerodactyl6": {
+      "icon": "142aerodactyl",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "143snorlax3": {
+      "icon": "143snorlax",
+      "rarity": "rare",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        }
+      ]
+    },
+    "143snorlax4": {
+      "icon": "143snorlax",
+      "rarity": "epic",
+      "modifiers": [
+        {
+          "modifier": "@t4",
+          "probability": 1.0
+        },
+        {
+          "modifier": "label_weight/normal_t1",
+          "probability": 1.0
+        }
+      ]
+    },
+    "143snorlax5": {
+      "icon": "143snorlax",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "143snorlax6": {
+      "icon": "143snorlax",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "144articuno5": {
+      "icon": "144articuno",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "144articuno6": {
+      "icon": "144articuno",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "145zapdos5": {
+      "icon": "145zapdos",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "145zapdos6": {
+      "icon": "145zapdos",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "146moltres5": {
+      "icon": "146moltres",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "146moltres6": {
+      "icon": "146moltres",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "147dratini5": {
+      "icon": "147dratini",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "147dratini6": {
+      "icon": "147dratini",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "148dragonair5": {
+      "icon": "148dragonair",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "148dragonair6": {
+      "icon": "148dragonair",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "149dragonite5": {
+      "icon": "149dragonite",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "149dragonite6": {
+      "icon": "149dragonite",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "150mewtwo5": {
+      "icon": "150mewtwo",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "150mewtwo6": {
+      "icon": "150mewtwo",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    },
+    "151mew5": {
+      "icon": "151mew",
+      "rarity": "legendary",
+      "modifiers": [
+        {
+          "modifier": "@legendary2",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@t5",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@legendary",
+          "probability": 1.0
+        }
+      ]
+    },
+    "151mew6": {
+      "icon": "151mew",
+      "rarity": "shiny",
+      "modifiers": [
+        {
+          "modifier": "@t3",
+          "probability": 1.0
+        },
+        {
+          "modifier": "@shiny",
+          "probability": 1.0
+        }
+      ]
+    }
+  },
+  "pools": {
+    "common": {
+      "010caterpie1": 1,
+      "011metapod1": 1,
+      "013weedle1": 1,
+      "014kakuna1": 1,
+      "016pidgey1": 1,
+      "017pidgeotto1": 1,
+      "019rattata1": 1,
+      "020raticate1": 1,
+      "021spearow1": 1,
+      "022fearow1": 1,
+      "023ekans1": 1,
+      "024arbok1": 1,
+      "027sandshrew1": 1,
+      "028sandslash1": 1,
+      "029nidoranf1": 1,
+      "030nidorina1": 1,
+      "032nidoranm1": 1,
+      "033nidorino1": 1,
+      "035clefairy1": 1,
+      "037vulpix1": 1,
+      "039jigglypuff1": 1,
+      "040wigglytuff1": 1,
+      "041zubat1": 1,
+      "042golbat1": 1,
+      "043oddish1": 1,
+      "044gloom1": 1,
+      "046paras1": 1,
+      "047parasect1": 1,
+      "048venonat1": 1,
+      "049venomoth1": 1,
+      "050diglett1": 1,
+      "051dugtrio1": 1,
+      "052meowth1": 1,
+      "053persian1": 1,
+      "054psyduck1": 1,
+      "055golduck1": 1,
+      "056mankey1": 1,
+      "057primeape1": 1,
+      "060poliwag1": 1,
+      "061poliwhirl1": 1,
+      "063abra1": 1,
+      "064kadabra1": 1,
+      "066machop1": 1,
+      "067machoke1": 1,
+      "069bellsprout1": 1,
+      "070weepinbell1": 1,
+      "072tentacool1": 1,
+      "073tentacruel1": 1,
+      "074geodude1": 1,
+      "075graveler1": 1,
+      "077ponyta1": 1,
+      "078rapidash1": 1,
+      "079slowpoke1": 1,
+      "080slowbro1": 1,
+      "081magnemite1": 1,
+      "082magneton1": 1,
+      "083farfetchd1": 1,
+      "084doduo1": 1,
+      "085dodrio1": 1,
+      "086seel1": 1,
+      "087dewgong1": 1,
+      "088grimer1": 1,
+      "089muk1": 1,
+      "090shellder1": 1,
+      "091cloyster1": 1,
+      "092gastly1": 1,
+      "093haunter1": 1,
+      "096drowzee1": 1,
+      "097hypno1": 1,
+      "098krabby1": 1,
+      "099kingler1": 1,
+      "100voltorb1": 1,
+      "101electrode1": 1,
+      "102exeggcute1": 1,
+      "103exeggutor1": 1,
+      "104cubone1": 1,
+      "105marowak1": 1,
+      "109koffing1": 1,
+      "110weezing1": 1,
+      "111rhyhorn1": 1,
+      "112rhydon1": 1,
+      "116horsea1": 1,
+      "117seadra1": 1,
+      "118goldeen1": 1,
+      "119seaking1": 1,
+      "120staryu1": 1,
+      "121starmie1": 1,
+      "129magikarp1": 1
+    },
+    "uncommon": {
+      "001bulbasaur2": 1,
+      "004charmander2": 1,
+      "007squirtle2": 1,
+      "010caterpie2": 1,
+      "011metapod2": 1,
+      "012butterfree2": 1,
+      "013weedle2": 1,
+      "014kakuna2": 1,
+      "015beedrill2": 1,
+      "016pidgey2": 1,
+      "017pidgeotto2": 1,
+      "018pidgeot2": 1,
+      "019rattata2": 1,
+      "020raticate2": 1,
+      "021spearow2": 1,
+      "022fearow2": 1,
+      "023ekans2": 1,
+      "024arbok2": 1,
+      "027sandshrew2": 1,
+      "028sandslash2": 1,
+      "029nidoranf2": 1,
+      "030nidorina2": 1,
+      "031nidoqueen2": 1,
+      "032nidoranm2": 1,
+      "033nidorino2": 1,
+      "034nidoking2": 1,
+      "035clefairy2": 1,
+      "036clefable2": 1,
+      "037vulpix2": 1,
+      "038ninetales2": 1,
+      "039jigglypuff2": 1,
+      "040wigglytuff2": 1,
+      "041zubat2": 1,
+      "042golbat2": 1,
+      "043oddish2": 1,
+      "044gloom2": 1,
+      "045vileplume2": 1,
+      "046paras2": 1,
+      "047parasect2": 1,
+      "048venonat2": 1,
+      "049venomoth2": 1,
+      "050diglett2": 1,
+      "051dugtrio2": 1,
+      "052meowth2": 1,
+      "053persian2": 1,
+      "054psyduck2": 1,
+      "055golduck2": 1,
+      "056mankey2": 1,
+      "057primeape2": 1,
+      "058growlithe2": 1,
+      "060poliwag2": 1,
+      "061poliwhirl2": 1,
+      "062poliwrath2": 1,
+      "063abra2": 1,
+      "064kadabra2": 1,
+      "065alakazam2": 1,
+      "066machop2": 1,
+      "067machoke2": 1,
+      "068machamp2": 1,
+      "069bellsprout2": 1,
+      "070weepinbell2": 1,
+      "071victreebel2": 1,
+      "072tentacool2": 1,
+      "073tentacruel2": 1,
+      "074geodude2": 1,
+      "075graveler2": 1,
+      "076golem2": 1,
+      "077ponyta2": 1,
+      "078rapidash2": 1,
+      "079slowpoke2": 1,
+      "080slowbro2": 1,
+      "081magnemite2": 1,
+      "082magneton2": 1,
+      "083farfetchd2": 1,
+      "084doduo2": 1,
+      "085dodrio2": 1,
+      "086seel2": 1,
+      "087dewgong2": 1,
+      "088grimer2": 1,
+      "089muk2": 1,
+      "090shellder2": 1,
+      "091cloyster2": 1,
+      "092gastly2": 1,
+      "093haunter2": 1,
+      "094gengar2": 1,
+      "095onix2": 1,
+      "096drowzee2": 1,
+      "097hypno2": 1,
+      "098krabby2": 1,
+      "099kingler2": 1,
+      "100voltorb2": 1,
+      "101electrode2": 1,
+      "102exeggcute2": 1,
+      "103exeggutor2": 1,
+      "104cubone2": 1,
+      "105marowak2": 1,
+      "106hitmonlee2": 1,
+      "107hitmonchan2": 1,
+      "108lickitung2": 1,
+      "109koffing2": 1,
+      "110weezing2": 1,
+      "111rhyhorn2": 1,
+      "112rhydon2": 1,
+      "113chansey2": 1,
+      "114tangela2": 1,
+      "115kangaskhan2": 1,
+      "116horsea2": 1,
+      "117seadra2": 1,
+      "118goldeen2": 1,
+      "119seaking2": 1,
+      "120staryu2": 1,
+      "121starmie2": 1,
+      "122mrmime2": 1,
+      "123scyther2": 1,
+      "124jynx2": 1,
+      "125electabuzz2": 1,
+      "126magmar2": 1,
+      "127pinsir2": 1,
+      "128tauros2": 1,
+      "129magikarp2": 1,
+      "133eevee2": 1,
+      "138omanyte2": 1,
+      "140kabuto2": 1
+    },
+    "rare": {
+      "001bulbasaur3": 1,
+      "002ivysaur3": 1,
+      "004charmander3": 1,
+      "005charmeleon3": 1,
+      "007squirtle3": 1,
+      "008wartortle3": 1,
+      "011metapod3": 1,
+      "012butterfree3": 1,
+      "014kakuna3": 1,
+      "015beedrill3": 1,
+      "017pidgeotto3": 1,
+      "018pidgeot3": 1,
+      "020raticate3": 1,
+      "022fearow3": 1,
+      "024arbok3": 1,
+      "025pikachu3": 1,
+      "026raichu3": 1,
+      "028sandslash3": 1,
+      "030nidorina3": 1,
+      "031nidoqueen3": 1,
+      "033nidorino3": 1,
+      "034nidoking3": 1,
+      "035clefairy3": 1,
+      "036clefable3": 1,
+      "037vulpix3": 1,
+      "038ninetales3": 1,
+      "040wigglytuff3": 1,
+      "042golbat3": 1,
+      "044gloom3": 1,
+      "045vileplume3": 1,
+      "047parasect3": 1,
+      "049venomoth3": 1,
+      "051dugtrio3": 1,
+      "053persian3": 1,
+      "055golduck3": 1,
+      "057primeape3": 1,
+      "058growlithe3": 1,
+      "059arcanine3": 1,
+      "061poliwhirl3": 1,
+      "062poliwrath3": 1,
+      "064kadabra3": 1,
+      "065alakazam3": 1,
+      "067machoke3": 1,
+      "068machamp3": 1,
+      "070weepinbell3": 1,
+      "071victreebel3": 1,
+      "073tentacruel3": 1,
+      "075graveler3": 1,
+      "076golem3": 1,
+      "078rapidash3": 1,
+      "080slowbro3": 1,
+      "082magneton3": 1,
+      "083farfetchd3": 1,
+      "085dodrio3": 1,
+      "087dewgong3": 1,
+      "089muk3": 1,
+      "091cloyster3": 1,
+      "093haunter3": 1,
+      "094gengar3": 1,
+      "095onix3": 1,
+      "097hypno3": 1,
+      "099kingler3": 1,
+      "101electrode3": 1,
+      "103exeggutor3": 1,
+      "105marowak3": 1,
+      "106hitmonlee3": 1,
+      "107hitmonchan3": 1,
+      "108lickitung3": 1,
+      "110weezing3": 1,
+      "112rhydon3": 1,
+      "113chansey3": 1,
+      "114tangela3": 1,
+      "115kangaskhan3": 1,
+      "117seadra3": 1,
+      "119seaking3": 1,
+      "121starmie3": 1,
+      "122mrmime3": 1,
+      "123scyther3": 1,
+      "124jynx3": 1,
+      "125electabuzz3": 1,
+      "126magmar3": 1,
+      "127pinsir3": 1,
+      "128tauros3": 1,
+      "130gyarados3": 1,
+      "131lapras3": 1,
+      "132ditto3": 1,
+      "133eevee3": 1,
+      "134vaporeon3": 1,
+      "135jolteon3": 1,
+      "136flareon3": 1,
+      "137porygon3": 1,
+      "138omanyte3": 1,
+      "139omastar3": 1,
+      "140kabuto3": 1,
+      "141kabutops3": 1,
+      "142aerodactyl3": 1,
+      "143snorlax3": 1
+    },
+    "epic": {
+      "002ivysaur4": 1,
+      "003venusaur4": 1,
+      "005charmeleon4": 1,
+      "006charizard4": 1,
+      "008wartortle4": 1,
+      "009blastoise4": 1,
+      "012butterfree4": 1,
+      "015beedrill4": 1,
+      "018pidgeot4": 1,
+      "025pikachu4": 1,
+      "026raichu4": 1,
+      "031nidoqueen4": 1,
+      "034nidoking4": 1,
+      "036clefable4": 1,
+      "038ninetales4": 1,
+      "045vileplume4": 1,
+      "058growlithe4": 1,
+      "059arcanine4": 1,
+      "062poliwrath4": 1,
+      "065alakazam4": 1,
+      "068machamp4": 1,
+      "071victreebel4": 1,
+      "076golem4": 1,
+      "094gengar4": 1,
+      "095onix4": 1,
+      "106hitmonlee4": 1,
+      "107hitmonchan4": 1,
+      "108lickitung4": 1,
+      "113chansey4": 1,
+      "114tangela4": 1,
+      "115kangaskhan4": 1,
+      "122mrmime4": 1,
+      "123scyther4": 1,
+      "124jynx4": 1,
+      "125electabuzz4": 1,
+      "126magmar4": 1,
+      "127pinsir4": 1,
+      "128tauros4": 1,
+      "130gyarados4": 1,
+      "131lapras4": 1,
+      "132ditto4": 1,
+      "133eevee4": 1,
+      "134vaporeon4": 1,
+      "135jolteon4": 1,
+      "136flareon4": 1,
+      "137porygon4": 1,
+      "138omanyte4": 1,
+      "139omastar4": 1,
+      "140kabuto4": 1,
+      "141kabutops4": 1,
+      "142aerodactyl4": 1,
+      "143snorlax4": 1
+    },
+    "legendary": {
+      "003venusaur5": 1,
+      "006charizard5": 1,
+      "009blastoise5": 1,
+      "025pikachu5": 1,
+      "026raichu5": 1,
+      "059arcanine5": 1,
+      "130gyarados5": 1,
+      "131lapras5": 1,
+      "132ditto5": 1,
+      "134vaporeon5": 1,
+      "135jolteon5": 1,
+      "136flareon5": 1,
+      "137porygon5": 1,
+      "139omastar5": 1,
+      "141kabutops5": 1,
+      "142aerodactyl5": 1,
+      "143snorlax5": 1,
+      "144articuno5": 1,
+      "145zapdos5": 1,
+      "146moltres5": 1,
+      "147dratini5": 1,
+      "148dragonair5": 1,
+      "149dragonite5": 1,
+      "150mewtwo5": 1,
+      "151mew5": 1
+    },
+    "shiny": {
+      "001bulbasaur6": 1,
+      "002ivysaur6": 1,
+      "003venusaur6": 1,
+      "004charmander6": 1,
+      "005charmeleon6": 1,
+      "006charizard6": 1,
+      "007squirtle6": 1,
+      "008wartortle6": 1,
+      "009blastoise6": 1,
+      "010caterpie6": 1,
+      "011metapod6": 1,
+      "012butterfree6": 1,
+      "013weedle6": 1,
+      "014kakuna6": 1,
+      "015beedrill6": 1,
+      "016pidgey6": 1,
+      "017pidgeotto6": 1,
+      "018pidgeot6": 1,
+      "019rattata6": 1,
+      "020raticate6": 1,
+      "021spearow6": 1,
+      "022fearow6": 1,
+      "023ekans6": 1,
+      "024arbok6": 1,
+      "025pikachu6": 1,
+      "026raichu6": 1,
+      "027sandshrew6": 1,
+      "028sandslash6": 1,
+      "029nidoranf6": 1,
+      "030nidorina6": 1,
+      "031nidoqueen6": 1,
+      "032nidoranm6": 1,
+      "033nidorino6": 1,
+      "034nidoking6": 1,
+      "035clefairy6": 1,
+      "036clefable6": 1,
+      "037vulpix6": 1,
+      "038ninetales6": 1,
+      "039jigglypuff6": 1,
+      "040wigglytuff6": 1,
+      "041zubat6": 1,
+      "042golbat6": 1,
+      "043oddish6": 1,
+      "044gloom6": 1,
+      "045vileplume6": 1,
+      "046paras6": 1,
+      "047parasect6": 1,
+      "048venonat6": 1,
+      "049venomoth6": 1,
+      "050diglett6": 1,
+      "051dugtrio6": 1,
+      "052meowth6": 1,
+      "053persian6": 1,
+      "054psyduck6": 1,
+      "055golduck6": 1,
+      "056mankey6": 1,
+      "057primeape6": 1,
+      "058growlithe6": 1,
+      "059arcanine6": 1,
+      "060poliwag6": 1,
+      "061poliwhirl6": 1,
+      "062poliwrath6": 1,
+      "063abra6": 1,
+      "064kadabra6": 1,
+      "065alakazam6": 1,
+      "066machop6": 1,
+      "067machoke6": 1,
+      "068machamp6": 1,
+      "069bellsprout6": 1,
+      "070weepinbell6": 1,
+      "071victreebel6": 1,
+      "072tentacool6": 1,
+      "073tentacruel6": 1,
+      "074geodude6": 1,
+      "075graveler6": 1,
+      "076golem6": 1,
+      "077ponyta6": 1,
+      "078rapidash6": 1,
+      "079slowpoke6": 1,
+      "080slowbro6": 1,
+      "081magnemite6": 1,
+      "082magneton6": 1,
+      "083farfetchd6": 1,
+      "084doduo6": 1,
+      "085dodrio6": 1,
+      "086seel6": 1,
+      "087dewgong6": 1,
+      "088grimer6": 1,
+      "089muk6": 1,
+      "090shellder6": 1,
+      "091cloyster6": 1,
+      "092gastly6": 1,
+      "093haunter6": 1,
+      "094gengar6": 1,
+      "095onix6": 1,
+      "096drowzee6": 1,
+      "097hypno6": 1,
+      "098krabby6": 1,
+      "099kingler6": 1,
+      "100voltorb6": 1,
+      "101electrode6": 1,
+      "102exeggcute6": 1,
+      "103exeggutor6": 1,
+      "104cubone6": 1,
+      "105marowak6": 1,
+      "106hitmonlee6": 1,
+      "107hitmonchan6": 1,
+      "108lickitung6": 1,
+      "109koffing6": 1,
+      "110weezing6": 1,
+      "111rhyhorn6": 1,
+      "112rhydon6": 1,
+      "113chansey6": 1,
+      "114tangela6": 1,
+      "115kangaskhan6": 1,
+      "116horsea6": 1,
+      "117seadra6": 1,
+      "118goldeen6": 1,
+      "119seaking6": 1,
+      "120staryu6": 1,
+      "121starmie6": 1,
+      "122mrmime6": 1,
+      "123scyther6": 1,
+      "124jynx6": 1,
+      "125electabuzz6": 1,
+      "126magmar6": 1,
+      "127pinsir6": 1,
+      "128tauros6": 1,
+      "129magikarp6": 1,
+      "130gyarados6": 1,
+      "131lapras6": 1,
+      "132ditto6": 1,
+      "133eevee6": 1,
+      "134vaporeon6": 1,
+      "135jolteon6": 1,
+      "136flareon6": 1,
+      "137porygon6": 1,
+      "138omanyte6": 1,
+      "139omastar6": 1,
+      "140kabuto6": 1,
+      "141kabutops6": 1,
+      "142aerodactyl6": 1,
+      "143snorlax6": 1,
+      "144articuno6": 1,
+      "145zapdos6": 1,
+      "146moltres6": 1,
+      "147dratini6": 1,
+      "148dragonair6": 1,
+      "149dragonite6": 1,
+      "150mewtwo6": 1,
+      "151mew6": 1
+    },
+    "all": {
+      "@common": 140,
+      "@uncommon": 100,
+      "@rare": 24,
+      "@epic": 8,
+      "@legendary": 1,
+      "@shiny": 2
+    },
+    "plusone": {
+      "@uncommon": 170,
+      "@rare": 70,
+      "@epic": 24,
+      "@legendary": 1,
+      "@shiny": 2
+    }
+  }
+}

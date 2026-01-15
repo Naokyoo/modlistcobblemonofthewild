@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+	  "minecraft:snowy_slopes",
+    "minecraft:stony_peaks",
+    {
+      "id": "#c:is_mountain/peak",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:icy_heights",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:howling_peaks",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "values": {
+    "common": {
+      "COMMON": 1
+    },
+    "uncommon": {
+      "UNCOMMON": 1
+    },
+    "rare": {
+      "RARE": 1
+    },
+    "epic": {
+      "EPIC": 1
+    },
+    "legendary": {
+      "LEGENDARY": 1
+    },
+    "shiny": {
+      "SHINY": 1
+    }
+  },
+  "pools": {}
+}

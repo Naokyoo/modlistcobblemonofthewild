@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:skrelp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:skrelp",
+      "model": "cobblemon:skrelp.geo",
+      "texture": "cobblemon:textures/pokemon/0690_skrelp/skrelp_radiant.png",
+      "layers": []
+    }
+  ]
+}

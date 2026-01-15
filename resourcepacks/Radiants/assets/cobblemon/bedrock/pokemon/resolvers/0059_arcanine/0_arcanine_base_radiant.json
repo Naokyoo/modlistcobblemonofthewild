@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:arcanine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:arcanine",
+      "model": "cobblemon:arcanine.geo",
+      "texture": "cobblemon:textures/pokemon/0059_arcanine/arcanine_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:finizen",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:finizen",
+      "model": "cobblemon:finizen.geo",
+      "texture": "cobblemon:textures/pokemon/0963_finizen/finizen_radiant.png",
+      "layers": []
+    }
+  ]
+}

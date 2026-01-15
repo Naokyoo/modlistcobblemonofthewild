@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:walrein",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:walrein",
+      "model": "cobblemon:walrein.geo",
+      "texture": "cobblemon:textures/pokemon/0365_walrein/walrein_radiant.png",
+      "layers": []
+    }
+  ]
+}

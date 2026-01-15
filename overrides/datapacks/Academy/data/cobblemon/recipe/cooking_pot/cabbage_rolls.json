@@ -1,0 +1,19 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "tag": "farmersdelight:cabbage_roll_ingredients"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:cabbage_rolls"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

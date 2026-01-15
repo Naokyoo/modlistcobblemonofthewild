@@ -1,0 +1,32 @@
+{
+  "target": "cobblemon:rockruff",
+  "implemented": true,
+  "baseScale": 0.7,
+"hitbox": {
+    "width": 1,
+    "height": 1,
+    "fixed": false
+},
+  "evolutions": [
+    {
+      "id": "rockruff_lycanrocdusk2",
+      "variant": "level_up",
+      "result": "lycanroc wolf_form=dusk",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "thrash",
+        "crushclaw"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 25
+        },
+        {
+          "variant": "time_range",
+          "range": "dusk"
+        }
+      ]
+    }
+  ]
+}

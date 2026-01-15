@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#trek:forest/dark_oak/is_dark_forest",
+    "#trek:forest/oak/is_oak_forest",
+    "#trek:forest/birch/is_birch_forest",
+    "#trek:forest/spruce/is_windswept_forest",
+    "#trek:forest/spruce/is_normal_taiga",
+    "#trek:forest/jungle/is_sparse_jungle"
+  ]
+}

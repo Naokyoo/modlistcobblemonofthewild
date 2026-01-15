@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:dugtrio",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dugtrio",
+      "model": "cobblemon:dugtrio.geo",
+      "texture": "cobblemon:textures/pokemon/0051_dugtrio/dugtrio_radiant.png",
+      "layers": []
+    }
+  ]
+}

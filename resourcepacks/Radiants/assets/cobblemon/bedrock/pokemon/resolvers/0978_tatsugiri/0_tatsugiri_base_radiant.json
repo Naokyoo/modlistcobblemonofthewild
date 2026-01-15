@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tatsugiri",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tatsugiri",
+      "model": "cobblemon:tatsugiri.geo",
+      "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_curly_radiant.png",
+      "layers": []
+    }
+  ]
+}

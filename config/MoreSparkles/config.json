@@ -1,0 +1,8 @@
+{
+  "debug": false,
+  "pause_player_boosts_during_global_boost": true,
+  "allow_queued_boosts": true,
+  "pause_player_boosts_on_disconnect": true,
+  "active_global_boost": {},
+  "queued_global_boosts": []
+}

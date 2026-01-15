@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:kangaskhan",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:kangaskhan",
+      "model": "cobblemon:kangaskhan.geo",
+      "texture": "cobblemon:textures/pokemon/0115_kangaskhan/kangaskhan_radiant.png",
+      "layers": []
+    }
+  ]
+}

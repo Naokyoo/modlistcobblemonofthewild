@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:emboar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:emboar",
+      "model": "cobblemon:emboar.geo",
+      "texture": "cobblemon:textures/pokemon/0500_emboar/emboar_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0500_emboar/emboar_emissive_radiant.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

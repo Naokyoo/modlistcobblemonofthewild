@@ -1,0 +1,99 @@
+{
+  "target": "cobblemon:arbok",
+  "riding": {
+    "behaviours": {
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "stats": {
+          "ACCELERATION": "65-80",
+          "JUMP": "0-5",
+          "SKILL": "0-30",
+          "SPEED": "25-45",
+          "STAMINA": "35-55"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "poseOffsets": [
+          {
+            "offset": {
+              "x": 0.2679115,
+              "y": -0.54321074,
+              "z": 0.2811847
+            },
+            "poseTypes": [
+              "STAND"
+            ]
+          },
+          {
+            "offset": {
+              "x": -0.16237976,
+              "y": -0.5478424,
+              "z": 0.24229509
+            },
+            "poseTypes": [
+              "WALK"
+            ]
+          },
+          {
+            "offset": {
+              "x": 0.2679115,
+              "y": -0.54321074,
+              "z": 0.2811847
+            },
+            "poseTypes": [
+              "HOVER"
+            ]
+          },
+          {
+            "offset": {
+              "x": 0.2679115,
+              "y": -0.54321074,
+              "z": 0.2811847
+            },
+            "poseTypes": [
+              "FLY"
+            ]
+          },
+          {
+            "offset": {
+              "x": -0.16237976,
+              "y": -0.5478424,
+              "z": 0.24229509
+            },
+            "poseTypes": [
+              "FLOAT"
+            ]
+          },
+          {
+            "offset": {
+              "x": -0.16237976,
+              "y": -0.5478424,
+              "z": 0.24229509
+            },
+            "poseTypes": [
+              "SWIM"
+            ]
+          },
+          {
+            "offset": {
+              "x": 0.2679115,
+              "y": -0.54321074,
+              "z": 0.2811847
+            },
+            "poseTypes": [
+              "GLIDE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

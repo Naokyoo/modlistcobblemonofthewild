@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:klink",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:klink",
+      "model": "cobblemon:klink.geo",
+      "texture": "cobblemon:textures/pokemon/0599_klink/klink_radiant.png",
+      "layers": []
+    }
+  ]
+}

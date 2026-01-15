@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:venonat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:venonat",
+      "model": "cobblemon:venonat.geo",
+      "texture": "cobblemon:textures/pokemon/0048_venonat/venonat_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0048_venonat/venonat_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

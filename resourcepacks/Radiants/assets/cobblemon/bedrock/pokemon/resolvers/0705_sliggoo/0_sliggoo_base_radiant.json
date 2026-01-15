@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sliggoo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sliggoo",
+      "model": "cobblemon:sliggoo.geo",
+      "texture": "cobblemon:textures/pokemon/0705_sliggoo/sliggoo_radiant.png",
+      "layers": []
+    }
+  ]
+}

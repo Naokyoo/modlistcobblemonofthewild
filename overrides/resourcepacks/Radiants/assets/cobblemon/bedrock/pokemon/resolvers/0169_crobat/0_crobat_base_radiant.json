@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:crobat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:crobat",
+      "model": "cobblemon:crobat.geo",
+      "texture": "cobblemon:textures/pokemon/0169_crobat/crobat_radiant.png",
+      "layers": []
+    }
+  ]
+}

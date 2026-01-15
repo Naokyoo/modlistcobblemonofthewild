@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:grapploct",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:grapploct",
+      "model": "cobblemon:grapploct.geo",
+      "texture": "cobblemon:textures/pokemon/0853_grapploct/grapploct_radiant.png",
+      "layers": []
+    }
+  ]
+}

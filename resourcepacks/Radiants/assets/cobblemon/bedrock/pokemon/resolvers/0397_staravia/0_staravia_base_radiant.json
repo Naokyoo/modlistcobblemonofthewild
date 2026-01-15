@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:staravia",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:staravia",
+      "model": "cobblemon:staravia_male.geo",
+      "texture": "cobblemon:textures/pokemon/0397_staravia/staravia_radiant.png",
+      "layers": []
+    }
+  ]
+}

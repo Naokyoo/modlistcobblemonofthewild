@@ -1,0 +1,2736 @@
+{
+  "values": {
+    "shiny_chance": {
+      "path": "/shiny_chance/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.02,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.03
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.movement_speed_t1": {
+      "path": "/vanilla/minecraft:generic.movement_speed/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.01,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.02
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.movement_speed_t2": {
+      "path": "/vanilla/minecraft:generic.movement_speed/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.02,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.03
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.movement_speed_t3": {
+      "path": "/vanilla/minecraft:generic.movement_speed/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.03,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.04
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:player.block_interaction_range_t1": {
+      "path": "/vanilla/minecraft:player.block_interaction_range/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.1,
+                "type": "uniform",
+                "resolution": 0.1,
+                "maximum_inclusive": 0.1
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:player.block_interaction_range_t2": {
+      "path": "/vanilla/minecraft:player.block_interaction_range/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:player.block_interaction_range_t3": {
+      "path": "/vanilla/minecraft:player.block_interaction_range/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:player.block_break_speed_t1": {
+      "path": "/vanilla/minecraft:player.block_break_speed/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.01,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.03
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:player.block_break_speed_t2": {
+      "path": "/vanilla/minecraft:player.block_break_speed/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.03,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.05
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:player.block_break_speed_t3": {
+      "path": "/vanilla/minecraft:player.block_break_speed/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.08
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.jump_strength_t1": {
+      "path": "/vanilla/minecraft:generic.jump_strength/add_multiplied_total",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.1,
+                "type": "uniform",
+                "resolution": 0.1,
+                "maximum_inclusive": 0.1
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.jump_strength_t2": {
+      "path": "/vanilla/minecraft:generic.jump_strength/add_multiplied_total",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.jump_strength_t3": {
+      "path": "/vanilla/minecraft:generic.jump_strength/add_multiplied_total",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.water_movement_efficiency_t1": {
+      "path": "/vanilla/minecraft:generic.water_movement_efficiency/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.01,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.02
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.water_movement_efficiency_t2": {
+      "path": "/vanilla/minecraft:generic.water_movement_efficiency/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.02,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.03
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.water_movement_efficiency_t3": {
+      "path": "/vanilla/minecraft:generic.water_movement_efficiency/add_multiplied_base",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.03,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.04
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.oxygen_bonus_t1": {
+      "path": "/vanilla/minecraft:generic.oxygen_bonus/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.oxygen_bonus_t2": {
+      "path": "/vanilla/minecraft:generic.oxygen_bonus/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.oxygen_bonus_t3": {
+      "path": "/vanilla/minecraft:generic.oxygen_bonus/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.armor_t1": {
+      "path": "/vanilla/minecraft:generic.armor/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.armor_t2": {
+      "path": "/vanilla/minecraft:generic.armor/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "minecraft:generic.armor_t3": {
+      "path": "/vanilla/minecraft:generic.armor/add_value",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_friendship_t1": {
+      "path": "/capture_friendship/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.3,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_friendship_t2": {
+      "path": "/capture_friendship/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.8
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_friendship_t3": {
+      "path": "/capture_friendship/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.8,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 2.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:special_defence_t1": {
+      "path": "/ev_yield/cobblemon:special_defence/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:special_defence_t2": {
+      "path": "/ev_yield/cobblemon:special_defence/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:special_defence_t3": {
+      "path": "/ev_yield/cobblemon:special_defence/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:hp_t1": {
+      "path": "/ev_yield/cobblemon:hp/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:hp_t2": {
+      "path": "/ev_yield/cobblemon:hp/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:hp_t3": {
+      "path": "/ev_yield/cobblemon:hp/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:speed_t1": {
+      "path": "/ev_yield/cobblemon:speed/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:speed_t2": {
+      "path": "/ev_yield/cobblemon:speed/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:speed_t3": {
+      "path": "/ev_yield/cobblemon:speed/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:special_attack_t1": {
+      "path": "/ev_yield/cobblemon:special_attack/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:special_attack_t2": {
+      "path": "/ev_yield/cobblemon:special_attack/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:special_attack_t3": {
+      "path": "/ev_yield/cobblemon:special_attack/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:attack_t1": {
+      "path": "/ev_yield/cobblemon:attack/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:attack_t2": {
+      "path": "/ev_yield/cobblemon:attack/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:attack_t3": {
+      "path": "/ev_yield/cobblemon:attack/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:defence_t1": {
+      "path": "/ev_yield/cobblemon:defence/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.25,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:defence_t2": {
+      "path": "/ev_yield/cobblemon:defence/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.5,
+                "type": "uniform",
+                "resolution": 0.5,
+                "maximum_inclusive": 0.5
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "ev_yield/cobblemon:defence_t3": {
+      "path": "/ev_yield/cobblemon:defence/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 1.0,
+                "type": "uniform",
+                "resolution": 1.0,
+                "maximum_inclusive": 1.0
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/uncommon_t1": {
+      "path": "/bucket_weight/uncommon/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/uncommon_t2": {
+      "path": "/bucket_weight/uncommon/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/uncommon_t3": {
+      "path": "/bucket_weight/uncommon/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.30
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/rare_t1": {
+      "path": "/bucket_weight/rare/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/rare_t2": {
+      "path": "/bucket_weight/rare/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.30
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/ultra-rare_t1": {
+      "path": "/bucket_weight/ultra-rare/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "bucket_weight/ultra-rare_t2": {
+      "path": "/bucket_weight/ultra-rare/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.30
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/dark_t1": {
+      "path": "/label_weight/dark/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/dark_t2": {
+      "path": "/label_weight/dark/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/dark_t3": {
+      "path": "/label_weight/dark/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/psychic_t1": {
+      "path": "/label_weight/psychic/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/psychic_t2": {
+      "path": "/label_weight/psychic/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/psychic_t3": {
+      "path": "/label_weight/psychic/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/steel_t1": {
+      "path": "/label_weight/steel/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/steel_t2": {
+      "path": "/label_weight/steel/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/steel_t3": {
+      "path": "/label_weight/steel/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/flying_t1": {
+      "path": "/label_weight/flying/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.15,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/flying_t2": {
+      "path": "/label_weight/flying/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/flying_t3": {
+      "path": "/label_weight/flying/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fire_t1": {
+      "path": "/label_weight/fire/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fire_t2": {
+      "path": "/label_weight/fire/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fire_t3": {
+      "path": "/label_weight/fire/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/poison_t1": {
+      "path": "/label_weight/poison/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.15,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/poison_t2": {
+      "path": "/label_weight/poison/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/poison_t3": {
+      "path": "/label_weight/poison/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/water_t1": {
+      "path": "/label_weight/water/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/water_t2": {
+      "path": "/label_weight/water/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/water_t3": {
+      "path": "/label_weight/water/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/electric_t1": {
+      "path": "/label_weight/electric/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/electric_t2": {
+      "path": "/label_weight/electric/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/electric_t3": {
+      "path": "/label_weight/electric/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fighting_t1": {
+      "path": "/label_weight/fighting/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fighting_t2": {
+      "path": "/label_weight/fighting/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fighting_t3": {
+      "path": "/label_weight/fighting/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ice_t1": {
+      "path": "/label_weight/ice/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.30
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ice_t2": {
+      "path": "/label_weight/ice/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ice_t3": {
+      "path": "/label_weight/ice/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ghost_t1": {
+      "path": "/label_weight/ghost/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ghost_t2": {
+      "path": "/label_weight/ghost/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ghost_t3": {
+      "path": "/label_weight/ghost/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/bug_t1": {
+      "path": "/label_weight/bug/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/bug_t2": {
+      "path": "/label_weight/bug/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/bug_t3": {
+      "path": "/label_weight/bug/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/grass_t1": {
+      "path": "/label_weight/grass/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/grass_t2": {
+      "path": "/label_weight/grass/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/grass_t3": {
+      "path": "/label_weight/grass/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ground_t1": {
+      "path": "/label_weight/ground/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ground_t2": {
+      "path": "/label_weight/ground/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/ground_t3": {
+      "path": "/label_weight/ground/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fairy_t1": {
+      "path": "/label_weight/fairy/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.30
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fairy_t2": {
+      "path": "/label_weight/fairy/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/fairy_t3": {
+      "path": "/label_weight/fairy/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/normal_t1": {
+      "path": "/label_weight/normal/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/normal_t2": {
+      "path": "/label_weight/normal/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/normal_t3": {
+      "path": "/label_weight/normal/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/dragon_t1": {
+      "path": "/label_weight/dragon/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.20,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/dragon_t2": {
+      "path": "/label_weight/dragon/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/dragon_t3": {
+      "path": "/label_weight/dragon/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/rock_t1": {
+      "path": "/label_weight/rock/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.20
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/rock_t2": {
+      "path": "/label_weight/rock/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.10
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "label_weight/rock_t3": {
+      "path": "/label_weight/rock/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.10,
+                "type": "uniform",
+                "resolution": 0.01,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_chance_t1": {
+      "path": "/capture_chance/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.03,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.08
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_experience_t1": {
+      "path": "/capture_experience/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.03,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.05
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_experience_t2": {
+      "path": "/capture_experience/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.05,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.08
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_experience_t3": {
+      "path": "/capture_experience/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.08,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.15
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_experience_t4": {
+      "path": "/capture_experience/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.15,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.25
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    },
+    "capture_experience_t5": {
+      "path": "/capture_experience/increased",
+      "order": 1,
+      "attribute": {
+        "type": "add",
+        "value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": {
+                "minimum_inclusive": 0.25,
+                "type": "uniform",
+                "resolution": 0.001,
+                "maximum_inclusive": 0.40
+              }
+            },
+            {
+              "id": "base",
+              "type": "card_scalar"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "pools": {
+    "all": {
+      "minecraft:generic.movement_speed_t1": 1
+    },
+    "t1": {
+      "minecraft:generic.movement_speed_t1": 1,
+      "minecraft:player.block_interaction_range_t1": 1,
+      "minecraft:player.block_break_speed_t1": 1,
+      "minecraft:generic.water_movement_efficiency_t1": 1,
+      "minecraft:generic.oxygen_bonus_t1": 1,
+      "minecraft:generic.armor_t1": 1
+    },
+    "t2": {
+      "minecraft:generic.movement_speed_t2": 1,
+      "minecraft:player.block_interaction_range_t2": 1,
+      "minecraft:player.block_break_speed_t2": 1,
+      "minecraft:generic.water_movement_efficiency_t2": 1,
+      "minecraft:generic.oxygen_bonus_t2": 1,
+      "minecraft:generic.armor_t2": 1
+    },
+    "t3": {
+      "minecraft:generic.movement_speed_t3": 6,
+      "minecraft:player.block_interaction_range_t3": 6,
+      "minecraft:player.block_break_speed_t3": 6,
+      "minecraft:generic.water_movement_efficiency_t3": 6,
+      "minecraft:generic.armor_t3": 6,
+      "ev_yield/cobblemon:special_defence_t1": 1,
+      "ev_yield/cobblemon:hp_t1": 1,
+      "ev_yield/cobblemon:speed_t1":1,
+      "ev_yield/cobblemon:special_attack_t1": 1,
+      "ev_yield/cobblemon:attack_t1": 1,
+      "ev_yield/cobblemon:defence_t1": 1,
+      "capture_experience_t1": 6
+    },
+    "t4": {
+      "minecraft:generic.movement_speed_t3": 1,
+      "minecraft:player.block_interaction_range_t3": 1,
+      "minecraft:player.block_break_speed_t3": 1,
+      "minecraft:generic.water_movement_efficiency_t3": 1,
+      "minecraft:generic.oxygen_bonus_t3": 1,
+      "ev_yield/cobblemon:special_defence_t1": 3,
+      "ev_yield/cobblemon:hp_t1": 3,
+      "ev_yield/cobblemon:speed_t1":3,
+      "ev_yield/cobblemon:special_attack_t1": 3,
+      "ev_yield/cobblemon:attack_t1": 3,
+      "ev_yield/cobblemon:defence_t1": 3,
+      "capture_experience_t1": 18,
+      "capture_experience_t2": 6
+    },
+    "t5": {
+      "ev_yield/cobblemon:special_defence_t2": 3,
+      "ev_yield/cobblemon:hp_t2": 3,
+      "ev_yield/cobblemon:speed_t2":3,
+      "ev_yield/cobblemon:special_attack_t2": 3,
+      "ev_yield/cobblemon:attack_t2": 3,
+      "ev_yield/cobblemon:defence_t2": 3,
+      "capture_experience_t3": 18
+    },
+    "ditto": {
+      "label_weight/dark_t1": 1,
+      "label_weight/psychic_t1": 1,
+      "label_weight/steel_t1": 1,
+      "label_weight/flying_t1": 1,
+      "label_weight/fire_t1": 1,
+      "label_weight/poison_t1": 1,
+      "label_weight/water_t1": 1,
+      "label_weight/electric_t1": 1,
+      "label_weight/fighting_t1": 1,
+      "label_weight/ice_t1": 1,
+      "label_weight/ghost_t1": 1,
+      "label_weight/bug_t1": 1,
+      "label_weight/grass_t1": 1,
+      "label_weight/ground_t1": 1,
+      "label_weight/fairy_t1": 1,
+      "label_weight/normal_t1": 1,
+      "label_weight/dragon_t1": 1,
+      "label_weight/rock_t1": 1
+    },
+    "legendary": {
+      "capture_chance_t1": 1
+    },
+    "legendary2": {
+      "minecraft:generic.movement_speed_t3": 1,
+      "minecraft:player.block_interaction_range_t3": 1,
+      "minecraft:player.block_break_speed_t3": 1,
+      "minecraft:generic.water_movement_efficiency_t3": 1,
+      "minecraft:generic.armor_t3": 1
+    },
+    "shiny": {
+      "shiny_chance": 1
+    }
+  }
+}

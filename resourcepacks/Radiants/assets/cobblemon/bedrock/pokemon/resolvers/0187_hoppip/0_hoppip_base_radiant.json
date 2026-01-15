@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:hoppip",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hoppip",
+      "model": "cobblemon:hoppip.geo",
+      "texture": "cobblemon:textures/pokemon/0187_hoppip/hoppip_radiant.png"
+    }
+  ]
+}

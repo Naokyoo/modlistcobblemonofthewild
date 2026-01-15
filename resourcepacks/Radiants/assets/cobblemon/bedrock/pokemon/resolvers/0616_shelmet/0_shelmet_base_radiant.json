@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:shelmet",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:shelmet",
+      "model": "cobblemon:shelmet.geo",
+      "texture": "cobblemon:textures/pokemon/0616_shelmet/shelmet_radiant.png",
+      "layers": []
+    }
+  ]
+}

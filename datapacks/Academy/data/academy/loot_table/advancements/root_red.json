@@ -1,0 +1,109 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 12.0,"min": 12.0},"function":"minecraft:set_count"}],
+          "name": "cobblemon:poke_ball"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "knowlogy:knowlogy_book"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pokedex_red"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:small_poke_bag"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:card_album",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "academy:card_album": "base"
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:red_apricorn_seed"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_haban_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_razz_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_cheri_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_chople_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_occa_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:roasted_persim_berry",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 32.0,"min": 32.0},"function":"minecraft:set_count"}],
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

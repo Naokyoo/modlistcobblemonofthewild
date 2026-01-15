@@ -1,0 +1,796 @@
+{
+  "use": [
+    {
+      "predicate": "academy:hunt",
+      "commands": [
+        "/hunt"
+      ],
+      "context": "PLAYER",
+      "consumable": false
+    },
+    {
+      "predicate": "academy:shiny_incense",
+      "commands": [
+        "/sparkles boost start ${user_name} 2 20 minutes"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:strong_shiny_incense",
+      "commands": [
+        "/sparkles boost start ${user_name} 3 40 minutes"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:uber_shiny_incense",
+      "commands": [
+        "/sparkles boost start ${user_name} 4 60 minutes"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:lootbag_mythsandlegends",
+      "commands": [
+        "/loot give ${user_name} loot academy:gimmicks/legendaries"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:lootbag_megastone",
+      "commands": [
+        "/loot give ${user_name} loot academy:gimmicks/megastones"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:lootbag_academybiomeblend",
+      "commands": [
+        "/lootables random ${user_name} lootables:biomeblendsacademy"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:lootbag_gymkey",
+      "commands": [
+        "/loot give ${user_name} loot academy:radgyms/keys"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "academy:lootbag_hats",
+      "commands": [
+        "/lootables random ${user_name} lootables:hats"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:rare_dna",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn mew level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:time_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn celebi level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:wishing_star",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn jirachi level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:meteorite",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn deoxys level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:rare_sea_egg",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn manaphy level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:nightmare_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn darkrai level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:gracidea",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn shaymin level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:jewel_of_life",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn arceus level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:victory_star",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn victini level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:resolute_sword",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn keldeo level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:relic_disc",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn meloetta level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:disc_drive",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn genesect level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:pink_diamond",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn diancie level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ring",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn hoopa level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:steam_engine",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn volcanion level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:soul_heart",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn magearna level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:z_soul",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn marshadow level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:meltan_nut",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn meltan level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:dada_scarf",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zarude level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:mythical_pecha_berry",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn pecharunt level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:glacial_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn articuno level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:static_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zapdos level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:flare_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn moltres level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:cloning_cable",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn mewtwo level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:sacred_lightning",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn raikou level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:sacred_flame",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn entei level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:sacred_droplet",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn suicune level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:silver_wing",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn lugia level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:rainbow_wing",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn hooh level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:steel_alloy",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn registeel level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:never_melt_icicle",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn regice level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ancient_ingot",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn regirock level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:infinite_source",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn regieleki level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:dragon_skull",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn regidrago level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:titan_totem",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn regigigas level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:blue_eon_ticket",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn latios level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:red_eon_ticket",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn latias level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:blue_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn kyogre level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:red_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn groudon level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:jade_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn rayquaza level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruby_of_willpower",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn azelf level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruby_of_emotion",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn mesprit level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruby_of_knowledge",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn uxie level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:adamant_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn dialga level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:lustrous_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn palkia level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:griseous_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn giratina level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:magma_chunk",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn heatran level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:lunar_feather",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn cresselia level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:cobalion_sword",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn cobalion level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:virizion_sword",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn virizion level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:terrakion_sword",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn terrakion level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:thundurus_bottle",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn thundurus level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:tornadus_bottle",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn tornadus level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:landorus_bottle",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn landorus level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:enamorus_bottle",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn enamorus level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:light_stone",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn reshiram level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:dark_stone",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zekrom level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:gray_stone",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn kyurem level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:tree_of_life",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn xerneas level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:cocoon_of_destruction",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn yveltal level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:zygarde_cube",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zygarde level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:broken_memory",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn silvally level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:electric_totem",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn tapukoko level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:psychic_totem",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn tapulele level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:grass_totem",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn tapubulu level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:water_totem",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn tapufini level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:solar_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn solgaleo level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:lunar_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn lunala level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:eclipse_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn necrozma level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:rusted_sword",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zacian level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:rusted_shield",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zamazenta level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:dynamax_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn eternatus level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:mystical_branch",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn calyrex level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:frozen_hoof",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn glastrier level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ghostly_hoof",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn spectrier level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:koraidon_key",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn koraidon level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:miraidon_key",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn miraidon level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:toxic_scarf",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn okidogi level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:toxic_headband",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn munkidori level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:toxic_ribbon",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn fezandipiti level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:teal_mask",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn ogerpon level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:stellar_tera_core",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn terapagos level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:psychic_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn articuno galarian level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:combat_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zapdos galarian level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:dark_orb",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn moltres galarian level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruinous_sword",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn chienpao level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruinous_beads",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn chiyu level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruinous_tablet",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn wochien level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:ruinous_vessel",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn tinglu level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    },
+    {
+      "predicate": "cobblemon:zeraora_tuft",
+      "commands": [
+        "/execute as ${user_name} at ${user_name} run pokespawn zeraora level=50 level=50"
+      ],
+      "context": "SERVER",
+      "consumable": true
+    }
+  ]
+}

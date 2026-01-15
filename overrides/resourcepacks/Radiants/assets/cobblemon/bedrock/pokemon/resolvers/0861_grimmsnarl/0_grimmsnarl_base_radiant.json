@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:grimmsnarl",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:grimmsnarl",
+      "model": "cobblemon:grimmsnarl.geo",
+      "texture": "cobblemon:textures/pokemon/0861_grimmsnarl/grimmsnarl_radiant.png",
+      "layers": []
+    }
+  ]
+}

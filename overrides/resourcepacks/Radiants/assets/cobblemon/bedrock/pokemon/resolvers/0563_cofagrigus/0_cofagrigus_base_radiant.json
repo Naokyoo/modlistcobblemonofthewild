@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:cofagrigus",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cofagrigus",
+      "model": "cobblemon:cofagrigus.geo",
+      "texture": "cobblemon:textures/pokemon/0563_cofagrigus/cofagrigus_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0563_cofagrigus/cofagrigus_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

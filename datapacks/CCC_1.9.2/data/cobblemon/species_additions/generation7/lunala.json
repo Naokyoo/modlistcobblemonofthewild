@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:lunala",
+  "implemented": true,
+  "baseScale": 1,
+  "hitbox": {
+    "width": 2,
+    "height": 5,
+    "fixed": false
+  }
+}

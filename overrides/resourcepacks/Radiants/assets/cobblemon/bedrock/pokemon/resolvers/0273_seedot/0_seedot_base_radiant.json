@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:seedot",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:seedot",
+      "model": "cobblemon:seedot.geo",
+      "texture": "cobblemon:textures/pokemon/0273_seedot/seedot_radiant.png",
+      "layers": []
+    }
+  ]
+}

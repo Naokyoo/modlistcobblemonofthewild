@@ -1,0 +1,183 @@
+{
+  "interior_template": "rad-gyms:gym_fairy",
+  "exit_block_pos": {"x": 17, "y": 3, "z": 3},
+  "player_spawn_relative": {
+    "pos": {"x": 17.5, "y": 3, "z": 38.5},
+    "yaw": -180.0
+  },
+  "reward_loot_tables":  [
+    {
+      "id": "rad-gyms:gyms/fairy/shared_loot_table",
+      "minLevel": 1,
+      "maxLevel": 100
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t0_loot_table",
+      "maxLevel": 9
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t1_loot_table",
+      "minLevel": 10,
+      "maxLevel": 19
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t2_loot_table",
+      "minLevel": 20,
+      "maxLevel": 29
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t3_loot_table",
+      "minLevel": 30,
+      "maxLevel": 39
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t4_loot_table",
+      "minLevel": 40,
+      "maxLevel": 49
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t5_loot_table",
+      "minLevel": 50,
+      "maxLevel": 59
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t6_loot_table",
+      "minLevel": 60,
+      "maxLevel": 69
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t7_loot_table",
+      "minLevel": 70,
+      "maxLevel": 79
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t8_loot_table",
+      "minLevel": 80,
+      "maxLevel": 89
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t9_loot_table",
+      "minLevel": 90,
+      "maxLevel": 99
+    },
+    {
+      "id": "rad-gyms:gyms/fairy/t10_loot_table",
+      "minLevel": 100
+    }
+  ],
+  "trainers": [
+    {
+      "id": "default_trainer_junior",
+      "name": "rad-gyms.npc.trainer_junior",
+      "possibleFormats": [
+        "DOUBLES"
+      ],
+      "team_type": "GENERATED",
+      "spawn_relative": {
+        "pos": {"x": 8.5, "y": 3, "z": 23.5},
+        "yaw": -42.5
+      },
+      "ai": {
+        "type": "rct",
+        "data": {
+          "maxSelectMargin": 0.10,
+          "moveBias": 1.0,
+          "statusMoveBias": 0.65,
+          "switchBias": 0.10,
+          "itemBias": 0.85
+        }
+      },
+      "battleRules": {
+        "maxItemUses": 5
+      },
+      "bag": [
+        {
+          "item": "cobblemon:hyper_potion",
+          "quantity": 2
+        }
+      ],
+      "count_per_level_threshold": [
+        [1, 4], [80, 6]
+      ]
+    },
+    {
+      "id": "default_trainer_senior",
+      "name": "rad-gyms.npc.trainer_senior",
+      "requires": "default_trainer_junior",
+      "possibleFormats": [
+        "DOUBLES"
+      ],
+      "team_type": "GENERATED",
+      "spawn_relative": {
+        "pos": {"x": 26.5, "y": 3, "z": 19.5},
+        "yaw": 42.5
+      },
+      "ai": {
+        "type": "rct",
+        "data": {
+          "maxSelectMargin": 0.10,
+          "moveBias": 1.0,
+          "statusMoveBias": 0.65,
+          "switchBias": 0.10,
+          "itemBias": 0.85
+        }
+      },
+      "battleRules": {
+        "maxItemUses": 5
+      },
+      "bag": [
+        {
+          "item": "cobblemon:hyper_potion",
+          "quantity": 2
+        }
+      ],
+      "count_per_level_threshold": [
+        [1, 4], [50, 6]
+      ]
+    },
+    {
+      "id": "default_trainer_leader",
+      "name": "rad-gyms.npc.leader",
+      "requires": "default_trainer_senior",
+      "leader": true,
+      "possibleFormats": [
+        "DOUBLES"
+      ],
+      "team_type": "FIXED",
+      "team": [
+          "hatterene ability=magicbounce held_item=cobblemon:rocky_helmet nature=bold moves=psychicnoise,drainingkiss,painsplit,nuzzle",
+          "clefairy ability=magicguard held_item=cobblemon:eviolite nature=calm moves=knockoff,moonlight,stealthrock,nightshade",
+          "ironvaliant ability=quarkdrive held_item=cobblemon:focus_sash nature=naive moves=moonblast,closecombat,knockoff,encore",
+          "mimikyu ability=disguise held_item=cobblemon:life_orb nature=jolly moves=swordsdance,shadowclaw,playrough,shadowsneak",
+          "klefki ability=prankster held_item=cobblemon:leftovers nature=calm moves=spikes,thunderwave,foulplay,dazzlinggleam",
+          "dedenne ability=pickup held_item=cobblemon:heavy_duty_boots nature=timid moves=voltswitch,dazzlinggleam,grassknot,superfang"
+      ],
+      "spawn_relative": {
+        "pos": {"x": 17.5, "y": 3, "z": 8.5},
+        "yaw": 0.01
+      },
+      "ai": {
+        "type": "rct",
+        "data": {
+          "maxSelectMargin": 0.10,
+          "moveBias": 1.0,
+          "statusMoveBias": 0.65,
+          "switchBias": 0.10,
+          "itemBias": 0.85
+        }
+      },
+      "battleRules": {
+        "maxItemUses": 5
+      },
+      "bag": [
+        {
+          "item": "cobblemon:hyper_potion",
+          "quantity": 2
+        }
+      ],
+      "count_per_level_threshold": [
+        [1, 4], [30, 6]
+      ]
+    }
+  ]
+}

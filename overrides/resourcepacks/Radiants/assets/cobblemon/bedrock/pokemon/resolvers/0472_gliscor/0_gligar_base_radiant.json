@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:gliscor",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gliscor",
+      "model": "cobblemon:gliscor.geo",
+      "texture": "cobblemon:textures/pokemon/0472_gliscor/gliscor_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0472_gliscor/gliscor_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

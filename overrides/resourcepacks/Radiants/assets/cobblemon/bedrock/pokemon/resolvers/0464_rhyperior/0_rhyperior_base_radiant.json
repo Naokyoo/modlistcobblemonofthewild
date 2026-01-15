@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:rhyperior",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:rhyperior",
+      "model": "cobblemon:rhyperior_male.geo",
+      "texture": "cobblemon:textures/pokemon/0464_rhyperior/rhyperior_radiant.png",
+      "layers": []
+    }
+  ]
+}

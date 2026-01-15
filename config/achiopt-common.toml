@@ -1,0 +1,5 @@
+#Number of ticks to skip to check achievements [0 for disable skip]
+#Range: > 0
+skipTicksAdvancements = 5
+#Ignore empty stacks for inventory checks
+ignoreEmptyStacks = true

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:golisopod",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:golisopod",
+      "model": "cobblemon:golisopod.geo",
+      "texture": "cobblemon:textures/pokemon/0768_golisopod/golisopod_radiant.png",
+      "layers": []
+    }
+  ]
+}

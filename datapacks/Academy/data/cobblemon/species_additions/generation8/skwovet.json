@@ -1,0 +1,10 @@
+{
+ "target": "cobblemon:skwovet",
+ "implemented": true,
+ "baseScale": 0.5,
+    "hitbox": {
+      "width": 0.7,
+      "height": 0.8,
+      "fixed": false
+  }
+}

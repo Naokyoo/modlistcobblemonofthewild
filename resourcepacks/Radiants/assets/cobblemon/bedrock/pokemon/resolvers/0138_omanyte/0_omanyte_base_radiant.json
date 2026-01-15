@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:omanyte",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:omanyte",
+      "model": "cobblemon:omanyte.geo",
+      "texture": "cobblemon:textures/pokemon/0138_omanyte/omanyte_radiant.png",
+      "layers": []
+    }
+  ]
+}

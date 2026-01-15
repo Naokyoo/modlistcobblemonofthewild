@@ -1,0 +1,35 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_taiga",
+	  "#cobblemon:is_snowy_taiga",
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:boreal_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:golden_boreal_taiga",
+      "required": false
+    },
+  	{
+      "id": "regions_unexplored:pine_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:redwoods",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:sparse_redwoods",
+      "required": false
+    }
+  ]
+}

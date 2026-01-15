@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:inkay",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:inkay",
+      "model": "cobblemon:inkay.geo",
+      "texture": "cobblemon:textures/pokemon/0686_inkay/inkay_radiant.png",
+      "layers": []
+    }
+  ]
+}

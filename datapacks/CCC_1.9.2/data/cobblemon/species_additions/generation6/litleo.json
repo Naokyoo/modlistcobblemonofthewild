@@ -1,0 +1,11 @@
+{
+  "target": "cobblemon:litleo",
+  "implemented": true,
+  "shoulderMountable": true,
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 0.6,
+    "height": 0.8,
+    "fixed": false
+  }
+}

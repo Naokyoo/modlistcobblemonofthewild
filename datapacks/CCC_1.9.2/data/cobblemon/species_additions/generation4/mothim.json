@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:mothim",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 2,
+    "height": 2.5,
+    "fixed": false
+  }
+}

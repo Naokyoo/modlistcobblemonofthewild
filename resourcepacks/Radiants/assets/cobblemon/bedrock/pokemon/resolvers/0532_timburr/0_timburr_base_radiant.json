@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:timburr",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:timburr",
+      "model": "cobblemon:timburr.geo",
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:ledyba",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:ledyba",
+      "model": "cobblemon:ledyba_male.geo",
+      "texture": "cobblemon:textures/pokemon/0165_ledyba/ledyba_radiant.png",
+      "layers": []
+    }
+  ]
+}

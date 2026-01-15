@@ -1,0 +1,21 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:ocean",
+	"minecraft:deep_ocean",
+    {
+      "id": "biomeswevegone:dead_sea",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:lush_stacks",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:rocky_reef",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_savanna",
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:outback",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:araucaria_savanna",
+      "required": false
+    }
+  ]
+}

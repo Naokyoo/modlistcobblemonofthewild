@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:florges",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:florges",
+      "model": "cobblemon:florges.geo",
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_radiant.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_red_radiant.png"
+        }
+      ]
+    }
+  ]
+}

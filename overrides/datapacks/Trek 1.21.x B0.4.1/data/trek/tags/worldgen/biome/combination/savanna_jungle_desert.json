@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#minecraft:is_savanna",
+    "#minecraft:is_jungle",
+    "#trek:is_desert"
+  ]
+}

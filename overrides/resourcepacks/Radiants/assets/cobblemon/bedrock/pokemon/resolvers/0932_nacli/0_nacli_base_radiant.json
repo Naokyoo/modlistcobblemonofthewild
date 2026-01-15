@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:nacli",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:nacli",
+      "model": "cobblemon:nacli.geo",
+      "texture": "cobblemon:textures/pokemon/0932_nacli/nacli_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0932_nacli/nacli_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

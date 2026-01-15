@@ -25,7 +25,10 @@ function getLauncherDataPath() {
  * @param {function} onProgress - Callback de progression
  */
 async function downloadResources(resourcesUrl, onProgress) {
-    if (!resourcesUrl) return;
+    if (!resourcesUrl || resourcesUrl.trim() === '') {
+        console.log('[RESOURCES] Aucune URL de ressources configurée, téléchargement ignoré.');
+        return;
+    }
 
     const mcPath = getMinecraftPath();
     const launcherPath = getLauncherDataPath();
@@ -111,5 +114,6 @@ async function resourceNeedsUpdate(res, destPath) {
 }
 
 module.exports = {
-    downloadResources
+    downloadResources,
+    getLauncherDataPath
 };

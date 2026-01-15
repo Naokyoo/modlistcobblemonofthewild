@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:sandaconda",
+  "implemented": true,
+  "baseScale": 1.05,
+  "hitbox": {
+    "width": 1.2,
+    "height": 1.0,
+    "fixed": false
+  }
+}

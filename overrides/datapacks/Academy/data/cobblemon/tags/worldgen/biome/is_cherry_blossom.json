@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:cherry_grove",
+    {
+      "id": "biomeswevegone:sakura_grove",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:skyrise_vale",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cherry_hills",
+      "required": false
+    }
+  ]
+}

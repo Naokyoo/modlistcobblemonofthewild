@@ -1,0 +1,22 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:tomato_sauce"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

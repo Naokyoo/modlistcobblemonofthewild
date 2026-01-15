@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:safari_ticket",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "academy:safari_ticket_entry": "base"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:safari_ticket",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "academy:safari_ticket_entry": "great"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:safari_ticket",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "academy:safari_ticket_entry": "golden"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

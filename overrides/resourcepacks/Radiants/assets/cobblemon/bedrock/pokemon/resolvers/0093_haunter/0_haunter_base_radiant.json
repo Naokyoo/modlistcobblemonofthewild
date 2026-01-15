@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:haunter",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:haunter",
+      "model": "cobblemon:haunter.geo",
+      "texture": "cobblemon:textures/pokemon/0093_haunter/haunter_radiant.png",
+      "layers": []
+    }
+  ]
+}

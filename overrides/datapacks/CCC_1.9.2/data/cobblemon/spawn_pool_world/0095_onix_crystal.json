@@ -1,0 +1,26 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "onix-2",
+      "pokemon": "onix crystal",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.1,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": [
+          "minecraft:dripstone_caves"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:diamond_block"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:machop",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:machop",
+      "model": "cobblemon:machop.geo",
+      "texture": "cobblemon:textures/pokemon/0066_machop/machop_radiant.png",
+      "layers": []
+    }
+  ]
+}

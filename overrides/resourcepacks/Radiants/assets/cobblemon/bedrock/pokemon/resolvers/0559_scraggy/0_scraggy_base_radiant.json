@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:scraggy",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:scraggy",
+      "model": "cobblemon:scraggy.geo",
+      "texture": "cobblemon:textures/pokemon/0559_scraggy/scraggy_radiant.png",
+      "layers": []
+    }
+  ]
+}

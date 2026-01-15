@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:cursola",
+  "implemented": true,
+  "baseScale": 1.0,
+	"hitbox": {
+		"width": 0.9,
+		"height": 1.9,
+		"fixed": false
+   }
+}

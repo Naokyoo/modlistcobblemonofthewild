@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:carracosta",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:carracosta",
+      "model": "cobblemon:carracosta.geo",
+      "texture": "cobblemon:textures/pokemon/0565_carracosta/carracosta_radiant.png",
+      "layers": []
+    }
+  ]
+}

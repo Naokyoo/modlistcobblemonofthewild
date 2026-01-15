@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:herdier",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:herdier",
+      "model": "cobblemon:herdier.geo",
+      "texture": "cobblemon:textures/pokemon/0507_herdier/herdier_radiant.png",
+      "layers": []
+    }
+  ]
+}

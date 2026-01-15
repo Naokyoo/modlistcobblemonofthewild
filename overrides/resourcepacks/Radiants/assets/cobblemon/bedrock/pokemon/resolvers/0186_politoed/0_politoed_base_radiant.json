@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:politoed",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:politoed",
+      "model": "cobblemon:politoed.geo",
+      "texture": "cobblemon:textures/pokemon/0186_politoed/politoed_radiant.png",
+      "layers": []
+    }
+  ]
+}

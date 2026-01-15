@@ -1,0 +1,111 @@
+{
+  "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lonely_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:adamant_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:naughty_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:brave_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:bold_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:impish_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lax_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:relaxed_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:modest_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mild_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rash_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:quiet_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:calm_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gentle_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:careful_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sassy_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:timid_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:hasty_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:jolly_mint",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:naive_mint",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

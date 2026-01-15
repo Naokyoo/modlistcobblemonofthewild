@@ -1,0 +1,241 @@
+{
+  "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:abomasite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:absolite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:aerodactylite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:aggronite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:alakazite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:altarianite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ampharosite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:audinite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:banettite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:beedrillite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blastoisinite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blazikenite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cameruptite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:charizarditex",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:charizarditey",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:diancite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:galladite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:garchompite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gardevoirite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gengarite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gyaradosite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heracronite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:houndoominite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:kangaskhanite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:latiasite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:latiosite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lopunnite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lucarionite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:manectite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mawilite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:medichamite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:metagrossite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mewtwonitex",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mewtwonitey",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pidgeotite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pinsirite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sablenite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:salamencite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sceptilite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:scizorite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sharpedonite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:slowbronite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:steelixite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:swampertite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:tyranitarite",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:venusaurite",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

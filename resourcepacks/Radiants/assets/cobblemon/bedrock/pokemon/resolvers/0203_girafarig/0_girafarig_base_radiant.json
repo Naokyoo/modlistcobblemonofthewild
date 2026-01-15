@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:girafarig",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:girafarig",
+      "model": "cobblemon:girafarig_male.geo",
+      "texture": "cobblemon:textures/pokemon/0203_girafarig/girafarig_radiant.png",
+      "layers": []
+    }
+  ]
+}

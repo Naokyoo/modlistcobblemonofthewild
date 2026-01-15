@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:deep_dark",
+    {
+      "id": "biomeswevegone:pale_bog",
+      "required": false
+    }
+  ]
+}

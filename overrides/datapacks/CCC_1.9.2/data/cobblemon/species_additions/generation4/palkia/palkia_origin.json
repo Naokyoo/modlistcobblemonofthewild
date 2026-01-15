@@ -1,0 +1,288 @@
+{
+  "target": "cobblemon:palkia",
+  "forms": [
+    {
+      "name": "Origin",
+      "primaryType": "water",
+      "secondaryType": "dragon",
+      "maleRatio": -1,
+      "height": 63,
+      "weight": 6600,
+      "pokedex": [
+        "cobblemon.species.palkia-origin.desc"
+      ],
+      "labels": [
+        "gen8a",
+        "legendary",
+        "restricted"
+      ],
+      "baseScale": 1.1,
+      "riding": {
+        "behaviours": {
+          "AIR": {
+            "key": "cobblemon:air/bird",
+            "rideSounds": [
+              {
+                "soundLocation": "cobblemon:ride.loop.wind"
+              },
+              {
+                "muffleEnabled": true,
+                "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+                "playForNonPassengers": true,
+                "soundLocation": "cobblemon:ride.loop.leather",
+                "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+              }
+            ],
+            "stats": {
+              "ACCELERATION": "66-90",
+              "JUMP": "30-60",
+              "SKILL": "55-100",
+              "SPEED": "94-127",
+              "STAMINA": "70-150"
+            }
+          },
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "30-77",
+              "JUMP": "20-40",
+              "SKILL": "10-40",
+              "SPEED": "25-90",
+              "STAMINA": "30-100"
+            }
+          }
+        },
+        "seats": [
+          {
+            "offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "poseOffsets": [
+              {
+                "offset": {
+                  "x": 0.0047415113,
+                  "y": -1.6152971,
+                  "z": 0.35461712
+                },
+                "poseTypes": [
+                  "STAND"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.003806442,
+                  "y": -1.7203209,
+                  "z": 0.12983066
+                },
+                "poseTypes": [
+                  "WALK"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.039005388,
+                  "y": -2.4511793,
+                  "z": 0.10381147
+                },
+                "poseTypes": [
+                  "HOVER"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.058042027,
+                  "y": -2.1422236,
+                  "z": -0.52422106
+                },
+                "poseTypes": [
+                  "FLY"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.0,
+                  "y": -0.7674751,
+                  "z": -0.27694723
+                },
+                "poseTypes": [
+                  "FLOAT"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.003806442,
+                  "y": -1.7203209,
+                  "z": 0.12983066
+                },
+                "poseTypes": [
+                  "SWIM"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.0047415113,
+                  "y": -1.6152971,
+                  "z": 0.35461712
+                },
+                "poseTypes": [
+                  "GLIDE"
+                ]
+              }
+            ]
+          }
+        ],
+        "behaviour": {
+          "key": "cobblemon:composite",
+          "transitionStrategy": "cobblemon:strategy/jump",
+          "defaultBehaviour": {
+            "key": "cobblemon:land/generic",
+            "gravity": "q.gravity * (0.1 + (q.passenger_count - 1) * 0.1)",
+            "speed": "Math.clamp(q.entity.velocity.horizontal_magnitude + 0.33, 0, 1)",
+            "jumpVector": [
+              0,
+              "0.3*q.jump_strength/50",
+              "-1 * 0.5*q.jump_strength/50"
+            ]
+          },
+          "alternateBehaviour": {
+            "key": "cobblemon:air/bird",
+            "gravity": "q.gravity * (0.1 + (q.passenger_count - 1) * 0.1)",
+            "speed": "Math.clamp(q.entity.velocity.horizontal_magnitude + 0.33, 0, 1)",
+            "jumpVector": [
+              0,
+              "0.3*q.jump_strength/50",
+              0
+            ]
+          }
+        }
+      },
+      "aspects": [
+        "origin-forme"
+      ],
+      "baseStats": {
+        "hp": 90,
+        "attack": 100,
+        "defence": 100,
+        "special_attack": 150,
+        "special_defence": 120,
+        "speed": 120
+      },
+      "moves": [
+        "1:waterpulse",
+        "1:scaryface",
+        "8:dragonbreath",
+        "16:ancientpower",
+        "24:slash",
+        "32:aquaring",
+        "48:aurasphere",
+        "56:powergem",
+        "64:aquatail",
+        "72:earthpower",
+        "80:spacialrend",
+        "88:hydropump",
+        "tm:aerialace",
+        "tm:ancientpower",
+        "tm:aquatail",
+        "tm:aurasphere",
+        "tm:avalanche",
+        "tm:blizzard",
+        "tm:bodypress",
+        "tm:bodyslam",
+        "tm:breakingswipe",
+        "tm:brickbreak",
+        "tm:bulkup",
+        "tm:bulldoze",
+        "tm:chillingwater",
+        "tm:dracometeor",
+        "tm:dragonclaw",
+        "tm:dragonpulse",
+        "tm:dragontail",
+        "tm:dualwingbeat",
+        "tm:earthpower",
+        "tm:earthquake",
+        "tm:endure",
+        "tm:facade",
+        "tm:fireblast",
+        "tm:flamethrower",
+        "tm:fling",
+        "tm:focusblast",
+        "tm:gigaimpact",
+        "tm:gravity",
+        "tm:heavyslam",
+        "tm:hydropump",
+        "tm:hyperbeam",
+        "tm:hypervoice",
+        "tm:icebeam",
+        "tm:icywind",
+        "tm:liquidation",
+        "tm:outrage",
+        "tm:powergem",
+        "tm:protect",
+        "tm:psychup",
+        "tm:raindance",
+        "tm:rest",
+        "tm:roar",
+        "tm:rockslide",
+        "tm:rocksmash",
+        "tm:rocktomb",
+        "tm:sandstorm",
+        "tm:scaleshot",
+        "tm:scaryface",
+        "tm:shadowclaw",
+        "tm:sleeptalk",
+        "tm:snowscape",
+        "tm:stompingtantrum",
+        "tm:stoneedge",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:surf",
+        "tm:swift",
+        "tm:takedown",
+        "tm:terablast",
+        "tm:thunder",
+        "tm:thunderbolt",
+        "tm:thunderwave",
+        "tm:trick",
+        "tm:trickroom",
+        "tm:waterfall",
+        "tm:waterpulse",
+        "tm:whirlpool",
+        "tutor:aerialace",
+        "tutor:ancientpower",
+        "tutor:aquatail",
+        "tutor:bulkup",
+        "tutor:bulldoze",
+        "tutor:dracometeor",
+        "tutor:dragonpulse",
+        "tutor:dualwingbeat",
+        "tutor:earthpower",
+        "tutor:flamethrower",
+        "tutor:gigaimpact",
+        "tutor:gravity",
+        "tutor:hyperbeam",
+        "tutor:hypervoice",
+        "tutor:icebeam",
+        "tutor:icywind",
+        "tutor:liquidation",
+        "tutor:outrage",
+        "tutor:rest",
+        "tutor:rockslide",
+        "tutor:rocksmash",
+        "tutor:scaleshot",
+        "tutor:shadowclaw",
+        "tutor:sleeptalk",
+        "tutor:stompingtantrum",
+        "tutor:stoneedge",
+        "tutor:swift",
+        "tutor:thunderbolt",
+        "tutor:trick",
+        "tutor:waterpulse"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:poipole",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:poipole",
+      "model": "cobblemon:poipole.geo",
+      "texture": "cobblemon:textures/pokemon/0803_poipole/poipole_radiant.png",
+      "layers": []
+    }
+  ]
+}

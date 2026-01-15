@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:cradily",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cradily",
+      "model": "cobblemon:cradily.geo",
+      "texture": "cobblemon:textures/pokemon/0346_cradily/cradily_radiant.png",
+      "layers": []
+    }
+  ]
+}

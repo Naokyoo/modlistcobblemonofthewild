@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:poltchageist",
+  "implemented": true,   
+  "baseScale": 0.4,
+  "hitbox": {
+    "width": 0.55,
+    "height": 2.2,
+    "fixed": false
+  }
+}

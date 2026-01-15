@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:zarude",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:zarude",
+      "model": "cobblemon:zarude.geo",
+      "texture": "cobblemon:textures/pokemon/0893_zarude/zarude_radiant.png",
+      "layers": []
+    }
+  ]
+}

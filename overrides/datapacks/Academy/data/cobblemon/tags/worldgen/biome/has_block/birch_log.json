@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:birch_forest",
+	"minecraft:flower_forest",
+	"minecraft:forest",
+	"minecraft:old_growth_birch_forest",
+    {
+      "id": "#c:is_birch_forest",
+      "required": false
+    },
+	{
+      "id": "#clifftree:birch_forests",
+      "required": false 
+    },
+    {
+      "id": "byg:aspen_forest",
+      "required": false
+    },
+	{
+      "id": "byg:autumnal_forest",
+      "required": false
+    },
+	{
+      "id": "byg:borealis_grove",
+      "required": false
+    },
+    {
+      "id": "byg:howling_peaks",
+      "required": false
+    },
+    {
+      "id": "byg:temperate_grove",
+      "required": false
+    }
+  ]
+}

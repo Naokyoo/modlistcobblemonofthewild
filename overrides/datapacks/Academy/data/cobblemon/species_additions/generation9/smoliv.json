@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:smoliv",
+  "implemented": true,
+  "baseScale": 0.65,
+  "hitbox": {
+    "width": 0.55,
+    "height": 0.7,
+    "fixed": false
+  }
+}

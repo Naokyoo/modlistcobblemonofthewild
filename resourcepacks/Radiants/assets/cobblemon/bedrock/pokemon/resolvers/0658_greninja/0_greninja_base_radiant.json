@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:greninja",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:greninja",
+      "model": "cobblemon:greninja.geo",
+      "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_radiant.png",
+      "layers": []
+    }
+  ]
+}

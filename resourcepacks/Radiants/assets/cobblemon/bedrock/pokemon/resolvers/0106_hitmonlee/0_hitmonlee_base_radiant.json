@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:hitmonlee",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hitmonlee",
+      "model": "cobblemon:hitmonlee.geo",
+      "texture": "cobblemon:textures/pokemon/0106_hitmonlee/hitmonlee_radiant.png",
+      "layers": []
+    }
+  ]
+}

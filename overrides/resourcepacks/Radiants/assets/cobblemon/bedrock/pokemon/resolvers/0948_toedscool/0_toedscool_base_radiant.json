@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:toedscool",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:toedscool",
+      "model": "cobblemon:toedscool.geo",
+      "texture": "cobblemon:textures/pokemon/0948_toedscool/toedscool_radiant.png"
+    }
+  ]
+}

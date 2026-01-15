@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:electabuzz",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:electabuzz",
+      "model": "cobblemon:electabuzz.geo",
+      "texture": "cobblemon:textures/pokemon/0125_electabuzz/electabuzz_radiant.png",
+      "layers": []
+    }
+  ]
+}

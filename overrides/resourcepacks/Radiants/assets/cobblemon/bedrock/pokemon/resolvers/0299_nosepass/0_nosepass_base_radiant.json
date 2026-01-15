@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:nosepass",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:nosepass",
+      "model": "cobblemon:nosepass.geo",
+      "texture": "cobblemon:textures/pokemon/0299_nosepass/nosepass_radiant.png",
+      "layers": []
+    }
+  ]
+}

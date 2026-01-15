@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:poliwhirl",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:poliwhirl",
+      "model": "cobblemon:poliwhirl.geo",
+      "texture": "cobblemon:textures/pokemon/0061_poliwhirl/poliwhirl_radiant.png",
+      "layers": []
+    }
+  ]
+}

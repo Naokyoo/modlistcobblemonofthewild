@@ -1,0 +1,26 @@
+{
+ "target": "cobblemon:mimejr",
+ "evolutions": [
+    {
+      "id": "mimejr_mrmimegalar2",
+      "variant": "level_up",
+      "result": "mrmime galarian",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "has_move",
+          "move": "mimic"
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:evolution/regional/mimejr_galarbiome"
+        },
+        {
+          "variant": "biome",
+          "biomeAnticondition": "#cobblemon:evolution/regional/mimejr_sinnohbiome"
+        }
+      ]
+    }
+  ]
+}

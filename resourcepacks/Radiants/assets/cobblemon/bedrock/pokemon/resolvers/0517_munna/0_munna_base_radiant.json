@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:munna",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:munna",
+      "model": "cobblemon:munna.geo",
+      "texture": "cobblemon:textures/pokemon/0517_munna/munna_radiant.png",
+      "layers": [
+        {
+          "name": "translucency",
+          "texture": "cobblemon:textures/pokemon/0517_munna/munna_transparency_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

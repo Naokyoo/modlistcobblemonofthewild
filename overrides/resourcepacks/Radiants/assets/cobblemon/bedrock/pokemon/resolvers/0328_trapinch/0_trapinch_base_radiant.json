@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:trapinch",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:trapinch",
+      "model": "cobblemon:trapinch.geo",
+      "texture": "cobblemon:textures/pokemon/0328_trapinch/trapinch_radiant.png",
+      "layers": []
+    }
+  ]
+}

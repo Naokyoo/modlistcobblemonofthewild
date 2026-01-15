@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:corviknight",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:corviknight",
+      "model": "cobblemon:corviknight.geo",
+      "texture": "cobblemon:textures/pokemon/0823_corviknight/corviknight_radiant.png",
+      "layers": []
+    }
+  ]
+}

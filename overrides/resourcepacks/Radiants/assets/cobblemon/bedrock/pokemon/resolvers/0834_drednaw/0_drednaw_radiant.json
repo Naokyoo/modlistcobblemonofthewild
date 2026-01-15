@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:drednaw",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:drednaw",
+      "model": "cobblemon:drednaw.geo",
+      "texture": "cobblemon:textures/pokemon/0834_drednaw/drednaw_radiant.png",
+      "layers": []
+    }
+  ]
+}

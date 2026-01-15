@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:chewtle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:chewtle",
+      "model": "cobblemon:chewtle.geo",
+      "texture": "cobblemon:textures/pokemon/0833_chewtle/chewtle_radiant.png",
+      "layers": []
+    }
+  ]
+}

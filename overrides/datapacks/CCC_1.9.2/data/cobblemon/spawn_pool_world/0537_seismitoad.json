@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-seismitoad-1",
+      "pokemon": "seismitoad",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "uncommon",
+      "level": "35-48",
+      "weight": 2.87,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ]
+      }
+    },
+    {
+      "id": "deeper-seismitoad-2",
+      "pokemon": "seismitoad",
+      "type": "pokemon",
+      "context": "fishing",
+      "bucket": "uncommon",
+      "level": "35-48",
+      "weight": 0.7,
+      "weightMultipliers": [
+        {
+          "multiplier": 8.0,
+          "condition": {
+            "minLureLevel": 3
+          }
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ]
+      }
+    }
+  ]
+}

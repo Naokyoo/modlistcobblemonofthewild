@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:heracross",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:heracross",
+      "model": "cobblemon:heracross_male.geo",
+      "texture": "cobblemon:textures/pokemon/0214_heracross/heracross_radiant.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0214_heracross/heracross_transparency_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

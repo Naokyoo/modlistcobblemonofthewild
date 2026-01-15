@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:arctovish",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:arctovish",
+      "model": "cobblemon:arctovish.geo",
+      "texture": "cobblemon:textures/pokemon/0883_arctovish/arctovish_radiant.png",
+      "layers": []
+    }
+  ]
+}

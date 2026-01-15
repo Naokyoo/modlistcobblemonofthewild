@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:ice_spikes",
+    "minecraft:snowy_plains",
+    {
+      "id": "#c:is_snowy_plains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    }
+  ]
+}

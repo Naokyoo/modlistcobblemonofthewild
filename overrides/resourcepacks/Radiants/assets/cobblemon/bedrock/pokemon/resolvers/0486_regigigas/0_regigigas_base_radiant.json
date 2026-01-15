@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:regigigas",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:regigigas",
+      "model": "cobblemon:regigigas.geo",
+      "texture": "cobblemon:textures/pokemon/0486_regigigas/regigigas_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0486_regigigas/regigigas_emissive_radiant.png"
+        }
+      ]
+    }
+  ]
+}

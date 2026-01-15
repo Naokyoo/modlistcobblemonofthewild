@@ -1,0 +1,36 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ironvaliant-1T",
+      "pokemon": "ironvaliant",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "40-75",
+      "weight": 3.0,
+      "weightMultipliers": [
+        {
+          "multiplier": 2.5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lightning_rod"
+            ]
+          }
+        }
+      ],
+      "condition": {
+        "timeRange": "night",
+        "biomes": [
+          "none"
+        ]
+      }
+    }
+  ]
+}

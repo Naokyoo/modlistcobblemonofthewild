@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:karrablast",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:karrablast",
+      "model": "cobblemon:karrablast.geo",
+      "texture": "cobblemon:textures/pokemon/0588_karrablast/karrablast_radiant.png",
+      "layers": []
+    }
+  ]
+}

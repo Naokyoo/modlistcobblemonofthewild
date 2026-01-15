@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:naclstack",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:naclstack",
+      "model": "cobblemon:naclstack.geo",
+      "texture": "cobblemon:textures/pokemon/0933_naclstack/naclstack_radiant.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0933_naclstack/naclstack_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:nincada",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:nincada",
+      "model": "cobblemon:nincada.geo",
+      "texture": "cobblemon:textures/pokemon/0290_nincada/nincada_radiant.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0290_nincada/nincada_transparency_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

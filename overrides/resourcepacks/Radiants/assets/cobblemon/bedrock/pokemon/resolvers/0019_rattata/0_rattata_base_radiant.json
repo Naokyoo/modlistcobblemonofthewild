@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:rattata",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:rattata",
+      "model": "cobblemon:rattata_male.geo",
+      "texture": "cobblemon:textures/pokemon/0019_rattata/rattata_radiant.png",
+      "layers": []
+    }
+  ]
+}

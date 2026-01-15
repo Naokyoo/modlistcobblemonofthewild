@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:lampent",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:lampent",
+      "model": "cobblemon:lampent.geo",
+      "texture": "cobblemon:textures/pokemon/0608_lampent/lampent_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0608_lampent/lampent_emissive_radiant.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

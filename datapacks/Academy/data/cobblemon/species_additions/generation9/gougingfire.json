@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:gougingfire",
+  "implemented": true,
+  "baseScale": 1.15,
+  "hitbox": {
+    "width": 1.65,
+    "height": 1.85,
+    "fixed": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:mantine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:mantine",
+      "model": "cobblemon:mantine.geo",
+      "texture": "cobblemon:textures/pokemon/0226_mantine/mantine_radiant.png",
+      "layers": []
+    }
+  ]
+}

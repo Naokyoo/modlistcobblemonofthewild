@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:beedrill",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:beedrill",
+      "model": "cobblemon:beedrill.geo",
+      "texture": "cobblemon:textures/pokemon/0015_beedrill/beedrill_radiant.png"
+    }
+  ]
+}

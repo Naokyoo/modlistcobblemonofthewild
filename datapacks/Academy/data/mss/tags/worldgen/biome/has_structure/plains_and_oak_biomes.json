@@ -1,0 +1,80 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:forest",
+    {
+      "id": "biomeswevegone:allium_shrubland",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:amaranth_grassland",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:coconino_meadow",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:firecracker_chaparral",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:prairie",
+      "required": true
+    },    
+	{
+      "id": "biomeswevegone:pumpkin_valley",
+      "required": true
+    },    
+    {
+      "id": "biomeswevegone:rose_fields",
+      "required": true
+    },    
+    {
+      "id": "biomeswevegone:temperate_grove",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:flower_fields",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:grassland",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:clover_plains",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:rocky_meadow",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:poppy_fields",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:prairie",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:shrubland",
+      "required": true
+    }
+  ]
+}

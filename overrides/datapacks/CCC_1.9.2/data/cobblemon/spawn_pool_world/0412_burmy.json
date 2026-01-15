@@ -1,0 +1,66 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "burmy-1",
+      "pokemon": "burmy bagworm_cloak=plant",
+      "presets": [
+        "natural",
+        "treetop"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-25",
+      "weight": 5.0,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_plains",
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_tropical_island"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_spooky",
+          "#cobblemon:is_arid",
+          "#cobblemon:is_floral"
+        ]
+      }
+    },
+    {
+      "id": "burmy-3",
+      "pokemon": "burmy bagworm_cloak=sandy",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "5-19",
+      "weight": 2,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_arid"
+        ]
+      }
+    },
+    {
+      "id": "burmy-4",
+      "pokemon": "burmy bagworm_cloak=trash",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "5-19",
+      "weight": 2,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_floral"
+        ]
+      }
+    }
+  ]
+}

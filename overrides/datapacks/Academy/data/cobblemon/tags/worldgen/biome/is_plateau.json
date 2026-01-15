@@ -1,0 +1,30 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:savanna_plateau",
+	  {
+      "id": "regions_unexplored:magnolia_woodland",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:highland_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:icy_heights",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:prairie",
+      "required": false
+    }
+  ]
+}

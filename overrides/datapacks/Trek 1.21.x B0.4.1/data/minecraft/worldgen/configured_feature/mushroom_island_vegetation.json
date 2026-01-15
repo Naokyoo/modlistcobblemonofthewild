@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+      "features": [
+          {
+              "chance": 0.083,
+              "feature": {
+                  "feature": "minecraft:huge_brown_mushroom",
+                  "placement": []
+              }
+          },
+          {
+              "chance": 0.091,
+              "feature": {
+                  "feature": "trek:overworld/mushroom/huge_brown",
+                  "placement": []
+              }
+          },
+          {
+              "chance": 0.1,
+              "feature": {
+                  "feature": "minecraft:huge_red_mushroom",
+                  "placement": []
+              }
+          },
+          {
+              "chance": 0.112,
+              "feature": {
+                  "feature": "trek:overworld/mushroom/huge_red",
+                  "placement": []
+              }
+          },
+          {
+              "chance": 0.25,
+              "feature": "trek:overworld/mushroom/tree_1_checked"
+          },
+          {
+              "chance": 0.333,
+              "feature": "trek:overworld/mushroom/tree_2_checked"
+          },
+          {
+              "chance": 0.5,
+              "feature": "trek:overworld/mushroom/tree_3_checked"
+          }
+      ],
+      "default": "trek:overworld/mushroom/tree_4_checked"
+  }
+}

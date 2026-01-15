@@ -1,0 +1,183 @@
+{
+  "interior_template": "rad-gyms:gym_ground",
+  "exit_block_pos": {"x": 17, "y": 3, "z": 3},
+  "player_spawn_relative": {
+    "pos": {"x": 17.5, "y": 3, "z": 38.5},
+    "yaw": -180.0
+  },
+  "reward_loot_tables":  [
+    {
+      "id": "rad-gyms:gyms/ground/shared_loot_table",
+      "minLevel": 1,
+      "maxLevel": 100
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t0_loot_table",
+      "maxLevel": 9
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t1_loot_table",
+      "minLevel": 10,
+      "maxLevel": 19
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t2_loot_table",
+      "minLevel": 20,
+      "maxLevel": 29
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t3_loot_table",
+      "minLevel": 30,
+      "maxLevel": 39
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t4_loot_table",
+      "minLevel": 40,
+      "maxLevel": 49
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t5_loot_table",
+      "minLevel": 50,
+      "maxLevel": 59
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t6_loot_table",
+      "minLevel": 60,
+      "maxLevel": 69
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t7_loot_table",
+      "minLevel": 70,
+      "maxLevel": 79
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t8_loot_table",
+      "minLevel": 80,
+      "maxLevel": 89
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t9_loot_table",
+      "minLevel": 90,
+      "maxLevel": 99
+    },
+    {
+      "id": "rad-gyms:gyms/ground/t10_loot_table",
+      "minLevel": 100
+    }
+  ],
+  "trainers": [
+    {
+      "id": "default_trainer_junior",
+      "name": "rad-gyms.npc.trainer_junior",
+      "possibleFormats": [
+        "DOUBLES"
+      ],
+      "team_type": "GENERATED",
+      "spawn_relative": {
+        "pos": {"x": 8.5, "y": 3, "z": 23.5},
+        "yaw": -42.5
+      },
+      "ai": {
+        "type": "rct",
+        "data": {
+          "maxSelectMargin": 0.10,
+          "moveBias": 1.0,
+          "statusMoveBias": 0.65,
+          "switchBias": 0.10,
+          "itemBias": 0.85
+        }
+      },
+      "battleRules": {
+        "maxItemUses": 5
+      },
+      "bag": [
+        {
+          "item": "cobblemon:hyper_potion",
+          "quantity": 2
+        }
+      ],
+      "count_per_level_threshold": [
+        [1, 4], [80, 6]
+      ]
+    },
+    {
+      "id": "default_trainer_senior",
+      "name": "rad-gyms.npc.trainer_senior",
+      "requires": "default_trainer_junior",
+      "possibleFormats": [
+        "DOUBLES"
+      ],
+      "team_type": "GENERATED",
+      "spawn_relative": {
+        "pos": {"x": 26.5, "y": 3, "z": 19.5},
+        "yaw": 42.5
+      },
+      "ai": {
+        "type": "rct",
+        "data": {
+          "maxSelectMargin": 0.10,
+          "moveBias": 1.0,
+          "statusMoveBias": 0.65,
+          "switchBias": 0.10,
+          "itemBias": 0.85
+        }
+      },
+      "battleRules": {
+        "maxItemUses": 5
+      },
+      "bag": [
+        {
+          "item": "cobblemon:hyper_potion",
+          "quantity": 2
+        }
+      ],
+      "count_per_level_threshold": [
+        [1, 4], [50, 6]
+      ]
+    },
+    {
+      "id": "default_trainer_leader",
+      "name": "rad-gyms.npc.leader",
+      "requires": "default_trainer_senior",
+      "leader": true,
+      "possibleFormats": [
+        "DOUBLES"
+      ],
+      "team_type": "FIXED",
+      "team": [
+          "ursaluna ability=guts held_item=cobblemon:flame_orb nature=adamant moves=playrough,headlongrush,facade,icepunch",
+          "gliscor ability=poisonheal held_item=cobblemon:toxic_orb nature=careful moves=stealthrock,facade,knockoff,protect",
+          "gastrodon ability=stormdrain held_item=cobblemon:leftovers nature=modest moves=earthpower,chillingwater,recover,substitute",
+          "irontreads ability=quarkdrive held_item=cobblemon:leftovers nature=timid moves=stealthrock,steelbeam,earthpower,rapidspin",
+          "flygon ability=levitate held_item=cobblemon:choice_scarf nature=jolly moves=earthquake,outrage,uturn,throatchop",
+          "claydol ability=levitate held_item=cobblemon:colbur_berry nature=bold moves=stealthrock,toxic,psychic,protect"
+      ],
+      "spawn_relative": {
+        "pos": {"x": 17.5, "y": 3, "z": 8.5},
+        "yaw": 0.01
+      },
+      "ai": {
+        "type": "rct",
+        "data": {
+          "maxSelectMargin": 0.10,
+          "moveBias": 1.0,
+          "statusMoveBias": 0.65,
+          "switchBias": 0.10,
+          "itemBias": 0.85
+        }
+      },
+      "battleRules": {
+        "maxItemUses": 5
+      },
+      "bag": [
+        {
+          "item": "cobblemon:hyper_potion",
+          "quantity": 2
+        }
+      ],
+      "count_per_level_threshold": [
+        [1, 4], [30, 6]
+      ]
+    }
+  ]
+}

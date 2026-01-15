@@ -1,0 +1,237 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "2b8347bf-e596-4a76-bb5c-d5d1774f5b17": [
+      "knowlogy:knowlogy_book"
+    ],
+    "46d2eb6a-5f47-405c-be9c-20990d358835": [
+      "knowlogy:knowlogy_book"
+    ],
+    "67d899f2-0481-44e6-b9c2-5cb9b8543da4": [
+      "knowlogy:knowlogy_book"
+    ],
+    "f1c14b3a-851d-4c56-8899-841cd2c25110": [
+      "knowlogy:knowlogy_book"
+    ],
+    "b7a9a7a7-a2fb-48b2-8a51-4ab43f842f04": [
+      "knowlogy:knowlogy_book"
+    ],
+    "47b75581-4d75-416d-834c-edb949e4b560": [
+      "knowlogy:knowlogy_book"
+    ],
+    "025e44e6-9b97-4070-a794-632a5cd96a18": [
+      "knowlogy:knowlogy_book"
+    ],
+    "ae362cde-8f8b-41f5-ae0c-0165591f08c1": [
+      "knowlogy:knowlogy_book"
+    ],
+    "97b3f530-fd4d-4a1b-95be-404a1d9d9536": [
+      "knowlogy:knowlogy_book"
+    ],
+    "2c4eb3e3-adf3-46c9-ac27-1354c033eb43": [
+      "knowlogy:knowlogy_book"
+    ],
+    "021a5853-a234-44b4-9ae2-0c8a09309ae4": [
+      "knowlogy:knowlogy_book"
+    ],
+    "156f94cb-36e4-49bb-a912-425240bd302c": [
+      "knowlogy:knowlogy_book"
+    ],
+    "4aec4731-0fc4-48b7-ba99-2e5a588ed189": [
+      "knowlogy:knowlogy_book"
+    ],
+    "fa88824e-7c42-4bba-8fa1-87757b4dc70d": [
+      "knowlogy:knowlogy_book"
+    ],
+    "03e4f281-55c7-40ae-98ff-912b1bedafe9": [
+      "knowlogy:knowlogy_book"
+    ],
+    "071e28ab-aea8-4677-81cf-89d02a6a845c": [
+      "knowlogy:knowlogy_book"
+    ],
+    "9ffb6eba-b21b-48e9-9b21-d1e211b47117": [
+      "knowlogy:knowlogy_book"
+    ],
+    "2f1a134d-92da-47c5-b363-24ec2895718d": [
+      "knowlogy:knowlogy_book"
+    ],
+    "47182cd4-ae5a-4cc6-9332-7d64269afe5b": [
+      "knowlogy:knowlogy_book"
+    ],
+    "98d889a0-b146-48b5-ad9a-ab9ee594f7c9": [
+      "knowlogy:knowlogy_book"
+    ],
+    "953cd207-e2b8-408f-9ec3-90c3d51cc428": [
+      "knowlogy:knowlogy_book"
+    ],
+    "9f113d06-033c-47e0-80c0-a5569cddae58": [
+      "knowlogy:knowlogy_book"
+    ],
+    "48e83423-6d6c-4302-b431-06dc054fb9e6": [
+      "knowlogy:knowlogy_book"
+    ]
+  },
+  "viewed_entries": {
+    "2b8347bf-e596-4a76-bb5c-d5d1774f5b17": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:crafting_table",
+        "cobblemon:carbos"
+      ]
+    },
+    "46d2eb6a-5f47-405c-be9c-20990d358835": {
+      "knowlogy:knowlogy_book": [
+        "knowlogy:beginners_guide",
+        "cobblemon:pc",
+        "cobblemon:pokedex",
+        "cobbleride:riding_pokemon"
+      ]
+    },
+    "67d899f2-0481-44e6-b9c2-5cb9b8543da4": {
+      "knowlogy:knowlogy_book": [
+        "cobblemon:coba_berry",
+        "cobblemon:battling",
+        "cobblemon:pokedex",
+        "toms_storage:filing_cabinet",
+        "cobblemon:safari_ball",
+        "cobblemon:big_root",
+        "cobblemon:catching",
+        "cobblemon:nurse_villager",
+        "cobblemon:shell_bell",
+        "cobblemon:sweet",
+        "cobblemon:pep_up_flower",
+        "cobblemon:medicinal_brew",
+        "cobblemon:braised_vivichoke",
+        "cobblemon:vivichoke",
+        "cobblemon:razor_claw",
+        "toms_storage:inventory_connector",
+        "minecraft:crafting_table",
+        "minecraft:farmer",
+        "cobblemon:armor_fossil",
+        "cobblemon:resurrection_machine",
+        "cobblemon:restoration_tank"
+      ]
+    },
+    "b7a9a7a7-a2fb-48b2-8a51-4ab43f842f04": {
+      "knowlogy:knowlogy_book": [
+        "cobblemon:basic_pokeball",
+        "cobblemon:pokedex",
+        "cobblemon:premier_ball"
+      ]
+    },
+    "47b75581-4d75-416d-834c-edb949e4b560": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:crafting"
+      ]
+    },
+    "ae362cde-8f8b-41f5-ae0c-0165591f08c1": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:flowering_azalea"
+      ]
+    },
+    "97b3f530-fd4d-4a1b-95be-404a1d9d9536": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:crying_obsidian"
+      ]
+    },
+    "4aec4731-0fc4-48b7-ba99-2e5a588ed189": {
+      "knowlogy:knowlogy_book": [
+        "toms_storage:storage_terminal",
+        "toms_storage:tag_item_filter",
+        "cobblemon:black_apricorn_seed",
+        "toms_storage:inventory_configurator",
+        "minecraft:upgrading",
+        "minecraft:tool",
+        "cobblemon:white_apricorn",
+        "exposure:album",
+        "toms_storage:paint_kit",
+        "minecraft:oxidation",
+        "exposure:camera_stand",
+        "minecraft:weapon",
+        "toms_storage:trim",
+        "cobblemon:pink_apricorn_seed",
+        "toms_storage:wireless_terminal",
+        "exposure:filter",
+        "toms_storage:adv_wireless_terminal",
+        "minecraft:breaking",
+        "cobblemon:pink_apricorn",
+        "cobblemon:black_apricorn",
+        "cobblemon:green_apricorn_seed",
+        "cobblemon:ancient_gigaton_ball",
+        "toms_storage:polymorphic_item_filter",
+        "minecraft:trading",
+        "cobblemon:blue_apricorn_seed",
+        "cobblemon:blue_apricorn",
+        "exposure:film",
+        "toms_storage:level_emitter",
+        "toms_storage:inventory_cable_connector",
+        "exposure:interplanar_projector",
+        "exposure:lens",
+        "cobblemon:red_apricorn",
+        "minecraft:amethyst_shard",
+        "exposure:developed_film",
+        "cobblemon:ancient_azure_ball",
+        "exposure:photograph_frame",
+        "toms_storage:open_crate",
+        "minecraft:breeding",
+        "exposure_polaroid:instant_slides",
+        "minecraft:enchanting",
+        "exposure:flash",
+        "toms_storage:inventory_cable",
+        "toms_storage:item_filter",
+        "exposure:camera",
+        "cobblemon:apricorn_sprout",
+        "toms_storage:basic_inventory_hopper",
+        "minecraft:smithing",
+        "minecraft:brewing",
+        "minecraft:soul_fire",
+        "minecraft:trimming",
+        "minecraft:overworld",
+        "minecraft:the_end",
+        "cobblemon:yellow_apricorn_seed",
+        "toms_storage:inventory_proxy",
+        "toms_storage:inventory_connector",
+        "minecraft:archaeology",
+        "exposure:photograph",
+        "exposure:lightroom",
+        "minecraft:smelting",
+        "cobblemon:apricorn",
+        "cobblemon:red_apricorn_seed",
+        "toms_storage:crafting_terminal",
+        "exposure_polaroid:instant_camera",
+        "exposure:high_sensitivity_film",
+        "cobblemon:white_apricorn_seed",
+        "minecraft:armor",
+        "minecraft:crafting",
+        "cobblemon:yellow_apricorn",
+        "minecraft:bartering",
+        "toms_storage:inventory_interface",
+        "cobblemon:ancient_citrine_ball",
+        "minecraft:nether_portal",
+        "minecraft:taming",
+        "minecraft:animal",
+        "cobblemon:green_apricorn",
+        "exposure_polaroid:high_sensitivity_instant_slides",
+        "cobblemon:ancient_feather_ball",
+        "toms_storage:filing_cabinet",
+        "minecraft:the_nether"
+      ]
+    },
+    "fa88824e-7c42-4bba-8fa1-87757b4dc70d": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:the_end"
+      ]
+    },
+    "071e28ab-aea8-4677-81cf-89d02a6a845c": {
+      "knowlogy:knowlogy_book": [
+        "cobblemon:medicinal_leek",
+        "cobblemon:oran_berry"
+      ]
+    },
+    "953cd207-e2b8-408f-9ec3-90c3d51cc428": {
+      "knowlogy:knowlogy_book": [
+        "cobblemon:shoulder_mount",
+        "cobblemon:pokedex"
+      ]
+    }
+  }
+}

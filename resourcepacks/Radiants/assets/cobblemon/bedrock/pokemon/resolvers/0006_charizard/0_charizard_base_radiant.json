@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:charizard",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:charizard",
+      "model": "cobblemon:charizard.geo",
+      "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_radiant.png",
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0006_charizard/charizard_flame1_radiant.png",
+              "cobblemon:textures/pokemon/0006_charizard/charizard_flame2_radiant.png",
+              "cobblemon:textures/pokemon/0006_charizard/charizard_flame3_radiant.png",
+              "cobblemon:textures/pokemon/0006_charizard/charizard_flame4_radiant.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gothorita",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gothorita",
+      "model": "cobblemon:gothorita.geo",
+      "texture": "cobblemon:textures/pokemon/0575_gothorita/gothorita_radiant.png",
+      "layers": []
+    }
+  ]
+}

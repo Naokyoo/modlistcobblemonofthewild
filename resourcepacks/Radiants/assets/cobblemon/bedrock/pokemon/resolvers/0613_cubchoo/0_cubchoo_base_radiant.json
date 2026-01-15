@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:cubchoo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cubchoo",
+      "model": "cobblemon:cubchoo.geo",
+      "texture": "cobblemon:textures/pokemon/0613_cubchoo/cubchoo_radiant.png",
+      "layers": []
+    }
+  ]
+}

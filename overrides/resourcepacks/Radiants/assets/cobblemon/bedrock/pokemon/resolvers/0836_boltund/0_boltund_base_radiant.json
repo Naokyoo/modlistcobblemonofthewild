@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:boltund",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:boltund",
+      "model": "cobblemon:boltund.geo",
+      "texture": "cobblemon:textures/pokemon/0836_boltund/boltund_radiant.png",
+      "layers": []
+    }
+  ]
+}

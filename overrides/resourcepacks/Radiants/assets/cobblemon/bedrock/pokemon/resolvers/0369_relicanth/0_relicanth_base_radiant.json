@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:relicanth",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:relicanth",
+      "model": "cobblemon:relicanth_male.geo",
+      "texture": "cobblemon:textures/pokemon/0369_relicanth/relicanth_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0369_relicanth/relicanth_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

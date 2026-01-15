@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:honchkrow",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:honchkrow",
+      "model": "cobblemon:honchkrow.geo",
+      "texture": "cobblemon:textures/pokemon/0430_honchkrow/honchkrow_radiant.png",
+      "layers": []
+    }
+  ]
+}

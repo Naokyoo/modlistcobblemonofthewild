@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:braixen",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:braixen",
+      "model": "cobblemon:braixen.geo",
+      "texture": "cobblemon:textures/pokemon/0654_braixen/braixen_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0654_braixen/braixen_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

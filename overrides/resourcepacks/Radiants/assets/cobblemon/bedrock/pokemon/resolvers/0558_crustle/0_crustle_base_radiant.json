@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:crustle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:crustle",
+      "model": "cobblemon:crustle.geo",
+      "texture": "cobblemon:textures/pokemon/0558_crustle/crustle_radiant.png",
+      "layers": []
+    }
+  ]
+}

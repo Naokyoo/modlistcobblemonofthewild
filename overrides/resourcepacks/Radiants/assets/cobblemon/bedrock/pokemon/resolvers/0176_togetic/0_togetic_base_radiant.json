@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:togetic",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:togetic",
+      "model": "cobblemon:togetic.geo",
+      "texture": "cobblemon:textures/pokemon/0176_togetic/togetic_radiant.png",
+      "layers": []
+    }
+  ]
+}

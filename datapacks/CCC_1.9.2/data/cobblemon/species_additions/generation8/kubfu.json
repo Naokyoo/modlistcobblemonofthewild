@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:kubfu",
+  "implemented": true,
+  "baseScale": 1,
+  "hitbox": {
+    "width": 1,
+    "height": 1.7,
+    "fixed": false
+  }
+}

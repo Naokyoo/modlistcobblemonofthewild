@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "gougingfire-1",
+      "pokemon": "gougingfire",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "65-80",
+      "weight": 0.98,
+      "condition": {
+        "biomes": [
+          "none"
+        ]
+      }
+    }
+  ]
+}

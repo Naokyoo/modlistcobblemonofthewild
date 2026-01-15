@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cobblemon Of The Wild</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Rajdhani:wght@500;600;700&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <!-- Barre de titre personnalisée -->
+  <div class="titlebar">
+    <div class="titlebar-drag">
+      <span class="titlebar-title">Cobblemon Of The Wild</span>
+    </div>
+    <div class="titlebar-controls">
+      <button class="titlebar-btn minimize" id="btn-minimize">
+        <svg width="12" height="12" viewBox="0 0 12 12">
+          <rect y="5" width="12" height="2" fill="currentColor" />
+        </svg>
+      </button>
+      <button class="titlebar-btn maximize" id="btn-maximize">
+        <svg width="12" height="12" viewBox="0 0 12 12">
+          <rect x="1" y="1" width="10" height="10" stroke="currentColor" stroke-width="2" fill="none" />
+        </svg>
+      </button>
+      <button class="titlebar-btn close" id="btn-close">
+        <svg width="12" height="12" viewBox="0 0 12 12">
+          <path d="M1 1L11 11M1 11L11 1" stroke="currentColor" stroke-width="2" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Écran de chargement initial -->
+  <div id="launcher-loader" class="launcher-loader">
+    <div class="loader-content">
+      <div class="loader-spinner"></div>
+      <div class="loader-logo">COBBLEMON</div>
+      <div class="loader-text">Synchronisation du design...</div>
+    </div>
+  </div>
+
+  <!-- Contenu principal -->
+  <main class="main-content">
+    <div class="background-overlay"></div>
+    <div class="particles" id="particles"></div>
+    <div id="log-console" class="log-console hidden">
+      <div class="log-header">
+        <span>Console de Diagnostic</span>
+        <button id="btn-clear-logs">Effacer</button>
+      </div>
+      <div id="log-container" class="log-container"></div>
+    </div>
+
+    <!-- Sidebar gauche -->
+    <aside class="sidebar">
+      <div class="user-profile" id="user-profile">
+        <div class="profile-avatar">
+          <img src="https://mc-heads.net/avatar/steve" id="user-avatar" alt="Avatar" crossorigin>
+        </div>
+        <div class="profile-info">
+          <span class="username" id="username">Hors-ligne</span>
+          <div class="user-controls">
+            <button id="btn-login-ms" class="btn btn-secondary">Connexion</button>
+            <button id="btn-logout" class="btn btn-danger hidden">Déconnexion</button>
+            <button id="btn-open-mods" class="btn btn-link" title="Ouvrir le dossier des mods">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M1 2.5A1.5 1.5 0 0 1 2.5 1h3.5a1.5 1.5 0 0 1 1.1.47l1.43 1.53c.12.13.3.2.47.2H13.5A1.5 1.5 0 0 1 15 4.5v9a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 13.5zM2.5 2a.5.5 0 0 0-.5.5v9c0 .28.22.5.5.5h11a.5.5 0 0 0 .5-.5V4.5a.5.5 0 0 0-.5-.5H8.5a.5.5 0 0 0-.37-.16L6.7 2.31A.5.5 0 0 0 6.33 2z" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="sidebar-links">
+        <a href="#" class="sidebar-link discord" id="link-discord">
+          <svg viewBox="0 0 24 24" width="24" height="24">
+            <path fill="currentColor"
+              d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z" />
+          </svg>
+          <span>Discord</span>
+        </a>
+        <a href="#" class="sidebar-link website" id="link-website">
+          <svg viewBox="0 0 24 24" width="24" height="24">
+            <path fill="currentColor"
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
+          </svg>
+          <span>Site Web</span>
+        </a>
+      </div>
+    </aside>
+
+    <!-- Zone centrale -->
+    <section class="center-content">
+      <div class="logo-section">
+        <div class="logo-container">
+          <h1 class="server-name" id="server-name">Cobblemon Of The Wild</h1>
+        </div>
+      </div>
+
+      <div class="server-status" id="server-status">
+        <div class="status-indicator offline" id="status-indicator">
+          <span class="status-dot"></span>
+          <span class="status-text">Connexion...</span>
+        </div>
+        <div class="player-count">
+          <svg viewBox="0 0 24 24" width="20" height="20">
+            <path fill="currentColor"
+              d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" />
+          </svg>
+          <span id="player-count">0 / 0</span>
+        </div>
+      </div>
+
+      <div class="play-section">
+        <button class="play-button" id="btn-play">
+          <span class="play-button-bg"></span>
+          <span class="play-button-text">JOUER</span>
+          <span class="play-button-glow"></span>
+        </button>
+
+        <div class="progress-container hidden" id="progress-container">
+          <div class="progress-bar">
+            <div class="progress-fill" id="progress-fill"></div>
+          </div>
+          <div class="progress-info">
+            <span class="progress-text" id="progress-text">Préparation...</span>
+            <span class="progress-percent" id="progress-percent">0%</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="version-info">
+        <span class="mc-version" id="mc-version">Minecraft 1.21.1</span>
+        <span class="separator">•</span>
+        <span class="mod-loader">Fabric</span>
+      </div>
+      <span class="launcher-version">Launcher v1.1.1</span>
+    </footer>
+  </main>
+</body>
+
+</html>

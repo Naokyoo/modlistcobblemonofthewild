@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tauros",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tauros",
+      "model": "cobblemon:tauros.geo",
+      "texture": "cobblemon:textures/pokemon/0128_tauros/tauros_radiant.png",
+      "layers": []
+    }
+  ]
+}

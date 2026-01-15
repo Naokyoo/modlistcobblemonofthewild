@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:gourgeist",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gourgeist",
+      "model": "cobblemon:gourgeist.geo",
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_radiant.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

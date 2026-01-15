@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:dark_forest",
+    "minecraft:mushroom_fields",
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bioshroom_caves",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:fungal_fen",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:ebony_woods",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:jacaranda_jungle",
+      "required": false
+    }
+  ]
+}

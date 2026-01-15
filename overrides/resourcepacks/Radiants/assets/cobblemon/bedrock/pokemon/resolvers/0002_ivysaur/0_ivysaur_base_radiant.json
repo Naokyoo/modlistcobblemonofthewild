@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:ivysaur",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:ivysaur",
+      "model": "cobblemon:ivysaur.geo",
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_radiant.png",
+      "layers": []
+    }
+  ]
+}

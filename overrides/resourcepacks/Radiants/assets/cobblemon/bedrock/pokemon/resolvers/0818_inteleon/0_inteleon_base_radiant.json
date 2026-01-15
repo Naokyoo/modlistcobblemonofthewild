@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:inteleon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:inteleon",
+      "model": "cobblemon:inteleon.geo",
+      "texture": "cobblemon:textures/pokemon/0818_inteleon/inteleon_radiant.png",
+      "layers": []
+    }
+  ]
+}

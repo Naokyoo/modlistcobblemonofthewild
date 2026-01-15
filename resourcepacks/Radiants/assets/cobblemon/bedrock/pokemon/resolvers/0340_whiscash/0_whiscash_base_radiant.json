@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:whiscash",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:whiscash",
+      "model": "cobblemon:whiscash.geo",
+      "texture": "cobblemon:textures/pokemon/0340_whiscash/whiscash_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:toxapex",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:toxapex",
+      "model": "cobblemon:toxapex.geo",
+      "texture": "cobblemon:textures/pokemon/0748_toxapex/toxapex_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0748_toxapex/toxapex_emissive_radiant.png"
+        }
+      ]
+    }
+  ]
+}

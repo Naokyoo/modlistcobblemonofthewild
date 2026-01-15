@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:simisage",
+  "implemented": true,
+  "baseScale": 0.55,
+  "hitbox": {
+    "width": 0.94,
+    "height": 2.3,
+    "fixed": false
+  }
+}

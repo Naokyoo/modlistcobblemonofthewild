@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:granbull",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:granbull",
+      "model": "cobblemon:granbull.geo",
+      "texture": "cobblemon:textures/pokemon/0210_granbull/granbull_radiant.png",
+      "layers": []
+    }
+  ]
+}

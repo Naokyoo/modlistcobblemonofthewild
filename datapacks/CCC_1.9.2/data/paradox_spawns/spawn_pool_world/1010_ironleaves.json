@@ -1,0 +1,25 @@
+{
+  "enabled": false,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ironleaves-1",
+      "pokemon": "ironleaves",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-75",
+      "weight": 4.5,
+      "condition": {
+        "biomes": [
+          "none"
+        ],
+        "timeRange": "night"
+      }
+    }
+  ]
+}

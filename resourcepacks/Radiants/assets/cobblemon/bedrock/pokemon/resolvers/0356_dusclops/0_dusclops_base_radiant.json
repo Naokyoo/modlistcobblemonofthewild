@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:dusclops",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dusclops",
+      "model": "cobblemon:dusclops.geo",
+      "texture": "cobblemon:textures/pokemon/0356_dusclops/dusclops_radiant.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0356_dusclops/dusclops_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

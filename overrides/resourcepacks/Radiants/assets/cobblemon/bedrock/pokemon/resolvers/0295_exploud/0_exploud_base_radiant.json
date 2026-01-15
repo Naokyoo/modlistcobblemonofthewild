@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:exploud",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:exploud",
+      "model": "cobblemon:exploud.geo",
+      "texture": "cobblemon:textures/pokemon/0295_exploud/exploud_radiant.png",
+      "layers": []
+    }
+  ]
+}

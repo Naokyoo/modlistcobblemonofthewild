@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:barbaracle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:barbaracle",
+      "model": "cobblemon:barbaracle.geo",
+      "texture": "cobblemon:textures/pokemon/0689_barbaracle/barbaracle_radiant.png",
+      "layers": []
+    }
+  ]
+}

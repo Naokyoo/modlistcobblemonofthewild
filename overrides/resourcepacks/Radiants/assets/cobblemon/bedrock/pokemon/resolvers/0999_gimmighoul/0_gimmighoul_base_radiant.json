@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gimmighoul",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gimmighoulchest",
+      "model": "cobblemon:gimmighoul_chest.geo",
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_chest_radiant.png",
+      "layers": []
+    }
+  ]
+}

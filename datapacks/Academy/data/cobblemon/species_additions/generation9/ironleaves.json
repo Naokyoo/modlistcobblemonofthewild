@@ -1,0 +1,34 @@
+{
+    "target": "cobblemon:ironleaves",
+	"implemented": true,
+	    "drops": {
+        "amount": "1",
+        "entries": [
+          {
+			"item": "minecraft:iron_ingot",
+			"quantityRange": "1-32", 
+			"percentage": 50
+		  }
+        ]
+    },
+	    "behaviour": {
+        "resting": {
+            "canSleep": true,
+            "depth": "normal",
+            "light": "0-4"
+        },
+        "moving": {
+            "canLook": false,
+            "walk": {
+				"walkSpeed": 0.190,
+                "canWalk": true,
+                "avoidsLand": false
+            },
+            "swim": {
+                "swimSpeed": 0.1,
+                "canSwimInWater": false,
+                "canBreatheUnderwater": false
+            }
+        }
+    }
+}

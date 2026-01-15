@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sewaddle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sewaddle",
+      "model": "cobblemon:sewaddle.geo",
+      "texture": "cobblemon:textures/pokemon/0540_sewaddle/sewaddle_radiant.png",
+      "layers": []
+    }
+  ]
+}

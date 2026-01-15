@@ -1,0 +1,35 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:mangrove_swamp",
+    "minecraft:swamp",
+    {
+      "id": "#c:is_swamp",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bayou",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:fen",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:fungal_fen",
+      "required": false 
+    },
+	  {
+      "id": "regions_unexplored:marsh",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:old_growth_bayou",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:muddy_river",
+      "required": false
+    }
+  ]
+}

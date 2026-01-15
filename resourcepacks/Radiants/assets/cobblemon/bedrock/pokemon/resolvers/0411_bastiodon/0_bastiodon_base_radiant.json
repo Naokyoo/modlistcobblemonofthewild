@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bastiodon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bastiodon",
+      "model": "cobblemon:bastiodon.geo",
+      "texture": "cobblemon:textures/pokemon/0411_bastiodon/bastiodon_radiant.png",
+      "layers": []
+    }
+  ]
+}

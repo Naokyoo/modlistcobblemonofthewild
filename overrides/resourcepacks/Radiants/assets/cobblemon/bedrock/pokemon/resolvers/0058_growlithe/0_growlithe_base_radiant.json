@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:growlithe",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:growlithe",
+      "model": "cobblemon:growlithe.geo",
+      "texture": "cobblemon:textures/pokemon/0058_growlithe/growlithe_radiant.png",
+      "layers": []
+    }
+  ]
+}

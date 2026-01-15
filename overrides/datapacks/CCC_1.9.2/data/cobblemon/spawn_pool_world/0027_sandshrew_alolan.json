@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "sandshrew-alolan-2",
+      "pokemon": "sandshrew alolan",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "5-30",
+      "weight": 9.0,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_glacial"
+        ]
+      }
+    }
+  ]
+}

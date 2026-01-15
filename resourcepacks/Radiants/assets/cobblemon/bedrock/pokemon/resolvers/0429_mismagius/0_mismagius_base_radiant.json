@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:mismagius",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:mismagius",
+      "model": "cobblemon:mismagius.geo",
+      "texture": "cobblemon:textures/pokemon/0429_mismagius/mismagius_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0429_mismagius/mismagius_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

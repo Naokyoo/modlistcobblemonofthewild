@@ -1,0 +1,39 @@
+{
+    "implemented": true,
+    "target": "cobblemon:grumpig",   
+    "shoulderMountable": false,
+    "baseScale": 0.9,
+    "hitbox": {
+      "width": 0.9,
+      "height": 1.8,
+      "fixed": false
+    },
+    "drops": {
+    "amount": "3",
+      "entries": [
+        {
+          "item": "minecraft:raw_porkchop",
+          "quantityRange": "1-3",
+          "percentage": 100
+        },
+        {
+            "item": "minecraft:ender_pearl",
+            "quantityRange": "0-2",
+            "percentage": 100
+        },
+        {
+          "item": "cobblemon:tanga_berry",
+          "percentage": 5
+        }
+  
+      ]
+    },
+    "behaviour": {
+      "resting": {
+        "canSleep": true,
+        "willSleepOnBed": false,
+        "depth": "normal",
+        "light": "0-4"
+      }
+    }
+   }

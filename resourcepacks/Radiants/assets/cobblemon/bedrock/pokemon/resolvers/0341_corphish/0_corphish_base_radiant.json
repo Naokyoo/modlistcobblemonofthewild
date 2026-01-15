@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:corphish",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:corphish",
+      "model": "cobblemon:corphish.geo",
+      "texture": "cobblemon:textures/pokemon/0341_corphish/corphish_radiant.png",
+      "layers": []
+    }
+  ]
+}

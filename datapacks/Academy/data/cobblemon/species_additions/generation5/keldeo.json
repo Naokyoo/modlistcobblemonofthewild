@@ -1,0 +1,76 @@
+{
+    "target": "cobblemon:keldeo",
+    "implemented": true,
+    "baseScale": 1,
+    "hitbox": {
+      "width": 1.1,
+      "height": 1.5,
+      "fixed": false
+    },
+    "evolutions": [
+        {
+          "id": "keldeo_keldeo-resolute",
+          "variant": "item_interact",
+          "result": "keldeo sword_form=resolute",
+          "consumeHeldItem": false,
+          "requirements": [],
+          "requiredContext": "minecraft:diamond_sword"
+        }
+    ],
+    "forms": [
+      {
+        "name": "Resolute",
+        "primaryType": "water",
+        "secondaryType": "fighting",
+        "maleRatio": -1,
+        "height": 14,
+        "weight": 485,
+        "pokedex": [
+          "cobblemon.species.keldeo-resolute.desc"
+        ],
+        "labels": [
+          "gen5",
+          "mythical"
+        ],
+        "aspects": [
+          "resolute-form"
+        ],
+        "evolutions": [
+          {
+            "id": "keldeo_keldeo-ordinary",
+            "variant": "item_interact",
+            "result": "keldeo sword_form=ordinary",
+            "consumeHeldItem": false,
+            "requirements": [],
+            "requiredContext": "minecraft:diamond_sword"
+          }
+        ],
+        "battleOnly": false
+      }
+    ],
+    "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "2-6"
+      },
+      {
+        "item": "cobblemon:fighting_gem",
+        "percentage": 50.0
+      },
+      {
+        "item": "minecraft:nether_star",
+        "percentage": 8.0
+      },
+      {
+        "item": "cobblemon:ability_capsule",
+        "percentage": 25.0
+      },
+      {
+        "item": "cobblemon:ability_patch",
+        "percentage": 10.0
+      }
+    ]
+  }
+  }

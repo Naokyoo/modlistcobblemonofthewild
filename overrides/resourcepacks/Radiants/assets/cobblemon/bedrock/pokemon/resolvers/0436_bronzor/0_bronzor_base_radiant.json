@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bronzor",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bronzor",
+      "model": "cobblemon:bronzor.geo",
+      "texture": "cobblemon:textures/pokemon/0436_bronzor/bronzor_radiant.png",
+      "layers": []
+    }
+  ]
+}

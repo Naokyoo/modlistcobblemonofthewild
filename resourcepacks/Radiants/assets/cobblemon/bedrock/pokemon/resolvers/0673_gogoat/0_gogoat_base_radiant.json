@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gogoat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gogoat",
+      "model": "cobblemon:gogoat.geo",
+      "texture": "cobblemon:textures/pokemon/0673_gogoat/gogoat_radiant.png",
+      "layers": []
+    }
+  ]
+}

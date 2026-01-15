@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:surskit",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:surskit",
+      "model": "cobblemon:surskit.geo",
+      "texture": "cobblemon:textures/pokemon/0283_surskit/surskit_radiant.png",
+      "layers": []
+    }
+  ]
+}

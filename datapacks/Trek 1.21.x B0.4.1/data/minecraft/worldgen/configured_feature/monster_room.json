@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:fossil",
+  "config": {
+    "max_empty_corners_allowed": 4,
+    "fossil_structures": [
+      "minecraft:monster_room/default",
+      "minecraft:monster_room/default",
+      "minecraft:monster_room/default",
+      "minecraft:monster_room/default"
+    ],
+    "overlay_structures": [
+      "minecraft:monster_room/zombie",
+      "minecraft:monster_room/zombie",
+      "minecraft:monster_room/skeleton",
+      "minecraft:monster_room/spider"
+    ],
+    "fossil_processors": "minecraft:mossify_50_percent",
+    "overlay_processors": "minecraft:mossify_50_percent"
+  }
+}

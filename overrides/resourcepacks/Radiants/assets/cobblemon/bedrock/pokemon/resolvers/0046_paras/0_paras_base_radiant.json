@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:paras",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:paras",
+      "model": "cobblemon:paras.geo",
+      "texture": "cobblemon:textures/pokemon/0046_paras/paras_radiant.png",
+      "layers": []
+    }
+  ]
+}

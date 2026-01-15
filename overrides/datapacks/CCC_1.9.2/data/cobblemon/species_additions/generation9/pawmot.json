@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:pawmot",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 0.7,
+    "height": 1,
+    "fixed": false
+  }
+}

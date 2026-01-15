@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:vileplume",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:vileplume",
+      "model": "cobblemon:vileplume.geo",
+      "texture": "cobblemon:textures/pokemon/0045_vileplume/vileplume_male_radiant.png",
+      "layers": []
+    }
+  ]
+}

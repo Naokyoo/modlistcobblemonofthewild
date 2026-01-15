@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:zacian",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 3,
+    "height": 3,
+    "fixed": false
+  }
+}

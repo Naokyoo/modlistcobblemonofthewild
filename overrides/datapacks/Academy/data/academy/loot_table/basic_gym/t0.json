@@ -1,0 +1,158 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 6.0,
+                  "min": 4.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "cobblemon:exp_candy_s",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 4.0,
+                  "min": 2.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "cobblemon:rare_candy",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/pokeballmaterials_t1"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/tumblestones"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/helditems"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evoitems"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/xitems"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/medicine"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/vitamins"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/evfeathers_greater"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/apricornseeds"
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/gems"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:shiny_fossil",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:ha_fossil",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:max_iv_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 45
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:academy/booster_pack",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ability_capsule",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ability_patch",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 40
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "rolls": 1.0
+}

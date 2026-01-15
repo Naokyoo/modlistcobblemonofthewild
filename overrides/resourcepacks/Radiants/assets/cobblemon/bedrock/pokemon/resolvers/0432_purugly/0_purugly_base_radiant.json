@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:purugly",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:purugly",
+      "model": "cobblemon:purugly.geo",
+      "texture": "cobblemon:textures/pokemon/0432_purugly/purugly_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_arid",
+    "#cobblemon:is_cold_ocean",
+    "#cobblemon:is_mountain",
+    "#cobblemon:is_mushroom",
+    "#cobblemon:is_taiga",
+    {
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:golden_boreal_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:orchard",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:silver_birch_forest",
+      "required": false
+    }
+  ]
+}

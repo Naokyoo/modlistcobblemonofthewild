@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:cyclizar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cyclizar",
+      "model": "cobblemon:cyclizar.geo",
+      "texture": "cobblemon:textures/pokemon/0967_cyclizar/cyclizar_radiant.png",
+      "layers": []
+    }
+  ]
+}

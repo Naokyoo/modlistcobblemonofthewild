@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:bronzong",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bronzong",
+      "model": "cobblemon:bronzong.geo",
+      "texture": "cobblemon:textures/pokemon/0437_bronzong/bronzong_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0437_bronzong/bronzong_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

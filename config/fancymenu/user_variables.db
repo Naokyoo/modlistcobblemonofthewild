@@ -1,0 +1,14 @@
+type = user_variables
+
+variable {
+  name = ost
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = buttons
+  value = true
+  reset_on_launch = false
+}
+

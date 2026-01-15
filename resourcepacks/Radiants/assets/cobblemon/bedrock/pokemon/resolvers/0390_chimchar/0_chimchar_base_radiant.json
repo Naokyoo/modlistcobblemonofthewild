@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:chimchar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:chimchar",
+      "model": "cobblemon:chimchar.geo",
+      "texture": "cobblemon:textures/pokemon/0390_chimchar/chimchar_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0390_chimchar/chimchar_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

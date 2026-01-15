@@ -1,0 +1,422 @@
+{
+  "displays": [
+    {
+      "path": "/shiny_chance/increased",
+      "name": "text.academy.card.display.shiny_chance_increased",
+      "color": 16770160,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/capture_friendship/increased",
+      "name": "text.academy.card.display.capture_friendship_increased",
+      "color": 16752352,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/ev_yield/cobblemon:special_defence/increased",
+      "name": "text.academy.card.display.ev_yield_cobblemon:special_defence_increased",
+      "color": 16770188,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/ev_yield/cobblemon:hp/increased",
+      "name": "text.academy.card.display.ev_yield_cobblemon:hp_increased",
+      "color": 13475808,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/ev_yield/cobblemon:speed/increased",
+      "name": "text.academy.card.display.ev_yield_cobblemon:speed_increased",
+      "color": 9493979,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/ev_yield/cobblemon:special_attack/increased",
+      "name": "text.academy.card.display.ev_yield_cobblemon:special_attack_increased",
+      "color": 14391201,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/ev_yield/cobblemon:attack/increased",
+      "name": "text.academy.card.display.ev_yield_cobblemon:attack_increased",
+      "color": 14192772,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/ev_yield/cobblemon:defence/increased",
+      "name": "text.academy.card.display.ev_yield_cobblemon:defence_increased",
+      "color": 9426562,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/bucket_weight/uncommon/increased",
+      "name": "text.academy.card.display.bucket_weight_uncommon_increased",
+      "color": 13871994,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/bucket_weight/rare/increased",
+      "name": "text.academy.card.display.bucket_weight_rare_increased",
+      "color": 9095633,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/bucket_weight/ultra-rare/increased",
+      "name": "text.academy.card.display.bucket_weight_ultra-rare_increased",
+      "color": 13533377,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/dark/increased",
+      "name": "text.academy.card.display.label_weight_dark_increased",
+      "color": 3222361,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/psychic/increased",
+      "name": "text.academy.card.display.label_weight_psychic_increased",
+      "color": 16345299,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/steel/increased",
+      "name": "text.academy.card.display.label_weight_steel_increased",
+      "color": 10059920,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/flying/increased",
+      "name": "text.academy.card.display.label_weight_flying_increased",
+      "color": 14152432,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/fire/increased",
+      "name": "text.academy.card.display.label_weight_fire_increased",
+      "color": 16529217,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/poison/increased",
+      "name": "text.academy.card.display.label_weight_poison_increased",
+      "color": 11353788,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/water/increased",
+      "name": "text.academy.card.display.label_weight_water_increased",
+      "color": 5329850,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/electric/increased",
+      "name": "text.academy.card.display.label_weight_electric_increased",
+      "color": 16771442,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/fighting/increased",
+      "name": "text.academy.card.display.label_weight_fighting_increased",
+      "color": 16751195,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/ice/increased",
+      "name": "text.academy.card.display.label_weight_ice_increased",
+      "color": 9568244,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/ghost/increased",
+      "name": "text.academy.card.display.label_weight_ghost_increased",
+      "color": 10985701,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/bug/increased",
+      "name": "text.academy.card.display.label_weight_bug_increased",
+      "color": 7529046,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/grass/increased",
+      "name": "text.academy.card.display.label_weight_grass_increased",
+      "color": 1032516,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/ground/increased",
+      "name": "text.academy.card.display.label_weight_ground_increased",
+      "color": 12555359,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/fairy/increased",
+      "name": "text.academy.card.display.label_weight_fairy_increased",
+      "color": 15384772,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/normal/increased",
+      "name": "text.academy.card.display.label_weight_normal_increased",
+      "color": 15253159,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/dragon/increased",
+      "name": "text.academy.card.display.label_weight_dragon_increased",
+      "color": 8085221,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/label_weight/rock/increased",
+      "name": "text.academy.card.display.label_weight_rock_increased",
+      "color": 14723179,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 0,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/capture_chance/increased",
+      "name": "text.academy.card.display.capture_chance_increased",
+      "color": 7855535,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 1,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/capture_experience/increased",
+      "name": "text.academy.card.display.capture_experience_increased",
+      "color": 9620443,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 1,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:generic.movement_speed/add_multiplied_base",
+      "name": "text.academy.card.display.vanilla_minecraft_generic_movement_speed_add_multiplied_base",
+      "color": 16570293,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 1,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:player.block_interaction_range/add_value",
+      "name": "text.academy.card.display.vanilla_minecraft_player_block_interaction_range_add_value",
+      "color": 10657785,
+      "style": {
+        "type": "decimal",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:player.block_break_speed/add_multiplied_base",
+      "name": "text.academy.card.display.vanilla_minecraft_player_block_break_speed_add_multiplied_base",
+      "color": 16232591,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 1,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:generic.jump_strength/add_multiplied_total",
+      "name": "text.academy.card.display.vanilla_minecraft_generic_jump_strength_add_multiplied_total",
+      "color": 7572212,
+      "style": {
+        "type": "decimal",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:generic.water_movement_efficiency/add_multiplied_base",
+      "name": "text.academy.card.display.vanilla_minecraft_generic_water_movement_efficiency_add_multiplied_base",
+      "color": 4282098,
+      "style": {
+        "type": "decimal_percentage",
+        "scale": 1,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:generic.oxygen_bonus/add_value",
+      "name": "text.academy.card.display.vanilla_minecraft_generic_oxygen_bonus_add_value",
+      "color": 8511471,
+      "style": {
+        "type": "decimal",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    },
+    {
+      "path": "/vanilla/minecraft:generic.armor/add_value",
+      "name": "text.academy.card.display.vanilla_minecraft_generic_armor_add_value",
+      "color": 6163437,
+      "style": {
+        "type": "decimal",
+        "scale": 2,
+        "rounding": "HALF_UP",
+        "stripped": false
+      }
+    }
+  ]
+}

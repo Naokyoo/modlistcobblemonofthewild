@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gloom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gloom",
+      "model": "cobblemon:gloom_male.geo",
+      "texture": "cobblemon:textures/pokemon/0044_gloom/gloom_radiant.png",
+      "layers": []
+    }
+  ]
+}

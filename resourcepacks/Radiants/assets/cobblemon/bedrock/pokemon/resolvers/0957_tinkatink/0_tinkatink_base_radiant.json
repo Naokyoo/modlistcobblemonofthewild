@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tinkatink",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tinkatink",
+      "model": "cobblemon:tinkatink.geo",
+      "texture": "cobblemon:textures/pokemon/0957_tinkatink/tinkatink_radiant.png",
+      "layers": []
+    }
+  ]
+}

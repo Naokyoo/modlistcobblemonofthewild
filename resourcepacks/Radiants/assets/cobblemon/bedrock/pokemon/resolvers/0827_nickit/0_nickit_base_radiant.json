@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:nickit",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:nickit",
+      "model": "cobblemon:nickit.geo",
+      "texture": "cobblemon:textures/pokemon/0827_nickit/nickit_radiant.png",
+      "layers": []
+    }
+  ]
+}

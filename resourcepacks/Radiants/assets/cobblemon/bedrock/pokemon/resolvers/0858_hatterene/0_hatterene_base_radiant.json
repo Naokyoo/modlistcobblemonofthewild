@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:hatterene",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hatterene",
+      "model": "cobblemon:hatterene.geo",
+      "texture": "cobblemon:textures/pokemon/0858_hatterene/hatterene_radiant.png",
+      "layers": []
+    }
+  ]
+}

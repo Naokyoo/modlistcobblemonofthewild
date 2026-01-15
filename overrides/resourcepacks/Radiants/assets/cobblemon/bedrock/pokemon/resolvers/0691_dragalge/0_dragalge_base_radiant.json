@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:dragalge",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:dragalge",
+      "model": "cobblemon:dragalge.geo",
+      "texture": "cobblemon:textures/pokemon/0691_dragalge/dragalge_radiant.png",
+      "layers": []
+    }
+  ]
+}

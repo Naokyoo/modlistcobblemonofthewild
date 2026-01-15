@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:fletchling",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:fletchling",
+      "model": "cobblemon:fletchling.geo",
+      "texture": "cobblemon:textures/pokemon/0661_fletchling/fletchling_radiant.png",
+      "layers": []
+    }
+  ]
+}

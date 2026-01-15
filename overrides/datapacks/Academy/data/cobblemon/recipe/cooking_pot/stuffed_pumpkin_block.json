@@ -1,0 +1,45 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "container": {
+    "count": 1,
+    "id": "minecraft:pumpkin"
+  },
+  "cookingtime": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "c:foods/berry"
+    },
+    {
+      "fabric:type": "fabric:difference",
+      "base": {
+        "tag": "c:foods/vegetable"
+      },
+      "subtracted": {
+        "item": "minecraft:melon_slice"
+      }
+    },
+    {
+      "item": "minecraft:pumpkin"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:stuffed_pumpkin_block"
+  },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

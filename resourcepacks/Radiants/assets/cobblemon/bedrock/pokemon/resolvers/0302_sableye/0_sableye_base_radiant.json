@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sableye",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sableye",
+      "model": "cobblemon:sableye.geo",
+      "texture": "cobblemon:textures/pokemon/0302_sableye/sableye_radiant.png",
+      "layers": []
+    }
+  ]
+}

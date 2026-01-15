@@ -1,0 +1,1452 @@
+{
+  "root": {
+    "/vanilla": {
+      "/minecraft:generic.attack_speed": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.movement_speed": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.burning_time": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/eternal_starlight:generic.thrown_potion_distance": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.armor": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/eternal_starlight:generic.ether_resistance": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.max_absorption": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.fall_damage_multiplier": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.step_height": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.attack_knockback": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.block_interaction_range": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "modifiers": [],
+      "/minecraft:generic.follow_range": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:zombie.spawn_reinforcements": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.max_health": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.scale": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.sweeping_damage_ratio": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.knockback_resistance": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.luck": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.movement_efficiency": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.sneaking_speed": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.attack_damage": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.explosion_knockback_resistance": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.entity_interaction_range": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.block_break_speed": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.safe_fall_distance": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.jump_strength": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.oxygen_bonus": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.water_movement_efficiency": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.submerged_mining_speed": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.armor_toughness": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.flying_speed": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:player.mining_efficiency": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      },
+      "/minecraft:generic.gravity": {
+        "/add_value": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_base": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "/add_multiplied_total": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 0
+            }
+          ]
+        },
+        "modifiers": []
+      }
+    },
+    "/capture_friendship": {
+      "modifiers": [
+        {
+          "type": "multiply",
+          "value": "../../increased"
+        }
+      ],
+      "/increased": {
+        "modifiers": [
+          {
+            "type": "assign",
+            "value": 1
+          }
+        ]
+      }
+    },
+    "/ev_yield": {
+      "/cobblemon:special_defence": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/cobblemon:hp": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/cobblemon:accuracy": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/cobblemon:speed": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/cobblemon:special_attack": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/cobblemon:attack": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/cobblemon:defence": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "modifiers": [],
+      "/cobblemon:evasion": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      }
+    },
+    "/shiny_chance": {
+      "modifiers": [
+        {
+          "type": "multiply",
+          "value": "../../increased"
+        }
+      ],
+      "/increased": {
+        "modifiers": [
+          {
+            "type": "assign",
+            "value": 1
+          }
+        ]
+      }
+    },
+    "/bucket_weight": {
+      "/ultra-rare": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/uncommon": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/rare": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "modifiers": [],
+      "/common": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      }
+    },
+    "/label_weight": {
+      "/dark": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/psychic": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/steel": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/flying": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/fire": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/poison": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/water": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/electric": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/fighting": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/ice": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "modifiers": [],
+      "/ghost": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/bug": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/grass": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/ground": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/fairy": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/normal": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/dragon": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      },
+      "/rock": {
+        "modifiers": [
+          {
+            "type": "multiply",
+            "value": "../../increased"
+          }
+        ],
+        "/increased": {
+          "modifiers": [
+            {
+              "type": "assign",
+              "value": 1
+            }
+          ]
+        }
+      }
+    },
+    "/capture_chance": {
+      "modifiers": [
+        {
+          "type": "multiply",
+          "value": "../../increased"
+        }
+      ],
+      "/increased": {
+        "modifiers": [
+          {
+            "type": "assign",
+            "value": 1
+          }
+        ]
+      }
+    },
+    "modifiers": [],
+    "/capture_experience": {
+      "modifiers": [
+        {
+          "type": "multiply",
+          "value": "../../increased"
+        }
+      ],
+      "/increased": {
+        "modifiers": [
+          {
+            "type": "assign",
+            "value": 1
+          }
+        ]
+      }
+    }
+  }
+}

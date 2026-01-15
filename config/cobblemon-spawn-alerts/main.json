@@ -1,0 +1,40 @@
+{
+  "configVersion": "1.11.2",
+  "debug": false,
+  "multiplayerWarning": false,
+  "alertAllShinies": false,
+  "alertAllHA": false,
+  "alertAllLegendaries": true,
+  "alertAllMythicals": true,
+  "alertAllUltraBeasts": true,
+  "alertAllParadox": true,
+  "alertAllStarter": false,
+  "alertAllNotInDex": false,
+  "alertAllUncaught": false,
+  "alertEverything": false,
+  "ivHunting": {
+    "enabled": false,
+    "requireAllMinimumsMet": true,
+    "minPerfectIVs": 0,
+    "minHp": 0,
+    "minAtk": 0,
+    "minDef": 0,
+    "minSpAtk": 0,
+    "minSpDef": 0,
+    "minSpeed": 0
+  },
+  "evHunting": {
+    "enabled": false,
+    "minHp": 0,
+    "minAtk": 0,
+    "minDef": 0,
+    "minSpAtk": 0,
+    "minSpDef": 0,
+    "minSpeed": 0
+  },
+  "levelFilter": {
+    "enabled": false,
+    "minLevel": 1,
+    "maxLevel": 100
+  }
+}

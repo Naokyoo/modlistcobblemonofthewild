@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:combee",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:combee",
+      "model": "cobblemon:combee_male.geo",
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_radiant.png",
+      "layers": []
+    }
+  ]
+}

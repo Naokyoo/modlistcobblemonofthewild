@@ -1,0 +1,78 @@
+{
+  "values": [
+    "minecraft:plains",
+    "minecraft:meadow",
+    {
+      "id": "biomeswevegone:allium_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:amaranth_grassland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:coconino_meadow",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:firecracker_chaparral",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:prairie",
+      "required": false
+    },    
+	{
+      "id": "biomeswevegone:pumpkin_valley",
+      "required": false
+    },    
+    {
+      "id": "biomeswevegone:rose_fields",
+      "required": false
+    },    
+    {
+      "id": "biomeswevegone:temperate_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:flower_fields",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:grassland",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:clover_plains",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:rocky_meadow",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:poppy_fields",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:prairie",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:frozen_peaks",
+	  "minecraft:ice_spikes",
+    {
+      "id": "#c:is_icy",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:spires",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:shattered_glacier",
+      "required": false
+    }
+  ]
+}

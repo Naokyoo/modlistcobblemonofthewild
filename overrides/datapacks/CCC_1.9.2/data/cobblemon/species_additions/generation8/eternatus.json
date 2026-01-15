@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:eternatus",
+  "implemented": true,
+  "baseScale": 1,
+  "hitbox": {
+    "width": 4,
+    "height": 4,
+    "fixed": false
+  }
+}

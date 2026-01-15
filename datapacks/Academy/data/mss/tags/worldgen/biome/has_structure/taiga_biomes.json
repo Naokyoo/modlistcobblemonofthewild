@@ -1,0 +1,40 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "#minecraft:is_taiga",
+    {
+      "id": "biomeswevegone:frosted_taiga",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:maple_taiga",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:boreal_taiga",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:golden_boreal_taiga",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:pine_taiga",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:redwoods",
+      "required": true
+    },
+	{
+      "id": "regions_unexplored:sparse_redwoods",
+      "required": true
+    }
+  ]
+}

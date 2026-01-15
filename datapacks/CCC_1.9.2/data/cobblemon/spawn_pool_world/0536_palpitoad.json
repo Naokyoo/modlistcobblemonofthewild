@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-palpitoad-1",
+      "pokemon": "palpitoad",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "uncommon",
+      "level": "24-37",
+      "weight": 8.7,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ]
+      }
+    },
+    {
+      "id": "deeper-palpitoad-2",
+      "pokemon": "palpitoad",
+      "type": "pokemon",
+      "context": "fishing",
+      "bucket": "uncommon",
+      "level": "24-37",
+      "weight": 1.5,
+      "weightMultipliers": [
+        {
+          "multiplier": 3.5,
+          "condition": {
+            "minLureLevel": 2
+          }
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ]
+      }
+    }
+  ]
+}

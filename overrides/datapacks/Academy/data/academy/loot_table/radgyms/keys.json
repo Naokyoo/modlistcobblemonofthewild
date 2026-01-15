@@ -1,0 +1,244 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "normal"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "fire"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "water"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "grass"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "electric"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "ice"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "fighting"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "poison"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "ground"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "flying"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "psychic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "bug"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "rock"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "ghost"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "dragon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "dark"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "steel"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rad-gyms:gym_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "rad-gyms:gym_type_component": "fairy"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:stakataka",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:stakataka",
+      "model": "cobblemon:stakataka.geo",
+      "texture": "cobblemon:textures/pokemon/0805_stakataka/stakataka.png",
+      "layers": [
+        {
+          "name": "glow",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0805_stakataka/stakataka_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0805_stakataka/stakataka_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0805_stakataka/stakataka_emissive.png"
+        }
+      ]
+    }
+  ]
+}

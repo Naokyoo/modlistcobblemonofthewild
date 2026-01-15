@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:blitzle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:blitzle",
+      "model": "cobblemon:blitzle.geo",
+      "texture": "cobblemon:textures/pokemon/0522_blitzle/blitzle_radiant.png",
+      "layers": []
+    }
+  ]
+}

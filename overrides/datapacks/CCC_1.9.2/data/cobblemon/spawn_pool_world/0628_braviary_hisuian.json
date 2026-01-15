@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "braviary-hisui-1",
+      "pokemon": "braviary hisuian",
+      "presets": [
+        "natural",
+        "treetop",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "54-59",
+      "weight": 0.6,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_snowy",
+          "#cobblemon:is_mountain"
+        ],
+        "timeRange": "day"
+      }
+    }
+  ]
+}

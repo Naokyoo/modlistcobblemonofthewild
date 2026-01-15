@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:barraskewda",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:barraskewda",
+      "model": "cobblemon:barraskewda.geo",
+      "texture": "cobblemon:textures/pokemon/0847_barraskewda/barraskewda_radiant.png",
+      "layers": []
+    }
+  ]
+}

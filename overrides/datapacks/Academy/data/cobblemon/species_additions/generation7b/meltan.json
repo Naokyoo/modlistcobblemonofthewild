@@ -1,0 +1,73 @@
+{
+  "target": "cobblemon:meltan",
+  "baseScale": 0.3,
+  "hitbox": {
+      "width": 0.4,
+      "height": 0.8,
+      "fixed": false
+  },
+    "behaviour": {
+      "resting": {
+          "canSleep": true,
+          "depth": "normal",
+          "light": "0-4"
+      },
+      "moving": {
+          "canLook": false,
+          "walk": {
+      "walkSpeed": 0.175,
+              "canWalk": true,
+              "avoidsLand": false
+          },
+          "swim": {
+              "swimSpeed": 0.1,
+              "canSwimInWater": false,
+              "canBreatheUnderwater": false
+          }
+      }
+  },
+"evolutions": [
+        {
+            "id": "meltan_melmetal",
+            "variant": "level_up",
+            "result": "melmetal",
+            "consumeHeldItem": false,
+            "learnableMoves": [],
+			"requirements": [
+			{
+          "variant": "held_item",
+          "itemCondition": "minecraft:anvil"
+			},
+			{
+          "variant": "level",
+          "minLevel": 60
+			}
+            ]
+        }
+],
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "2-6"
+      },
+      {
+        "item": "cobblemon:steel_gem",
+        "percentage": 50.0
+      },
+      {
+        "item": "minecraft:nether_star",
+        "percentage": 8.0
+      },
+      {
+        "item": "cobblemon:ability_capsule",
+        "percentage": 25.0
+      },
+      {
+        "item": "cobblemon:ability_patch",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

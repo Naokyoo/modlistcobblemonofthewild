@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:rellor",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:rellor",
+      "model": "cobblemon:rellor.geo",
+      "texture": "cobblemon:textures/pokemon/0953_rellor/rellor_radiant.png",
+      "layers": []
+    }
+  ]
+}

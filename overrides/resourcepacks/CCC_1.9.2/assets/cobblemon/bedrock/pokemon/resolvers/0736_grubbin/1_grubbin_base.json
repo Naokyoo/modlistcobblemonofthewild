@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:grubbin",
+  "order": 1,
+  "baseScale": 0.25,
+  "hitbox": {
+    "width": 0.5,
+    "height": 2,
+    "fixed": false
+  },
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:grubbin",
+      "model": "cobblemon:grubbin.geo",
+      "texture": "cobblemon:textures/pokemon/0736_grubbin/grubbin.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0736_grubbin/grubbin_shiny.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:magearna",
+  "implemented": true,
+  "baseScale": 0.6,
+  "hitbox": {
+    "width": 1.2,
+    "height": 2.5,
+    "fixed": false
+  }
+}

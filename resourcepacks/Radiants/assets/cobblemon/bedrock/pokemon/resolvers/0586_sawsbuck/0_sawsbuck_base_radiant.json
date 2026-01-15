@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sawsbuck",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sawsbuck",
+      "model": "cobblemon:sawsbuck_spring.geo",
+      "texture": "cobblemon:textures/pokemon/0586_sawsbuck/sawsbuck_spring_radiant.png",
+      "layers": []
+    }
+  ]
+}

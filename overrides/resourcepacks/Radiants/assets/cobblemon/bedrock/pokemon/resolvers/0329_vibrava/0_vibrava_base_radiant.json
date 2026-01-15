@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:vibrava",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:vibrava",
+      "model": "cobblemon:vibrava.geo",
+      "texture": "cobblemon:textures/pokemon/0329_vibrava/vibrava_radiant.png",
+      "layers": []
+    }
+  ]
+}

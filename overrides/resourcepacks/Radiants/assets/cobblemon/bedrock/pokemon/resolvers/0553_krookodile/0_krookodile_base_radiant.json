@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:krookodile",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:krookodile",
+      "model": "cobblemon:krookodile.geo",
+      "texture": "cobblemon:textures/pokemon/0553_krookodile/krookodile_radiant.png",
+      "layers": []
+    }
+  ]
+}

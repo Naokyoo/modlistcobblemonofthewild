@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gumshoos",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gumshoos",
+      "model": "cobblemon:gumshoos.geo",
+      "texture": "cobblemon:textures/pokemon/0735_gumshoos/gumshoos_radiant.png",
+      "layers": []
+    }
+  ]
+}

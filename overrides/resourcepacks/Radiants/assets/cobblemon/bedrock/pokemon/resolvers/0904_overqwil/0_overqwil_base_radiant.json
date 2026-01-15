@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:overqwil",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:overqwil",
+      "model": "cobblemon:overqwil.geo",
+      "texture": "cobblemon:textures/pokemon/0904_overqwil/overqwil_radiant.png",
+      "layers": []
+    }
+  ]
+}

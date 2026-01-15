@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:sharpedo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sharpedo",
+      "model": "cobblemon:sharpedo.geo",
+      "texture": "cobblemon:textures/pokemon/0319_sharpedo/sharpedo_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0319_sharpedo/sharpedo_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

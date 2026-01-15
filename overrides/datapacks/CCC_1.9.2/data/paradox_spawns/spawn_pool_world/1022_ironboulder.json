@@ -1,0 +1,23 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ironboulder-1",
+      "pokemon": "ironboulder",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "65-75",
+      "weight": 1.0,
+      "condition": {
+        "timeRange": "night",
+        "biomes": [
+          "none"
+        ]
+      }
+    }
+  ]
+}

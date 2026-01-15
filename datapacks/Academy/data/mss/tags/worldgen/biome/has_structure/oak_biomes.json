@@ -1,0 +1,52 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:forest",
+    {
+      "id": "biomeswevegone:firecracker_chaparral",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:allium_shrubland",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:orchard",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:alpha_grove",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:magnolia_woodland",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:deciduous_forest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:maple_forest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:mauve_hills",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:orchard",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:temperate_grove",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/candy_t0",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 3.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 2.0,
+          "min": 1.0
+      }
+    }
+  ],
+  "rolls": 1.0
+}

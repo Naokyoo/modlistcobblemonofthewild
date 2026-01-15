@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:simisear",
+  "implemented": true,
+  "baseScale": 0.55,
+  "hitbox": {
+    "width": 0.94,
+    "height": 1.83,
+    "fixed": false
+  }
+}

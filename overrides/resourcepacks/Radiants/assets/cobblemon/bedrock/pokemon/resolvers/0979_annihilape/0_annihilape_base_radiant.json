@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:annihilape",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:annihilape",
+      "model": "cobblemon:annihilape.geo",
+      "texture": "cobblemon:textures/pokemon/0979_annihilape/annihilape_radiant.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0979_annihilape/annihilape_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

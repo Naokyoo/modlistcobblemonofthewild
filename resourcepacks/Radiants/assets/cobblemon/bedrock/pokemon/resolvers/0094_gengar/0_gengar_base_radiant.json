@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:gengar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gengar",
+      "model": "cobblemon:gengar.geo",
+      "texture": "cobblemon:textures/pokemon/0094_gengar/gengar_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0094_gengar/gengar_emissives_radiant.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

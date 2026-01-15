@@ -1,0 +1,6 @@
+{
+  "values": [
+    "#minecraft:is_deep_ocean",
+    "#trek:ocean/is_not_deep_ocean"
+  ]
+}

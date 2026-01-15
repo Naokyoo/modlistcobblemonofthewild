@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:luxray",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:luxray",
+      "model": "cobblemon:luxray_male.geo",
+      "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_emissive_radiant.png",
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

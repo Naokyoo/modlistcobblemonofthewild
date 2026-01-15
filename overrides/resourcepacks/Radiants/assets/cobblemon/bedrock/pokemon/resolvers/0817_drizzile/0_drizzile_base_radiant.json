@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:drizzile",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:drizzile",
+      "model": "cobblemon:drizzile.geo",
+      "texture": "cobblemon:textures/pokemon/0817_drizzile/drizzile_radiant.png",
+      "layers": []
+    }
+  ]
+}

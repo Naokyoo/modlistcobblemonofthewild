@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fireworkcapsules:ball_capsule"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fireworkcapsules:dark_sticker"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

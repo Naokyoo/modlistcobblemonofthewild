@@ -1,0 +1,32 @@
+{
+  "target": "cobblemon:ogerpon",
+  "forms": [
+    {
+      "name": "Cornerstone-Tera",
+      "primaryType": "grass",
+      "secondaryType": "rock",
+      "maleRatio": 0,
+      "height": 12,
+      "weight": 398,
+      "pokedex": [
+        "cobblemon.species.ogerpon-cornerstonetera.desc"
+      ],
+      "labels": [
+        "gen9",
+        "legendary"
+      ],
+      "aspects": [
+        "embody-aspect",
+        "cornerstone-mask"
+      ],
+      "abilities": [
+        "embodyaspectcornerstone",
+        "h:embodyaspectcornerstone"
+      ],
+      "eggCycles": 5,
+      "dynamaxBlocked": true,
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+}

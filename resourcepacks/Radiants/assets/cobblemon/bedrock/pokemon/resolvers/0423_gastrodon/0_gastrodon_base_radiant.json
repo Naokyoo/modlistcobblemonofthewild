@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gastrodon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gastrodon_west",
+      "model": "cobblemon:gastrodon_west.geo",
+      "texture": "cobblemon:textures/pokemon/0423_gastrodon/gastrodon_west_radiant.png",
+      "layers": []
+    }
+  ]
+}

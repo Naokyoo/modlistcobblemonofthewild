@@ -1,0 +1,15 @@
+{
+    "name": "ati_structures:illager_homestead",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:mossify_20_percent",
+                "location": "ati_structures:illager_homestead"
+            },
+            "weight": 2
+        }
+    ]
+}

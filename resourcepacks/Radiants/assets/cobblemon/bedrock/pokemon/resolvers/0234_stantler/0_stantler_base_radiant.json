@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:stantler",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:stantler",
+      "model": "cobblemon:stantler.geo",
+      "texture": "cobblemon:textures/pokemon/0234_stantler/stantler_radiant.png",
+      "layers": []
+    }
+  ]
+}

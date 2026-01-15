@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:poliwrath",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:poliwrath",
+      "model": "cobblemon:poliwrath.geo",
+      "texture": "cobblemon:textures/pokemon/0062_poliwrath/poliwrath_radiant.png",
+      "layers": []
+    }
+  ]
+}

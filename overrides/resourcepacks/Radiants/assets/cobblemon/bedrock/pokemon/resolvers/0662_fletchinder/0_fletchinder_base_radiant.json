@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:fletchinder",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:fletchinder",
+      "model": "cobblemon:fletchinder.geo",
+      "texture": "cobblemon:textures/pokemon/0662_fletchinder/fletchinder_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-swalot-1",
+      "pokemon": "swalot",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-48",
+      "weight": 2.65,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns"
+        ]
+      }
+    }
+  ]
+}

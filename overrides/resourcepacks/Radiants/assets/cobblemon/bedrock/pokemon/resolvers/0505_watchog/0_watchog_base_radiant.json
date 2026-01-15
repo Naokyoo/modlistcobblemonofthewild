@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:watchog",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:watchog",
+      "model": "cobblemon:watchog.geo",
+      "texture": "cobblemon:textures/pokemon/0505_watchog/watchog_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0505_watchog/watchog_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "values": [
+    "minecraft:ice_spikes",
+    "#trek:ocean/is_frozen_ocean"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:genesect",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 0.8,
+    "height": 2,
+    "fixed": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gorebyss",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:gorebyss",
+      "model": "cobblemon:gorebyss.geo",
+      "texture": "cobblemon:textures/pokemon/0368_gorebyss/gorebyss_radiant.png",
+      "layers": []
+    }
+  ]
+}

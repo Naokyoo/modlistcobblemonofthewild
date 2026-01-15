@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tsareena",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tsareena",
+      "model": "cobblemon:tsareena.geo",
+      "texture": "cobblemon:textures/pokemon/0763_tsareena/tsareena_radiant.png",
+      "layers": []
+    }
+  ]
+}

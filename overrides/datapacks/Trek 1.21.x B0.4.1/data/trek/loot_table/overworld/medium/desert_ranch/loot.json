@@ -1,0 +1,85 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+        {
+            "type": "loot_table",
+            "value": "academy:basic/t3"
+        }
+    ],
+        "rolls": {
+            "type": "minecraft:uniform",
+            "max": 1.0,
+            "min": 1.0
+        }
+    },
+    {
+          "rolls": 2,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:glow_berries",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 3
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:honey_bottle",
+                  "weight": 1,
+                  "functions": [
+                      {
+                          "function": "minecraft:set_count",
+                          "count": {
+                              "min": 1,
+                              "max": 2
+                          }
+                      }
+                  ]
+              },
+              {
+                  "type": "minecraft:empty",
+                  "weight": 3
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:lead",
+                  "weight": 1
+              }
+          ]
+      },
+      {
+          "rolls": 1,
+          "entries": [
+              {
+                  "type": "minecraft:item",
+                  "name": "minecraft:compass",
+                  "weight": 1
+              },
+              {
+                  "type": "minecraft:empty",
+                  "weight": 1
+              }
+          ]
+      }
+  ]
+}

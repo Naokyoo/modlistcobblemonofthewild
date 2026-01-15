@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:archeops",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:archeops",
+      "model": "cobblemon:archeops.geo",
+      "texture": "cobblemon:textures/pokemon/0567_archeops/archeops_radiant.png",
+      "layers": []
+    }
+  ]
+}

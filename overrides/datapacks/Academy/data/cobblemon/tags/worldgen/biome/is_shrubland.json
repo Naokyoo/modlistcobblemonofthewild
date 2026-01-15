@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:firecracker_chaparral",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:allium_shrubland",
+      "required": false
+    }
+  ]
+}

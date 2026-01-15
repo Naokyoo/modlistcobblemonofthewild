@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingredients": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:powder_snow_bucket"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:blend_type/snowy_slopes"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ingredients"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:blend_type/snowy_slopes"
+    ]
+  }
+}

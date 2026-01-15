@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:mushroom_fields",
+    "#cobblemon:is_tropical_island",
+    {
+      "id": "regions_unexplored:tropics",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:ashen_woodland",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:alpha_grove",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:salandit",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:salandit",
+      "model": "cobblemon:salandit.geo",
+      "texture": "cobblemon:textures/pokemon/0757_salandit/salandit_radiant.png",
+      "layers": []
+    }
+  ]
+}

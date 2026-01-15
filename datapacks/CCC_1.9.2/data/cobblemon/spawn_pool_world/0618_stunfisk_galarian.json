@@ -1,0 +1,43 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "stunfisk-1",
+      "pokemon": "stunfisk",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "23-47",
+      "weight": 8.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_swamp"
+        ]
+      }
+    },
+    {
+      "id": "stunfisk_galar-2",
+      "pokemon": "stunfisk galarian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "26-47",
+      "weight": 6.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#minecraft:is_taiga"
+        ]
+      }
+    }
+  ]
+}

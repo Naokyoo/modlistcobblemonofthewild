@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:milotic",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:milotic",
+      "model": "cobblemon:milotic_male.geo",
+      "texture": "cobblemon:textures/pokemon/0350_milotic/milotic_radiant.png",
+      "layers": []
+    }
+  ]
+}

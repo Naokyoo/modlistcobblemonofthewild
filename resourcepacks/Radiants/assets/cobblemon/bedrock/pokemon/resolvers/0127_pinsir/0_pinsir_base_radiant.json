@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:pinsir",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:pinsir",
+      "model": "cobblemon:pinsir.geo",
+      "texture": "cobblemon:textures/pokemon/0127_pinsir/pinsir_radiant.png",
+      "layers": []
+    }
+  ]
+}

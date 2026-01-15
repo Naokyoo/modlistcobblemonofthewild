@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:registeel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:registeel",
+      "model": "cobblemon:registeel.geo",
+      "texture": "cobblemon:textures/pokemon/0379_registeel/registeel_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0379_registeel/registeel_emissive_radiant.png"
+        }
+      ]
+    }
+  ]
+}

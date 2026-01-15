@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:pidgeotto",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:pidgeotto",
+      "model": "cobblemon:pidgeotto.geo",
+      "texture": "cobblemon:textures/pokemon/0017_pidgeotto/pidgeotto_radiant.png",
+      "layers": []
+    }
+  ]
+}

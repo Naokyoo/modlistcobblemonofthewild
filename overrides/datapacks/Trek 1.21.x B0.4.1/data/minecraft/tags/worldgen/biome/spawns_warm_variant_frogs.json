@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#trek:is_desert",
+    "#trek:ocean/is_warm_ocean",
+    "#minecraft:is_jungle",
+    "#minecraft:is_savanna",
+    "#minecraft:is_nether",
+    "#minecraft:is_badlands",
+    "#trek:swamp/is_mangrove_swamp"
+  ]
+}

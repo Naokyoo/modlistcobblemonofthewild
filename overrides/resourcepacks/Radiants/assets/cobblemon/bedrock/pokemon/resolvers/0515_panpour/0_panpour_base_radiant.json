@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:panpour",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:panpour",
+      "model": "cobblemon:panpour.geo",
+      "texture": "cobblemon:textures/pokemon/0515_panpour/panpour_radiant.png",
+      "layers": []
+    }
+  ]
+}

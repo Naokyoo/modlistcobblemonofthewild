@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:petilil",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:petilil",
+      "model": "cobblemon:petilil.geo",
+      "texture": "cobblemon:textures/pokemon/0548_petilil/petilil_radiant.png",
+      "layers": []
+    }
+  ]
+}

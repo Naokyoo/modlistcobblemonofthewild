@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:quilladin",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:quilladin",
+      "model": "cobblemon:quilladin.geo",
+      "texture": "cobblemon:textures/pokemon/0651_quilladin/quilladin_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+	"dynamicCrosshair": false,
+	"disableDebugCrosshair": false,
+	"thirdPersonCrosshair": true,
+	"hideWithScreen": true,
+	"hideWithMap": true,
+	"fixCenteredCrosshair": false,
+	"crosshairConfig": {
+		"onBlock": false,
+		"onInteractableBlock": false,
+		"onEntity": false,
+		"holdingTool": "Always",
+		"displayCorrectTool": false,
+		"holdingMeleeWeapon": true,
+		"meleeWeaponOnEntity": false,
+		"meleeWeaponOnBreakableBlock": false,
+		"holdingRangedWeapon": "Always",
+		"holdingThrowable": "IfInteractable",
+		"holdingShield": false,
+		"holdingBlock": "Always",
+		"holdingBlockInOffhand": false,
+		"holdingUsableItem": "IfInteractable",
+		"forceHoldingSpyglass": false
+	},
+	"color": {
+		"overrideColor": false,
+		"customColor": -5588020,
+		"enableBlend": true
+	},
+	"dynamicCrosshairStyle": true,
+	"crosshairStyle": {
+		"regular": {
+			"style": "minecraft:hud/crosshair",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": true
+		},
+		"onBlock": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/dot.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": true
+		},
+		"onEntity": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open-diagonal.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": false
+		},
+		"holdingTool": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/crosshair.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": false
+		},
+		"holdingMeleeWeapon": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/crosshair.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": true
+		},
+		"holdingRangedWeapon": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open-diagonal.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": false
+		},
+		"holdingThrowable": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/circle.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": false
+		},
+		"holdingBlock": {
+			"style": "dynamiccrosshair:crosshair/square",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": false
+		},
+		"interact": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/brackets-bottom.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": true
+		},
+		"useItem": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/brackets-round.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": false
+		},
+		"shield": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/brackets-bottom.png",
+			"overrideColor": false,
+			"customColor": -5588020,
+			"enableBlend": true,
+			"coalesce": true
+		}
+	},
+	"crosshairModifiers": {
+		"modCorrectTool": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/dot.png",
+			"overrideColor": true,
+			"customColor": -16711936,
+			"enableBlend": false,
+			"coalesce": true
+		},
+		"modIncorrectTool": {
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-diagonal-small.png",
+			"overrideColor": true,
+			"customColor": -65536,
+			"enableBlend": false,
+			"coalesce": true
+		}
+	},
+	"enableTweaks": true,
+	"additionalTools": [
+		"minecraft:warped_fungus_on_a_stick"
+	],
+	"additionalMeleeWeapons": [],
+	"additionalRangedWeapons": [],
+	"additionalThrowables": [
+		"cobblemon:poke_ball",
+		"cobblemon:citrine_ball",
+		"cobblemon:verdant_ball",
+		"cobblemon:azure_ball",
+		"cobblemon:roseate_ball",
+		"cobblemon:slate_ball",
+		"cobblemon:premier_ball",
+		"cobblemon:great_ball",
+		"cobblemon:ultra_ball",
+		"cobblemon:safari_ball",
+		"cobblemon:fast_ball",
+		"cobblemon:level_ball",
+		"cobblemon:lure_ball",
+		"cobblemon:heavy_ball",
+		"cobblemon:love_ball",
+		"cobblemon:friend_ball",
+		"cobblemon:moon_ball",
+		"cobblemon:sport_ball",
+		"cobblemon:park_ball",
+		"cobblemon:net_ball",
+		"cobblemon:dive_ball",
+		"cobblemon:nest_ball",
+		"cobblemon:repeat_ball",
+		"cobblemon:timer_ball",
+		"cobblemon:luxury_ball",
+		"cobblemon:dusk_ball",
+		"cobblemon:heal_ball",
+		"cobblemon:quick_ball",
+		"cobblemon:dream_ball",
+		"cobblemon:beast_ball",
+		"cobblemon:master_ball",
+		"cobblemon:cherish_ball",
+		"cobblemon:ancient_poke_ball",
+		"cobblemon:ancient_citrine_ball",
+		"cobblemon:ancient_verdant_ball",
+		"cobblemon:ancient_azure_ball",
+		"cobblemon:ancient_roseate_ball",
+		"cobblemon:ancient_slate_ball",
+		"cobblemon:ancient_ivory_ball",
+		"cobblemon:ancient_great_ball",
+		"cobblemon:ancient_ultra_ball",
+		"cobblemon:ancient_feather_ball",
+		"cobblemon:ancient_wing_ball",
+		"cobblemon:ancient_jet_ball",
+		"cobblemon:ancient_heavy_ball",
+		"cobblemon:ancient_leaden_ball",
+		"cobblemon:ancient_gigaton_ball",
+		"cobblemon:ancient_origin_ball"
+	],
+	"additionalUsableItems": [
+		"cobblemon:rare_candy",
+		"cobblemon:exp_candy_xl",
+		"cobblemon:exp_candy_l",
+		"cobblemon:exp_candy_m",
+		"cobblemon:exp_candy_s",
+		"cobblemon:exp_candy_xs"
+	],
+	"additionalInteractableBlocks": []
+}

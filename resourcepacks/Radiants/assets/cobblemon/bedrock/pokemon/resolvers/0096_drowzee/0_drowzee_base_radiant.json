@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:drowzee",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:drowzee",
+      "model": "cobblemon:drowzee.geo",
+      "texture": "cobblemon:textures/pokemon/0096_drowzee/drowzee_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bellsprout",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bellsprout",
+      "model": "cobblemon:bellsprout.geo",
+      "texture": "cobblemon:textures/pokemon/0069_bellsprout/bellsprout_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_river",
+    {
+      "id": "#c:is_river",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:cold_river",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:muddy_river",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:tropical_river",
+      "required": false
+    }
+  ]
+}

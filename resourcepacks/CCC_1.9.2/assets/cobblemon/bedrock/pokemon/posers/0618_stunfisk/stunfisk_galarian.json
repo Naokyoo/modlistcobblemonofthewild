@@ -1,0 +1,69 @@
+{
+  "head": "head",
+  "portraitScale": 2.78,
+  "portraitTranslation": [
+    0.12,
+    -2.29,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0.07,
+    0.21,
+    0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('stunfiskgalar', 'cry')",
+    "faint": "q.bedrock_primary('stunfiskgalar', 'faint', q.curve('one'))",
+    "recoil": "q.bedrock_stateful('stunfiskgalar', 'recoil')",
+    "physical": "q.bedrock_primary('stunfiskgalar', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('stunfiskgalar', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('stunfiskgalar', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": [
+        "STAND",
+        "WALK"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('stunfiskgalar', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('stunfiskgalar', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('stunfiskgalar', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('stunfiskgalar', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('stunfiskgalar', 'ground_walk')"
+      ]
+    },
+    "sleeping": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('stunfiskgalar', 'sleep')"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:toedscruel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:toedscruel",
+      "model": "cobblemon:toedscruel.geo",
+      "texture": "cobblemon:textures/pokemon/0949_toedscruel/toedscruel_radiant.png",
+      "layers": [
+        {
+          "name": "transparency",
+          "texture": "cobblemon:textures/pokemon/0949_toedscruel/toedscruel_transparency_radiant.png",
+          "translucent": true,
+          "translucent_cull": true
+        }
+      ]
+    }
+  ]
+}

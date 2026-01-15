@@ -1,0 +1,47 @@
+{
+  "target": "cobblemon:mew",
+  "implemented": true,
+  "hitbox": {
+    "width": 0.65,
+    "height": 1.61,
+    "fixed": false
+  },
+  "behaviour": {
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "2-6"
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 50.0
+      },
+      {
+        "item": "minecraft:nether_star",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:ability_capsule",
+        "percentage": 25.0
+      },
+      {
+        "item": "cobblemon:ability_patch",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

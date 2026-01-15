@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:basculegion",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:basculegion",
+      "model": "cobblemon:basculegion_male.geo",
+      "texture": "cobblemon:textures/pokemon/0902_basculegion/basculegion_male_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:trumbeak",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:trumbeak",
+      "model": "cobblemon:trumbeak.geo",
+      "texture": "cobblemon:textures/pokemon/0732_trumbeak/trumbeak_radiant.png",
+      "layers": []
+    }
+  ]
+}

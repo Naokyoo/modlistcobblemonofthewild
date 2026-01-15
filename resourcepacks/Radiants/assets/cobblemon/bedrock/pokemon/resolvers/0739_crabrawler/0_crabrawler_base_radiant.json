@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:crabrawler",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:crabrawler",
+      "model": "cobblemon:crabrawler.geo",
+      "texture": "cobblemon:textures/pokemon/0739_crabrawler/crabrawler_radiant.png",
+      "layers": []
+    }
+  ]
+}

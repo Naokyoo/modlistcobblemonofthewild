@@ -1,0 +1,446 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_aspear_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_babiri_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_bluk_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_charti_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_cheri_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_chesto_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_chilan_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_chople_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_coba_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_colbur_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_haban_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_kasib_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_kebia_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_nanab_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_occa_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_oran_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_passho_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_payapa_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_pecha_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_persim_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_pinap_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_rawst_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_razz_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_rindo_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_shuca_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_tanga_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_wacan_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_wepear_berry",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 16.0,
+                  "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:roasted_yache_berry",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:carbink",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:carbink",
+      "model": "cobblemon:carbink.geo",
+      "texture": "cobblemon:textures/pokemon/0703_carbink/carbink_radiant.png",
+      "layers": []
+    }
+  ]
+}

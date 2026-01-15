@@ -1,0 +1,104 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:end_highlands",
+    {
+      "id": "stellarity:amethyst_forest",
+      "required": true
+    },
+    {
+      "id": "stellarity:ashfall_deltas",
+      "required": true
+    },
+    {
+      "id": "stellarity:blazing_dunes",
+      "required": true
+    },
+    {
+      "id": "stellarity:crystal_crags",
+      "required": true
+    },
+    {
+      "id": "stellarity:dragons_den",
+      "required": true
+    },
+    {
+      "id": "stellarity:end_shrubland",
+      "required": true
+    },
+    {
+      "id": "stellarity:end_wilds",
+      "required": true
+    },
+    {
+      "id": "stellarity:ender_wastes",
+      "required": true
+    },
+    {
+      "id": "stellarity:endless_dunes",
+      "required": true
+    },
+    {
+      "id": "stellarity:fiery_hills",
+      "required": true
+    },
+    {
+      "id": "stellarity:flesh_tundra",
+      "required": true
+    },
+    {
+      "id": "stellarity:frosted_hills",
+      "required": true
+    },
+    {
+      "id": "stellarity:frosted_valley",
+      "required": true
+    },
+    {
+      "id": "stellarity:frozen_marsh",
+      "required": true
+    },
+    {
+      "id": "stellarity:frozen_shrubland",
+      "required": true
+    },
+    {
+      "id": "stellarity:frozen_spikes",
+      "required": true
+    },
+    {
+      "id": "stellarity:hallowed_tundra",
+      "required": true
+    },
+    {
+      "id": "stellarity:prismarine_forest",
+      "required": true
+    },
+    {
+      "id": "stellarity:prismatic_dunes",
+      "required": true
+    },
+    {
+      "id": "stellarity:sculk_growth",
+      "required": true
+    },
+    {
+      "id": "stellarity:the_hallow",
+      "required": true
+    },
+    {
+      "id": "stellarity:the_nest",
+      "required": true
+    },
+    {
+      "id": "stellarity:the_void",
+      "required": true
+    },
+    {
+      "id": "stellarity:warped_marsh",
+      "required": true
+    }
+  ]
+}

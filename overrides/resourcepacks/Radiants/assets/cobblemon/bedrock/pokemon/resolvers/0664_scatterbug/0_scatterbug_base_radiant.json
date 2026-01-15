@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:scatterbug",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:scatterbug",
+      "model": "cobblemon:scatterbug.geo",
+      "texture": "cobblemon:textures/pokemon/0664_scatterbug/scatterbug_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:cursola",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cursola",
+      "model": "cobblemon:cursola.geo",
+      "texture": "cobblemon:textures/pokemon/0864_cursola/cursola_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0864_cursola/cursola_emissive_radiant.png",
+          "translucent": true
+        },
+        {
+          "name": "ectoplasm",
+          "emissive": false,
+          "texture": "cobblemon:textures/pokemon/0864_cursola/cursola_ectoplasm_radiant.png",
+          "translucent": true,
+          "translucent_cull": true
+        }
+      ]
+    }
+  ]
+}

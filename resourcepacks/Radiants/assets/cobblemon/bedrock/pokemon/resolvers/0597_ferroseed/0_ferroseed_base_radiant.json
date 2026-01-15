@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:ferroseed",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:ferroseed",
+      "model": "cobblemon:ferroseed.geo",
+      "texture": "cobblemon:textures/pokemon/0597_ferroseed/ferroseed_radiant.png",
+      "layers": []
+    }
+  ]
+}

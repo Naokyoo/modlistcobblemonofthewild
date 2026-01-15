@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:quagsire",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:quagsire",
+      "model": "cobblemon:quagsire_male.geo",
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_radiant.png",
+      "layers": []
+    }
+  ]
+}

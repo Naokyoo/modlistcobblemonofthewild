@@ -1,0 +1,15 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [{"count":{"type": "minecraft:uniform","max": 3.0,"min": 3.0},"function":"minecraft:set_count"}],
+          "name": "cobblemon:hyper_potion"
+        }
+      ]
+    }
+  ]
+}

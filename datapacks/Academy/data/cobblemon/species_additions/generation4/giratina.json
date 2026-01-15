@@ -1,0 +1,46 @@
+{
+  "target": "cobblemon:giratina",
+  "implemented": false,
+  "hitbox": {
+    "width": 4.5,
+    "height": 6.5,
+    "fixed": false
+  },
+  "baseScale": 1.1,
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.17
+      },
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.7
+      }
+    }
+  },
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "2-6"
+      },
+      {
+        "item": "cobblemon:ghost_gem",
+        "percentage": 50.0
+      },
+      {
+        "item": "minecraft:nether_star",
+        "percentage": 8.0
+      },
+      {
+        "item": "cobblemon:ability_capsule",
+        "percentage": 25.0
+      },
+      {
+        "item": "cobblemon:ability_patch",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

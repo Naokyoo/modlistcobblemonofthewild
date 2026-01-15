@@ -1,0 +1,16 @@
+{
+	"removeScoreboard": false,
+	"removeScoreboardInDebugHud": false,
+	"maxLines": 15,
+	"scale": 0.9,
+	"moveHorizontally": 0,
+	"moveVertically": 70,
+	"headerShadow": true,
+	"headerColor": 1711276032,
+	"bodyShadow": true,
+	"bodyColor": 1275068416,
+	"removeScore": false,
+	"removeOnlySequentialScore": false,
+	"numberShadow": false,
+	"scoreColor": -43691
+}

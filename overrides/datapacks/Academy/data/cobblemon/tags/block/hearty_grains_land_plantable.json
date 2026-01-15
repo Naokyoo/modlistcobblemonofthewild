@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:mud",
+		"minecraft:farmland",
+		"minecraft:muddy_mangrove_roots",
+		"farmersdelight:rich_soil_farmland"
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:frozen_ocean",
+    "minecraft:cold_ocean",
+    "minecraft:ocean",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:deep_cold_ocean",
+    "minecraft:deep_ocean",
+    {
+      "id": "biomeswevegone:dead_sea",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:lush_stacks",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:rocky_reef",
+      "required": false
+    }
+  ]
+}

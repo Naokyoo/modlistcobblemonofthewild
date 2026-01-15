@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:sizzlipede",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sizzlipede",
+      "model": "cobblemon:sizzlipede.geo",
+      "texture": "cobblemon:textures/pokemon/0850_sizzlipede/sizzlipede_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0850_sizzlipede/sizzlipede_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

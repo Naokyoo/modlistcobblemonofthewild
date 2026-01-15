@@ -1,0 +1,7 @@
+{
+  "condition": {
+    "neededNearbyBlocks": [
+      "#c:flowers"
+    ]
+  }
+}

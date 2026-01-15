@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:leafeon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:leafeon",
+      "model": "cobblemon:leafeon.geo",
+      "texture": "cobblemon:textures/pokemon/0470_leafeon/leafeon_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:simipour",
+  "implemented": true,
+  "baseScale": 0.55,
+  "hitbox": {
+    "width": 0.85,
+    "height": 2,
+    "fixed": false
+  }
+}

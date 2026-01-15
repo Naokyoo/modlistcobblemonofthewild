@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:tranquill",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:tranquill",
+      "model": "cobblemon:tranquill.geo",
+      "texture": "cobblemon:textures/pokemon/0520_tranquill/tranquill_radiant.png",
+      "layers": []
+    }
+  ]
+}

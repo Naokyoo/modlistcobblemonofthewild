@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:terapagos",
+  "implemented": true,
+  "baseScale": 0.65,
+  "hitbox": {
+    "width": 1.3,
+    "height": 1,
+    "fixed": false
+  }
+}

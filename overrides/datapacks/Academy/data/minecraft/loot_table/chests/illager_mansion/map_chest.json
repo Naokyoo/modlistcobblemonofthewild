@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t5",
+					"weight": 15
+        },
+				{
+          "type": "loot_table",
+          "value": "academy:basic/t6",
+					"weight": 3
+        },
+				{
+          "type": "loot_table",
+          "value": "academy:basic/t7",
+					"weight": 1
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "rolls": 3,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:paper"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:yellow_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_banner"
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:reference",
+      "name": "nova_structures:loot_modifier"
+    }
+  ]
+}

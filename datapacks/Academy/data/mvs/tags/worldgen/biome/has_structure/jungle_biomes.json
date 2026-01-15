@@ -1,0 +1,40 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "#minecraft:is_jungle",
+    {
+      "id": "biomeswevegone:crag_gardens",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:fragment_jungle",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:jacaranda_jungle",
+      "required": true
+    },
+    {
+      "id": "biomeswevegone:tropical_rainforest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:rainforest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:sparse_rainforest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:eucalyptus_forest",
+      "required": true
+    },
+    {
+      "id": "regions_unexplored:tropics",
+      "required": true
+    }
+  ]
+}

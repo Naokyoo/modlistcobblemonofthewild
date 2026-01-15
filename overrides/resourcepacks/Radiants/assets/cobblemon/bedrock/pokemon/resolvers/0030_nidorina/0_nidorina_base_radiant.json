@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:nidorina",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:nidorina",
+      "model": "cobblemon:nidorina.geo",
+      "texture": "cobblemon:textures/pokemon/0030_nidorina/nidorina_radiant.png",
+      "layers": []
+    }
+  ]
+}

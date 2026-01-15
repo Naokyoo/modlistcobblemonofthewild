@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:leavanny",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:leavanny",
+      "model": "cobblemon:leavanny.geo",
+      "texture": "cobblemon:textures/pokemon/0542_leavanny/leavanny_radiant.png",
+      "layers": []
+    }
+  ]
+}

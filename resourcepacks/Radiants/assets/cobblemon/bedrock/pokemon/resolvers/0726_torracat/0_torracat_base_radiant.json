@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:torracat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:torracat",
+      "model": "cobblemon:torracat.geo",
+      "texture": "cobblemon:textures/pokemon/0726_torracat/torracat_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0726_torracat/torracat_emissive_radiant.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

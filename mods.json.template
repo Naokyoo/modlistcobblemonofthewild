@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "mods": [
+    {
+      "name": "Cobblemon",
+      "filename": "Cobblemon-fabric-1.7.1+1.21.1.jar",
+      "url": "https://VOTRE-LIEN-DIRECT-OU-GITHUB/Cobblemon-fabric-1.7.1+1.21.1.jar",
+      "hash": ""
+    }
+  ]
+}

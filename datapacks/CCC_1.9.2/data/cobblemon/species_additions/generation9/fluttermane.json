@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:fluttermane",
+  "implemented": true,
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 0.5,
+    "height": 1.4,
+    "fixed": false
+  }
+}

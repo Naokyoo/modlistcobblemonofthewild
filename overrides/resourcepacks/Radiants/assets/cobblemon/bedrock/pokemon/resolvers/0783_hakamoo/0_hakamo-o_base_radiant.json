@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:hakamoo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hakamo-o",
+      "model": "cobblemon:hakamo-o.geo",
+      "texture": "cobblemon:textures/pokemon/0783_hakamoo/hakamo-o_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:turtwig",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:turtwig",
+      "model": "cobblemon:turtwig.geo",
+      "texture": "cobblemon:textures/pokemon/0387_turtwig/turtwig_radiant.png",
+      "layers": []
+    }
+  ]
+}

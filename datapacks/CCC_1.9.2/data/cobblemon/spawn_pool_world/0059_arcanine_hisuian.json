@@ -1,0 +1,60 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "arcanine-hisuian-1",
+      "pokemon": "arcanine hisuian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-55",
+      "weight": 2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_mountain"
+        ]
+      }
+    },
+    {
+      "id": "arcanine-hisuian-2",
+      "pokemon": "arcanine hisuian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-55",
+      "weight": 2.25,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_volcanic"
+        ]
+      }
+    },
+    {
+      "id": "arcanine-hisuian-3",
+      "pokemon": "arcanine hisuian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-55",
+      "weight": 2,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_nether"
+        ]
+      }
+    }
+  ]
+}

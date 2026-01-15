@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:pansage",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:pansage",
+      "model": "cobblemon:pansage.geo",
+      "texture": "cobblemon:textures/pokemon/0511_pansage/pansage_radiant.png"
+    }
+  ]
+}

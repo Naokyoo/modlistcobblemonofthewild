@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:revavroom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:revavroom",
+      "model": "cobblemon:revavroom.geo",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/revavroom_radiant.png",
+      "layers": []
+    }
+  ]
+}

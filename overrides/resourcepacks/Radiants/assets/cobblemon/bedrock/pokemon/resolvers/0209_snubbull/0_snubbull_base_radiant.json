@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:snubbull",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:snubbull",
+      "model": "cobblemon:snubbull.geo",
+      "texture": "cobblemon:textures/pokemon/0209_snubbull/snubbull_radiant.png",
+      "layers": []
+    }
+  ]
+}

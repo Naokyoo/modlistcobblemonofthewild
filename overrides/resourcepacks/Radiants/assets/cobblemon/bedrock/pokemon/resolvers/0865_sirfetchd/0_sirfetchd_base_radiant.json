@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sirfetchd",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sirfetchd",
+      "model": "cobblemon:sirfetchd.geo",
+      "texture": "cobblemon:textures/pokemon/0865_sirfetchd/sirfetchd_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:yanmega",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:yanmega",
+      "model": "cobblemon:yanmega.geo",
+      "texture": "cobblemon:textures/pokemon/0469_yanmega/yanmega_radiant.png",
+      "layers": []
+    }
+  ]
+}

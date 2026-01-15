@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "type": "dimension_enter",
+      "sound": {
+        "id": "academy:foggy_morning",
+        "category": "AMBIENT",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "repeat": false,
+        "repeatDelay": 0,
+        "attenuation": "NONE",
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "relative": true
+      },
+      "dimension": "cobblemon_ultrabeast:chimeras_dimension"
+    }
+  ]
+}

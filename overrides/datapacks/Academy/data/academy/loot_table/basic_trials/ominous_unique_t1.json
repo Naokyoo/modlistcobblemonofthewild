@@ -1,0 +1,22 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:relic_coin_sack",
+          "weight": 4
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/ivcandy",
+          "weight": 4.0
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "rolls": 1.0
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:weavile",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:weavile",
+      "model": "cobblemon:weavile_male.geo",
+      "texture": "cobblemon:textures/pokemon/0461_weavile/weavile_radiant.png",
+      "layers": []
+    }
+  ]
+}

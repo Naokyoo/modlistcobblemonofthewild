@@ -1,0 +1,23 @@
+{
+  "typeItems": {
+    "bug": "lime_shulker_box",
+    "dark": "black_shulker_box",
+    "default": "white_shulker_box",
+    "dragon": "blue_shulker_box",
+    "electric": "yellow_shulker_box",
+    "fairy": "pink_shulker_box",
+    "fighting": "orange_shulker_box",
+    "fire": "red_shulker_box",
+    "flying": "light_gray_shulker_box",
+    "ghost": "gray_shulker_box",
+    "grass": "green_shulker_box",
+    "ground": "brown_shulker_box",
+    "ice": "light_blue_shulker_box",
+    "normal": "white_shulker_box",
+    "poison": "purple_shulker_box",
+    "psychic": "magenta_shulker_box",
+    "rock": "brown_shulker_box",
+    "steel": "light_gray_shulker_box",
+    "water": "cyan_shulker_box"
+  }
+}

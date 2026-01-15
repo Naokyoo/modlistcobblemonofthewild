@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:hariyama",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hariyama",
+      "model": "cobblemon:hariyama.geo",
+      "texture": "cobblemon:textures/pokemon/0297_hariyama/hariyama_radiant.png",
+      "layers": []
+    }
+  ]
+}

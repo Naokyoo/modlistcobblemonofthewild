@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:ditto",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:ditto",
+      "model": "cobblemon:ditto.geo",
+      "texture": "cobblemon:textures/pokemon/0132_ditto/ditto_radiant.png",
+      "layers": []
+    }
+  ]
+}

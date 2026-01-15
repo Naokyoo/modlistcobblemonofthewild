@@ -1,0 +1,7 @@
+[general]
+silenceWither = true
+silenceTrader = true
+silenceDragon = true
+silenceLightning = true
+silenceUs = ["block.respawn_anchor.deplete", "item.trident.thunder", "item.trident.riptide_1", "alpha_spawn", "ui.toast.in", "ui.toast.out"]
+debugMode = false

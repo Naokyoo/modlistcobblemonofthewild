@@ -1,0 +1,14 @@
+{
+  "enableSpawnCommandAlerts": true,
+  "alertShinies": false,
+  "alertLegendaries": true,
+  "alertMythicals": true,
+  "alertUltraBeasts": true,
+  "alertParadox": true,
+  "alertStarters": false,
+  "alertHiddenAbility": false,
+  "broadcastIVs": false,
+  "broadcastEVs": false,
+  "broadcastNature": false,
+  "broadcastAbility": false
+}

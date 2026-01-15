@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:hoothoot",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:hoothoot",
+      "model": "cobblemon:hoothoot.geo",
+      "texture": "cobblemon:textures/pokemon/0163_hoothoot/hoothoot_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0163_hoothoot/hoothoot_emissive_radiant.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:mudsdale",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:mudsdale",
+      "model": "cobblemon:mudsdale.geo",
+      "texture": "cobblemon:textures/pokemon/0750_mudsdale/mudsdale_radiant.png",
+      "layers": []
+    }
+  ]
+}

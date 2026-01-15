@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:cacturne",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:cacturne",
+      "model": "cobblemon:cacturne_male.geo",
+      "texture": "cobblemon:textures/pokemon/0332_cacturne/cacturne_radiant.png",
+      "layers": []
+    }
+  ]
+}

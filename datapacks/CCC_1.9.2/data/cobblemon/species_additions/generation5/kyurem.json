@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:kyurem",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 3.5,
+    "height": 3.5,
+    "fixed": false
+  }
+}

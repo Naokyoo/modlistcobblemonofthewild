@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:meowscarada",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:meowscarada",
+      "model": "cobblemon:meowscarada.geo",
+      "texture": "cobblemon:textures/pokemon/0908_meowscarada/meowscarada_radiant.png",
+      "layers": []
+    }
+  ]
+}

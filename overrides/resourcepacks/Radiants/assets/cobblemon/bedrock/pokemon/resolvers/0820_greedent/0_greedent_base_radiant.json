@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:greedent",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:greedent",
+      "model": "cobblemon:greedent.geo",
+      "texture": "cobblemon:textures/pokemon/0820_greedent/greedent_radiant.png",
+      "layers": []
+    }
+  ]
+}

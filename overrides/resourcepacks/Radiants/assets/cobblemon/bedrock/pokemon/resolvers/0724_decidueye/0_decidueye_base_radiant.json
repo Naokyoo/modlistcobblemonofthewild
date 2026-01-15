@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:decidueye",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:decidueye",
+      "model": "cobblemon:decidueye.geo",
+      "texture": "cobblemon:textures/pokemon/0724_decidueye/decidueye_radiant.png",
+      "layers": []
+    }
+  ]
+}

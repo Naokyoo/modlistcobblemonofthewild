@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:zoroark",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:zoroark",
+      "model": "cobblemon:zoroark.geo",
+      "texture": "cobblemon:textures/pokemon/0571_zoroark/zoroark_radiant.png",
+      "layers": []
+    }
+  ]
+}

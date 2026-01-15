@@ -1,0 +1,27 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:relic_coin_pouch",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:automaton_armor_trim_smithing_template",
+          "weight": 3
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/mochi",
+          "weight": 4.0
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "rolls": 1.0
+}

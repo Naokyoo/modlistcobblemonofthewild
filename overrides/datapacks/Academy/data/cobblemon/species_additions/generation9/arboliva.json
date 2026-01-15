@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:arboliva",
+  "implemented": true,
+  "baseScale": 0.5,
+  "hitbox": {
+    "width": 0.8,
+    "height": 3.2,
+    "fixed": false
+  }
+}

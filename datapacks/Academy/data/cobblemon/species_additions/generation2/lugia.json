@@ -1,0 +1,82 @@
+{
+  "target": "cobblemon:lugia",
+  "implemented": false,
+  "baseScale": 1,
+  "hitbox": {
+    "width": 3,
+    "height": 5,
+    "fixed": false
+  },
+  "features": ["shadow"],
+  "behaviour": {
+    "moving": {
+      "canLook": true,
+      "fly": {
+        "canFly": true
+      },
+      "swim": {
+        "swimSpeed": 0.5,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "evolutions": [
+    {
+      "id": "lugia_shadowlugia",
+      "variant": "item_interact",
+      "result": "lugia shadow",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "cobblemon:dark_gem"
+    }
+  ],
+   "forms": [
+    {
+      "name": "Shadow",
+      "aspects": [
+        "shadow"
+      ],
+      "pokedex": [
+      "cobblemon.species.lugia-shadow.desc"
+      ],
+      "evolutions": [
+        {
+        "id": "shadowlugia_lugia",
+        "variant": "item_interact",
+        "result": "lugia shadow=false",
+        "consumeHeldItem": false,
+        "learnableMoves": [],
+        "requirements": [],
+        "requiredContext": "cobblemon:dark_gem"
+        }
+      ]
+    }
+  ],
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "2-6"
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 50.0
+      },
+      {
+        "item": "minecraft:nether_star",
+        "percentage": 8.0
+      },
+      {
+        "item": "cobblemon:ability_capsule",
+        "percentage": 25.0
+      },
+      {
+        "item": "cobblemon:ability_patch",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

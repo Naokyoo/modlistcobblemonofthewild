@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:varoom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:varoom",
+      "model": "cobblemon:varoom.geo",
+      "texture": "cobblemon:textures/pokemon/0965_varoom/varoom_radiant.png",
+      "layers": []
+    }
+  ]
+}

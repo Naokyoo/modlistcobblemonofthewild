@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:pumpkaboo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:pumpkaboo",
+      "model": "cobblemon:pumpkaboo.geo",
+      "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_radiant.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_emissive_radiant.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

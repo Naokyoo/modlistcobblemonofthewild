@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bonsly",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:bonsly",
+      "model": "cobblemon:bonsly.geo",
+      "texture": "cobblemon:textures/pokemon/0438_bonsly/bonsly_radiant.png",
+      "layers": []
+    }
+  ]
+}

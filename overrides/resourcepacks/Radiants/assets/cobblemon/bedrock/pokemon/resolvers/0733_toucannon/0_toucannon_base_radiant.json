@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:toucannon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:toucannon",
+      "model": "cobblemon:toucannon.geo",
+      "texture": "cobblemon:textures/pokemon/0733_toucannon/toucannon_radiant.png",
+      "layers": []
+    }
+  ]
+}

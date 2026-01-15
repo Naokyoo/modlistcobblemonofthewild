@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:zebstrika",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:zebstrika",
+      "model": "cobblemon:zebstrika.geo",
+      "texture": "cobblemon:textures/pokemon/0523_zebstrika/zebstrika_radiant.png",
+      "layers": []
+    }
+  ]
+}

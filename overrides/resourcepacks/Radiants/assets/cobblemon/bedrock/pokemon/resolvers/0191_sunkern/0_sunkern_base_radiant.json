@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:sunkern",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:sunkern",
+      "model": "cobblemon:sunkern.geo",
+      "texture": "cobblemon:textures/pokemon/0191_sunkern/sunkern_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:quaxly",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:quaxly",
+      "model": "cobblemon:quaxly.geo",
+      "texture": "cobblemon:textures/pokemon/0912_quaxly/quaxly_radiant.png",
+      "layers": []
+    }
+  ]
+}

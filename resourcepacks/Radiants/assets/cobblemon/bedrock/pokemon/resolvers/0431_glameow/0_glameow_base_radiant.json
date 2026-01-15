@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:glameow",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "radiant"
+      ],
+      "poser": "cobblemon:glameow",
+      "model": "cobblemon:glameow.geo",
+      "texture": "cobblemon:textures/pokemon/0431_glameow/glameow_radiant.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+sparklyBlocks = [
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster",
+    "minecraft:beacon",
+    "minecraft:budding_amethyst",
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:diamond_block",
+    "minecraft:emerald_block",
+    "minecraft:gilded_blackstone",
+    "minecraft:glowstone",
+    "minecraft:gold_block",
+    "minecraft:lapis_block",
+    "minecraft:large_amethyst_bud",
+    "minecraft:light_weighted_pressure_plate",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:raw_gold_block",
+    "minecraft:small_amethyst_bud"
+]
+sparklyItems = [
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster",
+    "minecraft:amethyst_shard",
+    "minecraft:beacon",
+    "minecraft:budding_amethyst",
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:diamond",
+    "minecraft:diamond_block",
+    "minecraft:emerald",
+    "minecraft:emerald_block",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:end_crystal",
+    "minecraft:experience_bottle",
+    "minecraft:gilded_blackstone",
+    "minecraft:glistering_melon_slice",
+    "minecraft:glow_ink_sac",
+    "minecraft:glowstone_dust",
+    "minecraft:gold_block",
+    "minecraft:gold_ingot",
+    "minecraft:gold_nugget",
+    "minecraft:golden_apple",
+    "minecraft:golden_carrot",
+    "minecraft:lapis_lazuli",
+    "minecraft:large_amethyst_bud",
+    "minecraft:light_weighted_pressure_plate",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:nether_star",
+    "minecraft:raw_gold",
+    "minecraft:raw_gold_block",
+    "minecraft:small_amethyst_bud",
+    "minecraft:spectral_arrow"
+]
+sparklyEntities = [
+    "minecraft:end_crystal"
+]
