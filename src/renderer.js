@@ -58,15 +58,21 @@ document.addEventListener('DOMContentLoaded', async () => {
   async function applyDynamicUI() {
     try {
       const launcherPath = await window.launcher.getLauncherDataPath();
-      // Chemin vers le fichier config (normalisé pour Windows/Linux/Mac)
-      const configPath = `${launcherPath}/launcher/ui-config.json`;
+      // On normalise le chemin pour Windows (remplacer \ par / et ajouter file://)
+      const configPath = `${launcherPath}/launcher/ui-config.json`.replace(/\\/g, '/');
+      const finalUrl = `file:///${configPath}`;
 
-      // On utilise fetch car le fichier est local mais accessible via file:// ou stream
-      // Dans Electron, on peut aussi utiliser fs via IPC, mais ici on va tenter de charger
-      // via une méthode simple si le fichier existe.
-      // Pour faire plus propre, on va demander au main de lire le fichier
-      const response = await fetch(`file:///${configPath}`).catch(() => null);
-      if (!response) return;
+      console.log('[UI] Tentative de chargement du thème:', finalUrl);
+
+      const response = await fetch(finalUrl).catch((err) => {
+        console.warn('[UI] Fetch error:', err);
+        return null;
+      });
+
+      if (!response || !response.ok) {
+        console.warn('[UI] Fichier config introuvable ou illisible');
+        return;
+      }
 
       const uiConfig = await response.json();
       if (!uiConfig) return;
