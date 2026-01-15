@@ -198,10 +198,39 @@ function setupIpcHandlers() {
     const { getLauncherDataPath } = require('./launcher/resources');
     return getLauncherDataPath();
   });
+
+  ipcMain.handle('read-ui-config', async () => {
+    const { getLauncherDataPath } = require('./launcher/resources');
+    const fs = require('fs');
+    const path = require('path');
+    const configPath = path.join(getLauncherDataPath(), 'launcher', 'ui-config.json');
+
+    if (fs.existsSync(configPath)) {
+      try {
+        const content = fs.readFileSync(configPath, 'utf8');
+        return JSON.parse(content);
+      } catch (e) {
+        console.error('[IPC] Error reading UI config:', e);
+        return null;
+      }
+    }
+    return null;
+  });
 }
 
-app.whenReady().then(() => {
+app.whenReady().then(async () => {
   setupIpcHandlers();
+
+  // Initialisation des ressources au démarrage (pour le design dynamique)
+  try {
+    const { downloadResources } = require('./launcher/resources');
+    console.log('[MAIN] Téléchargement des ressources de démarrage...');
+    // On ne bloque pas le démarrage de la fenêtre, on le fait en arrière-plan
+    downloadResources(CONFIG.resourcesUrl, () => { });
+  } catch (err) {
+    console.error('[MAIN] Erreur ressources démarrage:', err);
+  }
+
   createWindow();
 });
 
