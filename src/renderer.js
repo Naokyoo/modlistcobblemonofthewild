@@ -25,7 +25,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     logConsole: document.getElementById('log-console'),
     logContainer: document.getElementById('log-container'),
     btnClearLogs: document.getElementById('btn-clear-logs'),
-    versionInfo: document.querySelector('.version-info')
+    versionInfo: document.querySelector('.version-info'),
+    launcherLoader: document.getElementById('launcher-loader'),
+    mainContent: document.querySelector('.main-content')
   };
 
   let isDownloading = false;
@@ -52,12 +54,53 @@ document.addEventListener('DOMContentLoaded', async () => {
     loadSession();
     setInterval(updateServerStatus, 30000);
     window.launcher.onProgress(handleProgress);
-    await applyDynamicUI();
+    // Lancer en arrière-plan sans bloquer l'UI
+    applyDynamicUI().catch(err => console.warn('[UI] Erreur thème dynamique:', err));
+
+    // Injecter le CSS dynamique si présent
+    await injectDynamicCSS();
+
+    // Masquer le loader une fois l'init terminée
+    setTimeout(hideLoader, 500);
+  }
+
+  /**
+   * Injecte un fichier CSS externe depuis le dossier de données du launcher
+   */
+  async function injectDynamicCSS() {
+    try {
+      const launcherPath = await window.launcher.getLauncherDataPath();
+      const cssPath = `${launcherPath}/launcher/custom.css`.replace(/\\/g, '/');
+
+      // Vérifier si le fichier existe (via fetch sur file:// ou via une vérification IPC si nécessaire)
+      // Ici, on injecte simplement le lien, s'il n'existe pas, le navigateur l'ignorera
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = `file:///${cssPath}?t=${Date.now()}`;
+      document.head.appendChild(link);
+      console.log('[UI] CSS dynamique injecté:', cssPath);
+    } catch (e) {
+      console.warn('[UI] Impossible d\'injecter le CSS dynamique:', e);
+    }
+  }
+
+  function hideLoader() {
+    if (elements.launcherLoader) {
+      elements.launcherLoader.classList.add('hidden');
+    }
+    if (elements.mainContent) {
+      elements.mainContent.classList.add('visible');
+    }
   }
 
   async function applyDynamicUI() {
     try {
-      const uiConfig = await window.launcher.readUIConfig();
+      // Timeout de 3 secondes pour ne pas bloquer l'UI
+      const uiConfig = await Promise.race([
+        window.launcher.readUIConfig(),
+        new Promise((resolve) => setTimeout(() => resolve(null), 3000))
+      ]);
+
       if (!uiConfig) {
         console.log('[UI] Aucun thème dynamique trouvé ou configuré.');
         return;

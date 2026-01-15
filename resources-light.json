@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Casualonas (QSMP).emotecraft",
+    "path": "emotes/Casualonas (QSMP).emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Casualonas (QSMP).emotecraft"
+  },
+  {
+    "name": "cool sit.emotecraft",
+    "path": "emotes/cool sit.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/cool sit.emotecraft"
+  },
+  {
+    "name": "Four.emotecraft",
+    "path": "emotes/Four.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Four.emotecraft"
+  },
+  {
+    "name": "Get Griddy.emotecraft",
+    "path": "emotes/Get Griddy.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Get Griddy.emotecraft"
+  },
+  {
+    "name": "Hide (Hide and seek - barrel).emotecraft",
+    "path": "emotes/Hide (Hide and seek - barrel).emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Hide (Hide and seek - barrel).emotecraft"
+  },
+  {
+    "name": "Kneeling.emotecraft",
+    "path": "emotes/Kneeling.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Kneeling.emotecraft"
+  },
+  {
+    "name": "Lay while hurt.emotecraft",
+    "path": "emotes/Lay while hurt.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Lay while hurt.emotecraft"
+  },
+  {
+    "name": "Salute.emotecraft",
+    "path": "emotes/Salute.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Salute.emotecraft"
+  },
+  {
+    "name": "Sit on the edge.emotecraft",
+    "path": "emotes/Sit on the edge.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Sit on the edge.emotecraft"
+  },
+  {
+    "name": "Sit.emotecraft",
+    "path": "emotes/Sit.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Sit.emotecraft"
+  },
+  {
+    "name": "Sobbing.emotecraft",
+    "path": "emotes/Sobbing.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Sobbing.emotecraft"
+  },
+  {
+    "name": "Ta da!.emotecraft",
+    "path": "emotes/Ta da!.emotecraft",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/emotes/Ta da!.emotecraft"
+  },
+  {
+    "name": "ui-config.json",
+    "path": "launcher/ui-config.json",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/launcher/ui-config.json",
+    "target": "launcher",
+    "forceOverwrite": true
+  },
+  {
+    "name": "resource_pack.zip",
+    "path": "polymer/resource_pack.zip",
+    "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/polymer/resource_pack.zip"
+  }
+]

@@ -45,7 +45,7 @@ const CONFIG = {
   autoConnect: true, // Si vrai, le jeu se connecte directement au serveur
   minecraftVersion: '1.21.1', // Version Fabric Cobblemon
   fabricVersion: 'latest',
-  discordLink: 'https://discord.gg/cobblemon', // À modifier
+  discordLink: 'https://discord.gg/68QG8PsgnA',
   websiteLink: 'https://cobblemon.fr', // À modifier
   modsUrl: 'https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods.json',
   resourcesUrl: 'https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/resources.json',
@@ -222,14 +222,25 @@ app.whenReady().then(async () => {
   setupIpcHandlers();
 
   // Initialisation des ressources au démarrage (pour le design dynamique)
-  try {
-    const { downloadResources } = require('./launcher/resources');
-    console.log('[MAIN] Téléchargement des ressources de démarrage...');
-    // On ne bloque pas le démarrage de la fenêtre, on le fait en arrière-plan
-    downloadResources(CONFIG.resourcesUrl, () => { });
-  } catch (err) {
-    console.error('[MAIN] Erreur ressources démarrage:', err);
-  }
+  // Ne pas attendre, lancer en arrière-plan avec un timeout
+  (async () => {
+    try {
+      const { downloadResources } = require('./launcher/resources');
+      console.log('[MAIN] Téléchargement des ressources de démarrage...');
+
+      // Timeout de 10 secondes max pour les ressources
+      await Promise.race([
+        downloadResources(CONFIG.resourcesUrl, () => { }),
+        new Promise((_, reject) =>
+          setTimeout(() => reject(new Error('Timeout ressources')), 10000)
+        )
+      ]);
+
+      console.log('[MAIN] Ressources chargées avec succès');
+    } catch (err) {
+      console.warn('[MAIN] Impossible de charger les ressources:', err.message);
+    }
+  })();
 
   createWindow();
 });
