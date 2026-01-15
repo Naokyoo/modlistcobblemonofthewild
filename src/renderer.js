@@ -57,25 +57,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   async function applyDynamicUI() {
     try {
-      const launcherPath = await window.launcher.getLauncherDataPath();
-      // On normalise le chemin pour Windows (remplacer \ par / et ajouter file://)
-      const configPath = `${launcherPath}/launcher/ui-config.json`.replace(/\\/g, '/');
-      const finalUrl = `file:///${configPath}`;
-
-      console.log('[UI] Tentative de chargement du thème:', finalUrl);
-
-      const response = await fetch(finalUrl).catch((err) => {
-        console.warn('[UI] Fetch error:', err);
-        return null;
-      });
-
-      if (!response || !response.ok) {
-        console.warn('[UI] Fichier config introuvable ou illisible');
+      const uiConfig = await window.launcher.readUIConfig();
+      if (!uiConfig) {
+        console.log('[UI] Aucun thème dynamique trouvé ou configuré.');
         return;
       }
-
-      const uiConfig = await response.json();
-      if (!uiConfig) return;
 
       console.log('[UI] Application du thème dynamique...', uiConfig);
 
@@ -101,12 +87,13 @@ document.addEventListener('DOMContentLoaded', async () => {
       }
 
       if (uiConfig.images && uiConfig.images.background) {
-        const bgPath = `${launcherPath}/launcher/${uiConfig.images.background}`;
+        const launcherPath = await window.launcher.getLauncherDataPath();
+        const bgPath = `${launcherPath}/launcher/${uiConfig.images.background}`.replace(/\\/g, '/');
         document.querySelector('.main-content').style.backgroundImage = `url('file:///${bgPath}')`;
         document.querySelector('.main-content').style.backgroundSize = 'cover';
       }
     } catch (error) {
-      console.warn('[UI] Impossible de charger le thème dynamique:', error);
+      console.warn('[UI] Erreur lors de l\'application du thème:', error);
     }
   }
 
