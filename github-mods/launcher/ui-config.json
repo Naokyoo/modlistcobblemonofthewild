@@ -1,9 +1,9 @@
 {
     "theme": {
-        "primary": "#a855f7",
-        "secondary": "#7e22ce",
-        "accent": "#d946ef",
-        "background": "linear-gradient(135deg, #2e1065 0%, #000000 100%)",
+        "primary": "#10b981",
+        "secondary": "#059669",
+        "accent": "#064e3b",
+        "background": "linear-gradient(135deg, #064e3b 0%, #000000 100%)",
         "serverName": "COBBLEMON OF THE WILD"
     },
     "features": {
