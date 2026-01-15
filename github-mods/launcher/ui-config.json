@@ -4,7 +4,10 @@
         "secondary": "#f472b6",
         "accent": "#34d399",
         "background": "linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%)",
-        "serverName": "Cobblemon Of The Wild"
+        "serverName": "COBBLEMON OF THE WILD"
+    },
+    "features": {
+        "showModsFolder": false
     },
     "images": {
         "background": "",

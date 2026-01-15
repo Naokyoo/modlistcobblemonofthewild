@@ -86,6 +86,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
       }
 
+      if (uiConfig.features) {
+        if (uiConfig.features.showModsFolder === false) {
+          elements.btnOpenMods.classList.add('hidden');
+        } else {
+          elements.btnOpenMods.classList.remove('hidden');
+        }
+      }
+
       if (uiConfig.images && uiConfig.images.background) {
         const bgPath = `${launcherPath}/launcher/${uiConfig.images.background}`;
         document.querySelector('.main-content').style.backgroundImage = `url('file:///${bgPath}')`;
