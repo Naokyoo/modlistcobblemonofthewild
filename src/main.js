@@ -48,7 +48,7 @@ const CONFIG = {
   discordLink: 'https://discord.gg/68QG8PsgnA',
   websiteLink: 'https://cobblemon.fr', // À modifier
   modsUrl: 'https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods.json',
-  resourcesUrl: 'https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/resources.json',
+  resourcesUrl: 'https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/resources.json',
   updateUrl: 'https://github.com/Naokyoo/modlistcobblemonofthewild/releases/latest/download'
 };
 
