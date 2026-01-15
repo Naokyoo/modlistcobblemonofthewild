@@ -25,5 +25,12 @@
         "name": "Shader Pack - Complementary Unbound",
         "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
         "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+    },
+    {
+        "name": "Launcher UI Config",
+        "path": "launcher/ui-config.json",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/launcher/ui-config.json",
+        "target": "launcher",
+        "forceOverwrite": true
     }
 ]

@@ -8,6 +8,18 @@ const { downloadFile, downloadJson, calculateFileHash } = require('./downloader'
 const { getMinecraftPath } = require('./minecraft');
 
 /**
+ * Récupère le chemin des données du launcher
+ */
+function getLauncherDataPath() {
+    const appData = process.env.APPDATA || (process.platform === 'darwin' ? process.env.HOME + '/Library/Preferences' : process.env.HOME + '/.local/share');
+    const launcherPath = path.join(appData, 'CobblemonOfTheWildLauncher');
+    if (!fs.existsSync(launcherPath)) {
+        fs.mkdirSync(launcherPath, { recursive: true });
+    }
+    return launcherPath;
+}
+
+/**
  * Télécharge et synchronise les ressources (configs, shaders, etc.)
  * @param {string} resourcesUrl - URL du manifeste des ressources
  * @param {function} onProgress - Callback de progression
@@ -16,7 +28,8 @@ async function downloadResources(resourcesUrl, onProgress) {
     if (!resourcesUrl) return;
 
     const mcPath = getMinecraftPath();
-    console.log(`[RESOURCES] Synchronisation des ressources vers: ${mcPath}`);
+    const launcherPath = getLauncherDataPath();
+    console.log(`[RESOURCES] Synchronisation des ressources...`);
 
     try {
         onProgress({ status: 'Vérification des ressources...', percent: 90 });
@@ -31,7 +44,9 @@ async function downloadResources(resourcesUrl, onProgress) {
 
         let processed = 0;
         for (const res of resources) {
-            const destPath = path.join(mcPath, res.path);
+            // Choix du dossier de destination (Minecraft ou Launcher)
+            const baseDir = res.target === 'launcher' ? launcherPath : mcPath;
+            const destPath = path.join(baseDir, res.path);
             const destDir = path.dirname(destPath);
 
             // Créer les dossiers parents

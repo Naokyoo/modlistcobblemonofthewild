@@ -193,6 +193,11 @@ function setupIpcHandlers() {
     }
     shell.openPath(modsPath);
   });
+
+  ipcMain.handle('get-launcher-path', () => {
+    const { getLauncherDataPath } = require('./launcher/resources');
+    return getLauncherDataPath();
+  });
 }
 
 app.whenReady().then(() => {
