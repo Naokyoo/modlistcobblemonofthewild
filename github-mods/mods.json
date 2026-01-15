@@ -1,725 +1,743 @@
-{
-  "version": "1.0.0",
-  "mods": [
+[
     {
-      "name": "accessories",
-      "filename": "accessories-fabric-1.1.0-beta.52+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar",
-      "hash": "a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4"
+        "name": "Cobblemon-fabric-1.7.1-1.21.1",
+        "filename": "Cobblemon-fabric-1.7.1+1.21.1.jar",
+        "isSplit": true,
+        "parts": [
+            {
+                "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Cobblemon-fabric-1.7.1%2B1.21.1.jar.part1",
+                "hash": "77bd271e94dc951f60e1a47f8cdddc977a297b51997ba32335c67047932c4f1d"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Cobblemon-fabric-1.7.1%2B1.21.1.jar.part2",
+                "hash": "72532f14a4c6692005cc0a5b0e67d52211f9875c95c18c93069d9c4bd735a7c7"
+            }
+        ]
     },
     {
-      "name": "accessories_compat_layer",
-      "filename": "accessories_compat_layer-fabric-0.1.10+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/accessories_compat_layer-fabric-0.1.10%2B1.21.1.jar",
-      "hash": "ea2bdfe9a0f7df48984734e4e247099bcf7d91600ed5928c4ff65dcc40beaccf"
+        "name": "accessories-fabric-1.1.0-beta.52+1.21.1",
+        "filename": "accessories-fabric-1.1.0-beta.52+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar",
+        "hash": "a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4"
     },
     {
-      "name": "advancementdisable",
-      "filename": "advancementdisable-fabric-1.0.1+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/advancementdisable-fabric-1.0.1%2B1.21.jar",
-      "hash": "53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6"
+        "name": "accessories_compat_layer-fabric-0.1.10+1.21.1",
+        "filename": "accessories_compat_layer-fabric-0.1.10+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/accessories_compat_layer-fabric-0.1.10%2B1.21.1.jar",
+        "hash": "ea2bdfe9a0f7df48984734e4e247099bcf7d91600ed5928c4ff65dcc40beaccf"
     },
     {
-      "name": "AdvancementPlaques",
-      "filename": "AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
-      "hash": "dda6cc159edd450d05b9ff15832747b951dacd068c601018c219bca833ce5bef"
+        "name": "advancementdisable-fabric-1.0.1+1.21",
+        "filename": "advancementdisable-fabric-1.0.1+1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/advancementdisable-fabric-1.0.1%2B1.21.jar",
+        "hash": "53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6"
     },
     {
-      "name": "architectury",
-      "filename": "architectury-13.0.8-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/architectury-13.0.8-fabric.jar",
-      "hash": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
+        "name": "AdvancementPlaques-1.21.1-fabric-1.6.8",
+        "filename": "AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
+        "hash": "dda6cc159edd450d05b9ff15832747b951dacd068c601018c219bca833ce5bef"
     },
     {
-      "name": "athena",
-      "filename": "athena-fabric-1.21-4.0.2.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/athena-fabric-1.21-4.0.2.jar",
-      "hash": "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb"
+        "name": "architectury-13.0.8-fabric",
+        "filename": "architectury-13.0.8-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/architectury-13.0.8-fabric.jar",
+        "hash": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
     },
     {
-      "name": "badgebox",
-      "filename": "badgebox-fabric-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/badgebox-fabric-1.3.0.jar",
-      "hash": "1c9a964eab0ed773842569d5de6d9e4b8c1aef4f99d672770290c191f33858a6"
+        "name": "athena-fabric-1.21-4.0.2",
+        "filename": "athena-fabric-1.21-4.0.2.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/athena-fabric-1.21-4.0.2.jar",
+        "hash": "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb"
     },
     {
-      "name": "balm",
-      "filename": "balm-fabric-1.21.1-21.0.55.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/balm-fabric-1.21.1-21.0.55.jar",
-      "hash": "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"
+        "name": "badgebox-fabric-1.3.0",
+        "filename": "badgebox-fabric-1.3.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/badgebox-fabric-1.3.0.jar",
+        "hash": "1c9a964eab0ed773842569d5de6d9e4b8c1aef4f99d672770290c191f33858a6"
     },
     {
-      "name": "beautify",
-      "filename": "beautify-1.3.0+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/beautify-1.3.0%2B1.21.1.jar",
-      "hash": "147418a19d461dd15f6c6d933a82f642289f3c390d1b17a30166c0b127022e20"
+        "name": "balm-fabric-1.21.1-21.0.55",
+        "filename": "balm-fabric-1.21.1-21.0.55.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/balm-fabric-1.21.1-21.0.55.jar",
+        "hash": "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"
     },
     {
-      "name": "betterbeds",
-      "filename": "betterbeds-fabric-1.4.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/betterbeds-fabric-1.4.0.jar",
-      "hash": "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
+        "name": "beautify-1.3.0+1.21.1",
+        "filename": "beautify-1.3.0+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/beautify-1.3.0%2B1.21.1.jar",
+        "hash": "147418a19d461dd15f6c6d933a82f642289f3c390d1b17a30166c0b127022e20"
     },
     {
-      "name": "BetterF1",
-      "filename": "BetterF1-Fabric-1.1+1.21.7.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/BetterF1-Fabric-1.1%2B1.21.7.jar",
-      "hash": "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf"
+        "name": "betterbeds-fabric-1.4.0",
+        "filename": "betterbeds-fabric-1.4.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/betterbeds-fabric-1.4.0.jar",
+        "hash": "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
     },
     {
-      "name": "BetterF3",
-      "filename": "BetterF3-11.0.3-Fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
-      "hash": "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad"
+        "name": "BetterF1-Fabric-1.1+1.21.7",
+        "filename": "BetterF1-Fabric-1.1+1.21.7.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/BetterF1-Fabric-1.1%2B1.21.7.jar",
+        "hash": "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf"
     },
     {
-      "name": "BetterThirdPerson",
-      "filename": "BetterThirdPerson-Fabric-1.21-1.9.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
-      "hash": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457"
+        "name": "BetterF3-11.0.3-Fabric-1.21.1",
+        "filename": "BetterF3-11.0.3-Fabric-1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
+        "hash": "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad"
     },
     {
-      "name": "biomereplacer",
-      "filename": "biomereplacer-2.1-hippo-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/biomereplacer-2.1-hippo-fabric.jar",
-      "hash": "ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac"
+        "name": "BetterThirdPerson-Fabric-1.21-1.9.0",
+        "filename": "BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+        "hash": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457"
     },
     {
-      "name": "brb",
-      "filename": "brb-1.10.0-rc5+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/brb-1.10.0-rc5%2B1.21.jar",
-      "hash": "7ddc4761bf5ca59c34703d9586e6edaf6c7a7a3939ed7cdb6c103ab9fec6707b"
+        "name": "biomereplacer-2.1-hippo-fabric",
+        "filename": "biomereplacer-2.1-hippo-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/biomereplacer-2.1-hippo-fabric.jar",
+        "hash": "ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac"
     },
     {
-      "name": "capturexp",
-      "filename": "capturexp-fabric-1.7.1-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/capturexp-fabric-1.7.1-1.3.0.jar",
-      "hash": "658b0ecaa45aaf2338e7797447667248076746b2407595b6b0031a1b1a5d3a3b"
+        "name": "brb-1.10.0-rc5+1.21",
+        "filename": "brb-1.10.0-rc5+1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/brb-1.10.0-rc5%2B1.21.jar",
+        "hash": "7ddc4761bf5ca59c34703d9586e6edaf6c7a7a3939ed7cdb6c103ab9fec6707b"
     },
     {
-      "name": "Carved Wood",
-      "filename": "Carved Wood-fabric-1.21.1-1.7.7.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Carved%20Wood-fabric-1.21.1-1.7.7.jar",
-      "hash": "bc21e3f4bb36aab0819e0d87db50e23b9cc31023b1bdd69ceccafb2c8d986941"
+        "name": "capturexp-fabric-1.7.1-1.3.0",
+        "filename": "capturexp-fabric-1.7.1-1.3.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/capturexp-fabric-1.7.1-1.3.0.jar",
+        "hash": "658b0ecaa45aaf2338e7797447667248076746b2407595b6b0031a1b1a5d3a3b"
     },
     {
-      "name": "Chunky",
-      "filename": "Chunky-Fabric-1.4.23.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Chunky-Fabric-1.4.23.jar",
-      "hash": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e"
+        "name": "Carved Wood-fabric-1.21.1-1.7.7",
+        "filename": "Carved Wood-fabric-1.21.1-1.7.7.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Carved%20Wood-fabric-1.21.1-1.7.7.jar",
+        "hash": "bc21e3f4bb36aab0819e0d87db50e23b9cc31023b1bdd69ceccafb2c8d986941"
     },
     {
-      "name": "cloth",
-      "filename": "cloth-config-15.0.140-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/cloth-config-15.0.140-fabric.jar",
-      "hash": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+        "name": "Chunky-Fabric-1.4.23",
+        "filename": "Chunky-Fabric-1.4.23.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Chunky-Fabric-1.4.23.jar",
+        "hash": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e"
     },
     {
-      "name": "cobblecuisine",
-      "filename": "cobblecuisine-2.0.1-1.7.rc1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/cobblecuisine-2.0.1-1.7.rc1.jar",
-      "hash": "081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9"
+        "name": "cloth-config-15.0.140-fabric",
+        "filename": "cloth-config-15.0.140-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/cloth-config-15.0.140-fabric.jar",
+        "hash": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
     },
     {
-      "name": "CobbleDollars",
-      "filename": "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar",
-      "hash": "5d8690980ecc79b5f33005dd274d148d0b9b7713ff5e8223c7011aa8bb08401a"
+        "name": "cobblecuisine-2.0.1-1.7.rc1",
+        "filename": "cobblecuisine-2.0.1-1.7.rc1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/cobblecuisine-2.0.1-1.7.rc1.jar",
+        "hash": "081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9"
     },
     {
-      "name": "CobbleFurnies",
-      "filename": "CobbleFurnies-fabric-1.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/CobbleFurnies-fabric-1.0.jar",
-      "hash": "8d96608dc90c0c7d933ed0c1fa4159a30580edf550cc8c8ea2b42bfbde7bfd81"
+        "name": "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1",
+        "filename": "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar",
+        "hash": "5d8690980ecc79b5f33005dd274d148d0b9b7713ff5e8223c7011aa8bb08401a"
     },
     {
-      "name": "cobblemon",
-      "filename": "cobblemon-additions-4.1.6.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/cobblemon-additions-4.1.6.jar",
-      "hash": "c40eeee13943aa3b2ed532a25de5b55f5db4c76222e2a61c98d0bc35c028357d"
+        "name": "CobbleFurnies-fabric-1.0",
+        "filename": "CobbleFurnies-fabric-1.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/CobbleFurnies-fabric-1.0.jar",
+        "hash": "8d96608dc90c0c7d933ed0c1fa4159a30580edf550cc8c8ea2b42bfbde7bfd81"
     },
     {
-      "name": "Cobblemon",
-      "filename": "Cobblemon-fabric-1.7.1+1.21.1.jar",
-      "url": "https://drive.google.com/uc?export=download&id=1bwZlhEZFuJ4fGkNfzsUchvoLDb9vyv5U",
-      "hash": "fadbf7d683f273e93c673ca6195d3c1d8aac96937a7a815124c434a921fe71b1"
+        "name": "cobblemon-additions-4.1.6",
+        "filename": "cobblemon-additions-4.1.6.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/cobblemon-additions-4.1.6.jar",
+        "hash": "c40eeee13943aa3b2ed532a25de5b55f5db4c76222e2a61c98d0bc35c028357d"
     },
     {
-      "name": "cobblemon",
-      "filename": "cobblemon-journey-mounts.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/cobblemon-journey-mounts.jar",
-      "hash": "da7d050e1c2e64e238ce0f27508f33fb1453974d42927b7fd0b93d9e4c55f72a"
+        "name": "cobblemon-journey-mounts",
+        "filename": "cobblemon-journey-mounts.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/cobblemon-journey-mounts.jar",
+        "hash": "da7d050e1c2e64e238ce0f27508f33fb1453974d42927b7fd0b93d9e4c55f72a"
     },
     {
-      "name": "Cobblemon",
-      "filename": "Cobblemon-UI-Tweaks-1.0.7d.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Cobblemon-UI-Tweaks-1.0.7d.jar",
-      "hash": "b4b21dee8fb1d9bb979879e96bb62340be207d97aab7bbecd78b454266ad7886"
+        "name": "Cobblemon-UI-Tweaks-1.0.7d",
+        "filename": "Cobblemon-UI-Tweaks-1.0.7d.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Cobblemon-UI-Tweaks-1.0.7d.jar",
+        "hash": "b4b21dee8fb1d9bb979879e96bb62340be207d97aab7bbecd78b454266ad7886"
     },
     {
-      "name": "cobblenav",
-      "filename": "cobblenav-fabric-2.2.5.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/cobblenav-fabric-2.2.5.jar",
-      "hash": "3fd669b03f152ab9f5ed3da71b25ea6b95944876367e6e289948bf8a1f159333"
+        "name": "cobblenav-fabric-2.2.5",
+        "filename": "cobblenav-fabric-2.2.5.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/cobblenav-fabric-2.2.5.jar",
+        "hash": "3fd669b03f152ab9f5ed3da71b25ea6b95944876367e6e289948bf8a1f159333"
     },
     {
-      "name": "Cobbreeding",
-      "filename": "Cobbreeding-fabric-2.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Cobbreeding-fabric-2.1.1.jar",
-      "hash": "83b6b0b6d3a50887e6f6cb46a05d4fb3c711eb683964c3bb03696ba12c48f063"
+        "name": "CobbleverseBadges-1.3",
+        "filename": "CobbleverseBadges-1.3.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/CobbleverseBadges-1.3.jar",
+        "hash": "d215d075d4ae80a4ed5e20cb5caf442bb3f3607d2a41dc134ebad035f6a8da77"
     },
     {
-      "name": "comforts",
-      "filename": "comforts-fabric-9.0.4+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/comforts-fabric-9.0.4%2B1.21.1.jar",
-      "hash": "f636de45d6acb4c079f3413f071d6663437dad36ae556b771ec58a631b244962"
+        "name": "Cobbreeding-fabric-2.1.1",
+        "filename": "Cobbreeding-fabric-2.1.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Cobbreeding-fabric-2.1.1.jar",
+        "hash": "83b6b0b6d3a50887e6f6cb46a05d4fb3c711eb683964c3bb03696ba12c48f063"
     },
     {
-      "name": "continuity",
-      "filename": "continuity-3.0.0+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/continuity-3.0.0%2B1.21.jar",
-      "hash": "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4"
+        "name": "comforts-fabric-9.0.4+1.21.1",
+        "filename": "comforts-fabric-9.0.4+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/comforts-fabric-9.0.4%2B1.21.1.jar",
+        "hash": "f636de45d6acb4c079f3413f071d6663437dad36ae556b771ec58a631b244962"
     },
     {
-      "name": "Controlling",
-      "filename": "Controlling-fabric-1.21.1-19.0.5.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Controlling-fabric-1.21.1-19.0.5.jar",
-      "hash": "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d"
+        "name": "continuity-3.0.0+1.21",
+        "filename": "continuity-3.0.0+1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/continuity-3.0.0%2B1.21.jar",
+        "hash": "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4"
     },
     {
-      "name": "customsplashscreen",
-      "filename": "customsplashscreen-2.2.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/customsplashscreen-2.2.0.jar",
-      "hash": "142aacb23fc97e467ded7e279a72b00252018c43d12d803d928d07d4fe8d8678"
+        "name": "Controlling-fabric-1.21.1-19.0.5",
+        "filename": "Controlling-fabric-1.21.1-19.0.5.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Controlling-fabric-1.21.1-19.0.5.jar",
+        "hash": "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d"
     },
     {
-      "name": "Debugify",
-      "filename": "Debugify-1.21.1+1.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Debugify-1.21.1%2B1.0.jar",
-      "hash": "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a"
+        "name": "customsplashscreen-2.2.0",
+        "filename": "customsplashscreen-2.2.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/customsplashscreen-2.2.0.jar",
+        "hash": "142aacb23fc97e467ded7e279a72b00252018c43d12d803d928d07d4fe8d8678"
     },
     {
-      "name": "defaultoptions",
-      "filename": "defaultoptions-fabric-1.21.1-21.1.5.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/defaultoptions-fabric-1.21.1-21.1.5.jar",
-      "hash": "51b3c58c56db995e40d2bff33e865b2de31e470a7fe403c1fc4ca98bfeadb53a"
+        "name": "Debugify-1.21.1+1.0",
+        "filename": "Debugify-1.21.1+1.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Debugify-1.21.1%2B1.0.jar",
+        "hash": "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a"
     },
     {
-      "name": "DistantHorizons",
-      "filename": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
-      "hash": "288156d3c9032973b8571d258953181a7c152028e07a4ed7d065d5d6ae4e8bec"
+        "name": "defaultoptions-fabric-1.21.1-21.1.5",
+        "filename": "defaultoptions-fabric-1.21.1-21.1.5.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/defaultoptions-fabric-1.21.1-21.1.5.jar",
+        "hash": "51b3c58c56db995e40d2bff33e865b2de31e470a7fe403c1fc4ca98bfeadb53a"
     },
     {
-      "name": "entityculling",
-      "filename": "entityculling-fabric-1.9.4-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/entityculling-fabric-1.9.4-mc1.21.1.jar",
-      "hash": "823ff81af0a07826b3f44320a0c51a816970053911e8edb4e68824245d87fceb"
+        "name": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge",
+        "filename": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+        "hash": "288156d3c9032973b8571d258953181a7c152028e07a4ed7d065d5d6ae4e8bec"
     },
     {
-      "name": "entity_model_features_1.21",
-      "filename": "entity_model_features_1.21-fabric-3.0.7.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/entity_model_features_1.21-fabric-3.0.7.jar",
-      "hash": "136e5ece2627ac7095778f520865e8027d4e68b14c9a2a25619d5b48a770d76d"
+        "name": "entityculling-fabric-1.9.4-mc1.21.1",
+        "filename": "entityculling-fabric-1.9.4-mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/entityculling-fabric-1.9.4-mc1.21.1.jar",
+        "hash": "823ff81af0a07826b3f44320a0c51a816970053911e8edb4e68824245d87fceb"
     },
     {
-      "name": "entity_texture_features_1.21",
-      "filename": "entity_texture_features_1.21-fabric-7.0.6.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/entity_texture_features_1.21-fabric-7.0.6.jar",
-      "hash": "3674b28fa348a94f54f7c7145e9d3fcbc9adde96fc620c11840f6ed097785aa0"
+        "name": "entity_model_features_1.21-fabric-3.0.7",
+        "filename": "entity_model_features_1.21-fabric-3.0.7.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/entity_model_features_1.21-fabric-3.0.7.jar",
+        "hash": "136e5ece2627ac7095778f520865e8027d4e68b14c9a2a25619d5b48a770d76d"
     },
     {
-      "name": "EuphoriaPatcher",
-      "filename": "EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
-      "hash": "1eb61ef08f74978153e23e2800725eeca67c7013b33ffdd3ba69908f734746a4"
+        "name": "entity_texture_features_1.21-fabric-7.0.6",
+        "filename": "entity_texture_features_1.21-fabric-7.0.6.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/entity_texture_features_1.21-fabric-7.0.6.jar",
+        "hash": "3674b28fa348a94f54f7c7145e9d3fcbc9adde96fc620c11840f6ed097785aa0"
     },
     {
-      "name": "fabric",
-      "filename": "fabric-api-0.116.7+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/fabric-api-0.116.7%2B1.21.1.jar",
-      "hash": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
+        "name": "EuphoriaPatcher-1.7.8-r5.6.1-fabric",
+        "filename": "EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
+        "hash": "1eb61ef08f74978153e23e2800725eeca67c7013b33ffdd3ba69908f734746a4"
     },
     {
-      "name": "fabric",
-      "filename": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/fabric-language-kotlin-1.13.8%2Bkotlin.2.3.0.jar",
-      "hash": "760953d8d3d1fa32a353593d744e2917d8a91ca8923ae9518b5ef2676a631002"
+        "name": "fabric-api-0.116.7+1.21.1",
+        "filename": "fabric-api-0.116.7+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/fabric-api-0.116.7%2B1.21.1.jar",
+        "hash": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
     },
     {
-      "name": "fancymenu_fabric_3.8.1_MC_1.21.1.jar",
-      "filename": "fancymenu_fabric_3.8.1_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
-      "hash": "32f21b601ce12c7c511752d207a73b077cb19b8e24b0eb3d6e0440a299bc5743"
+        "name": "fabric-language-kotlin-1.13.8+kotlin.2.3.0",
+        "filename": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/fabric-language-kotlin-1.13.8%2Bkotlin.2.3.0.jar",
+        "hash": "760953d8d3d1fa32a353593d744e2917d8a91ca8923ae9518b5ef2676a631002"
     },
     {
-      "name": "ferritecore",
-      "filename": "ferritecore-7.0.2-hotfix-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/ferritecore-7.0.2-hotfix-fabric.jar",
-      "hash": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
+        "name": "fancymenu_fabric_3.8.1_MC_1.21.1",
+        "filename": "fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+        "hash": "32f21b601ce12c7c511752d207a73b077cb19b8e24b0eb3d6e0440a299bc5743"
     },
     {
-      "name": "fightorflight",
-      "filename": "fightorflight-fabric-0.10.3.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/fightorflight-fabric-0.10.3.jar",
-      "hash": "4c8c2beb1dbafdb7670b140d1076eb4e1d2b3a510ddfdb12c03c2970243332d6"
+        "name": "ferritecore-7.0.2-hotfix-fabric",
+        "filename": "ferritecore-7.0.2-hotfix-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/ferritecore-7.0.2-hotfix-fabric.jar",
+        "hash": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
     },
     {
-      "name": "ForgeConfigAPIPort",
-      "filename": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-      "hash": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
+        "name": "fightorflight-fabric-0.10.3",
+        "filename": "fightorflight-fabric-0.10.3.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/fightorflight-fabric-0.10.3.jar",
+        "hash": "4c8c2beb1dbafdb7670b140d1076eb4e1d2b3a510ddfdb12c03c2970243332d6"
     },
     {
-      "name": "forgivingvoid",
-      "filename": "forgivingvoid-fabric-1.21.1-21.1.5.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/forgivingvoid-fabric-1.21.1-21.1.5.jar",
-      "hash": "0f58670d7d5cb9d25fc85fa20ca38349c05d8dbff27a0d891af6d1a94b356e6d"
+        "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric",
+        "filename": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+        "hash": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
     },
     {
-      "name": "geckolib",
-      "filename": "geckolib-fabric-1.21.1-4.8.2.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/geckolib-fabric-1.21.1-4.8.2.jar",
-      "hash": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04"
+        "name": "forgivingvoid-fabric-1.21.1-21.1.5",
+        "filename": "forgivingvoid-fabric-1.21.1-21.1.5.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/forgivingvoid-fabric-1.21.1-21.1.5.jar",
+        "hash": "0f58670d7d5cb9d25fc85fa20ca38349c05d8dbff27a0d891af6d1a94b356e6d"
     },
     {
-      "name": "globalpacks",
-      "filename": "globalpacks-fabric-1.21.1-21.0.6.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/globalpacks-fabric-1.21.1-21.0.6.jar",
-      "hash": "391d960afb1d8f0b63ccfb677970512d68642102b6928a4830ebcd6d3fdba2cc"
+        "name": "geckolib-fabric-1.21.1-4.8.2",
+        "filename": "geckolib-fabric-1.21.1-4.8.2.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/geckolib-fabric-1.21.1-4.8.2.jar",
+        "hash": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04"
     },
     {
-      "name": "handcrafted",
-      "filename": "handcrafted-fabric-1.21.1-4.0.3.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/handcrafted-fabric-1.21.1-4.0.3.jar",
-      "hash": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"
+        "name": "globalpacks-fabric-1.21.1-21.0.6",
+        "filename": "globalpacks-fabric-1.21.1-21.0.6.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/globalpacks-fabric-1.21.1-21.0.6.jar",
+        "hash": "391d960afb1d8f0b63ccfb677970512d68642102b6928a4830ebcd6d3fdba2cc"
     },
     {
-      "name": "highlight",
-      "filename": "highlight-fabric-1.21-3.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/highlight-fabric-1.21-3.0.0.jar",
-      "hash": "08932afc913f74e9676b9a59a87bdf817d959cf6d861a9269897778240f11df2"
+        "name": "handcrafted-fabric-1.21.1-4.0.3",
+        "filename": "handcrafted-fabric-1.21.1-4.0.3.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/handcrafted-fabric-1.21.1-4.0.3.jar",
+        "hash": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"
     },
     {
-      "name": "huge",
-      "filename": "huge-structure-blocks-fabric-1.1.6.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/huge-structure-blocks-fabric-1.1.6.jar",
-      "hash": "759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d"
+        "name": "highlight-fabric-1.21-3.0.0",
+        "filename": "highlight-fabric-1.21-3.0.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/highlight-fabric-1.21-3.0.0.jar",
+        "hash": "08932afc913f74e9676b9a59a87bdf817d959cf6d861a9269897778240f11df2"
     },
     {
-      "name": "Iceberg",
-      "filename": "Iceberg-1.21.1-fabric-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Iceberg-1.21.1-fabric-1.3.2.jar",
-      "hash": "9214790af6fb75c19ef6b95e0e47999addf018e8c7a1630a5118c4252e6d8d36"
+        "name": "huge-structure-blocks-fabric-1.1.6",
+        "filename": "huge-structure-blocks-fabric-1.1.6.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/huge-structure-blocks-fabric-1.1.6.jar",
+        "hash": "759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d"
     },
     {
-      "name": "iCommon",
-      "filename": "iCommon-Fabric-bundle.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/iCommon-Fabric-bundle.jar",
-      "hash": "f9836b5d55c50b743d196b89a9fcfceca29894eda49f6fe1862f5e6eeca9f6df"
+        "name": "Iceberg-1.21.1-fabric-1.3.2",
+        "filename": "Iceberg-1.21.1-fabric-1.3.2.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Iceberg-1.21.1-fabric-1.3.2.jar",
+        "hash": "9214790af6fb75c19ef6b95e0e47999addf018e8c7a1630a5118c4252e6d8d36"
     },
     {
-      "name": "ImmediatelyFast",
-      "filename": "ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/ImmediatelyFast-Fabric-1.6.9%2B1.21.1.jar",
-      "hash": "edd3640ad522f44920cba831eb9735541a081f8bbf9e11a282c12c960f1f0727"
+        "name": "iCommon-Fabric-bundle",
+        "filename": "iCommon-Fabric-bundle.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/iCommon-Fabric-bundle.jar",
+        "hash": "f9836b5d55c50b743d196b89a9fcfceca29894eda49f6fe1862f5e6eeca9f6df"
     },
     {
-      "name": "infinite",
-      "filename": "infinite-music-0.4.6.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/infinite-music-0.4.6.jar",
-      "hash": "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
+        "name": "ImmediatelyFast-Fabric-1.6.9+1.21.1",
+        "filename": "ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/ImmediatelyFast-Fabric-1.6.9%2B1.21.1.jar",
+        "hash": "edd3640ad522f44920cba831eb9735541a081f8bbf9e11a282c12c960f1f0727"
     },
     {
-      "name": "interactic",
-      "filename": "interactic-0.2.3+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/interactic-0.2.3%2B1.21.jar",
-      "hash": "fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da"
+        "name": "infinite-music-0.4.6",
+        "filename": "infinite-music-0.4.6.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/infinite-music-0.4.6.jar",
+        "hash": "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
     },
     {
-      "name": "iris",
-      "filename": "iris-fabric-1.8.8+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/iris-fabric-1.8.8%2Bmc1.21.1.jar",
-      "hash": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5"
+        "name": "interactic-0.2.3+1.21",
+        "filename": "interactic-0.2.3+1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/interactic-0.2.3%2B1.21.jar",
+        "hash": "fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da"
     },
     {
-      "name": "konkrete_fabric_1.9.9_MC_1.21.jar",
-      "filename": "konkrete_fabric_1.9.9_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
-      "hash": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841"
+        "name": "iris-fabric-1.8.8+mc1.21.1",
+        "filename": "iris-fabric-1.8.8+mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+        "hash": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5"
     },
     {
-      "name": "krypton",
-      "filename": "krypton-0.2.8.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/krypton-0.2.8.jar",
-      "hash": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
+        "name": "konkrete_fabric_1.9.9_MC_1.21",
+        "filename": "konkrete_fabric_1.9.9_MC_1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+        "hash": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841"
     },
     {
-      "name": "lenientdeath",
-      "filename": "lenientdeath-1.2.5+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/lenientdeath-1.2.5%2B1.21.1.jar",
-      "hash": "117175de6d7a8cc9cf36d48fd55a8460183dd30f4d25c0e7230ba8fe470f79b4"
+        "name": "krypton-0.2.8",
+        "filename": "krypton-0.2.8.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/krypton-0.2.8.jar",
+        "hash": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
     },
     {
-      "name": "libjf",
-      "filename": "libjf-3.17.3.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/libjf-3.17.3.jar",
-      "hash": "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
+        "name": "lenientdeath-1.2.5+1.21.1",
+        "filename": "lenientdeath-1.2.5+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/lenientdeath-1.2.5%2B1.21.1.jar",
+        "hash": "117175de6d7a8cc9cf36d48fd55a8460183dd30f4d25c0e7230ba8fe470f79b4"
     },
     {
-      "name": "lithium",
-      "filename": "lithium-fabric-0.15.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
-      "hash": "aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0"
+        "name": "libjf-3.17.3",
+        "filename": "libjf-3.17.3.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/libjf-3.17.3.jar",
+        "hash": "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
     },
     {
-      "name": "Luckys",
-      "filename": "Luckys-Cozyhome-Refurnished-1.1.20.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Luckys-Cozyhome-Refurnished-1.1.20.jar",
-      "hash": "0915e3e54c12fe40622cab94005418d32cbde011fa9c2d7c27756eb7d5313a66"
+        "name": "lithium-fabric-0.15.1+mc1.21.1",
+        "filename": "lithium-fabric-0.15.1+mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
+        "hash": "aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0"
     },
     {
-      "name": "LumyMon",
-      "filename": "LumyMon-0.5.5.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/LumyMon-0.5.5.jar",
-      "hash": "80ccd9b8127e9309891ef2fce77236b9666133c46ac11d4db29fe8d6484ff85e"
+        "name": "Luckys-Cozyhome-Refurnished-1.1.20",
+        "filename": "Luckys-Cozyhome-Refurnished-1.1.20.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+        "hash": "0915e3e54c12fe40622cab94005418d32cbde011fa9c2d7c27756eb7d5313a66"
     },
     {
-      "name": "LumyREI",
-      "filename": "LumyREI-1.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/LumyREI-1.0.jar",
-      "hash": "9247891656b6b460b6ceb25da4fd68e60f150014e448750effa5bbb2368fdfce"
+        "name": "LumyMon-0.5.5",
+        "filename": "LumyMon-0.5.5.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/LumyMon-0.5.5.jar",
+        "hash": "80ccd9b8127e9309891ef2fce77236b9666133c46ac11d4db29fe8d6484ff85e"
     },
     {
-      "name": "mega_showdown",
-      "filename": "mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/mega_showdown-fabric-1.4.4%2B1.7.1%2B1.21.1.jar",
-      "hash": "e215eb6e2f45aa6016471f9cc905b87d681d636efe8e97e9252b3d4ddd131b3d"
+        "name": "LumyREI-1.0",
+        "filename": "LumyREI-1.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/LumyREI-1.0.jar",
+        "hash": "9247891656b6b460b6ceb25da4fd68e60f150014e448750effa5bbb2368fdfce"
     },
     {
-      "name": "melody_fabric_1.0.10_MC_1.21.jar",
-      "filename": "melody_fabric_1.0.10_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
-      "hash": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
+        "name": "mega_showdown-fabric-1.4.4+1.7.1+1.21.1",
+        "filename": "mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/mega_showdown-fabric-1.4.4%2B1.7.1%2B1.21.1.jar",
+        "hash": "e215eb6e2f45aa6016471f9cc905b87d681d636efe8e97e9252b3d4ddd131b3d"
     },
     {
-      "name": "midnightlib",
-      "filename": "midnightlib-1.7.5-fabric+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/midnightlib-1.7.5-fabric%2B1.21.1.jar",
-      "hash": "b75155a638d15df61922bb635e2c5aae6102897ccaa1e226060a7f5ff4218091"
+        "name": "melody_fabric_1.0.10_MC_1.21",
+        "filename": "melody_fabric_1.0.10_MC_1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/melody_fabric_1.0.10_MC_1.21.jar",
+        "hash": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
     },
     {
-      "name": "moar",
-      "filename": "moar-concrete-1.3.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/moar-concrete-1.3.1.jar",
-      "hash": "0e6e7b95b55ca13a50233743ba008a5285f4abf4cca7642bda40b27145f4f43f"
+        "name": "midnightlib-1.7.5-fabric+1.21.1",
+        "filename": "midnightlib-1.7.5-fabric+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/midnightlib-1.7.5-fabric%2B1.21.1.jar",
+        "hash": "b75155a638d15df61922bb635e2c5aae6102897ccaa1e226060a7f5ff4218091"
     },
     {
-      "name": "MobsBeGone",
-      "filename": "MobsBeGone-0.0.7.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/MobsBeGone-0.0.7.jar",
-      "hash": "ad45c9c1bfe8c018d372f9fb6eb3e95507d6252b6cb4204478d04653d9634e98"
+        "name": "moar-concrete-1.3.1",
+        "filename": "moar-concrete-1.3.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/moar-concrete-1.3.1.jar",
+        "hash": "0e6e7b95b55ca13a50233743ba008a5285f4abf4cca7642bda40b27145f4f43f"
     },
     {
-      "name": "modernfix",
-      "filename": "modernfix-fabric-5.25.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
-      "hash": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
+        "name": "MobsBeGone-0.0.7",
+        "filename": "MobsBeGone-0.0.7.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/MobsBeGone-0.0.7.jar",
+        "hash": "ad45c9c1bfe8c018d372f9fb6eb3e95507d6252b6cb4204478d04653d9634e98"
     },
     {
-      "name": "modmenu",
-      "filename": "modmenu-11.0.3.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/modmenu-11.0.3.jar",
-      "hash": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428"
+        "name": "modernfix-fabric-5.25.1+mc1.21.1",
+        "filename": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+        "hash": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
     },
     {
-      "name": "MoreCobblemonTweaks",
-      "filename": "MoreCobblemonTweaks-fabric-1.2.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/MoreCobblemonTweaks-fabric-1.2.1.jar",
-      "hash": "1100cf4e109866410e6d444dc325783873b3ebe136e8771df2b7296256ece0a3"
+        "name": "modmenu-11.0.3",
+        "filename": "modmenu-11.0.3.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/modmenu-11.0.3.jar",
+        "hash": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428"
     },
     {
-      "name": "moreculling",
-      "filename": "moreculling-fabric-1.21.1-1.0.6.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/moreculling-fabric-1.21.1-1.0.6.jar",
-      "hash": "b7cf4b2d005682b2e1999c0a6fae868b1ddf941aa08efb0ef79baa71acf8bb3a"
+        "name": "MoreCobblemonTweaks-fabric-1.2.1",
+        "filename": "MoreCobblemonTweaks-fabric-1.2.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/MoreCobblemonTweaks-fabric-1.2.1.jar",
+        "hash": "1100cf4e109866410e6d444dc325783873b3ebe136e8771df2b7296256ece0a3"
     },
     {
-      "name": "MouseTweaks",
-      "filename": "MouseTweaks-fabric-mc1.21-2.26.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/MouseTweaks-fabric-mc1.21-2.26.jar",
-      "hash": "3e9fa4800fafef616fbf1545d62f5898f55c83fbd4126ce2b48b5e0077243fc0"
+        "name": "moreculling-fabric-1.21.1-1.0.6",
+        "filename": "moreculling-fabric-1.21.1-1.0.6.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/moreculling-fabric-1.21.1-1.0.6.jar",
+        "hash": "b7cf4b2d005682b2e1999c0a6fae868b1ddf941aa08efb0ef79baa71acf8bb3a"
     },
     {
-      "name": "Multiworld",
-      "filename": "Multiworld-Fabric-bundle.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Multiworld-Fabric-bundle.jar",
-      "hash": "18f0d0dd6cacbd159dc9f4532a6829638fba272e445037ea8d791c35fdc90585"
+        "name": "MouseTweaks-fabric-mc1.21-2.26",
+        "filename": "MouseTweaks-fabric-mc1.21-2.26.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+        "hash": "3e9fa4800fafef616fbf1545d62f5898f55c83fbd4126ce2b48b5e0077243fc0"
     },
     {
-      "name": "MusicNotification",
-      "filename": "MusicNotification-fabric-mc1.21-2.1.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/MusicNotification-fabric-mc1.21-2.1.0.jar",
-      "hash": "d1c6627ae41bee82a624fd1eb70c1cd304daec6fbceb269e7292b4523bfde254"
+        "name": "Multiworld-Fabric-bundle",
+        "filename": "Multiworld-Fabric-bundle.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Multiworld-Fabric-bundle.jar",
+        "hash": "18f0d0dd6cacbd159dc9f4532a6829638fba272e445037ea8d791c35fdc90585"
     },
     {
-      "name": "nethermap",
-      "filename": "nethermap-4.0.0-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/nethermap-4.0.0-1.21.1.jar",
-      "hash": "5d5243434984d64c904d21397530f2c7817105ca091bf409aa23f3842b9f3634"
+        "name": "MusicNotification-fabric-mc1.21-2.1.0",
+        "filename": "MusicNotification-fabric-mc1.21-2.1.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/MusicNotification-fabric-mc1.21-2.1.0.jar",
+        "hash": "d1c6627ae41bee82a624fd1eb70c1cd304daec6fbceb269e7292b4523bfde254"
     },
     {
-      "name": "netherportalfix",
-      "filename": "netherportalfix-fabric-1.21.1-21.1.3.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
-      "hash": "c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6"
+        "name": "nethermap-4.0.0-1.21.1",
+        "filename": "nethermap-4.0.0-1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/nethermap-4.0.0-1.21.1.jar",
+        "hash": "5d5243434984d64c904d21397530f2c7817105ca091bf409aa23f3842b9f3634"
     },
     {
-      "name": "notenoughanimations",
-      "filename": "notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
-      "hash": "6055d9bd5a37ceaa8df80e9cb9f79a406dfcbca6f059e8a36785f2a7bf463b0e"
+        "name": "netherportalfix-fabric-1.21.1-21.1.3",
+        "filename": "netherportalfix-fabric-1.21.1-21.1.3.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+        "hash": "c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6"
     },
     {
-      "name": "notenoughcrashes",
-      "filename": "notenoughcrashes-fabric-4.4.9+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar",
-      "hash": "1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74"
+        "name": "notenoughanimations-fabric-1.11.1-mc1.21.1",
+        "filename": "notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
+        "hash": "6055d9bd5a37ceaa8df80e9cb9f79a406dfcbca6f059e8a36785f2a7bf463b0e"
     },
     {
-      "name": "Only Bottle Caps",
-      "filename": "Only Bottle Caps-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Only%20Bottle%20Caps-1.3.0.jar",
-      "hash": "f18d5ddfaa0a77d0ef68b9db470a41095522878e25b1cc2a5282e747c784f09d"
+        "name": "notenoughcrashes-fabric-4.4.9+1.21.1",
+        "filename": "notenoughcrashes-fabric-4.4.9+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar",
+        "hash": "1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74"
     },
     {
-      "name": "owo",
-      "filename": "owo-lib-0.12.15.4+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/owo-lib-0.12.15.4%2B1.21.jar",
-      "hash": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
+        "name": "Only Bottle Caps-1.3.0",
+        "filename": "Only Bottle Caps-1.3.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Only%20Bottle%20Caps-1.3.0.jar",
+        "hash": "f18d5ddfaa0a77d0ef68b9db470a41095522878e25b1cc2a5282e747c784f09d"
     },
     {
-      "name": "packetfixer",
-      "filename": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-      "hash": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
+        "name": "owo-lib-0.12.15.4+1.21",
+        "filename": "owo-lib-0.12.15.4+1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/owo-lib-0.12.15.4%2B1.21.jar",
+        "hash": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
     },
     {
-      "name": "paginatedadvancements",
-      "filename": "paginatedadvancements-2.5.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/paginatedadvancements-2.5.1.jar",
-      "hash": "776d8006401781bc036199acc9ba80f7dce6c3bcebbbfa260a774add750c4d2d"
+        "name": "owo-lib-0.12.15.4_1.21",
+        "filename": "owo-lib-0.12.15.4_1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/owo-lib-0.12.15.4_1.21.jar",
+        "hash": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
     },
     {
-      "name": "particlerain",
-      "filename": "particlerain-4.0.0-beta.3+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/particlerain-4.0.0-beta.3%2B1.21.1-fabric.jar",
-      "hash": "d4a5c1ca224f44098469ab1f3343ef2a7d27a8fc6272a0fb8f92a62b3f3ea272"
+        "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+        "filename": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+        "hash": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
     },
     {
-      "name": "particular",
-      "filename": "particular-1.1.2+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/particular-1.1.2%2B1.21.jar",
-      "hash": "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"
+        "name": "paginatedadvancements-2.5.1",
+        "filename": "paginatedadvancements-2.5.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/paginatedadvancements-2.5.1.jar",
+        "hash": "776d8006401781bc036199acc9ba80f7dce6c3bcebbbfa260a774add750c4d2d"
     },
     {
-      "name": "pastureLoot",
-      "filename": "pastureLoot-1.0.3+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/pastureLoot-1.0.3%2B1.21.1.jar",
-      "hash": "51f6924d529a3cb663524ad8958ae7eb7279ae329bfcc12a932a32b2771da29c"
+        "name": "particlerain-4.0.0-beta.3+1.21.1-fabric",
+        "filename": "particlerain-4.0.0-beta.3+1.21.1-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/particlerain-4.0.0-beta.3%2B1.21.1-fabric.jar",
+        "hash": "d4a5c1ca224f44098469ab1f3343ef2a7d27a8fc6272a0fb8f92a62b3f3ea272"
     },
     {
-      "name": "Ping",
-      "filename": "Ping-Wheel-1.12.0-fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Ping-Wheel-1.12.0-fabric-1.21.1.jar",
-      "hash": "165cf279f7664995b7bc59f532c2108c9fa19d9dac925b232a0826f45190f42e"
+        "name": "particular-1.1.2+1.21",
+        "filename": "particular-1.1.2+1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/particular-1.1.2%2B1.21.jar",
+        "hash": "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"
     },
     {
-      "name": "playerxp",
-      "filename": "playerxp-fabric-1.0.3+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/playerxp-fabric-1.0.3%2B1.21.1.jar",
-      "hash": "d67476f77a97ac34798898a3d63819dc63bcdd94f1c8d2cc0f31545ff25801dd"
+        "name": "pastureLoot-1.0.3+1.21.1",
+        "filename": "pastureLoot-1.0.3+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/pastureLoot-1.0.3%2B1.21.1.jar",
+        "hash": "51f6924d529a3cb663524ad8958ae7eb7279ae329bfcc12a932a32b2771da29c"
     },
     {
-      "name": "pokeblocks",
-      "filename": "pokeblocks-1.4.0-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/pokeblocks-1.4.0-1.21.1.jar",
-      "hash": "c113f9e61a7bef35c3bacc57651a7508f3f07c20218b51eade31766899f1176d"
+        "name": "Ping-Wheel-1.12.0-fabric-1.21.1",
+        "filename": "Ping-Wheel-1.12.0-fabric-1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Ping-Wheel-1.12.0-fabric-1.21.1.jar",
+        "hash": "165cf279f7664995b7bc59f532c2108c9fa19d9dac925b232a0826f45190f42e"
     },
     {
-      "name": "rctapi",
-      "filename": "rctapi-fabric-1.21.1-0.14.4-beta.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/rctapi-fabric-1.21.1-0.14.4-beta.jar",
-      "hash": "c1ad667d56041677d70bb6e10a2b1e60c75ee5f4e46d76f8f7b51e01660c2eb0"
+        "name": "playerxp-fabric-1.0.3+1.21.1",
+        "filename": "playerxp-fabric-1.0.3+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/playerxp-fabric-1.0.3%2B1.21.1.jar",
+        "hash": "d67476f77a97ac34798898a3d63819dc63bcdd94f1c8d2cc0f31545ff25801dd"
     },
     {
-      "name": "rctmod",
-      "filename": "rctmod-fabric-1.21.1-0.17.4-beta.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/rctmod-fabric-1.21.1-0.17.4-beta.jar",
-      "hash": "e05240f256c1ce4ecfc8343d8d51d0026ee5a870cad6524f78d7437700a796bc"
+        "name": "pokeblocks-1.4.0-1.21.1",
+        "filename": "pokeblocks-1.4.0-1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/pokeblocks-1.4.0-1.21.1.jar",
+        "hash": "c113f9e61a7bef35c3bacc57651a7508f3f07c20218b51eade31766899f1176d"
     },
     {
-      "name": "reeses",
-      "filename": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar",
-      "hash": "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
+        "name": "rctapi-fabric-1.21.1-0.14.4-beta",
+        "filename": "rctapi-fabric-1.21.1-0.14.4-beta.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/rctapi-fabric-1.21.1-0.14.4-beta.jar",
+        "hash": "c1ad667d56041677d70bb6e10a2b1e60c75ee5f4e46d76f8f7b51e01660c2eb0"
     },
     {
-      "name": "repurposed_structures",
-      "filename": "repurposed_structures-7.5.17+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/repurposed_structures-7.5.17%2B1.21.1-fabric.jar",
-      "hash": "9cc35b303d7b6dd0f2c7473eb5cf732b47cfefa7673cc52bcc07a96b28ef0c2c"
+        "name": "rctmod-fabric-1.21.1-0.17.4-beta",
+        "filename": "rctmod-fabric-1.21.1-0.17.4-beta.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/rctmod-fabric-1.21.1-0.17.4-beta.jar",
+        "hash": "e05240f256c1ce4ecfc8343d8d51d0026ee5a870cad6524f78d7437700a796bc"
     },
     {
-      "name": "resourcefullib",
-      "filename": "resourcefullib-fabric-1.21-3.0.12.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/resourcefullib-fabric-1.21-3.0.12.jar",
-      "hash": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"
+        "name": "reeses-sodium-options-fabric-1.8.3+mc1.21.4",
+        "filename": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar",
+        "hash": "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
     },
     {
-      "name": "ResourcePackOverrides",
-      "filename": "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
-      "hash": "5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59"
+        "name": "repurposed_structures-7.5.17+1.21.1-fabric",
+        "filename": "repurposed_structures-7.5.17+1.21.1-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/repurposed_structures-7.5.17%2B1.21.1-fabric.jar",
+        "hash": "9cc35b303d7b6dd0f2c7473eb5cf732b47cfefa7673cc52bcc07a96b28ef0c2c"
     },
     {
-      "name": "respackopts",
-      "filename": "respackopts-4.14.0+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/respackopts-4.14.0%2B1.21.1.jar",
-      "hash": "8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e"
+        "name": "resourcefullib-fabric-1.21-3.0.12",
+        "filename": "resourcefullib-fabric-1.21-3.0.12.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/resourcefullib-fabric-1.21-3.0.12.jar",
+        "hash": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"
     },
     {
-      "name": "RoughlyEnoughItems",
-      "filename": "RoughlyEnoughItems-16.0.799-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/RoughlyEnoughItems-16.0.799-fabric.jar",
-      "hash": "098c840780940010f2ba48cb758b77c1b991e69ab3fbec8725af099351653c9d"
+        "name": "ResourcePackOverrides-v21.1.0-1.21.1-Fabric",
+        "filename": "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+        "hash": "5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59"
     },
     {
-      "name": "SafePastures",
-      "filename": "SafePastures-1.1.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/SafePastures-1.1.1%2B1.21.1.jar",
-      "hash": "41d1c286db3e02a3249346a5efda6f95799ab895aa40c03a87cdcd81a95e4b45"
+        "name": "respackopts-4.14.0+1.21.1",
+        "filename": "respackopts-4.14.0+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/respackopts-4.14.0%2B1.21.1.jar",
+        "hash": "8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e"
     },
     {
-      "name": "Searchables",
-      "filename": "Searchables-fabric-1.21.1-1.0.2.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Searchables-fabric-1.21.1-1.0.2.jar",
-      "hash": "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"
+        "name": "RoughlyEnoughItems-16.0.799-fabric",
+        "filename": "RoughlyEnoughItems-16.0.799-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/RoughlyEnoughItems-16.0.799-fabric.jar",
+        "hash": "098c840780940010f2ba48cb758b77c1b991e69ab3fbec8725af099351653c9d"
     },
     {
-      "name": "sodium",
-      "filename": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
-      "hash": "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d"
+        "name": "SafePastures-1.1.1+1.21.1",
+        "filename": "SafePastures-1.1.1+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/SafePastures-1.1.1%2B1.21.1.jar",
+        "hash": "41d1c286db3e02a3249346a5efda6f95799ab895aa40c03a87cdcd81a95e4b45"
     },
     {
-      "name": "sodium",
-      "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
-      "hash": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
+        "name": "Searchables-fabric-1.21.1-1.0.2",
+        "filename": "Searchables-fabric-1.21.1-1.0.2.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Searchables-fabric-1.21.1-1.0.2.jar",
+        "hash": "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"
     },
     {
-      "name": "sodiumoptionsapi",
-      "filename": "sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
-      "hash": "59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29"
+        "name": "sodium-extra-fabric-0.6.0+mc1.21.1",
+        "filename": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
+        "hash": "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d"
     },
     {
-      "name": "sophisticatedbackpacks",
-      "filename": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
-      "hash": "2c099bfd5dc02ace6e73ffd9259940b0597cd4da7216a53a2c60c6732900d6aa"
+        "name": "sodium-fabric-0.6.13+mc1.21.1",
+        "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+        "hash": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
     },
     {
-      "name": "sophisticatedcore",
-      "filename": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
-      "hash": "3c71a04d5b03cdf9d9fe50e71849fdf11291dd1fab149621e35688ef6e516054"
+        "name": "sodiumoptionsapi-fabric-1.0.10-1.21.1",
+        "filename": "sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+        "hash": "59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29"
     },
     {
-      "name": "sophisticatedstorage",
-      "filename": "sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
-      "hash": "0dbaf1ff069c33a8c4738518d983d1cab0cdca6871a6c7b7dc5727c531eca215"
+        "name": "sophisticatedbackpacks-1.21.1-3.23.4.3.106",
+        "filename": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+        "hash": "2c099bfd5dc02ace6e73ffd9259940b0597cd4da7216a53a2c60c6732900d6aa"
     },
     {
-      "name": "sound",
-      "filename": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
-      "hash": "8884ded0f53f97a6cb2fca9ef035947af8c3376a406e0bdaa8309bfe87801799"
+        "name": "sophisticatedcore-1.21.1-1.2.9.21.168",
+        "filename": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+        "hash": "3c71a04d5b03cdf9d9fe50e71849fdf11291dd1fab149621e35688ef6e516054"
     },
     {
-      "name": "sounds",
-      "filename": "sounds-be-gone-1.3.5.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/sounds-be-gone-1.3.5.jar",
-      "hash": "073a5ceb36b7ef42527e17739c0229e9a94b3cffeca6a5415ddde46cf074419b"
+        "name": "sophisticatedstorage-1.21.1-1.3.7.9.139",
+        "filename": "sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+        "hash": "0dbaf1ff069c33a8c4738518d983d1cab0cdca6871a6c7b7dc5727c531eca215"
     },
     {
-      "name": "StackDeobfuscatorFabric",
-      "filename": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar",
-      "hash": "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
+        "name": "sound-physics-remastered-fabric-1.21.1-1.5.1",
+        "filename": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+        "hash": "8884ded0f53f97a6cb2fca9ef035947af8c3376a406e0bdaa8309bfe87801799"
     },
     {
-      "name": "timcore",
-      "filename": "timcore-fabric-1.7.1-1.27.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/timcore-fabric-1.7.1-1.27.0.jar",
-      "hash": "2513c891326e3464ab192fdc24b0a60e80e8212ced98053221fcd45b9fa55405"
+        "name": "sounds-be-gone-1.3.5",
+        "filename": "sounds-be-gone-1.3.5.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/sounds-be-gone-1.3.5.jar",
+        "hash": "073a5ceb36b7ef42527e17739c0229e9a94b3cffeca6a5415ddde46cf074419b"
     },
     {
-      "name": "tmcraft",
-      "filename": "tmcraft-1.4.18+1.7.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/tmcraft-1.4.18%2B1.7.1.jar",
-      "hash": "386b821ea3b7538b278c280f588751c7125929aff8eb5e94f916960838ea2c40"
+        "name": "StackDeobfuscatorFabric-1.4.3+08e71cc",
+        "filename": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar",
+        "hash": "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
     },
     {
-      "name": "tooltipfix",
-      "filename": "tooltipfix-1.1.1-1.20.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/tooltipfix-1.1.1-1.20.jar",
-      "hash": "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2"
+        "name": "timcore-fabric-1.7.1-1.27.0",
+        "filename": "timcore-fabric-1.7.1-1.27.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/timcore-fabric-1.7.1-1.27.0.jar",
+        "hash": "2513c891326e3464ab192fdc24b0a60e80e8212ced98053221fcd45b9fa55405"
     },
     {
-      "name": "trinkets",
-      "filename": "trinkets-3.10.0.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/trinkets-3.10.0.jar",
-      "hash": "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
+        "name": "tmcraft-1.4.18+1.7.1",
+        "filename": "tmcraft-1.4.18+1.7.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/tmcraft-1.4.18%2B1.7.1.jar",
+        "hash": "386b821ea3b7538b278c280f588751c7125929aff8eb5e94f916960838ea2c40"
     },
     {
-      "name": "villagerconfig",
-      "filename": "villagerconfig-fabric-4.5.2+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/villagerconfig-fabric-4.5.2%2B1.21.1.jar",
-      "hash": "9d0b2c07a123f4a7643c946a30ef4fb5a23fa762735376200c1b9e797652b895"
+        "name": "tooltipfix-1.1.1-1.20",
+        "filename": "tooltipfix-1.1.1-1.20.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/tooltipfix-1.1.1-1.20.jar",
+        "hash": "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2"
     },
     {
-      "name": "waystones",
-      "filename": "waystones-fabric-1.21.1-21.1.25.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/waystones-fabric-1.21.1-21.1.25.jar",
-      "hash": "1225853d2880616a7242cde7c6a1cc4bbea9cebbed4eecc64bf21c533c943cd9"
+        "name": "trinkets-3.10.0",
+        "filename": "trinkets-3.10.0.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/trinkets-3.10.0.jar",
+        "hash": "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
     },
     {
-      "name": "XaerosWorldMap_1.39.12_Fabric_1.21.jar",
-      "filename": "XaerosWorldMap_1.39.12_Fabric_1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
-      "hash": "91ee2741c352d137a535b5c33eeb19272ffdd44784a9c815243484d293eb9173"
+        "name": "villagerconfig-fabric-4.5.2+1.21.1",
+        "filename": "villagerconfig-fabric-4.5.2+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/villagerconfig-fabric-4.5.2%2B1.21.1.jar",
+        "hash": "9d0b2c07a123f4a7643c946a30ef4fb5a23fa762735376200c1b9e797652b895"
     },
     {
-      "name": "Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-      "filename": "Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-      "hash": "0a4352f406baa851b1c0e1ab85595449c3c277b5abb239e5bb054bacb0a7c525"
+        "name": "waystones-fabric-1.21.1-21.1.25",
+        "filename": "waystones-fabric-1.21.1-21.1.25.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/waystones-fabric-1.21.1-21.1.25.jar",
+        "hash": "1225853d2880616a7242cde7c6a1cc4bbea9cebbed4eecc64bf21c533c943cd9"
     },
     {
-      "name": "yet_another_config_lib_v3",
-      "filename": "yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar",
-      "hash": "413d7710f4f2b08fc188e205c3dfe542785da577d949cae28b5c0fc37ae75336"
+        "name": "XaerosWorldMap_1.39.12_Fabric_1.21",
+        "filename": "XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+        "hash": "91ee2741c352d137a535b5c33eeb19272ffdd44784a9c815243484d293eb9173"
     },
     {
-      "name": "Zoomify",
-      "filename": "Zoomify-2.14.6+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/main/mods/Zoomify-2.14.6%2B1.21.1.jar",
-      "hash": "72815bb68f38560de5f2904560c692421d2fa95e7d9cbd6e65d1c690eaf0c8b0"
+        "name": "Xaeros_Minimap_25.2.10_Fabric_1.21",
+        "filename": "Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+        "hash": "0a4352f406baa851b1c0e1ab85595449c3c277b5abb239e5bb054bacb0a7c525"
+    },
+    {
+        "name": "yet_another_config_lib_v3-3.8.1+1.21.1-fabric",
+        "filename": "yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar",
+        "hash": "413d7710f4f2b08fc188e205c3dfe542785da577d949cae28b5c0fc37ae75336"
+    },
+    {
+        "name": "Zoomify-2.14.6+1.21.1",
+        "filename": "Zoomify-2.14.6+1.21.1.jar",
+        "url": "https://raw.githubusercontent.com/Naokyoo/modlistcobblemonofthewild/master/github-mods/mods/Zoomify-2.14.6%2B1.21.1.jar",
+        "hash": "72815bb68f38560de5f2904560c692421d2fa95e7d9cbd6e65d1c690eaf0c8b0"
     }
-  ]
-}
+]
