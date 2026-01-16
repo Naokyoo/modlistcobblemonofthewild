@@ -26,7 +26,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     btnClearLogs: document.getElementById('btn-clear-logs'),
     versionInfo: document.querySelector('.version-info'),
     launcherLoader: document.getElementById('launcher-loader'),
-    mainContent: document.querySelector('.main-content')
+    mainContent: document.querySelector('.main-content'),
+    updateIndicator: document.getElementById('update-indicator'),
+    updateMsg: document.getElementById('update-msg')
   };
 
   let isDownloading = false;
@@ -58,6 +60,27 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Injecter le CSS dynamique si présent
     await injectDynamicCSS();
+
+    // Listener pour les mises à jour automatiques
+    if (window.launcher.onUpdateStatus) {
+      window.launcher.onUpdateStatus((data) => {
+        const { status, message } = data;
+        console.log('[UPDATE]', status, message);
+
+        if (status === 'checking' || status === 'available') {
+          elements.updateIndicator.classList.remove('hidden');
+          elements.updateIndicator.classList.remove('success');
+          elements.updateMsg.textContent = message;
+        } else if (status === 'up-to-date') {
+          // Masquer après 5 secondes si déjà à jour
+          elements.updateIndicator.classList.add('success');
+          elements.updateMsg.textContent = message;
+          setTimeout(() => {
+            elements.updateIndicator.classList.add('hidden');
+          }, 5000);
+        }
+      });
+    }
 
     // Masquer le loader une fois l'init terminée
     setTimeout(hideLoader, 500);

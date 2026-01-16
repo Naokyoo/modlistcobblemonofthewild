@@ -20,6 +20,11 @@ contextBridge.exposeInMainWorld('launcher', {
             callback(data);
         });
     },
+    onUpdateStatus: (callback) => {
+        ipcRenderer.on('update-status', (event, data) => {
+            callback(data);
+        });
+    },
     getLauncherDataPath: () => ipcRenderer.invoke('get-launcher-path'),
     readUIConfig: () => ipcRenderer.invoke('read-ui-config')
 });

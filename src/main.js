@@ -56,8 +56,19 @@ const CONFIG = {
 if (app.isPackaged) {
   const feedURL = `https://update.electronjs.org/Naokyoo/modlistcobblemonofthewild/${process.platform}-${process.arch}/${app.getVersion()}`;
 
-  // Alternative si tu n'utilises pas update.electronjs.org :
   // autoUpdater.setFeedURL({ url: 'TA_PROPRE_URL_DE_RELEASES' });
+
+  autoUpdater.on('checking-for-update', () => {
+    sendToRenderer('update-status', [{ status: 'checking', message: 'Recherche de mises à jour...' }]);
+  });
+
+  autoUpdater.on('update-available', () => {
+    sendToRenderer('update-status', [{ status: 'available', message: 'Téléchargement de la mise à jour...' }]);
+  });
+
+  autoUpdater.on('update-not-available', () => {
+    sendToRenderer('update-status', [{ status: 'up-to-date', message: 'Application à jour' }]);
+  });
 
   autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
     const dialogOpts = {
