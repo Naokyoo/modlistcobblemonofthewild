@@ -1,7 +1,7 @@
 {
   "name": "cobblemon-of-the-wild",
   "productName": "Cobblemon Of The Wild",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Launcher Cobblemon Of The Wild",
   "main": ".webpack/main",
   "private": true,

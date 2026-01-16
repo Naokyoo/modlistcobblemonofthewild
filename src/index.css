@@ -801,3 +801,69 @@ body {
 .update-indicator.success .update-spinner {
   display: none;
 }
+
+/* Update Banner UI */
+.update-banner {
+  position: absolute;
+  top: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background: rgba(15, 15, 15, 0.95);
+  border: 1px solid var(--primary);
+  border-radius: 12px;
+  padding: 15px 25px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 20px rgba(212, 175, 55, 0.2);
+  backdrop-filter: blur(10px);
+  animation: slideDownIn 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+  min-width: 400px;
+}
+
+@keyframes slideDownIn {
+  from { transform: translate(-50%, -100%); opacity: 0; }
+  to { transform: translate(-50%, 0); opacity: 1; }
+}
+
+.update-banner-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.update-banner-icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.update-banner-spinner {
+  width: 30px;
+  height: 30px;
+  border: 3px solid rgba(212, 175, 55, 0.1);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+.update-banner-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.update-banner-title {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.update-banner-subtitle {
+  font-size: 13px;
+  color: #cbd5e1;
+}

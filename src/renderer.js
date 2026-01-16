@@ -28,7 +28,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     launcherLoader: document.getElementById('launcher-loader'),
     mainContent: document.querySelector('.main-content'),
     updateIndicator: document.getElementById('update-indicator'),
-    updateMsg: document.getElementById('update-msg')
+    updateMsg: document.getElementById('update-msg'),
+    updateBanner: document.getElementById('update-banner'),
+    updateBannerMsg: document.getElementById('update-banner-msg')
   };
 
   let isDownloading = false;
@@ -68,16 +70,27 @@ document.addEventListener('DOMContentLoaded', async () => {
         console.log('[UPDATE]', status, message);
 
         if (status === 'checking' || status === 'available') {
+          // Footer indicator
           elements.updateIndicator.classList.remove('hidden');
           elements.updateIndicator.classList.remove('success');
           elements.updateMsg.textContent = message;
+
+          // Banner
+          elements.updateBanner.classList.remove('hidden');
+          elements.updateBannerMsg.textContent = message;
         } else if (status === 'up-to-date') {
-          // Masquer après 5 secondes si déjà à jour
+          // Footer indicator
           elements.updateIndicator.classList.add('success');
           elements.updateMsg.textContent = message;
+
+          // Masquer tout après 5 secondes
           setTimeout(() => {
             elements.updateIndicator.classList.add('hidden');
+            elements.updateBanner.classList.add('hidden');
           }, 5000);
+        } else if (status === 'error') {
+          elements.updateBanner.classList.add('hidden');
+          elements.updateIndicator.classList.add('hidden');
         }
       });
     }
