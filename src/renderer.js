@@ -297,9 +297,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   function showError(message) {
     console.error('Erreur:', message);
+    elements.progressContainer.classList.remove('hidden');
     elements.progressText.textContent = `Erreur: ${message}`;
     elements.progressText.style.color = '#ef4444';
-    setTimeout(() => { elements.progressText.style.color = ''; }, 3000);
+    setTimeout(() => {
+      elements.progressText.style.color = '';
+      elements.progressContainer.classList.add('hidden');
+    }, 5000);
   }
 
   init();
