@@ -13,7 +13,6 @@ module.exports = {
         name: 'cobblemon_of_the_wild',
         authors: 'Naokyoo',
         description: 'Launcher Cobblemon Of The Wild',
-        setupExe: 'Cobblemon Of The Wild-1.0.0 Setup.exe'
       },
     },
     {
