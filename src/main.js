@@ -92,6 +92,12 @@ if (app.isPackaged) {
   setInterval(() => {
     autoUpdater.checkForUpdates();
   }, 600000);
+
+  // Vérification immédiate au démarrage
+  setTimeout(() => {
+    console.log('[UPDATE] Vérification initiale des mises à jour...');
+    autoUpdater.checkForUpdates();
+  }, 5000);
 }
 
 let mainWindow;
