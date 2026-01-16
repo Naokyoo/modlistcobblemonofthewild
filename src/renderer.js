@@ -187,6 +187,15 @@ document.addEventListener('DOMContentLoaded', async () => {
       elements.btnLoginMs.classList.remove('hidden');
       elements.btnLogout.classList.add('hidden');
     }
+
+    // Gestion de l'état du bouton JOUER
+    if (session) {
+      elements.btnPlay.classList.remove('not-logged-in');
+      elements.btnPlay.title = 'Lancer le jeu';
+    } else {
+      elements.btnPlay.classList.add('not-logged-in');
+      elements.btnPlay.title = 'Veuillez vous connecter pour jouer';
+    }
   }
 
   // Window controls
@@ -215,6 +224,10 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Play button
   elements.btnPlay.addEventListener('click', async () => {
     if (isDownloading) return;
+    if (!session) {
+      showError('Vous devez être connecté pour jouer !');
+      return;
+    }
 
     isDownloading = true;
     elements.btnPlay.classList.add('downloading');
