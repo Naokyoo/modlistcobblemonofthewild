@@ -57,18 +57,28 @@ if (app.isPackaged) {
   autoUpdater.setFeedURL({ url: feedURL });
 
   autoUpdater.on('checking-for-update', () => {
-    sendToRenderer('update-status', [{ status: 'checking', message: 'Recherche de mises à jour...' }]);
+    console.log('[UPDATE] Vérification des mises à jour en cours...');
+    sendToRenderer('update-status', [{ status: 'checking', message: 'Recherche de mise à jour...' }]);
   });
 
-  autoUpdater.on('update-available', () => {
+  autoUpdater.on('update-available', (info) => {
+    console.log('[UPDATE] Mise à jour trouvée !', info);
     sendToRenderer('update-status', [{ status: 'available', message: 'Téléchargement de la mise à jour...' }]);
   });
 
-  autoUpdater.on('update-not-available', () => {
+  autoUpdater.on('update-not-available', (info) => {
+    console.log('[UPDATE] Aucune mise à jour disponible (déjà à jour).', info);
     sendToRenderer('update-status', [{ status: 'up-to-date', message: 'Application à jour' }]);
   });
 
+  autoUpdater.on('error', (err) => {
+    console.error('[UPDATE] ERREUR AUTO-UPDATER :', err.message);
+    console.error('[UPDATE] Détails:', err);
+    sendToRenderer('update-status', [{ status: 'error', message: 'Erreur de mise à jour' }]);
+  });
+
   autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
+    console.log('[UPDATE] Mise à jour téléchargée avec succès !');
     const dialogOpts = {
       type: 'info',
       buttons: ['Redémarrer', 'Plus tard'],
@@ -78,12 +88,11 @@ if (app.isPackaged) {
     };
 
     dialog.showMessageBox(dialogOpts).then((returnValue) => {
-      if (returnValue.response === 0) autoUpdater.quitAndInstall();
+      if (returnValue.response === 0) {
+        console.log('[UPDATE] Redémarrage pour installation...');
+        autoUpdater.quitAndInstall();
+      }
     });
-  });
-
-  autoUpdater.on('error', (message) => {
-    console.error('Erreur lors de la mise à jour :', message);
   });
 
   // Vérifier toutes les 10 minutes
@@ -93,9 +102,13 @@ if (app.isPackaged) {
 
   // Vérification immédiate au démarrage
   setTimeout(() => {
-    console.log('[UPDATE] Vérification initiale des mises à jour...');
-    autoUpdater.checkForUpdates();
-  }, 1000);
+    console.log('[UPDATE] Lancement de la vérification initiale (Feed URL: ' + feedURL + ')');
+    try {
+      autoUpdater.checkForUpdates();
+    } catch (e) {
+      console.error('[UPDATE] Échec critique du checkForUpdates:', e);
+    }
+  }, 2000);
 }
 
 let mainWindow;
