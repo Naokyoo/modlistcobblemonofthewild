@@ -1,26 +1,24 @@
 const fs = require('fs');
+const path = require('path');
 
-// Lire le fichier complet
-const data = JSON.parse(fs.readFileSync('resources-full.json', 'utf8'));
+const filesToFilter = ['resources.json', 'resources-light.json'];
+const allowedPrefixes = ['launcher/', 'resourcepacks/', 'shaderpacks/', 'emotes/'];
 
-// Ne garder que les fichiers du dossier launcher (pour le design dynamique)
-// Exclure: config, datapacks, resourcepacks, shaderpacks, journeymap
-const excluded = ['config/', 'datapacks/', 'resourcepacks/', 'shaderpacks/', 'journeymap/'];
-const filtered = data.filter(r => !excluded.some(ex => r.path.startsWith(ex)));
+filesToFilter.forEach(filename => {
+    const filePath = path.join(__dirname, filename);
+    if (!fs.existsSync(filePath)) {
+        console.log(`Fichier non trouvé: ${filename}`);
+        return;
+    }
 
-console.log('Original:', data.length, 'items');
-console.log('Filtered:', filtered.length, 'items (lightweight version)');
-console.log('Removed:', (data.length - filtered.length), 'files');
+    console.log(`Filtrage de ${filename}...`);
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
-// Afficher ce qui reste
-const paths = filtered.map(r => r.path);
-const folders = [...new Set(paths.map(p => p.split('/')[0]))];
-console.log('\nDossiers conservés:');
-folders.forEach(f => {
-    const count = paths.filter(p => p.startsWith(f + '/')).length;
-    console.log('  ' + f + ': ' + count + ' fichiers');
+    const originalCount = data.length;
+    const filteredData = data.filter(entry => {
+        return allowedPrefixes.some(prefix => entry.path.startsWith(prefix));
+    });
+
+    fs.writeFileSync(filePath, JSON.stringify(filteredData, null, 4));
+    console.log(`${filename}: ${originalCount} -> ${filteredData.length} entrées.`);
 });
-
-// Sauvegarder le fichier ultra-léger
-fs.writeFileSync('resources-light.json', JSON.stringify(filtered, null, 2));
-console.log('\nFichier créé: resources-light.json');

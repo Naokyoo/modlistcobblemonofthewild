@@ -7,5 +7,7 @@
 			"path": "../../../AppData/Roaming/CobblemonOfTheWild"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }

@@ -1,1 +1,0 @@
-All credit to the respective modmakers for their original lang/json files :)
