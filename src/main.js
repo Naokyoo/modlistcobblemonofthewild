@@ -54,6 +54,7 @@ const CONFIG = {
 
 // Configuration de l'auto-updater (uniquement en prod)
 if (app.isPackaged) {
+  const feedURL = `https://update.electronjs.org/Naokyoo/modlistcobblemonofthewild/${process.platform}-${process.arch}/${app.getVersion()}`;
   autoUpdater.setFeedURL({ url: feedURL });
 
   autoUpdater.on('checking-for-update', () => {
