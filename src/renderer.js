@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     btnLogout: document.getElementById('btn-logout'),
     username: document.getElementById('username'),
     userAvatar: document.getElementById('user-avatar'),
-    btnOpenMods: document.getElementById('btn-open-mods'),
     logConsole: document.getElementById('log-console'),
     logContainer: document.getElementById('log-container'),
     btnClearLogs: document.getElementById('btn-clear-logs'),
@@ -121,13 +120,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
       }
 
-      if (uiConfig.features) {
-        if (uiConfig.features.showModsFolder === false) {
-          elements.btnOpenMods.classList.add('hidden');
-        } else {
-          elements.btnOpenMods.classList.remove('hidden');
-        }
-      }
 
       if (uiConfig.images && uiConfig.images.background) {
         const launcherPath = await window.launcher.getLauncherDataPath();
@@ -201,7 +193,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   elements.btnMinimize.addEventListener('click', () => window.launcher.minimize());
   elements.btnMaximize.addEventListener('click', () => window.launcher.maximize());
   elements.btnClose.addEventListener('click', () => window.launcher.close());
-  elements.btnOpenMods.addEventListener('click', () => window.launcher.openModsFolder());
 
   // Log handlers
   window.launcher.onLog((data) => {
